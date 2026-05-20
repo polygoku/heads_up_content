@@ -1,11 +1,11 @@
 {
   "pack_id": "gen_z_phrases_en",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "display_name": {
     "en": "Gen Z Phrases"
   },
   "description": {
-    "en": "Playful internet slang and modern phrases for English-speaking groups."
+    "en": "Family-safe modern internet slang and playful phrases."
   },
   "language": "en",
   "category_tags": [
@@ -30,16 +30,14 @@
       "answer": "no cap",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "cap",
-        "honestly",
         "no",
-        "no cap",
-        "truth"
+        "no cap"
       ]
     },
     {
@@ -47,13 +45,11 @@
       "answer": "slay",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "amazing",
-        "queen",
         "slay"
       ]
     },
@@ -62,13 +58,12 @@
       "answer": "vibe check",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "check",
-        "mood",
         "vibe",
         "vibe check"
       ]
@@ -78,9 +73,9 @@
       "answer": "main character energy",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "character",
@@ -94,9 +89,9 @@
       "answer": "it's giving",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "giving",
@@ -110,15 +105,14 @@
       "answer": "low key",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "key",
         "low",
-        "low key",
-        "lowkey"
+        "low key"
       ]
     },
     {
@@ -126,14 +120,13 @@
       "answer": "high key",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "high",
         "high key",
-        "highkey",
         "key"
       ]
     },
@@ -142,9 +135,9 @@
       "answer": "rent free",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "free",
@@ -157,9 +150,9 @@
       "answer": "understood the assignment",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "assignment",
@@ -173,9 +166,9 @@
       "answer": "say less",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "less",
@@ -188,9 +181,9 @@
       "answer": "ate and left no crumbs",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "and",
@@ -198,7 +191,6 @@
         "ate and left no crumbs",
         "crumbs",
         "left",
-        "left no crumbs",
         "no"
       ]
     },
@@ -207,9 +199,9 @@
       "answer": "big yikes",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "big",
@@ -222,14 +214,12 @@
       "answer": "bestie",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "best friend",
-        "bestie",
-        "friend"
+        "bestie"
       ]
     },
     {
@@ -237,13 +227,12 @@
       "answer": "period",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "period",
-        "periodt"
+        "period"
       ]
     },
     {
@@ -251,9 +240,9 @@
       "answer": "caught in 4K",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "4k",
@@ -268,9 +257,9 @@
       "answer": "living my best life",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "best",
@@ -285,9 +274,9 @@
       "answer": "soft launch",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "launch",
@@ -300,9 +289,9 @@
       "answer": "hard launch",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "hard",
@@ -315,9 +304,9 @@
       "answer": "touch grass",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "grass",
@@ -330,9 +319,9 @@
       "answer": "core memory",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "core",
@@ -345,9 +334,9 @@
       "answer": "the math is not mathing",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "is",
@@ -363,16 +352,14 @@
       "answer": "be so for real",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "be",
         "be so for real",
-        "bsffr",
         "for",
-        "for real",
         "real",
         "so"
       ]
@@ -382,12 +369,11 @@
       "answer": "rizz",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "charm",
         "rizz"
       ]
     },
@@ -396,13 +382,12 @@
       "answer": "delulu",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "delulu",
-        "delusional"
+        "delulu"
       ]
     },
     {
@@ -410,9 +395,9 @@
       "answer": "girl dinner",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "dinner",
@@ -425,9 +410,9 @@
       "answer": "quiet luxury",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "luxury",
@@ -440,13 +425,12 @@
       "answer": "era",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "era",
-        "phase"
+        "era"
       ]
     },
     {
@@ -454,9 +438,9 @@
       "answer": "canon event",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "canon",
@@ -469,9 +453,9 @@
       "answer": "plot twist",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "plot",
@@ -484,9 +468,9 @@
       "answer": "side quest",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "quest",
@@ -499,9 +483,9 @@
       "answer": "npc energy",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "energy",
@@ -514,9 +498,9 @@
       "answer": "red flag",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "flag",
@@ -529,9 +513,9 @@
       "answer": "green flag",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "flag",
@@ -544,14 +528,12 @@
       "answer": "ick",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "gross",
-        "ick",
-        "turnoff"
+        "ick"
       ]
     },
     {
@@ -559,12 +541,11 @@
       "answer": "situationship",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "relationship",
         "situationship"
       ]
     },
@@ -573,14 +554,12 @@
       "answer": "ghosted",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "ghost",
-        "ghosted",
-        "ignored"
+        "ghosted"
       ]
     },
     {
@@ -588,12 +567,11 @@
       "answer": "simp",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "crush",
         "simp"
       ]
     },
@@ -602,12 +580,11 @@
       "answer": "mid",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "average",
         "mid"
       ]
     },
@@ -616,13 +593,12 @@
       "answer": "fire",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "fire",
-        "lit"
+        "fire"
       ]
     },
     {
@@ -630,12 +606,11 @@
       "answer": "lit",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "fire",
         "lit"
       ]
     },
@@ -644,9 +619,9 @@
       "answer": "hits different",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "different",
@@ -659,9 +634,9 @@
       "answer": "go off",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "go",
@@ -674,9 +649,9 @@
       "answer": "respectfully",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "respectfully"
@@ -687,13 +662,12 @@
       "answer": "iconic",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "iconic",
-        "legendary"
+        "iconic"
       ]
     },
     {
@@ -701,9 +675,9 @@
       "answer": "valid",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "valid"
@@ -714,9 +688,9 @@
       "answer": "based",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "based"
@@ -727,9 +701,9 @@
       "answer": "glow up",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "glow",
@@ -742,9 +716,9 @@
       "answer": "fan behavior",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
         "behavior",
@@ -757,12 +731,11 @@
       "answer": "vibing",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "vibe",
         "vibing"
       ]
     },
@@ -771,13 +744,3137 @@
       "answer": "snack",
       "difficulty": "medium",
       "tags": [
-        "phrase",
-        "slang",
-        "internet"
+        "family-safe",
+        "english",
+        "gen-z"
       ],
       "banned_tokens": [
-        "attractive",
         "snack"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0051",
+      "answer": "fit check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "check",
+        "fit",
+        "fit check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0052",
+      "answer": "drip",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "drip"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0053",
+      "answer": "serve",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "serve"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0054",
+      "answer": "serving looks",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "looks",
+        "serving",
+        "serving looks"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0055",
+      "answer": "bussin",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bussin"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0056",
+      "answer": "sus",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "sus"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0057",
+      "answer": "bet",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bet"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0058",
+      "answer": "real one",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "one",
+        "real",
+        "real one"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0059",
+      "answer": "vibe",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "vibe"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0060",
+      "answer": "mood",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mood"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0061",
+      "answer": "big mood",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "big",
+        "big mood",
+        "mood"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0062",
+      "answer": "same energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "energy",
+        "same",
+        "same energy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0063",
+      "answer": "that part",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "part",
+        "that",
+        "that part"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0064",
+      "answer": "periodt",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "periodt"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0065",
+      "answer": "slaps",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "slaps"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0066",
+      "answer": "bop",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bop"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0067",
+      "answer": "lowkey iconic",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "iconic",
+        "lowkey",
+        "lowkey iconic"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0068",
+      "answer": "highkey obsessed",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "highkey",
+        "highkey obsessed",
+        "obsessed"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0069",
+      "answer": "no notes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "no",
+        "no notes",
+        "notes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0070",
+      "answer": "chef's kiss",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chef's kiss",
+        "chefs",
+        "chefs kiss",
+        "kiss"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0071",
+      "answer": "rent-free in my head",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "free",
+        "head",
+        "in",
+        "my",
+        "rent",
+        "rent-free in my head"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0072",
+      "answer": "major win",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "major",
+        "major win",
+        "win"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0073",
+      "answer": "main quest",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "main",
+        "main quest",
+        "quest"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0074",
+      "answer": "side character",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "character",
+        "side",
+        "side character"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0075",
+      "answer": "golden retriever energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "energy",
+        "golden",
+        "golden retriever energy",
+        "retriever"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0076",
+      "answer": "black cat energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "black",
+        "black cat energy",
+        "cat",
+        "energy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0077",
+      "answer": "green screen energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "energy",
+        "green",
+        "green screen energy",
+        "screen"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0078",
+      "answer": "soft life",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "life",
+        "soft",
+        "soft life"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0079",
+      "answer": "cozy vibes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "cozy",
+        "cozy vibes",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0080",
+      "answer": "social battery",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "battery",
+        "social",
+        "social battery"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0081",
+      "answer": "brain rot",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "brain",
+        "brain rot",
+        "rot"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0082",
+      "answer": "touch some grass",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "grass",
+        "some",
+        "touch",
+        "touch some grass"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0083",
+      "answer": "terminally online",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "online",
+        "terminally",
+        "terminally online"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0084",
+      "answer": "chronically online",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chronically",
+        "chronically online",
+        "online"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0085",
+      "answer": "irl",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "irl"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0086",
+      "answer": "online bestie",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bestie",
+        "online",
+        "online bestie"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0087",
+      "answer": "group chat",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chat",
+        "group",
+        "group chat"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0088",
+      "answer": "for the plot",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "for",
+        "for the plot",
+        "plot",
+        "the"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0089",
+      "answer": "plot armor",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "armor",
+        "plot",
+        "plot armor"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0090",
+      "answer": "plot hole",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "hole",
+        "plot",
+        "plot hole"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0091",
+      "answer": "plot twist energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "energy",
+        "plot",
+        "plot twist energy",
+        "twist"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0092",
+      "answer": "villain era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "villain",
+        "villain era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0093",
+      "answer": "healing era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "healing",
+        "healing era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0094",
+      "answer": "study era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "study",
+        "study era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0095",
+      "answer": "gym era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "gym",
+        "gym era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0096",
+      "answer": "snack era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "snack",
+        "snack era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0097",
+      "answer": "cozy era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "cozy",
+        "cozy era",
+        "era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0098",
+      "answer": "boss era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "boss",
+        "boss era",
+        "era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0099",
+      "answer": "bestie vibes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bestie",
+        "bestie vibes",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0100",
+      "answer": "squad goals",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "goals",
+        "squad",
+        "squad goals"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0101",
+      "answer": "friendship goals",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "friendship",
+        "friendship goals",
+        "goals"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0102",
+      "answer": "couple goals",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "couple",
+        "couple goals",
+        "goals"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0103",
+      "answer": "life hack",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "hack",
+        "life",
+        "life hack"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0104",
+      "answer": "adulting",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "adulting"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0105",
+      "answer": "manifesting",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "manifesting"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0106",
+      "answer": "manifest it",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "it",
+        "manifest",
+        "manifest it"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0107",
+      "answer": "good soup",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "good",
+        "good soup",
+        "soup"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0108",
+      "answer": "tiny win",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "tiny",
+        "tiny win",
+        "win"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0109",
+      "answer": "big win",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "big",
+        "big win",
+        "win"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0110",
+      "answer": "epic fail",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "epic",
+        "epic fail",
+        "fail"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0111",
+      "answer": "hard pass",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "hard",
+        "hard pass",
+        "pass"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0112",
+      "answer": "instant classic",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "classic",
+        "instant",
+        "instant classic"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0113",
+      "answer": "classic me",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "classic",
+        "classic me",
+        "me"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0114",
+      "answer": "me coded",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "coded",
+        "me",
+        "me coded"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0115",
+      "answer": "you coded",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "coded",
+        "you",
+        "you coded"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0116",
+      "answer": "so me",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "me",
+        "so",
+        "so me"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0117",
+      "answer": "so real",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "real",
+        "so",
+        "so real"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0118",
+      "answer": "real talk",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "real",
+        "real talk",
+        "talk"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0119",
+      "answer": "real",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "real"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0120",
+      "answer": "facts",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "facts"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0121",
+      "answer": "fax no printer",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "fax",
+        "fax no printer",
+        "no",
+        "printer"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0122",
+      "answer": "not gonna lie",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "gonna",
+        "lie",
+        "not",
+        "not gonna lie"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0123",
+      "answer": "ngl",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "ngl"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0124",
+      "answer": "to be honest",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "be",
+        "honest",
+        "to",
+        "to be honest"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0125",
+      "answer": "tbh",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "tbh"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0126",
+      "answer": "shook",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "shook"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0127",
+      "answer": "shooketh",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "shooketh"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0128",
+      "answer": "unbothered",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "unbothered"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0129",
+      "answer": "booked and busy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "and",
+        "booked",
+        "booked and busy",
+        "busy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0130",
+      "answer": "living rent free",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "free",
+        "living",
+        "living rent free",
+        "rent"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0131",
+      "answer": "out of pocket",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "of",
+        "out",
+        "out of pocket",
+        "pocket"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0132",
+      "answer": "wild",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "wild"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0133",
+      "answer": "chaotic good",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chaotic",
+        "chaotic good",
+        "good"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0134",
+      "answer": "chaotic energy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chaotic",
+        "chaotic energy",
+        "energy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0135",
+      "answer": "wholesome",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "wholesome"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0136",
+      "answer": "wholesome vibes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "vibes",
+        "wholesome",
+        "wholesome vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0137",
+      "answer": "soft launch era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "launch",
+        "soft",
+        "soft launch era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0138",
+      "answer": "hard launch era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "hard",
+        "hard launch era",
+        "launch"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0139",
+      "answer": "camera eats first",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "camera",
+        "camera eats first",
+        "eats",
+        "first"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0140",
+      "answer": "phone eats first",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "eats",
+        "first",
+        "phone",
+        "phone eats first"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0141",
+      "answer": "photo dump",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "dump",
+        "photo",
+        "photo dump"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0142",
+      "answer": "mini vlog",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mini",
+        "mini vlog",
+        "vlog"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0143",
+      "answer": "get ready with me",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "get",
+        "get ready with me",
+        "me",
+        "ready",
+        "with"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0144",
+      "answer": "grwm",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "grwm"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0145",
+      "answer": "day in my life",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "day",
+        "day in my life",
+        "in",
+        "life",
+        "my"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0146",
+      "answer": "clean girl",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "clean",
+        "clean girl",
+        "girl"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0147",
+      "answer": "clean aesthetic",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "aesthetic",
+        "clean",
+        "clean aesthetic"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0148",
+      "answer": "cottagecore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "cottagecore"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0149",
+      "answer": "goblincore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "goblincore"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0150",
+      "answer": "barbiecore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "barbiecore"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0151",
+      "answer": "dopamine dressing",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "dopamine",
+        "dopamine dressing",
+        "dressing"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0152",
+      "answer": "quiet quitting",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "quiet",
+        "quiet quitting",
+        "quitting"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0153",
+      "answer": "loud budgeting",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "budgeting",
+        "loud",
+        "loud budgeting"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0154",
+      "answer": "girl math",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "girl",
+        "girl math",
+        "math"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0155",
+      "answer": "boy math",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "boy",
+        "boy math",
+        "math"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0156",
+      "answer": "girl boss",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "boss",
+        "girl",
+        "girl boss"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0157",
+      "answer": "boss move",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "boss",
+        "boss move",
+        "move"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0158",
+      "answer": "understood no crumbs",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "crumbs",
+        "no",
+        "understood",
+        "understood no crumbs"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0159",
+      "answer": "ate that",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "ate",
+        "ate that",
+        "that"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0160",
+      "answer": "devoured",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "devoured"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0161",
+      "answer": "left no crumbs",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "crumbs",
+        "left",
+        "left no crumbs",
+        "no"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0162",
+      "answer": "mother",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mother"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0163",
+      "answer": "slay queen",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "queen",
+        "slay",
+        "slay queen"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0164",
+      "answer": "queen behavior",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "behavior",
+        "queen",
+        "queen behavior"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0165",
+      "answer": "king behavior",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "behavior",
+        "king",
+        "king behavior"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0166",
+      "answer": "legend behavior",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "behavior",
+        "legend",
+        "legend behavior"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0167",
+      "answer": "icon behavior",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "behavior",
+        "icon",
+        "icon behavior"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0168",
+      "answer": "main character moment",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "character",
+        "main",
+        "main character moment",
+        "moment"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0169",
+      "answer": "npc moment",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "moment",
+        "npc",
+        "npc moment"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0170",
+      "answer": "canon moment",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "canon",
+        "canon moment",
+        "moment"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0171",
+      "answer": "core memory unlocked",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "core",
+        "core memory unlocked",
+        "memory",
+        "unlocked"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0172",
+      "answer": "memory unlocked",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "memory",
+        "memory unlocked",
+        "unlocked"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0173",
+      "answer": "unlocking new lore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "lore",
+        "new",
+        "unlocking",
+        "unlocking new lore"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0174",
+      "answer": "lore drop",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "drop",
+        "lore",
+        "lore drop"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0175",
+      "answer": "deep lore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "deep",
+        "deep lore",
+        "lore"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0176",
+      "answer": "side quest unlocked",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "quest",
+        "side",
+        "side quest unlocked",
+        "unlocked"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0177",
+      "answer": "new era unlocked",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "new",
+        "new era unlocked",
+        "unlocked"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0178",
+      "answer": "energy check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "check",
+        "energy",
+        "energy check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0179",
+      "answer": "vibe shift",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "shift",
+        "vibe",
+        "vibe shift"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0180",
+      "answer": "vibe reset",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "reset",
+        "vibe",
+        "vibe reset"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0181",
+      "answer": "vibe unlocked",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "unlocked",
+        "vibe",
+        "vibe unlocked"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0182",
+      "answer": "vibe curator",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "curator",
+        "vibe",
+        "vibe curator"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0183",
+      "answer": "the vibes are immaculate",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "are",
+        "immaculate",
+        "the",
+        "the vibes are immaculate",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0184",
+      "answer": "immaculate vibes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "immaculate",
+        "immaculate vibes",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0185",
+      "answer": "good vibes only",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "good",
+        "good vibes only",
+        "only",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0186",
+      "answer": "bad vibes",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bad",
+        "bad vibes",
+        "vibes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0187",
+      "answer": "chaos mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chaos",
+        "chaos mode",
+        "mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0188",
+      "answer": "goblin mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "goblin",
+        "goblin mode",
+        "mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0189",
+      "answer": "cozy mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "cozy",
+        "cozy mode",
+        "mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0190",
+      "answer": "focus mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "focus",
+        "focus mode",
+        "mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0191",
+      "answer": "study mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mode",
+        "study",
+        "study mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0192",
+      "answer": "sleep mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mode",
+        "sleep",
+        "sleep mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0193",
+      "answer": "party mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "mode",
+        "party",
+        "party mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0194",
+      "answer": "bestie mode",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bestie",
+        "bestie mode",
+        "mode"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0195",
+      "answer": "camera ready",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "camera",
+        "camera ready",
+        "ready"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0196",
+      "answer": "mic drop",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "drop",
+        "mic",
+        "mic drop"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0197",
+      "answer": "drop the lore",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "drop",
+        "drop the lore",
+        "lore",
+        "the"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0198",
+      "answer": "spill the tea",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "spill",
+        "spill the tea",
+        "tea",
+        "the"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0199",
+      "answer": "tea",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "tea"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0200",
+      "answer": "tea time",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "tea",
+        "tea time",
+        "time"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0201",
+      "answer": "that's the tea",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "tea",
+        "that's the tea",
+        "thats",
+        "thats the tea",
+        "the"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0202",
+      "answer": "no tea no shade",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "no",
+        "no tea no shade",
+        "shade",
+        "tea"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0203",
+      "answer": "shade",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "shade"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0204",
+      "answer": "lowkey slay",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "lowkey",
+        "lowkey slay",
+        "slay"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0205",
+      "answer": "highkey slay",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "highkey",
+        "highkey slay",
+        "slay"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0206",
+      "answer": "slay all day",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "all",
+        "day",
+        "slay",
+        "slay all day"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0207",
+      "answer": "slay the day",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "day",
+        "slay",
+        "slay the day",
+        "the"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0208",
+      "answer": "rizz check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "check",
+        "rizz",
+        "rizz check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0209",
+      "answer": "rizz king",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "king",
+        "rizz",
+        "rizz king"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0210",
+      "answer": "rizz queen",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "queen",
+        "rizz",
+        "rizz queen"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0211",
+      "answer": "zero rizz",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "rizz",
+        "zero",
+        "zero rizz"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0212",
+      "answer": "unspoken rizz",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "rizz",
+        "unspoken",
+        "unspoken rizz"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0213",
+      "answer": "accidental rizz",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "accidental",
+        "accidental rizz",
+        "rizz"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0214",
+      "answer": "anti-rizz",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "anti",
+        "anti-rizz",
+        "rizz"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0215",
+      "answer": "vibe dealer",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "dealer",
+        "vibe",
+        "vibe dealer"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0216",
+      "answer": "mood board",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "board",
+        "mood",
+        "mood board"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0217",
+      "answer": "aesthetic",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "aesthetic"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0218",
+      "answer": "aesthetic check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "aesthetic",
+        "aesthetic check",
+        "check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0219",
+      "answer": "fit ate",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "ate",
+        "fit",
+        "fit ate"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0220",
+      "answer": "fit slays",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "fit",
+        "fit slays",
+        "slays"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0221",
+      "answer": "outfit check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "check",
+        "outfit",
+        "outfit check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0222",
+      "answer": "fresh fit",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "fit",
+        "fresh",
+        "fresh fit"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0223",
+      "answer": "clean fit",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "clean",
+        "clean fit",
+        "fit"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0224",
+      "answer": "drip check",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "check",
+        "drip",
+        "drip check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0225",
+      "answer": "dripped out",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "dripped",
+        "dripped out",
+        "out"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0226",
+      "answer": "style era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "style",
+        "style era"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0227",
+      "answer": "glow up era",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "era",
+        "glow",
+        "glow up era",
+        "up"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0228",
+      "answer": "glow down",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "down",
+        "glow",
+        "glow down"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0229",
+      "answer": "level up",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "level",
+        "level up",
+        "up"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0230",
+      "answer": "leveling up",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "leveling",
+        "leveling up",
+        "up"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0231",
+      "answer": "skill issue",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "issue",
+        "skill",
+        "skill issue"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0232",
+      "answer": "side eye",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "eye",
+        "side",
+        "side eye"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0233",
+      "answer": "bombastic side eye",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bombastic",
+        "bombastic side eye",
+        "eye",
+        "side"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0234",
+      "answer": "look at you",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "at",
+        "look",
+        "look at you",
+        "you"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0235",
+      "answer": "go bestie",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "bestie",
+        "go",
+        "go bestie"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0236",
+      "answer": "we move",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "move",
+        "we",
+        "we move"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0237",
+      "answer": "moving different",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "different",
+        "moving",
+        "moving different"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0238",
+      "answer": "built different",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "built",
+        "built different",
+        "different"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0239",
+      "answer": "built like that",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "built",
+        "built like that",
+        "like",
+        "that"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0240",
+      "answer": "not built for this",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "built",
+        "for",
+        "not",
+        "not built for this",
+        "this"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0241",
+      "answer": "send help",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "help",
+        "send",
+        "send help"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0242",
+      "answer": "help",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "help"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0243",
+      "answer": "I'm done",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "I'm done",
+        "done",
+        "i'm done",
+        "im",
+        "im done"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0244",
+      "answer": "it's over",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "it's over",
+        "its",
+        "its over",
+        "over"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0245",
+      "answer": "over it",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "it",
+        "over",
+        "over it"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0246",
+      "answer": "we're so back",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "back",
+        "so",
+        "we're so back",
+        "were",
+        "were so back"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0247",
+      "answer": "it's giving chaos",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "chaos",
+        "giving",
+        "it's giving chaos",
+        "its",
+        "its giving chaos"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0248",
+      "answer": "it's giving cozy",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "cozy",
+        "giving",
+        "it's giving cozy",
+        "its",
+        "its giving cozy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0249",
+      "answer": "it's giving main character",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "character",
+        "giving",
+        "it's giving main character",
+        "its",
+        "its giving main character",
+        "main"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0250",
+      "answer": "it's giving weekend",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "giving",
+        "it's giving weekend",
+        "its",
+        "its giving weekend",
+        "weekend"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0251",
+      "answer": "it's giving homework",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "giving",
+        "homework",
+        "it's giving homework",
+        "its",
+        "its giving homework"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0252",
+      "answer": "it's giving snack",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "giving",
+        "it's giving snack",
+        "its",
+        "its giving snack",
+        "snack"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0253",
+      "answer": "it's a vibe",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "a",
+        "it's a vibe",
+        "its",
+        "its a vibe",
+        "vibe"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0254",
+      "answer": "no thoughts head empty",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "empty",
+        "head",
+        "no",
+        "no thoughts head empty",
+        "thoughts"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0255",
+      "answer": "brain empty",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "brain",
+        "brain empty",
+        "empty"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0256",
+      "answer": "big brain",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "big",
+        "big brain",
+        "brain"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0257",
+      "answer": "small win",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "small",
+        "small win",
+        "win"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0258",
+      "answer": "daily slay",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "english",
+        "gen-z"
+      ],
+      "banned_tokens": [
+        "daily",
+        "daily slay",
+        "slay"
       ]
     }
   ]

@@ -1,0 +1,1508 @@
+pack_id,card_id,answer,difficulty,tags,banned_tokens
+daily_life_cn,daily_life_0001,牙刷,easy,family-safe|starter|daily-life,刷|牙|牙刷
+daily_life_cn,daily_life_0002,牙膏,easy,family-safe|starter|daily-life,牙|牙膏|膏
+daily_life_cn,daily_life_0003,毛巾,easy,family-safe|starter|daily-life,巾|毛|毛巾
+daily_life_cn,daily_life_0004,水杯,easy,family-safe|starter|daily-life,杯|水|水杯
+daily_life_cn,daily_life_0005,饭碗,easy,family-safe|starter|daily-life,碗|饭|饭碗
+daily_life_cn,daily_life_0006,筷子,easy,family-safe|starter|daily-life,子|筷|筷子
+daily_life_cn,daily_life_0007,勺子,easy,family-safe|starter|daily-life,勺|勺子|子
+daily_life_cn,daily_life_0008,盘子,easy,family-safe|starter|daily-life,子|盘|盘子
+daily_life_cn,daily_life_0009,杯垫,easy,family-safe|starter|daily-life,垫|杯|杯垫
+daily_life_cn,daily_life_0010,餐巾纸,easy,family-safe|starter|daily-life,巾|纸|餐|餐巾纸
+daily_life_cn,daily_life_0011,纸巾,easy,family-safe|starter|daily-life,巾|纸|纸巾
+daily_life_cn,daily_life_0012,卷纸,easy,family-safe|starter|daily-life,卷|卷纸|纸
+daily_life_cn,daily_life_0013,洗手液,easy,family-safe|starter|daily-life,手|洗|洗手液|液
+daily_life_cn,daily_life_0014,香皂,easy,family-safe|starter|daily-life,皂|香|香皂
+daily_life_cn,daily_life_0015,沐浴露,easy,family-safe|starter|daily-life,沐|沐浴露|浴|露
+daily_life_cn,daily_life_0016,洗发水,easy,family-safe|starter|daily-life,发|水|洗|洗发水
+daily_life_cn,daily_life_0017,护发素,easy,family-safe|starter|daily-life,发|护|护发素|素
+daily_life_cn,daily_life_0018,梳子,easy,family-safe|starter|daily-life,子|梳|梳子
+daily_life_cn,daily_life_0019,镜子,easy,family-safe|starter|daily-life,子|镜|镜子
+daily_life_cn,daily_life_0020,吹风机,easy,family-safe|starter|daily-life,吹|吹风机|机|风
+daily_life_cn,daily_life_0021,剃须刀,easy,family-safe|starter|daily-life,刀|剃|剃须刀|须
+daily_life_cn,daily_life_0022,指甲剪,easy,family-safe|starter|daily-life,剪|指|指甲剪|甲
+daily_life_cn,daily_life_0023,棉签,easy,family-safe|starter|daily-life,棉|棉签|签
+daily_life_cn,daily_life_0024,创可贴,easy,family-safe|starter|daily-life,创|创可贴|可|贴
+daily_life_cn,daily_life_0025,口罩,easy,family-safe|starter|daily-life,口|口罩|罩
+daily_life_cn,daily_life_0026,雨伞,easy,family-safe|starter|daily-life,伞|雨|雨伞
+daily_life_cn,daily_life_0027,雨衣,easy,family-safe|starter|daily-life,衣|雨|雨衣
+daily_life_cn,daily_life_0028,太阳帽,easy,family-safe|starter|daily-life,太|太阳帽|帽|阳
+daily_life_cn,daily_life_0029,帽子,easy,family-safe|starter|daily-life,子|帽|帽子
+daily_life_cn,daily_life_0030,围巾,easy,family-safe|starter|daily-life,围|围巾|巾
+daily_life_cn,daily_life_0031,手套,easy,family-safe|starter|daily-life,套|手|手套
+daily_life_cn,daily_life_0032,袜子,easy,family-safe|starter|daily-life,子|袜|袜子
+daily_life_cn,daily_life_0033,拖鞋,easy,family-safe|starter|daily-life,拖|拖鞋|鞋
+daily_life_cn,daily_life_0034,运动鞋,easy,family-safe|starter|daily-life,动|运|运动鞋|鞋
+daily_life_cn,daily_life_0035,皮鞋,easy,family-safe|starter|daily-life,皮|皮鞋|鞋
+daily_life_cn,daily_life_0036,外套,easy,family-safe|starter|daily-life,外|外套|套
+daily_life_cn,daily_life_0037,书包,easy,family-safe|starter|daily-life,书|书包|包
+daily_life_cn,daily_life_0038,背包,easy,family-safe|starter|daily-life,包|背|背包
+daily_life_cn,daily_life_0039,手提包,easy,family-safe|starter|daily-life,包|手|手提包|提
+daily_life_cn,daily_life_0040,钱包,easy,family-safe|starter|daily-life,包|钱|钱包
+daily_life_cn,daily_life_0041,钥匙,easy,family-safe|starter|daily-life,匙|钥|钥匙
+daily_life_cn,daily_life_0042,钥匙扣,easy,family-safe|starter|daily-life,匙|扣|钥|钥匙扣
+daily_life_cn,daily_life_0043,门铃,easy,family-safe|starter|daily-life,铃|门|门铃
+daily_life_cn,daily_life_0044,门锁,easy,family-safe|starter|daily-life,锁|门|门锁
+daily_life_cn,daily_life_0045,遥控器,easy,family-safe|starter|daily-life,器|控|遥|遥控器
+daily_life_cn,daily_life_0046,手机,easy,family-safe|starter|daily-life,手|手机|机
+daily_life_cn,daily_life_0047,充电器,easy,family-safe|starter|daily-life,充|充电器|器|电
+daily_life_cn,daily_life_0048,耳机,easy,family-safe|starter|daily-life,机|耳|耳机
+daily_life_cn,daily_life_0049,电脑,easy,family-safe|starter|daily-life,电|电脑|脑
+daily_life_cn,daily_life_0050,鼠标,easy,family-safe|starter|daily-life,标|鼠|鼠标
+daily_life_cn,daily_life_0051,键盘,easy,family-safe|starter|daily-life,盘|键|键盘
+daily_life_cn,daily_life_0052,显示器,easy,family-safe|starter|daily-life,器|显|显示器|示
+daily_life_cn,daily_life_0053,平板电脑,easy,family-safe|starter|daily-life,平|平板电脑|板|电|脑
+daily_life_cn,daily_life_0054,相机,easy,family-safe|starter|daily-life,机|相|相机
+daily_life_cn,daily_life_0055,打印机,easy,family-safe|starter|daily-life,印|打|打印机|机
+daily_life_cn,daily_life_0056,音响,easy,family-safe|starter|daily-life,响|音|音响
+daily_life_cn,daily_life_0057,台灯,easy,family-safe|starter|daily-life,台|台灯|灯
+daily_life_cn,daily_life_0058,落地灯,easy,family-safe|starter|daily-life,地|灯|落|落地灯
+daily_life_cn,daily_life_0059,日光灯,easy,family-safe|starter|daily-life,光|日|日光灯|灯
+daily_life_cn,daily_life_0060,电风扇,easy,family-safe|starter|daily-life,扇|电|电风扇|风
+daily_life_cn,daily_life_0061,空调,easy,family-safe|starter|daily-life,空|空调|调
+daily_life_cn,daily_life_0062,冰箱,easy,family-safe|starter|daily-life,冰|冰箱|箱
+daily_life_cn,daily_life_0063,洗衣机,easy,family-safe|starter|daily-life,机|洗|洗衣机|衣
+daily_life_cn,daily_life_0064,烘干机,easy,family-safe|starter|daily-life,干|机|烘|烘干机
+daily_life_cn,daily_life_0065,电饭煲,easy,family-safe|starter|daily-life,煲|电|电饭煲|饭
+daily_life_cn,daily_life_0066,微波炉,easy,family-safe|starter|daily-life,微|微波炉|波|炉
+daily_life_cn,daily_life_0067,烤箱,easy,family-safe|starter|daily-life,烤|烤箱|箱
+daily_life_cn,daily_life_0068,电水壶,easy,family-safe|starter|daily-life,壶|水|电|电水壶
+daily_life_cn,daily_life_0069,饮水机,easy,family-safe|starter|daily-life,机|水|饮|饮水机
+daily_life_cn,daily_life_0070,吸尘器,easy,family-safe|starter|daily-life,吸|吸尘器|器|尘
+daily_life_cn,daily_life_0071,扫地机器人,easy,family-safe|starter|daily-life,人|器|地|扫|扫地机器人|机
+daily_life_cn,daily_life_0072,插排,easy,family-safe|starter|daily-life,排|插|插排
+daily_life_cn,daily_life_0073,闹钟,easy,family-safe|starter|daily-life,钟|闹|闹钟
+daily_life_cn,daily_life_0074,挂钟,easy,family-safe|starter|daily-life,挂|挂钟|钟
+daily_life_cn,daily_life_0075,沙发,easy,family-safe|starter|daily-life,发|沙|沙发
+daily_life_cn,daily_life_0076,椅子,easy,family-safe|starter|daily-life,子|椅|椅子
+daily_life_cn,daily_life_0077,凳子,easy,family-safe|starter|daily-life,凳|凳子|子
+daily_life_cn,daily_life_0078,餐桌,easy,family-safe|starter|daily-life,桌|餐|餐桌
+daily_life_cn,daily_life_0079,书桌,easy,family-safe|starter|daily-life,书|书桌|桌
+daily_life_cn,daily_life_0080,床,easy,family-safe|starter|daily-life,床
+daily_life_cn,daily_life_0081,床垫,easy,family-safe|starter|daily-life,垫|床|床垫
+daily_life_cn,daily_life_0082,枕头,easy,family-safe|starter|daily-life,头|枕|枕头
+daily_life_cn,daily_life_0083,被子,easy,family-safe|starter|daily-life,子|被|被子
+daily_life_cn,daily_life_0084,毯子,easy,family-safe|starter|daily-life,子|毯|毯子
+daily_life_cn,daily_life_0085,衣架,easy,family-safe|starter|daily-life,架|衣|衣架
+daily_life_cn,daily_life_0086,衣柜,easy,family-safe|starter|daily-life,柜|衣|衣柜
+daily_life_cn,daily_life_0087,鞋柜,easy,family-safe|starter|daily-life,柜|鞋|鞋柜
+daily_life_cn,daily_life_0088,书架,easy,family-safe|starter|daily-life,书|书架|架
+daily_life_cn,daily_life_0089,抽屉,easy,family-safe|starter|daily-life,屉|抽|抽屉
+daily_life_cn,daily_life_0090,垃圾桶,easy,family-safe|starter|daily-life,圾|垃|垃圾桶|桶
+daily_life_cn,daily_life_0091,扫把,easy,family-safe|starter|daily-life,扫|扫把|把
+daily_life_cn,daily_life_0092,拖把,easy,family-safe|starter|daily-life,把|拖|拖把
+daily_life_cn,daily_life_0093,簸箕,easy,family-safe|starter|daily-life,箕|簸|簸箕
+daily_life_cn,daily_life_0094,抹布,easy,family-safe|starter|daily-life,布|抹|抹布
+daily_life_cn,daily_life_0095,清洁剂,easy,family-safe|starter|daily-life,剂|洁|清|清洁剂
+daily_life_cn,daily_life_0096,洗洁精,easy,family-safe|starter|daily-life,洁|洗|洗洁精|精
+daily_life_cn,daily_life_0097,洗衣液,easy,family-safe|starter|daily-life,洗|洗衣液|液|衣
+daily_life_cn,daily_life_0098,晾衣架,easy,family-safe|starter|daily-life,晾|晾衣架|架|衣
+daily_life_cn,daily_life_0099,盆栽,easy,family-safe|starter|daily-life,栽|盆|盆栽
+daily_life_cn,daily_life_0100,花瓶,easy,family-safe|starter|daily-life,瓶|花|花瓶
+daily_life_cn,daily_life_0101,相框,easy,family-safe|starter|daily-life,框|相|相框
+daily_life_cn,daily_life_0102,冰箱贴,easy,family-safe|starter|daily-life,冰|冰箱贴|箱|贴
+daily_life_cn,daily_life_0103,门垫,easy,family-safe|starter|daily-life,垫|门|门垫
+daily_life_cn,daily_life_0104,窗帘,easy,family-safe|starter|daily-life,帘|窗|窗帘
+daily_life_cn,daily_life_0105,地毯,easy,family-safe|starter|daily-life,地|地毯|毯
+daily_life_cn,daily_life_0106,电梯,easy,family-safe|starter|daily-life,梯|电|电梯
+daily_life_cn,daily_life_0107,楼梯,easy,family-safe|starter|daily-life,梯|楼|楼梯
+daily_life_cn,daily_life_0108,阳台,easy,family-safe|starter|daily-life,台|阳|阳台
+daily_life_cn,daily_life_0109,厨房,easy,family-safe|starter|daily-life,厨|厨房|房
+daily_life_cn,daily_life_0110,客厅,easy,family-safe|starter|daily-life,厅|客|客厅
+daily_life_cn,daily_life_0111,卧室,easy,family-safe|starter|daily-life,卧|卧室|室
+daily_life_cn,daily_life_0112,卫生间,easy,family-safe|starter|daily-life,卫|卫生间|生|间
+daily_life_cn,daily_life_0113,书房,easy,family-safe|starter|daily-life,书|书房|房
+daily_life_cn,daily_life_0114,超市,easy,family-safe|starter|daily-life,市|超|超市
+daily_life_cn,daily_life_0115,便利店,easy,family-safe|starter|daily-life,便|便利店|利|店
+daily_life_cn,daily_life_0116,书店,easy,family-safe|starter|daily-life,书|书店|店
+daily_life_cn,daily_life_0117,公园,easy,family-safe|starter|daily-life,公|公园|园
+daily_life_cn,daily_life_0118,地铁,easy,family-safe|starter|daily-life,地|地铁|铁
+daily_life_cn,daily_life_0119,公交车,easy,family-safe|starter|daily-life,交|公|公交车|车
+daily_life_cn,daily_life_0120,出租车,easy,family-safe|starter|daily-life,出|出租车|租|车
+daily_life_cn,daily_life_0121,自行车,easy,family-safe|starter|daily-life,自|自行车|行|车
+daily_life_cn,daily_life_0122,电动车,easy,family-safe|starter|daily-life,动|电|电动车|车
+daily_life_cn,daily_life_0123,火车,easy,family-safe|starter|daily-life,火|火车|车
+daily_life_cn,daily_life_0124,飞机,easy,family-safe|starter|daily-life,机|飞|飞机
+daily_life_cn,daily_life_0125,轮船,easy,family-safe|starter|daily-life,船|轮|轮船
+daily_life_cn,daily_life_0126,车票,easy,family-safe|starter|daily-life,票|车|车票
+daily_life_cn,daily_life_0127,地图,easy,family-safe|starter|daily-life,图|地|地图
+daily_life_cn,daily_life_0128,导航,easy,family-safe|starter|daily-life,导|导航|航
+daily_life_cn,daily_life_0129,红绿灯,easy,family-safe|starter|daily-life,灯|红|红绿灯|绿
+daily_life_cn,daily_life_0130,斑马线,easy,family-safe|starter|daily-life,斑|斑马线|线|马
+daily_life_cn,daily_life_0131,公交卡,easy,family-safe|starter|daily-life,交|公|公交卡|卡
+daily_life_cn,daily_life_0132,快递,easy,family-safe|starter|daily-life,快|快递|递
+daily_life_cn,daily_life_0133,外卖,easy,family-safe|starter|daily-life,卖|外|外卖
+daily_life_cn,daily_life_0134,购物袋,easy,family-safe|starter|daily-life,物|袋|购|购物袋
+daily_life_cn,daily_life_0135,收据,easy,family-safe|starter|daily-life,据|收|收据
+daily_life_cn,daily_life_0136,发票,easy,family-safe|starter|daily-life,发|发票|票
+daily_life_cn,daily_life_0137,零钱,easy,family-safe|starter|daily-life,钱|零|零钱
+daily_life_cn,daily_life_0138,人民币,easy,family-safe|starter|daily-life,人|人民币|币|民
+daily_life_cn,daily_life_0139,银行卡,easy,family-safe|starter|daily-life,卡|行|银|银行卡
+daily_life_cn,daily_life_0140,身份证,easy,family-safe|starter|daily-life,份|证|身|身份证
+daily_life_cn,daily_life_0141,日历,easy,family-safe|starter|daily-life,历|日|日历
+daily_life_cn,daily_life_0142,笔记本,easy,family-safe|starter|daily-life,本|笔|笔记本|记
+daily_life_cn,daily_life_0143,铅笔,easy,family-safe|starter|daily-life,笔|铅|铅笔
+daily_life_cn,daily_life_0144,橡皮,easy,family-safe|starter|daily-life,橡|橡皮|皮
+daily_life_cn,daily_life_0145,圆珠笔,easy,family-safe|starter|daily-life,圆|圆珠笔|珠|笔
+daily_life_cn,daily_life_0146,尺子,easy,family-safe|starter|daily-life,子|尺|尺子
+daily_life_cn,daily_life_0147,胶带,easy,family-safe|starter|daily-life,带|胶|胶带
+daily_life_cn,daily_life_0148,剪刀,easy,family-safe|starter|daily-life,刀|剪|剪刀
+daily_life_cn,daily_life_0149,订书机,easy,family-safe|starter|daily-life,书|机|订|订书机
+daily_life_cn,daily_life_0150,文件夹,easy,family-safe|starter|daily-life,件|夹|文|文件夹
+daily_life_cn,daily_life_0151,白板,easy,family-safe|starter|daily-life,板|白|白板
+daily_life_cn,daily_life_0152,黑板,easy,family-safe|starter|daily-life,板|黑|黑板
+daily_life_cn,daily_life_0153,粉笔,easy,family-safe|starter|daily-life,笔|粉|粉笔
+daily_life_cn,daily_life_0154,画笔,easy,family-safe|starter|daily-life,画|画笔|笔
+daily_life_cn,daily_life_0155,颜料,easy,family-safe|starter|daily-life,料|颜|颜料
+daily_life_cn,daily_life_0156,胶水,easy,family-safe|starter|daily-life,水|胶|胶水
+daily_life_cn,daily_life_0157,书签,easy,family-safe|starter|daily-life,书|书签|签
+daily_life_cn,daily_life_0158,信封,easy,family-safe|starter|daily-life,信|信封|封
+daily_life_cn,daily_life_0159,邮票,easy,family-safe|starter|daily-life,票|邮|邮票
+daily_life_cn,daily_life_0160,眼镜,easy,family-safe|starter|daily-life,眼|眼镜|镜
+daily_life_cn,daily_life_0161,太阳镜,easy,family-safe|starter|daily-life,太|太阳镜|镜|阳
+daily_life_cn,daily_life_0162,手表,easy,family-safe|starter|daily-life,手|手表|表
+daily_life_cn,daily_life_0163,雨靴,easy,family-safe|starter|daily-life,雨|雨靴|靴
+daily_life_cn,daily_life_0164,围裙,easy,family-safe|starter|daily-life,围|围裙|裙
+daily_life_cn,daily_life_0165,保温杯,easy,family-safe|starter|daily-life,保|保温杯|杯|温
+daily_life_cn,daily_life_0166,饭盒,easy,family-safe|starter|daily-life,盒|饭|饭盒
+daily_life_cn,daily_life_0167,保鲜盒,easy,family-safe|starter|daily-life,保|保鲜盒|盒|鲜
+daily_life_cn,daily_life_0168,购物车,easy,family-safe|starter|daily-life,物|购|购物车|车
+daily_life_cn,daily_life_0169,购物篮,easy,family-safe|starter|daily-life,物|篮|购|购物篮
+daily_life_cn,daily_life_0170,收纳盒,easy,family-safe|starter|daily-life,收|收纳盒|盒|纳
+daily_life_cn,daily_life_0171,整理箱,easy,family-safe|starter|daily-life,整|整理箱|理|箱
+daily_life_cn,daily_life_0172,纸箱,easy,family-safe|starter|daily-life,箱|纸|纸箱
+daily_life_cn,daily_life_0173,行李箱,easy,family-safe|starter|daily-life,李|箱|行|行李箱
+daily_life_cn,daily_life_0174,护照,easy,family-safe|starter|daily-life,护|护照|照
+daily_life_cn,daily_life_0175,机票,easy,family-safe|starter|daily-life,机|机票|票
+daily_life_cn,daily_life_0176,洗澡,easy,family-safe|starter|daily-life,洗|洗澡|澡
+daily_life_cn,daily_life_0177,刷牙,easy,family-safe|starter|daily-life,刷|刷牙|牙
+daily_life_cn,daily_life_0178,洗脸,easy,family-safe|starter|daily-life,洗|洗脸|脸
+daily_life_cn,daily_life_0179,洗手,easy,family-safe|starter|daily-life,手|洗|洗手
+daily_life_cn,daily_life_0180,梳头,easy,family-safe|starter|daily-life,头|梳|梳头
+daily_life_cn,daily_life_0181,照镜子,easy,family-safe|starter|daily-life,子|照|照镜子|镜
+daily_life_cn,daily_life_0182,穿外套,easy,family-safe|starter|daily-life,外|套|穿|穿外套
+daily_life_cn,daily_life_0183,系鞋带,easy,family-safe|starter|daily-life,带|系|系鞋带|鞋
+daily_life_cn,daily_life_0184,戴帽子,easy,family-safe|starter|daily-life,子|帽|戴|戴帽子
+daily_life_cn,daily_life_0185,打电话,easy,family-safe|starter|daily-life,打|打电话|电|话
+daily_life_cn,daily_life_0186,发消息,easy,family-safe|starter|daily-life,发|发消息|息|消
+daily_life_cn,daily_life_0187,拍照,easy,family-safe|starter|daily-life,拍|拍照|照
+daily_life_cn,daily_life_0188,看地图,easy,family-safe|starter|daily-life,图|地|看|看地图
+daily_life_cn,daily_life_0189,排队,easy,family-safe|starter|daily-life,排|排队|队
+daily_life_cn,daily_life_0190,坐公交,easy,family-safe|starter|daily-life,交|公|坐|坐公交
+daily_life_cn,daily_life_0191,坐地铁,easy,family-safe|starter|daily-life,地|坐|坐地铁|铁
+daily_life_cn,daily_life_0192,骑自行车,easy,family-safe|starter|daily-life,自|行|车|骑|骑自行车
+daily_life_cn,daily_life_0193,开门,easy,family-safe|starter|daily-life,开|开门|门
+daily_life_cn,daily_life_0194,关门,easy,family-safe|starter|daily-life,关|关门|门
+daily_life_cn,daily_life_0195,关灯,easy,family-safe|starter|daily-life,关|关灯|灯
+daily_life_cn,daily_life_0196,开灯,easy,family-safe|starter|daily-life,开|开灯|灯
+daily_life_cn,daily_life_0197,倒垃圾,easy,family-safe|starter|daily-life,倒|倒垃圾|圾|垃
+daily_life_cn,daily_life_0198,拖地,easy,family-safe|starter|daily-life,地|拖|拖地
+daily_life_cn,daily_life_0199,扫地,easy,family-safe|starter|daily-life,地|扫|扫地
+daily_life_cn,daily_life_0200,擦桌子,easy,family-safe|starter|daily-life,子|擦|擦桌子|桌
+daily_life_cn,daily_life_0201,洗碗,easy,family-safe|starter|daily-life,洗|洗碗|碗
+daily_life_cn,daily_life_0202,晾衣服,easy,family-safe|starter|daily-life,晾|晾衣服|服|衣
+daily_life_cn,daily_life_0203,叠衣服,easy,family-safe|starter|daily-life,叠|叠衣服|服|衣
+daily_life_cn,daily_life_0204,收快递,easy,family-safe|starter|daily-life,快|收|收快递|递
+daily_life_cn,daily_life_0205,拆快递,easy,family-safe|starter|daily-life,快|拆|拆快递|递
+daily_life_cn,daily_life_0206,买菜,easy,family-safe|starter|daily-life,买|买菜|菜
+daily_life_cn,daily_life_0207,做饭,easy,family-safe|starter|daily-life,做|做饭|饭
+daily_life_cn,daily_life_0208,炒菜,easy,family-safe|starter|daily-life,炒|炒菜|菜
+daily_life_cn,daily_life_0209,煮饭,easy,family-safe|starter|daily-life,煮|煮饭|饭
+daily_life_cn,daily_life_0210,烧水,easy,family-safe|starter|daily-life,水|烧|烧水
+daily_life_cn,daily_life_0211,浇花,easy,family-safe|starter|daily-life,浇|浇花|花
+daily_life_cn,daily_life_0212,遛狗,easy,family-safe|starter|daily-life,狗|遛|遛狗
+daily_life_cn,daily_life_0213,散步,easy,family-safe|starter|daily-life,散|散步|步
+daily_life_cn,daily_life_0214,跑步,easy,family-safe|starter|daily-life,步|跑|跑步
+daily_life_cn,daily_life_0215,跳绳,easy,family-safe|starter|daily-life,绳|跳|跳绳
+daily_life_cn,daily_life_0216,放风筝,easy,family-safe|starter|daily-life,放|放风筝|筝|风
+daily_life_cn,daily_life_0217,看书,easy,family-safe|starter|daily-life,书|看|看书
+daily_life_cn,daily_life_0218,写字,easy,family-safe|starter|daily-life,写|写字|字
+daily_life_cn,daily_life_0219,做作业,easy,family-safe|starter|daily-life,业|作|做|做作业
+daily_life_cn,daily_life_0220,听音乐,easy,family-safe|starter|daily-life,乐|听|听音乐|音
+daily_life_cn,daily_life_0221,看电视,easy,family-safe|starter|daily-life,电|看|看电视|视
+daily_life_cn,daily_life_0222,睡午觉,easy,family-safe|starter|daily-life,午|睡|睡午觉|觉
+daily_life_cn,daily_life_0223,起床,easy,family-safe|starter|daily-life,床|起|起床
+daily_life_cn,daily_life_0224,刷卡,easy,family-safe|starter|daily-life,刷|刷卡|卡
+daily_life_cn,daily_life_0225,扫码,easy,family-safe|starter|daily-life,扫|扫码|码
+daily_life_cn,daily_life_0226,充电,easy,family-safe|starter|daily-life,充|充电|电
+daily_life_cn,daily_life_0227,打印,easy,family-safe|starter|daily-life,印|打|打印
+daily_life_cn,daily_life_0228,复印,easy,family-safe|starter|daily-life,印|复|复印
+daily_life_cn,daily_life_0229,拍视频,easy,family-safe|starter|daily-life,拍|拍视频|视|频
+daily_life_cn,daily_life_0230,整理房间,easy,family-safe|starter|daily-life,房|整|整理房间|理|间
+daily_life_cn,daily_life_0231,打包行李,easy,family-safe|starter|daily-life,包|打|打包行李|李|行
+daily_life_cn,daily_life_0232,换电池,easy,family-safe|starter|daily-life,换|换电池|池|电
+daily_life_cn,daily_life_0233,擦眼镜,easy,family-safe|starter|daily-life,擦|擦眼镜|眼|镜
+daily_life_cn,daily_life_0234,找钥匙,easy,family-safe|starter|daily-life,匙|找|找钥匙|钥
+daily_life_cn,daily_life_0235,等电梯,easy,family-safe|starter|daily-life,梯|电|等|等电梯
+daily_life_cn,daily_life_0236,按门铃,easy,family-safe|starter|daily-life,按|按门铃|铃|门
+daily_life_cn,daily_life_0237,买票,easy,family-safe|starter|daily-life,买|买票|票
+daily_life_cn,daily_life_0238,过马路,easy,family-safe|starter|daily-life,路|过|过马路|马
+daily_life_cn,daily_life_0239,洗水果,easy,family-safe|starter|daily-life,果|水|洗|洗水果
+daily_life_cn,daily_life_0240,切菜,easy,family-safe|starter|daily-life,切|切菜|菜
+daily_life_cn,daily_life_0241,倒水,easy,family-safe|starter|daily-life,倒|倒水|水
+daily_life_cn,daily_life_0242,喝水,easy,family-safe|starter|daily-life,喝|喝水|水
+food_cn,food_0001,米饭,easy,family-safe|food|starter,米|米饭|饭
+food_cn,food_0002,面条,easy,family-safe|food|starter,条|面|面条
+food_cn,food_0003,馒头,easy,family-safe|food|starter,头|馒|馒头
+food_cn,food_0004,包子,easy,family-safe|food|starter,包|包子|子
+food_cn,food_0005,饺子,easy,family-safe|food|starter,子|饺|饺子
+food_cn,food_0006,馄饨,easy,family-safe|food|starter,饨|馄|馄饨
+food_cn,food_0007,烧饼,easy,family-safe|food|starter,烧|烧饼|饼
+food_cn,food_0008,油条,easy,family-safe|food|starter,条|油|油条
+food_cn,food_0009,花卷,easy,family-safe|food|starter,卷|花|花卷
+food_cn,food_0010,粥,easy,family-safe|food|starter,粥
+food_cn,food_0011,蛋炒饭,easy,family-safe|food|starter,炒|蛋|蛋炒饭|饭
+food_cn,food_0012,扬州炒饭,easy,family-safe|food|starter,州|扬|扬州炒饭|炒|饭
+food_cn,food_0013,炒面,easy,family-safe|food|starter,炒|炒面|面
+food_cn,food_0014,牛肉面,easy,family-safe|food|starter,牛|牛肉面|肉|面
+food_cn,food_0015,拉面,easy,family-safe|food|starter,拉|拉面|面
+food_cn,food_0016,刀削面,easy,family-safe|food|starter,刀|刀削面|削|面
+food_cn,food_0017,重庆小面,easy,family-safe|food|starter,小|庆|重|重庆小面|面
+food_cn,food_0018,担担面,easy,family-safe|food|starter,担|担担面|面
+food_cn,food_0019,炸酱面,easy,family-safe|food|starter,炸|炸酱面|酱|面
+food_cn,food_0020,热干面,easy,family-safe|food|starter,干|热|热干面|面
+food_cn,food_0021,米粉,easy,family-safe|food|starter,米|米粉|粉
+food_cn,food_0022,螺蛳粉,easy,family-safe|food|starter,粉|蛳|螺|螺蛳粉
+food_cn,food_0023,酸辣粉,easy,family-safe|food|starter,粉|辣|酸|酸辣粉
+food_cn,food_0024,河粉,easy,family-safe|food|starter,河|河粉|粉
+food_cn,food_0025,凉皮,easy,family-safe|food|starter,凉|凉皮|皮
+food_cn,food_0026,煎饼果子,easy,family-safe|food|starter,子|果|煎|煎饼果子|饼
+food_cn,food_0027,手抓饼,easy,family-safe|food|starter,手|手抓饼|抓|饼
+food_cn,food_0028,烤红薯,easy,family-safe|food|starter,烤|烤红薯|红|薯
+food_cn,food_0029,玉米,easy,family-safe|food|starter,玉|玉米|米
+food_cn,food_0030,玉米粒,easy,family-safe|food|starter,玉|玉米粒|米|粒
+food_cn,food_0031,土豆,easy,family-safe|food|starter,土|土豆|豆
+food_cn,food_0032,红薯,easy,family-safe|food|starter,红|红薯|薯
+food_cn,food_0033,山药,easy,family-safe|food|starter,山|山药|药
+food_cn,food_0034,芋头,easy,family-safe|food|starter,头|芋|芋头
+food_cn,food_0035,南瓜,easy,family-safe|food|starter,南|南瓜|瓜
+food_cn,food_0036,冬瓜,easy,family-safe|food|starter,冬|冬瓜|瓜
+food_cn,food_0037,黄瓜,easy,family-safe|food|starter,瓜|黄|黄瓜
+food_cn,food_0038,西红柿,easy,family-safe|food|starter,柿|红|西|西红柿
+food_cn,food_0039,番茄,easy,family-safe|food|starter,番|番茄|茄
+food_cn,food_0040,胡萝卜,easy,family-safe|food|starter,卜|胡|胡萝卜|萝
+food_cn,food_0041,白萝卜,easy,family-safe|food|starter,卜|白|白萝卜|萝
+food_cn,food_0042,青椒,easy,family-safe|food|starter,椒|青|青椒
+food_cn,food_0043,辣椒,easy,family-safe|food|starter,椒|辣|辣椒
+food_cn,food_0044,茄子,easy,family-safe|food|starter,子|茄|茄子
+food_cn,food_0045,豆角,easy,family-safe|food|starter,角|豆|豆角
+food_cn,food_0046,西兰花,easy,family-safe|food|starter,兰|花|西|西兰花
+food_cn,food_0047,花菜,easy,family-safe|food|starter,花|花菜|菜
+food_cn,food_0048,白菜,easy,family-safe|food|starter,白|白菜|菜
+food_cn,food_0049,娃娃菜,easy,family-safe|food|starter,娃|娃娃菜|菜
+food_cn,food_0050,生菜,easy,family-safe|food|starter,生|生菜|菜
+food_cn,food_0051,菠菜,easy,family-safe|food|starter,菜|菠|菠菜
+food_cn,food_0052,油麦菜,easy,family-safe|food|starter,油|油麦菜|菜|麦
+food_cn,food_0053,韭菜,easy,family-safe|food|starter,菜|韭|韭菜
+food_cn,food_0054,香菜,easy,family-safe|food|starter,菜|香|香菜
+food_cn,food_0055,葱,easy,family-safe|food|starter,葱
+food_cn,food_0056,姜,easy,family-safe|food|starter,姜
+food_cn,food_0057,蒜,easy,family-safe|food|starter,蒜
+food_cn,food_0058,蘑菇,easy,family-safe|food|starter,菇|蘑|蘑菇
+food_cn,food_0059,香菇,easy,family-safe|food|starter,菇|香|香菇
+food_cn,food_0060,金针菇,easy,family-safe|food|starter,菇|金|金针菇|针
+food_cn,food_0061,木耳,easy,family-safe|food|starter,木|木耳|耳
+food_cn,food_0062,海带,easy,family-safe|food|starter,带|海|海带
+food_cn,food_0063,紫菜,easy,family-safe|food|starter,紫|紫菜|菜
+food_cn,food_0064,豆腐,easy,family-safe|food|starter,腐|豆|豆腐
+food_cn,food_0065,豆皮,easy,family-safe|food|starter,皮|豆|豆皮
+food_cn,food_0066,腐竹,easy,family-safe|food|starter,竹|腐|腐竹
+food_cn,food_0067,豆芽,easy,family-safe|food|starter,芽|豆|豆芽
+food_cn,food_0068,毛豆,easy,family-safe|food|starter,毛|毛豆|豆
+food_cn,food_0069,花生,easy,family-safe|food|starter,生|花|花生
+food_cn,food_0070,瓜子,easy,family-safe|food|starter,子|瓜|瓜子
+food_cn,food_0071,栗子,easy,family-safe|food|starter,子|栗|栗子
+food_cn,food_0072,核桃,easy,family-safe|food|starter,核|核桃|桃
+food_cn,food_0073,榛子,easy,family-safe|food|starter,子|榛|榛子
+food_cn,food_0074,开心果,easy,family-safe|food|starter,开|开心果|心|果
+food_cn,food_0075,腰果,easy,family-safe|food|starter,果|腰|腰果
+food_cn,food_0076,芝麻,easy,family-safe|food|starter,芝|芝麻|麻
+food_cn,food_0077,鸡蛋,easy,family-safe|food|starter,蛋|鸡|鸡蛋
+food_cn,food_0078,荷包蛋,easy,family-safe|food|starter,包|荷|荷包蛋|蛋
+food_cn,food_0079,茶叶蛋,easy,family-safe|food|starter,叶|茶|茶叶蛋|蛋
+food_cn,food_0080,煎蛋,easy,family-safe|food|starter,煎|煎蛋|蛋
+food_cn,food_0081,蒸蛋,easy,family-safe|food|starter,蒸|蒸蛋|蛋
+food_cn,food_0082,牛奶,easy,family-safe|food|starter,奶|牛|牛奶
+food_cn,food_0083,豆浆,easy,family-safe|food|starter,浆|豆|豆浆
+food_cn,food_0084,酸奶,easy,family-safe|food|starter,奶|酸|酸奶
+food_cn,food_0085,奶酪,easy,family-safe|food|starter,奶|奶酪|酪
+food_cn,food_0086,黄油,easy,family-safe|food|starter,油|黄|黄油
+food_cn,food_0087,面包,easy,family-safe|food|starter,包|面|面包
+food_cn,food_0088,吐司,easy,family-safe|food|starter,司|吐|吐司
+food_cn,food_0089,三明治,easy,family-safe|food|starter,三|三明治|明|治
+food_cn,food_0090,汉堡,easy,family-safe|food|starter,堡|汉|汉堡
+food_cn,food_0091,披萨,easy,family-safe|food|starter,披|披萨|萨
+food_cn,food_0092,薯条,easy,family-safe|food|starter,条|薯|薯条
+food_cn,food_0093,热狗,easy,family-safe|food|starter,热|热狗|狗
+food_cn,food_0094,沙拉,easy,family-safe|food|starter,拉|沙|沙拉
+food_cn,food_0095,寿司,easy,family-safe|food|starter,司|寿|寿司
+food_cn,food_0096,饭团,easy,family-safe|food|starter,团|饭|饭团
+food_cn,food_0097,咖喱饭,easy,family-safe|food|starter,咖|咖喱饭|喱|饭
+food_cn,food_0098,盖浇饭,easy,family-safe|food|starter,浇|盖|盖浇饭|饭
+food_cn,food_0099,煲仔饭,easy,family-safe|food|starter,仔|煲|煲仔饭|饭
+food_cn,food_0100,便当,easy,family-safe|food|starter,便|便当|当
+food_cn,food_0101,火锅,easy,family-safe|food|starter,火|火锅|锅
+food_cn,food_0102,麻辣烫,easy,family-safe|food|starter,烫|辣|麻|麻辣烫
+food_cn,food_0103,串串香,easy,family-safe|food|starter,串|串串香|香
+food_cn,food_0104,烧烤,easy,family-safe|food|starter,烤|烧|烧烤
+food_cn,food_0105,烤串,easy,family-safe|food|starter,串|烤|烤串
+food_cn,food_0106,烤鸡翅,easy,family-safe|food|starter,烤|烤鸡翅|翅|鸡
+food_cn,food_0107,烤玉米,easy,family-safe|food|starter,烤|烤玉米|玉|米
+food_cn,food_0108,烤肉,easy,family-safe|food|starter,烤|烤肉|肉
+food_cn,food_0109,炸鸡,easy,family-safe|food|starter,炸|炸鸡|鸡
+food_cn,food_0110,鸡腿,easy,family-safe|food|starter,腿|鸡|鸡腿
+food_cn,food_0111,鸡翅,easy,family-safe|food|starter,翅|鸡|鸡翅
+food_cn,food_0112,鸡排,easy,family-safe|food|starter,排|鸡|鸡排
+food_cn,food_0113,鸡蛋饼,easy,family-safe|food|starter,蛋|饼|鸡|鸡蛋饼
+food_cn,food_0114,牛排,easy,family-safe|food|starter,排|牛|牛排
+food_cn,food_0115,牛肉丸,easy,family-safe|food|starter,丸|牛|牛肉丸|肉
+food_cn,food_0116,鱼丸,easy,family-safe|food|starter,丸|鱼|鱼丸
+food_cn,food_0117,虾滑,easy,family-safe|food|starter,滑|虾|虾滑
+food_cn,food_0118,肉夹馍,easy,family-safe|food|starter,夹|肉|肉夹馍|馍
+food_cn,food_0119,锅贴,easy,family-safe|food|starter,贴|锅|锅贴
+food_cn,food_0120,煎饺,easy,family-safe|food|starter,煎|煎饺|饺
+food_cn,food_0121,小笼包,easy,family-safe|food|starter,包|小|小笼包|笼
+food_cn,food_0122,汤包,easy,family-safe|food|starter,包|汤|汤包
+food_cn,food_0123,烧麦,easy,family-safe|food|starter,烧|烧麦|麦
+food_cn,food_0124,春卷,easy,family-safe|food|starter,卷|春|春卷
+food_cn,food_0125,粽子,easy,family-safe|food|starter,子|粽|粽子
+food_cn,food_0126,月饼,easy,family-safe|food|starter,月|月饼|饼
+food_cn,food_0127,汤圆,easy,family-safe|food|starter,圆|汤|汤圆
+food_cn,food_0128,元宵,easy,family-safe|food|starter,元|元宵|宵
+food_cn,food_0129,年糕,easy,family-safe|food|starter,年|年糕|糕
+food_cn,food_0130,糯米糍,easy,family-safe|food|starter,米|糍|糯|糯米糍
+food_cn,food_0131,麻团,easy,family-safe|food|starter,团|麻|麻团
+food_cn,food_0132,蛋糕,easy,family-safe|food|starter,糕|蛋|蛋糕
+food_cn,food_0133,生日蛋糕,easy,family-safe|food|starter,日|生|生日蛋糕|糕|蛋
+food_cn,food_0134,纸杯蛋糕,easy,family-safe|food|starter,杯|糕|纸|纸杯蛋糕|蛋
+food_cn,food_0135,芝士蛋糕,easy,family-safe|food|starter,士|糕|芝|芝士蛋糕|蛋
+food_cn,food_0136,蛋挞,easy,family-safe|food|starter,挞|蛋|蛋挞
+food_cn,food_0137,布丁,easy,family-safe|food|starter,丁|布|布丁
+food_cn,food_0138,果冻,easy,family-safe|food|starter,冻|果|果冻
+food_cn,food_0139,冰淇淋,easy,family-safe|food|starter,冰|冰淇淋|淇|淋
+food_cn,food_0140,雪糕,easy,family-safe|food|starter,糕|雪|雪糕
+food_cn,food_0141,奶昔,easy,family-safe|food|starter,奶|奶昔|昔
+food_cn,food_0142,奶茶,easy,family-safe|food|starter,奶|奶茶|茶
+food_cn,food_0143,果茶,easy,family-safe|food|starter,果|果茶|茶
+food_cn,food_0144,柠檬茶,easy,family-safe|food|starter,柠|柠檬茶|檬|茶
+food_cn,food_0145,热巧克力,easy,family-safe|food|starter,克|力|巧|热|热巧克力
+food_cn,food_0146,咖啡,easy,family-safe|food|starter,咖|咖啡|啡
+food_cn,food_0147,可可,easy,family-safe|food|starter,可|可可
+food_cn,food_0148,蜂蜜水,easy,family-safe|food|starter,水|蜂|蜂蜜水|蜜
+food_cn,food_0149,矿泉水,easy,family-safe|food|starter,水|泉|矿|矿泉水
+food_cn,food_0150,汽水,easy,family-safe|food|starter,水|汽|汽水
+food_cn,food_0151,苏打水,easy,family-safe|food|starter,打|水|苏|苏打水
+food_cn,food_0152,橙汁,easy,family-safe|food|starter,橙|橙汁|汁
+food_cn,food_0153,苹果汁,easy,family-safe|food|starter,果|汁|苹|苹果汁
+food_cn,food_0154,西瓜汁,easy,family-safe|food|starter,汁|瓜|西|西瓜汁
+food_cn,food_0155,椰汁,easy,family-safe|food|starter,椰|椰汁|汁
+food_cn,food_0156,苹果,easy,family-safe|food|starter,果|苹|苹果
+food_cn,food_0157,香蕉,easy,family-safe|food|starter,蕉|香|香蕉
+food_cn,food_0158,橘子,easy,family-safe|food|starter,子|橘|橘子
+food_cn,food_0159,橙子,easy,family-safe|food|starter,子|橙|橙子
+food_cn,food_0160,柠檬,easy,family-safe|food|starter,柠|柠檬|檬
+food_cn,food_0161,西瓜,easy,family-safe|food|starter,瓜|西|西瓜
+food_cn,food_0162,哈密瓜,easy,family-safe|food|starter,哈|哈密瓜|密|瓜
+food_cn,food_0163,甜瓜,easy,family-safe|food|starter,瓜|甜|甜瓜
+food_cn,food_0164,草莓,easy,family-safe|food|starter,草|草莓|莓
+food_cn,food_0165,蓝莓,easy,family-safe|food|starter,莓|蓝|蓝莓
+food_cn,food_0166,葡萄,easy,family-safe|food|starter,萄|葡|葡萄
+food_cn,food_0167,提子,easy,family-safe|food|starter,子|提|提子
+food_cn,food_0168,樱桃,easy,family-safe|food|starter,桃|樱|樱桃
+food_cn,food_0169,桃子,easy,family-safe|food|starter,子|桃|桃子
+food_cn,food_0170,梨,easy,family-safe|food|starter,梨
+food_cn,food_0171,香梨,easy,family-safe|food|starter,梨|香|香梨
+food_cn,food_0172,菠萝,easy,family-safe|food|starter,菠|菠萝|萝
+food_cn,food_0173,芒果,easy,family-safe|food|starter,果|芒|芒果
+food_cn,food_0174,榴莲,easy,family-safe|food|starter,榴|榴莲|莲
+food_cn,food_0175,山竹,easy,family-safe|food|starter,山|山竹|竹
+food_cn,food_0176,火龙果,easy,family-safe|food|starter,果|火|火龙果|龙
+food_cn,food_0177,猕猴桃,easy,family-safe|food|starter,桃|猕|猕猴桃|猴
+food_cn,food_0178,石榴,easy,family-safe|food|starter,榴|石|石榴
+food_cn,food_0179,柚子,easy,family-safe|food|starter,子|柚|柚子
+food_cn,food_0180,荔枝,easy,family-safe|food|starter,枝|荔|荔枝
+food_cn,food_0181,龙眼,easy,family-safe|food|starter,眼|龙|龙眼
+food_cn,food_0182,圣女果,easy,family-safe|food|starter,圣|圣女果|女|果
+food_cn,food_0183,椰子,easy,family-safe|food|starter,子|椰|椰子
+food_cn,food_0184,木瓜,easy,family-safe|food|starter,木|木瓜|瓜
+food_cn,food_0185,杏,easy,family-safe|food|starter,杏
+food_cn,food_0186,李子,easy,family-safe|food|starter,子|李|李子
+food_cn,food_0187,枇杷,easy,family-safe|food|starter,杷|枇|枇杷
+food_cn,food_0188,无花果,easy,family-safe|food|starter,无|无花果|果|花
+food_cn,food_0189,柿子,easy,family-safe|food|starter,子|柿|柿子
+food_cn,food_0190,枣,easy,family-safe|food|starter,枣
+food_cn,food_0191,哈密瓜片,easy,family-safe|food|starter,哈|哈密瓜片|密|片|瓜
+food_cn,food_0192,水果沙拉,easy,family-safe|food|starter,拉|果|水|水果沙拉|沙
+food_cn,food_0193,糖葫芦,easy,family-safe|food|starter,糖|糖葫芦|芦|葫
+food_cn,food_0194,棉花糖,easy,family-safe|food|starter,棉|棉花糖|糖|花
+food_cn,food_0195,牛奶糖,easy,family-safe|food|starter,奶|牛|牛奶糖|糖
+food_cn,food_0196,巧克力,easy,family-safe|food|starter,克|力|巧|巧克力
+food_cn,food_0197,棒棒糖,easy,family-safe|food|starter,棒|棒棒糖|糖
+food_cn,food_0198,软糖,easy,family-safe|food|starter,糖|软|软糖
+food_cn,food_0199,饼干,easy,family-safe|food|starter,干|饼|饼干
+food_cn,food_0200,曲奇,easy,family-safe|food|starter,奇|曲|曲奇
+food_cn,food_0201,威化饼,easy,family-safe|food|starter,化|威|威化饼|饼
+food_cn,food_0202,薯片,easy,family-safe|food|starter,片|薯|薯片
+food_cn,food_0203,虾片,easy,family-safe|food|starter,片|虾|虾片
+food_cn,food_0204,爆米花,easy,family-safe|food|starter,爆|爆米花|米|花
+food_cn,food_0205,蛋黄酥,easy,family-safe|food|starter,蛋|蛋黄酥|酥|黄
+food_cn,food_0206,凤梨酥,easy,family-safe|food|starter,凤|凤梨酥|梨|酥
+food_cn,food_0207,绿豆糕,easy,family-safe|food|starter,糕|绿|绿豆糕|豆
+food_cn,food_0208,红豆糕,easy,family-safe|food|starter,糕|红|红豆糕|豆
+food_cn,food_0209,豆沙包,easy,family-safe|food|starter,包|沙|豆|豆沙包
+food_cn,food_0210,莲蓉包,easy,family-safe|food|starter,包|莲|莲蓉包|蓉
+food_cn,food_0211,奶黄包,easy,family-safe|food|starter,包|奶|奶黄包|黄
+food_cn,food_0212,紫菜包饭,easy,family-safe|food|starter,包|紫|紫菜包饭|菜|饭
+food_cn,food_0213,酸菜鱼,easy,family-safe|food|starter,菜|酸|酸菜鱼|鱼
+food_cn,food_0214,水煮鱼,easy,family-safe|food|starter,水|水煮鱼|煮|鱼
+food_cn,food_0215,清蒸鱼,easy,family-safe|food|starter,清|清蒸鱼|蒸|鱼
+food_cn,food_0216,红烧鱼,easy,family-safe|food|starter,烧|红|红烧鱼|鱼
+food_cn,food_0217,糖醋鱼,easy,family-safe|food|starter,糖|糖醋鱼|醋|鱼
+food_cn,food_0218,鱼香肉丝,easy,family-safe|food|starter,丝|肉|香|鱼|鱼香肉丝
+food_cn,food_0219,宫保鸡丁,easy,family-safe|food|starter,丁|保|宫|宫保鸡丁|鸡
+food_cn,food_0220,麻婆豆腐,easy,family-safe|food|starter,婆|腐|豆|麻|麻婆豆腐
+food_cn,food_0221,西红柿炒蛋,easy,family-safe|food|starter,柿|炒|红|蛋|西|西红柿炒蛋
+food_cn,food_0222,土豆丝,easy,family-safe|food|starter,丝|土|土豆丝|豆
+food_cn,food_0223,拍黄瓜,easy,family-safe|food|starter,拍|拍黄瓜|瓜|黄
+food_cn,food_0224,凉拌木耳,easy,family-safe|food|starter,凉|凉拌木耳|拌|木|耳
+food_cn,food_0225,炒青菜,easy,family-safe|food|starter,炒|炒青菜|菜|青
+food_cn,food_0226,炒饭,easy,family-safe|food|starter,炒|炒饭|饭
+food_cn,food_0227,炒菜,easy,family-safe|food|starter,炒|炒菜|菜
+food_cn,food_0228,煎饼,easy,family-safe|food|starter,煎|煎饼|饼
+food_cn,food_0229,葱油饼,easy,family-safe|food|starter,油|葱|葱油饼|饼
+food_cn,food_0230,韭菜盒子,easy,family-safe|food|starter,子|盒|菜|韭|韭菜盒子
+food_cn,food_0231,锅包肉,easy,family-safe|food|starter,包|肉|锅|锅包肉
+food_cn,food_0232,糖醋里脊,easy,family-safe|food|starter,糖|糖醋里脊|脊|醋|里
+food_cn,food_0233,红烧肉,easy,family-safe|food|starter,烧|红|红烧肉|肉
+food_cn,food_0234,卤蛋,easy,family-safe|food|starter,卤|卤蛋|蛋
+food_cn,food_0235,卤豆腐,easy,family-safe|food|starter,卤|卤豆腐|腐|豆
+food_cn,food_0236,卤牛肉,easy,family-safe|food|starter,卤|卤牛肉|牛|肉
+food_cn,food_0237,蒸饺,easy,family-safe|food|starter,蒸|蒸饺|饺
+food_cn,food_0238,蒸包子,easy,family-safe|food|starter,包|子|蒸|蒸包子
+food_cn,food_0239,砂锅粥,easy,family-safe|food|starter,砂|砂锅粥|粥|锅
+food_cn,food_0240,南瓜粥,easy,family-safe|food|starter,南|南瓜粥|瓜|粥
+food_cn,food_0241,皮蛋瘦肉粥,easy,family-safe|food|starter,瘦|皮|皮蛋瘦肉粥|粥|肉|蛋
+food_cn,food_0242,凉面,easy,family-safe|food|starter,凉|凉面|面
+food_cn,food_0243,凉粉,easy,family-safe|food|starter,凉|凉粉|粉
+food_cn,food_0244,豆花,easy,family-safe|food|starter,花|豆|豆花
+food_cn,food_0245,双皮奶,easy,family-safe|food|starter,双|双皮奶|奶|皮
+food_cn,food_0246,龟苓膏,easy,family-safe|food|starter,膏|苓|龟|龟苓膏
+food_cn,food_0247,烧仙草,easy,family-safe|food|starter,仙|烧|烧仙草|草
+food_cn,food_0248,杏仁豆腐,easy,family-safe|food|starter,仁|杏|杏仁豆腐|腐|豆
+food_cn,food_0249,芝麻糊,easy,family-safe|food|starter,糊|芝|芝麻糊|麻
+food_cn,food_0250,花生汤,easy,family-safe|food|starter,汤|生|花|花生汤
+food_cn,food_0251,银耳汤,easy,family-safe|food|starter,汤|耳|银|银耳汤
+food_cn,food_0252,绿豆汤,easy,family-safe|food|starter,汤|绿|绿豆汤|豆
+food_cn,food_0253,酸梅汤,easy,family-safe|food|starter,梅|汤|酸|酸梅汤
+food_cn,food_0254,番茄汤,easy,family-safe|food|starter,汤|番|番茄汤|茄
+food_cn,food_0255,玉米汤,easy,family-safe|food|starter,汤|玉|玉米汤|米
+food_cn,food_0256,蛋花汤,easy,family-safe|food|starter,汤|花|蛋|蛋花汤
+food_cn,food_0257,紫菜蛋花汤,easy,family-safe|food|starter,汤|紫|紫菜蛋花汤|花|菜|蛋
+animals_cn,animal_0001,小狗,easy,family-safe|animals|starter,小|小狗|狗
+animals_cn,animal_0002,小猫,easy,family-safe|animals|starter,小|小猫|猫
+animals_cn,animal_0003,兔子,easy,family-safe|animals|starter,兔|兔子|子
+animals_cn,animal_0004,仓鼠,easy,family-safe|animals|starter,仓|仓鼠|鼠
+animals_cn,animal_0005,金鱼,easy,family-safe|animals|starter,金|金鱼|鱼
+animals_cn,animal_0006,乌龟,easy,family-safe|animals|starter,乌|乌龟|龟
+animals_cn,animal_0007,熊猫,easy,family-safe|animals|starter,熊|熊猫|猫
+animals_cn,animal_0008,大象,easy,family-safe|animals|starter,大|大象|象
+animals_cn,animal_0009,长颈鹿,easy,family-safe|animals|starter,长|长颈鹿|颈|鹿
+animals_cn,animal_0010,猴子,easy,family-safe|animals|starter,子|猴|猴子
+animals_cn,animal_0011,狮子,easy,family-safe|animals|starter,子|狮|狮子
+animals_cn,animal_0012,老虎,easy,family-safe|animals|starter,老|老虎|虎
+animals_cn,animal_0013,斑马,easy,family-safe|animals|starter,斑|斑马|马
+animals_cn,animal_0014,河马,easy,family-safe|animals|starter,河|河马|马
+animals_cn,animal_0015,犀牛,easy,family-safe|animals|starter,牛|犀|犀牛
+animals_cn,animal_0016,袋鼠,easy,family-safe|animals|starter,袋|袋鼠|鼠
+animals_cn,animal_0017,考拉,easy,family-safe|animals|starter,拉|考|考拉
+animals_cn,animal_0018,企鹅,easy,family-safe|animals|starter,企|企鹅|鹅
+animals_cn,animal_0019,海豚,easy,family-safe|animals|starter,海|海豚|豚
+animals_cn,animal_0020,鲸鱼,easy,family-safe|animals|starter,鱼|鲸|鲸鱼
+animals_cn,animal_0021,海星,easy,family-safe|animals|starter,星|海|海星
+animals_cn,animal_0022,螃蟹,easy,family-safe|animals|starter,螃|螃蟹|蟹
+animals_cn,animal_0023,章鱼,easy,family-safe|animals|starter,章|章鱼|鱼
+animals_cn,animal_0024,青蛙,easy,family-safe|animals|starter,蛙|青|青蛙
+animals_cn,animal_0025,鸭子,easy,family-safe|animals|starter,子|鸭|鸭子
+animals_cn,animal_0026,小鸡,easy,family-safe|animals|starter,小|小鸡|鸡
+animals_cn,animal_0027,公鸡,easy,family-safe|animals|starter,公|公鸡|鸡
+animals_cn,animal_0028,母鸡,easy,family-safe|animals|starter,母|母鸡|鸡
+animals_cn,animal_0029,孔雀,easy,family-safe|animals|starter,孔|孔雀|雀
+animals_cn,animal_0030,鹦鹉,easy,family-safe|animals|starter,鹉|鹦|鹦鹉
+animals_cn,animal_0031,猫头鹰,easy,family-safe|animals|starter,头|猫|猫头鹰|鹰
+animals_cn,animal_0032,蝴蝶,easy,family-safe|animals|starter,蝴|蝴蝶|蝶
+animals_cn,animal_0033,蜜蜂,easy,family-safe|animals|starter,蜂|蜜|蜜蜂
+animals_cn,animal_0034,蚂蚁,easy,family-safe|animals|starter,蚁|蚂|蚂蚁
+animals_cn,animal_0035,蜗牛,easy,family-safe|animals|starter,牛|蜗|蜗牛
+animals_cn,animal_0036,奶牛,easy,family-safe|animals|starter,奶|奶牛|牛
+animals_cn,animal_0037,小羊,easy,family-safe|animals|starter,小|小羊|羊
+animals_cn,animal_0038,山羊,easy,family-safe|animals|starter,山|山羊|羊
+animals_cn,animal_0039,绵羊,easy,family-safe|animals|starter,绵|绵羊|羊
+animals_cn,animal_0040,小马,easy,family-safe|animals|starter,小|小马|马
+animals_cn,animal_0041,骆驼,easy,family-safe|animals|starter,驼|骆|骆驼
+animals_cn,animal_0042,松鼠,easy,family-safe|animals|starter,松|松鼠|鼠
+animals_cn,animal_0043,狐狸,easy,family-safe|animals|starter,狐|狐狸|狸
+animals_cn,animal_0044,刺猬,easy,family-safe|animals|starter,刺|刺猬|猬
+animals_cn,animal_0045,黑熊,easy,family-safe|animals|starter,熊|黑|黑熊
+animals_cn,animal_0046,北极熊,easy,family-safe|animals|starter,北|北极熊|极|熊
+animals_cn,animal_0047,棕熊,easy,family-safe|animals|starter,棕|棕熊|熊
+animals_cn,animal_0048,狼,easy,family-safe|animals|starter,狼
+animals_cn,animal_0049,大灰狼,easy,family-safe|animals|starter,大|大灰狼|灰|狼
+animals_cn,animal_0050,梅花鹿,easy,family-safe|animals|starter,梅|梅花鹿|花|鹿
+animals_cn,animal_0051,驯鹿,easy,family-safe|animals|starter,驯|驯鹿|鹿
+animals_cn,animal_0052,羚羊,easy,family-safe|animals|starter,羊|羚|羚羊
+animals_cn,animal_0053,水牛,easy,family-safe|animals|starter,水|水牛|牛
+animals_cn,animal_0054,公牛,easy,family-safe|animals|starter,公|公牛|牛
+animals_cn,animal_0055,野猪,easy,family-safe|animals|starter,猪|野|野猪
+animals_cn,animal_0056,小猪,easy,family-safe|animals|starter,小|小猪|猪
+animals_cn,animal_0057,浣熊,easy,family-safe|animals|starter,浣|浣熊|熊
+animals_cn,animal_0058,水獭,easy,family-safe|animals|starter,水|水獭|獭
+animals_cn,animal_0059,海豹,easy,family-safe|animals|starter,海|海豹|豹
+animals_cn,animal_0060,海狮,easy,family-safe|animals|starter,海|海狮|狮
+animals_cn,animal_0061,海象,easy,family-safe|animals|starter,海|海象|象
+animals_cn,animal_0062,鲨鱼,easy,family-safe|animals|starter,鱼|鲨|鲨鱼
+animals_cn,animal_0063,热带鱼,easy,family-safe|animals|starter,带|热|热带鱼|鱼
+animals_cn,animal_0064,海马,easy,family-safe|animals|starter,海|海马|马
+animals_cn,animal_0065,水母,easy,family-safe|animals|starter,母|水|水母
+animals_cn,animal_0066,龙虾,easy,family-safe|animals|starter,虾|龙|龙虾
+animals_cn,animal_0067,河虾,easy,family-safe|animals|starter,河|河虾|虾
+animals_cn,animal_0068,河蟹,easy,family-safe|animals|starter,河|河蟹|蟹
+animals_cn,animal_0069,贝壳,easy,family-safe|animals|starter,壳|贝|贝壳
+animals_cn,animal_0070,扇贝,easy,family-safe|animals|starter,扇|扇贝|贝
+animals_cn,animal_0071,海龟,easy,family-safe|animals|starter,海|海龟|龟
+animals_cn,animal_0072,鳄鱼,easy,family-safe|animals|starter,鱼|鳄|鳄鱼
+animals_cn,animal_0073,蜥蜴,easy,family-safe|animals|starter,蜥|蜥蜴|蜴
+animals_cn,animal_0074,变色龙,easy,family-safe|animals|starter,变|变色龙|色|龙
+animals_cn,animal_0075,蛇,easy,family-safe|animals|starter,蛇
+animals_cn,animal_0076,眼镜蛇,easy,family-safe|animals|starter,眼|眼镜蛇|蛇|镜
+animals_cn,animal_0077,蟒蛇,easy,family-safe|animals|starter,蛇|蟒|蟒蛇
+animals_cn,animal_0078,壁虎,easy,family-safe|animals|starter,壁|壁虎|虎
+animals_cn,animal_0079,恐龙,easy,family-safe|animals|starter,恐|恐龙|龙
+animals_cn,animal_0080,霸王龙,easy,family-safe|animals|starter,王|霸|霸王龙|龙
+animals_cn,animal_0081,三角龙,easy,family-safe|animals|starter,三|三角龙|角|龙
+animals_cn,animal_0082,剑龙,easy,family-safe|animals|starter,剑|剑龙|龙
+animals_cn,animal_0083,翼龙,easy,family-safe|animals|starter,翼|翼龙|龙
+animals_cn,animal_0084,鸽子,easy,family-safe|animals|starter,子|鸽|鸽子
+animals_cn,animal_0085,白鸽,easy,family-safe|animals|starter,白|白鸽|鸽
+animals_cn,animal_0086,麻雀,easy,family-safe|animals|starter,雀|麻|麻雀
+animals_cn,animal_0087,燕子,easy,family-safe|animals|starter,子|燕|燕子
+animals_cn,animal_0088,乌鸦,easy,family-safe|animals|starter,乌|乌鸦|鸦
+animals_cn,animal_0089,喜鹊,easy,family-safe|animals|starter,喜|喜鹊|鹊
+animals_cn,animal_0090,老鹰,easy,family-safe|animals|starter,老|老鹰|鹰
+animals_cn,animal_0091,海鸥,easy,family-safe|animals|starter,海|海鸥|鸥
+animals_cn,animal_0092,天鹅,easy,family-safe|animals|starter,天|天鹅|鹅
+animals_cn,animal_0093,丹顶鹤,easy,family-safe|animals|starter,丹|丹顶鹤|顶|鹤
+animals_cn,animal_0094,火烈鸟,easy,family-safe|animals|starter,火|火烈鸟|烈|鸟
+animals_cn,animal_0095,鸵鸟,easy,family-safe|animals|starter,鸟|鸵|鸵鸟
+animals_cn,animal_0096,蜂鸟,easy,family-safe|animals|starter,蜂|蜂鸟|鸟
+animals_cn,animal_0097,啄木鸟,easy,family-safe|animals|starter,啄|啄木鸟|木|鸟
+animals_cn,animal_0098,鹈鹕,easy,family-safe|animals|starter,鹈|鹈鹕|鹕
+animals_cn,animal_0099,孔雀鱼,easy,family-safe|animals|starter,孔|孔雀鱼|雀|鱼
+animals_cn,animal_0100,锦鲤,easy,family-safe|animals|starter,锦|锦鲤|鲤
+animals_cn,animal_0101,鲤鱼,easy,family-safe|animals|starter,鱼|鲤|鲤鱼
+animals_cn,animal_0102,红鲤鱼,easy,family-safe|animals|starter,红|红鲤鱼|鱼|鲤
+animals_cn,animal_0103,鲫鱼,easy,family-safe|animals|starter,鱼|鲫|鲫鱼
+animals_cn,animal_0104,金枪鱼,easy,family-safe|animals|starter,枪|金|金枪鱼|鱼
+animals_cn,animal_0105,三文鱼,easy,family-safe|animals|starter,三|三文鱼|文|鱼
+animals_cn,animal_0106,鳗鱼,easy,family-safe|animals|starter,鱼|鳗|鳗鱼
+animals_cn,animal_0107,泥鳅,easy,family-safe|animals|starter,泥|泥鳅|鳅
+animals_cn,animal_0108,青鱼,easy,family-safe|animals|starter,青|青鱼|鱼
+animals_cn,animal_0109,草鱼,easy,family-safe|animals|starter,草|草鱼|鱼
+animals_cn,animal_0110,鲈鱼,easy,family-safe|animals|starter,鱼|鲈|鲈鱼
+animals_cn,animal_0111,比目鱼,easy,family-safe|animals|starter,比|比目鱼|目|鱼
+animals_cn,animal_0112,章鱼宝宝,easy,family-safe|animals|starter,宝|章|章鱼宝宝|鱼
+animals_cn,animal_0113,乌贼,easy,family-safe|animals|starter,乌|乌贼|贼
+animals_cn,animal_0114,鱿鱼,easy,family-safe|animals|starter,鱼|鱿|鱿鱼
+animals_cn,animal_0115,海胆,easy,family-safe|animals|starter,海|海胆|胆
+animals_cn,animal_0116,海参,easy,family-safe|animals|starter,参|海|海参
+animals_cn,animal_0117,蚯蚓,easy,family-safe|animals|starter,蚓|蚯|蚯蚓
+animals_cn,animal_0118,蜈蚣,easy,family-safe|animals|starter,蚣|蜈|蜈蚣
+animals_cn,animal_0119,螳螂,easy,family-safe|animals|starter,螂|螳|螳螂
+animals_cn,animal_0120,蟋蟀,easy,family-safe|animals|starter,蟀|蟋|蟋蟀
+animals_cn,animal_0121,蝗虫,easy,family-safe|animals|starter,虫|蝗|蝗虫
+animals_cn,animal_0122,萤火虫,easy,family-safe|animals|starter,火|萤|萤火虫|虫
+animals_cn,animal_0123,瓢虫,easy,family-safe|animals|starter,瓢|瓢虫|虫
+animals_cn,animal_0124,蜻蜓,easy,family-safe|animals|starter,蜓|蜻|蜻蜓
+animals_cn,animal_0125,蚊子,easy,family-safe|animals|starter,子|蚊|蚊子
+animals_cn,animal_0126,苍蝇,easy,family-safe|animals|starter,苍|苍蝇|蝇
+animals_cn,animal_0127,蜘蛛,easy,family-safe|animals|starter,蛛|蜘|蜘蛛
+animals_cn,animal_0128,蝎子,easy,family-safe|animals|starter,子|蝎|蝎子
+animals_cn,animal_0129,甲虫,easy,family-safe|animals|starter,甲|甲虫|虫
+animals_cn,animal_0130,独角仙,easy,family-safe|animals|starter,仙|独|独角仙|角
+animals_cn,animal_0131,毛毛虫,easy,family-safe|animals|starter,毛|毛毛虫|虫
+animals_cn,animal_0132,蚕宝宝,easy,family-safe|animals|starter,宝|蚕|蚕宝宝
+animals_cn,animal_0133,蝉,easy,family-safe|animals|starter,蝉
+animals_cn,animal_0134,蟑螂,easy,family-safe|animals|starter,螂|蟑|蟑螂
+animals_cn,animal_0135,老鼠,easy,family-safe|animals|starter,老|老鼠|鼠
+animals_cn,animal_0136,田鼠,easy,family-safe|animals|starter,田|田鼠|鼠
+animals_cn,animal_0137,豚鼠,easy,family-safe|animals|starter,豚|豚鼠|鼠
+animals_cn,animal_0138,刺豚,easy,family-safe|animals|starter,刺|刺豚|豚
+animals_cn,animal_0139,豪猪,easy,family-safe|animals|starter,猪|豪|豪猪
+animals_cn,animal_0140,树懒,easy,family-safe|animals|starter,懒|树|树懒
+animals_cn,animal_0141,犰狳,easy,family-safe|animals|starter,犰|犰狳|狳
+animals_cn,animal_0142,穿山甲,easy,family-safe|animals|starter,山|甲|穿|穿山甲
+animals_cn,animal_0143,食蚁兽,easy,family-safe|animals|starter,兽|蚁|食|食蚁兽
+animals_cn,animal_0144,鸭嘴兽,easy,family-safe|animals|starter,兽|嘴|鸭|鸭嘴兽
+animals_cn,animal_0145,树袋熊,easy,family-safe|animals|starter,树|树袋熊|熊|袋
+animals_cn,animal_0146,袋熊,easy,family-safe|animals|starter,熊|袋|袋熊
+animals_cn,animal_0147,袋獾,easy,family-safe|animals|starter,獾|袋|袋獾
+animals_cn,animal_0148,狐獴,easy,family-safe|animals|starter,狐|狐獴|獴
+animals_cn,animal_0149,狐猴,easy,family-safe|animals|starter,狐|狐猴|猴
+animals_cn,animal_0150,猩猩,easy,family-safe|animals|starter,猩|猩猩
+animals_cn,animal_0151,黑猩猩,easy,family-safe|animals|starter,猩|黑|黑猩猩
+animals_cn,animal_0152,大猩猩,easy,family-safe|animals|starter,大|大猩猩|猩
+animals_cn,animal_0153,长臂猿,easy,family-safe|animals|starter,猿|臂|长|长臂猿
+animals_cn,animal_0154,狒狒,easy,family-safe|animals|starter,狒|狒狒
+animals_cn,animal_0155,猕猴,easy,family-safe|animals|starter,猕|猕猴|猴
+animals_cn,animal_0156,金丝猴,easy,family-safe|animals|starter,丝|猴|金|金丝猴
+animals_cn,animal_0157,环尾狐猴,easy,family-safe|animals|starter,尾|狐|猴|环|环尾狐猴
+animals_cn,animal_0158,白虎,easy,family-safe|animals|starter,白|白虎|虎
+animals_cn,animal_0159,猎豹,easy,family-safe|animals|starter,猎|猎豹|豹
+animals_cn,animal_0160,美洲豹,easy,family-safe|animals|starter,洲|美|美洲豹|豹
+animals_cn,animal_0161,豹子,easy,family-safe|animals|starter,子|豹|豹子
+animals_cn,animal_0162,雪豹,easy,family-safe|animals|starter,豹|雪|雪豹
+animals_cn,animal_0163,猞猁,easy,family-safe|animals|starter,猁|猞|猞猁
+animals_cn,animal_0164,山猫,easy,family-safe|animals|starter,山|山猫|猫
+animals_cn,animal_0165,鬣狗,easy,family-safe|animals|starter,狗|鬣|鬣狗
+animals_cn,animal_0166,豺,easy,family-safe|animals|starter,豺
+animals_cn,animal_0167,水豚,easy,family-safe|animals|starter,水|水豚|豚
+animals_cn,animal_0168,海狸,easy,family-safe|animals|starter,海|海狸|狸
+animals_cn,animal_0169,河狸,easy,family-safe|animals|starter,河|河狸|狸
+animals_cn,animal_0170,飞鼠,easy,family-safe|animals|starter,飞|飞鼠|鼠
+animals_cn,animal_0171,土拨鼠,easy,family-safe|animals|starter,土|土拨鼠|拨|鼠
+animals_cn,animal_0172,鼹鼠,easy,family-safe|animals|starter,鼠|鼹|鼹鼠
+animals_cn,animal_0173,蝙蝠,easy,family-safe|animals|starter,蝙|蝙蝠|蝠
+animals_cn,animal_0174,刺猬宝宝,easy,family-safe|animals|starter,刺|刺猬宝宝|宝|猬
+animals_cn,animal_0175,小鹿,easy,family-safe|animals|starter,小|小鹿|鹿
+animals_cn,animal_0176,小牛,easy,family-safe|animals|starter,小|小牛|牛
+animals_cn,animal_0177,小猪仔,easy,family-safe|animals|starter,仔|小|小猪仔|猪
+animals_cn,animal_0178,小鸭子,easy,family-safe|animals|starter,子|小|小鸭子|鸭
+animals_cn,animal_0179,小鹅,easy,family-safe|animals|starter,小|小鹅|鹅
+animals_cn,animal_0180,鹅,easy,family-safe|animals|starter,鹅
+animals_cn,animal_0181,鸳鸯,easy,family-safe|animals|starter,鸯|鸳|鸳鸯
+animals_cn,animal_0182,鹌鹑,easy,family-safe|animals|starter,鹌|鹌鹑|鹑
+animals_cn,animal_0183,鸽子宝宝,easy,family-safe|animals|starter,子|宝|鸽|鸽子宝宝
+animals_cn,animal_0184,鹦鹉螺,easy,family-safe|animals|starter,螺|鹉|鹦|鹦鹉螺
+animals_cn,animal_0185,章鱼哥,easy,family-safe|animals|starter,哥|章|章鱼哥|鱼
+animals_cn,animal_0186,小丑鱼,easy,family-safe|animals|starter,丑|小|小丑鱼|鱼
+animals_cn,animal_0187,河豚,easy,family-safe|animals|starter,河|河豚|豚
+animals_cn,animal_0188,飞鱼,easy,family-safe|animals|starter,飞|飞鱼|鱼
+animals_cn,animal_0189,灯笼鱼,easy,family-safe|animals|starter,灯|灯笼鱼|笼|鱼
+animals_cn,animal_0190,电鳗,easy,family-safe|animals|starter,电|电鳗|鳗
+animals_cn,animal_0191,海葵,easy,family-safe|animals|starter,海|海葵|葵
+animals_cn,animal_0192,珊瑚虫,easy,family-safe|animals|starter,珊|珊瑚虫|瑚|虫
+animals_cn,animal_0193,寄居蟹,easy,family-safe|animals|starter,寄|寄居蟹|居|蟹
+animals_cn,animal_0194,招潮蟹,easy,family-safe|animals|starter,招|招潮蟹|潮|蟹
+animals_cn,animal_0195,小龙虾,easy,family-safe|animals|starter,小|小龙虾|虾|龙
+animals_cn,animal_0196,鳄龟,easy,family-safe|animals|starter,鳄|鳄龟|龟
+animals_cn,animal_0197,娃娃鱼,easy,family-safe|animals|starter,娃|娃娃鱼|鱼
+animals_cn,animal_0198,蝾螈,easy,family-safe|animals|starter,蝾|蝾螈|螈
+animals_cn,animal_0199,树蛙,easy,family-safe|animals|starter,树|树蛙|蛙
+animals_cn,animal_0200,蟾蜍,easy,family-safe|animals|starter,蜍|蟾|蟾蜍
+animals_cn,animal_0201,青蛇,easy,family-safe|animals|starter,蛇|青|青蛇
+animals_cn,animal_0202,蜥蜴宝宝,easy,family-safe|animals|starter,宝|蜥|蜥蜴宝宝|蜴
+animals_cn,animal_0203,角蛙,easy,family-safe|animals|starter,蛙|角|角蛙
+animals_cn,animal_0204,乌龟宝宝,easy,family-safe|animals|starter,乌|乌龟宝宝|宝|龟
+animals_cn,animal_0205,小白兔,easy,family-safe|animals|starter,兔|小|小白兔|白
+animals_cn,animal_0206,大白鹅,easy,family-safe|animals|starter,大|大白鹅|白|鹅
+animals_cn,animal_0207,大黄鸭,easy,family-safe|animals|starter,大|大黄鸭|鸭|黄
+animals_cn,animal_0208,田螺,easy,family-safe|animals|starter,田|田螺|螺
+animals_cn,animal_0209,蛤蜊,easy,family-safe|animals|starter,蛤|蛤蜊|蜊
+animals_cn,animal_0210,牡蛎,easy,family-safe|animals|starter,牡|牡蛎|蛎
+animals_cn,animal_0211,鲍鱼,easy,family-safe|animals|starter,鱼|鲍|鲍鱼
+animals_cn,animal_0212,海螺,easy,family-safe|animals|starter,海|海螺|螺
+animals_cn,animal_0213,蚕蛹,easy,family-safe|animals|starter,蚕|蚕蛹|蛹
+animals_cn,animal_0214,蝉蛹,easy,family-safe|animals|starter,蛹|蝉|蝉蛹
+animals_cn,animal_0215,小蜜蜂,easy,family-safe|animals|starter,小|小蜜蜂|蜂|蜜
+animals_cn,animal_0216,小蚂蚁,easy,family-safe|animals|starter,小|小蚂蚁|蚁|蚂
+animals_cn,animal_0217,红蜻蜓,easy,family-safe|animals|starter,红|红蜻蜓|蜓|蜻
+animals_cn,animal_0218,蓝鲸,easy,family-safe|animals|starter,蓝|蓝鲸|鲸
+animals_cn,animal_0219,虎鲸,easy,family-safe|animals|starter,虎|虎鲸|鲸
+animals_cn,animal_0220,抹香鲸,easy,family-safe|animals|starter,抹|抹香鲸|香|鲸
+animals_cn,animal_0221,白鲸,easy,family-safe|animals|starter,白|白鲸|鲸
+animals_cn,animal_0222,海牛,easy,family-safe|animals|starter,海|海牛|牛
+animals_cn,animal_0223,儒艮,easy,family-safe|animals|starter,儒|儒艮|艮
+animals_cn,animal_0224,鼬,easy,family-safe|animals|starter,鼬
+animals_cn,animal_0225,黄鼠狼,easy,family-safe|animals|starter,狼|黄|黄鼠狼|鼠
+animals_cn,animal_0226,臭鼬,easy,family-safe|animals|starter,臭|臭鼬|鼬
+animals_cn,animal_0227,貂,easy,family-safe|animals|starter,貂
+animals_cn,animal_0228,水貂,easy,family-safe|animals|starter,水|水貂|貂
+animals_cn,animal_0229,雪貂,easy,family-safe|animals|starter,貂|雪|雪貂
+animals_cn,animal_0230,马,easy,family-safe|animals|starter,马
+animals_cn,animal_0231,驴,easy,family-safe|animals|starter,驴
+animals_cn,animal_0232,骡子,easy,family-safe|animals|starter,子|骡|骡子
+animals_cn,animal_0233,牦牛,easy,family-safe|animals|starter,牛|牦|牦牛
+animals_cn,animal_0234,羊驼,easy,family-safe|animals|starter,羊|羊驼|驼
+animals_cn,animal_0235,骆驼宝宝,easy,family-safe|animals|starter,宝|驼|骆|骆驼宝宝
+animals_cn,animal_0236,斑点狗,easy,family-safe|animals|starter,斑|斑点狗|点|狗
+animals_cn,animal_0237,泰迪狗,easy,family-safe|animals|starter,泰|泰迪狗|狗|迪
+animals_cn,animal_0238,柯基,easy,family-safe|animals|starter,基|柯|柯基
+animals_cn,animal_0239,金毛,easy,family-safe|animals|starter,毛|金|金毛
+animals_cn,animal_0240,哈士奇,easy,family-safe|animals|starter,哈|哈士奇|士|奇
+animals_cn,animal_0241,布偶猫,easy,family-safe|animals|starter,偶|布|布偶猫|猫
+animals_cn,animal_0242,暹罗猫,easy,family-safe|animals|starter,暹|暹罗猫|猫|罗
+animals_cn,animal_0243,橘猫,easy,family-safe|animals|starter,橘|橘猫|猫
+animals_cn,animal_0244,狸花猫,easy,family-safe|animals|starter,狸|狸花猫|猫|花
+gen_z_phrases_en,gen_z_phrase_0001,no cap,medium,family-safe|english|gen-z,cap|no|no cap
+gen_z_phrases_en,gen_z_phrase_0002,slay,medium,family-safe|english|gen-z,slay
+gen_z_phrases_en,gen_z_phrase_0003,vibe check,medium,family-safe|english|gen-z,check|vibe|vibe check
+gen_z_phrases_en,gen_z_phrase_0004,main character energy,medium,family-safe|english|gen-z,character|energy|main|main character energy
+gen_z_phrases_en,gen_z_phrase_0005,it's giving,medium,family-safe|english|gen-z,giving|it's giving|its|its giving
+gen_z_phrases_en,gen_z_phrase_0006,low key,medium,family-safe|english|gen-z,key|low|low key
+gen_z_phrases_en,gen_z_phrase_0007,high key,medium,family-safe|english|gen-z,high|high key|key
+gen_z_phrases_en,gen_z_phrase_0008,rent free,medium,family-safe|english|gen-z,free|rent|rent free
+gen_z_phrases_en,gen_z_phrase_0009,understood the assignment,medium,family-safe|english|gen-z,assignment|the|understood|understood the assignment
+gen_z_phrases_en,gen_z_phrase_0010,say less,medium,family-safe|english|gen-z,less|say|say less
+gen_z_phrases_en,gen_z_phrase_0011,ate and left no crumbs,medium,family-safe|english|gen-z,and|ate|ate and left no crumbs|crumbs|left|no
+gen_z_phrases_en,gen_z_phrase_0012,big yikes,medium,family-safe|english|gen-z,big|big yikes|yikes
+gen_z_phrases_en,gen_z_phrase_0013,bestie,medium,family-safe|english|gen-z,bestie
+gen_z_phrases_en,gen_z_phrase_0014,period,medium,family-safe|english|gen-z,period
+gen_z_phrases_en,gen_z_phrase_0015,caught in 4K,medium,family-safe|english|gen-z,4k|caught|caught in 4K|caught in 4k|in
+gen_z_phrases_en,gen_z_phrase_0016,living my best life,medium,family-safe|english|gen-z,best|life|living|living my best life|my
+gen_z_phrases_en,gen_z_phrase_0017,soft launch,medium,family-safe|english|gen-z,launch|soft|soft launch
+gen_z_phrases_en,gen_z_phrase_0018,hard launch,medium,family-safe|english|gen-z,hard|hard launch|launch
+gen_z_phrases_en,gen_z_phrase_0019,touch grass,medium,family-safe|english|gen-z,grass|touch|touch grass
+gen_z_phrases_en,gen_z_phrase_0020,core memory,medium,family-safe|english|gen-z,core|core memory|memory
+gen_z_phrases_en,gen_z_phrase_0021,the math is not mathing,medium,family-safe|english|gen-z,is|math|mathing|not|the|the math is not mathing
+gen_z_phrases_en,gen_z_phrase_0022,be so for real,medium,family-safe|english|gen-z,be|be so for real|for|real|so
+gen_z_phrases_en,gen_z_phrase_0023,rizz,medium,family-safe|english|gen-z,rizz
+gen_z_phrases_en,gen_z_phrase_0024,delulu,medium,family-safe|english|gen-z,delulu
+gen_z_phrases_en,gen_z_phrase_0025,girl dinner,medium,family-safe|english|gen-z,dinner|girl|girl dinner
+gen_z_phrases_en,gen_z_phrase_0026,quiet luxury,medium,family-safe|english|gen-z,luxury|quiet|quiet luxury
+gen_z_phrases_en,gen_z_phrase_0027,era,medium,family-safe|english|gen-z,era
+gen_z_phrases_en,gen_z_phrase_0028,canon event,medium,family-safe|english|gen-z,canon|canon event|event
+gen_z_phrases_en,gen_z_phrase_0029,plot twist,medium,family-safe|english|gen-z,plot|plot twist|twist
+gen_z_phrases_en,gen_z_phrase_0030,side quest,medium,family-safe|english|gen-z,quest|side|side quest
+gen_z_phrases_en,gen_z_phrase_0031,npc energy,medium,family-safe|english|gen-z,energy|npc|npc energy
+gen_z_phrases_en,gen_z_phrase_0032,red flag,medium,family-safe|english|gen-z,flag|red|red flag
+gen_z_phrases_en,gen_z_phrase_0033,green flag,medium,family-safe|english|gen-z,flag|green|green flag
+gen_z_phrases_en,gen_z_phrase_0034,ick,medium,family-safe|english|gen-z,ick
+gen_z_phrases_en,gen_z_phrase_0035,situationship,medium,family-safe|english|gen-z,situationship
+gen_z_phrases_en,gen_z_phrase_0036,ghosted,medium,family-safe|english|gen-z,ghosted
+gen_z_phrases_en,gen_z_phrase_0037,simp,medium,family-safe|english|gen-z,simp
+gen_z_phrases_en,gen_z_phrase_0038,mid,medium,family-safe|english|gen-z,mid
+gen_z_phrases_en,gen_z_phrase_0039,fire,medium,family-safe|english|gen-z,fire
+gen_z_phrases_en,gen_z_phrase_0040,lit,medium,family-safe|english|gen-z,lit
+gen_z_phrases_en,gen_z_phrase_0041,hits different,medium,family-safe|english|gen-z,different|hits|hits different
+gen_z_phrases_en,gen_z_phrase_0042,go off,medium,family-safe|english|gen-z,go|go off|off
+gen_z_phrases_en,gen_z_phrase_0043,respectfully,medium,family-safe|english|gen-z,respectfully
+gen_z_phrases_en,gen_z_phrase_0044,iconic,medium,family-safe|english|gen-z,iconic
+gen_z_phrases_en,gen_z_phrase_0045,valid,medium,family-safe|english|gen-z,valid
+gen_z_phrases_en,gen_z_phrase_0046,based,medium,family-safe|english|gen-z,based
+gen_z_phrases_en,gen_z_phrase_0047,glow up,medium,family-safe|english|gen-z,glow|glow up|up
+gen_z_phrases_en,gen_z_phrase_0048,fan behavior,medium,family-safe|english|gen-z,behavior|fan|fan behavior
+gen_z_phrases_en,gen_z_phrase_0049,vibing,medium,family-safe|english|gen-z,vibing
+gen_z_phrases_en,gen_z_phrase_0050,snack,medium,family-safe|english|gen-z,snack
+gen_z_phrases_en,gen_z_phrase_0051,fit check,medium,family-safe|english|gen-z,check|fit|fit check
+gen_z_phrases_en,gen_z_phrase_0052,drip,medium,family-safe|english|gen-z,drip
+gen_z_phrases_en,gen_z_phrase_0053,serve,medium,family-safe|english|gen-z,serve
+gen_z_phrases_en,gen_z_phrase_0054,serving looks,medium,family-safe|english|gen-z,looks|serving|serving looks
+gen_z_phrases_en,gen_z_phrase_0055,bussin,medium,family-safe|english|gen-z,bussin
+gen_z_phrases_en,gen_z_phrase_0056,sus,medium,family-safe|english|gen-z,sus
+gen_z_phrases_en,gen_z_phrase_0057,bet,medium,family-safe|english|gen-z,bet
+gen_z_phrases_en,gen_z_phrase_0058,real one,medium,family-safe|english|gen-z,one|real|real one
+gen_z_phrases_en,gen_z_phrase_0059,vibe,medium,family-safe|english|gen-z,vibe
+gen_z_phrases_en,gen_z_phrase_0060,mood,medium,family-safe|english|gen-z,mood
+gen_z_phrases_en,gen_z_phrase_0061,big mood,medium,family-safe|english|gen-z,big|big mood|mood
+gen_z_phrases_en,gen_z_phrase_0062,same energy,medium,family-safe|english|gen-z,energy|same|same energy
+gen_z_phrases_en,gen_z_phrase_0063,that part,medium,family-safe|english|gen-z,part|that|that part
+gen_z_phrases_en,gen_z_phrase_0064,periodt,medium,family-safe|english|gen-z,periodt
+gen_z_phrases_en,gen_z_phrase_0065,slaps,medium,family-safe|english|gen-z,slaps
+gen_z_phrases_en,gen_z_phrase_0066,bop,medium,family-safe|english|gen-z,bop
+gen_z_phrases_en,gen_z_phrase_0067,lowkey iconic,medium,family-safe|english|gen-z,iconic|lowkey|lowkey iconic
+gen_z_phrases_en,gen_z_phrase_0068,highkey obsessed,medium,family-safe|english|gen-z,highkey|highkey obsessed|obsessed
+gen_z_phrases_en,gen_z_phrase_0069,no notes,medium,family-safe|english|gen-z,no|no notes|notes
+gen_z_phrases_en,gen_z_phrase_0070,chef's kiss,medium,family-safe|english|gen-z,chef's kiss|chefs|chefs kiss|kiss
+gen_z_phrases_en,gen_z_phrase_0071,rent-free in my head,medium,family-safe|english|gen-z,free|head|in|my|rent|rent-free in my head
+gen_z_phrases_en,gen_z_phrase_0072,major win,medium,family-safe|english|gen-z,major|major win|win
+gen_z_phrases_en,gen_z_phrase_0073,main quest,medium,family-safe|english|gen-z,main|main quest|quest
+gen_z_phrases_en,gen_z_phrase_0074,side character,medium,family-safe|english|gen-z,character|side|side character
+gen_z_phrases_en,gen_z_phrase_0075,golden retriever energy,medium,family-safe|english|gen-z,energy|golden|golden retriever energy|retriever
+gen_z_phrases_en,gen_z_phrase_0076,black cat energy,medium,family-safe|english|gen-z,black|black cat energy|cat|energy
+gen_z_phrases_en,gen_z_phrase_0077,green screen energy,medium,family-safe|english|gen-z,energy|green|green screen energy|screen
+gen_z_phrases_en,gen_z_phrase_0078,soft life,medium,family-safe|english|gen-z,life|soft|soft life
+gen_z_phrases_en,gen_z_phrase_0079,cozy vibes,medium,family-safe|english|gen-z,cozy|cozy vibes|vibes
+gen_z_phrases_en,gen_z_phrase_0080,social battery,medium,family-safe|english|gen-z,battery|social|social battery
+gen_z_phrases_en,gen_z_phrase_0081,brain rot,medium,family-safe|english|gen-z,brain|brain rot|rot
+gen_z_phrases_en,gen_z_phrase_0082,touch some grass,medium,family-safe|english|gen-z,grass|some|touch|touch some grass
+gen_z_phrases_en,gen_z_phrase_0083,terminally online,medium,family-safe|english|gen-z,online|terminally|terminally online
+gen_z_phrases_en,gen_z_phrase_0084,chronically online,medium,family-safe|english|gen-z,chronically|chronically online|online
+gen_z_phrases_en,gen_z_phrase_0085,irl,medium,family-safe|english|gen-z,irl
+gen_z_phrases_en,gen_z_phrase_0086,online bestie,medium,family-safe|english|gen-z,bestie|online|online bestie
+gen_z_phrases_en,gen_z_phrase_0087,group chat,medium,family-safe|english|gen-z,chat|group|group chat
+gen_z_phrases_en,gen_z_phrase_0088,for the plot,medium,family-safe|english|gen-z,for|for the plot|plot|the
+gen_z_phrases_en,gen_z_phrase_0089,plot armor,medium,family-safe|english|gen-z,armor|plot|plot armor
+gen_z_phrases_en,gen_z_phrase_0090,plot hole,medium,family-safe|english|gen-z,hole|plot|plot hole
+gen_z_phrases_en,gen_z_phrase_0091,plot twist energy,medium,family-safe|english|gen-z,energy|plot|plot twist energy|twist
+gen_z_phrases_en,gen_z_phrase_0092,villain era,medium,family-safe|english|gen-z,era|villain|villain era
+gen_z_phrases_en,gen_z_phrase_0093,healing era,medium,family-safe|english|gen-z,era|healing|healing era
+gen_z_phrases_en,gen_z_phrase_0094,study era,medium,family-safe|english|gen-z,era|study|study era
+gen_z_phrases_en,gen_z_phrase_0095,gym era,medium,family-safe|english|gen-z,era|gym|gym era
+gen_z_phrases_en,gen_z_phrase_0096,snack era,medium,family-safe|english|gen-z,era|snack|snack era
+gen_z_phrases_en,gen_z_phrase_0097,cozy era,medium,family-safe|english|gen-z,cozy|cozy era|era
+gen_z_phrases_en,gen_z_phrase_0098,boss era,medium,family-safe|english|gen-z,boss|boss era|era
+gen_z_phrases_en,gen_z_phrase_0099,bestie vibes,medium,family-safe|english|gen-z,bestie|bestie vibes|vibes
+gen_z_phrases_en,gen_z_phrase_0100,squad goals,medium,family-safe|english|gen-z,goals|squad|squad goals
+gen_z_phrases_en,gen_z_phrase_0101,friendship goals,medium,family-safe|english|gen-z,friendship|friendship goals|goals
+gen_z_phrases_en,gen_z_phrase_0102,couple goals,medium,family-safe|english|gen-z,couple|couple goals|goals
+gen_z_phrases_en,gen_z_phrase_0103,life hack,medium,family-safe|english|gen-z,hack|life|life hack
+gen_z_phrases_en,gen_z_phrase_0104,adulting,medium,family-safe|english|gen-z,adulting
+gen_z_phrases_en,gen_z_phrase_0105,manifesting,medium,family-safe|english|gen-z,manifesting
+gen_z_phrases_en,gen_z_phrase_0106,manifest it,medium,family-safe|english|gen-z,it|manifest|manifest it
+gen_z_phrases_en,gen_z_phrase_0107,good soup,medium,family-safe|english|gen-z,good|good soup|soup
+gen_z_phrases_en,gen_z_phrase_0108,tiny win,medium,family-safe|english|gen-z,tiny|tiny win|win
+gen_z_phrases_en,gen_z_phrase_0109,big win,medium,family-safe|english|gen-z,big|big win|win
+gen_z_phrases_en,gen_z_phrase_0110,epic fail,medium,family-safe|english|gen-z,epic|epic fail|fail
+gen_z_phrases_en,gen_z_phrase_0111,hard pass,medium,family-safe|english|gen-z,hard|hard pass|pass
+gen_z_phrases_en,gen_z_phrase_0112,instant classic,medium,family-safe|english|gen-z,classic|instant|instant classic
+gen_z_phrases_en,gen_z_phrase_0113,classic me,medium,family-safe|english|gen-z,classic|classic me|me
+gen_z_phrases_en,gen_z_phrase_0114,me coded,medium,family-safe|english|gen-z,coded|me|me coded
+gen_z_phrases_en,gen_z_phrase_0115,you coded,medium,family-safe|english|gen-z,coded|you|you coded
+gen_z_phrases_en,gen_z_phrase_0116,so me,medium,family-safe|english|gen-z,me|so|so me
+gen_z_phrases_en,gen_z_phrase_0117,so real,medium,family-safe|english|gen-z,real|so|so real
+gen_z_phrases_en,gen_z_phrase_0118,real talk,medium,family-safe|english|gen-z,real|real talk|talk
+gen_z_phrases_en,gen_z_phrase_0119,real,medium,family-safe|english|gen-z,real
+gen_z_phrases_en,gen_z_phrase_0120,facts,medium,family-safe|english|gen-z,facts
+gen_z_phrases_en,gen_z_phrase_0121,fax no printer,medium,family-safe|english|gen-z,fax|fax no printer|no|printer
+gen_z_phrases_en,gen_z_phrase_0122,not gonna lie,medium,family-safe|english|gen-z,gonna|lie|not|not gonna lie
+gen_z_phrases_en,gen_z_phrase_0123,ngl,medium,family-safe|english|gen-z,ngl
+gen_z_phrases_en,gen_z_phrase_0124,to be honest,medium,family-safe|english|gen-z,be|honest|to|to be honest
+gen_z_phrases_en,gen_z_phrase_0125,tbh,medium,family-safe|english|gen-z,tbh
+gen_z_phrases_en,gen_z_phrase_0126,shook,medium,family-safe|english|gen-z,shook
+gen_z_phrases_en,gen_z_phrase_0127,shooketh,medium,family-safe|english|gen-z,shooketh
+gen_z_phrases_en,gen_z_phrase_0128,unbothered,medium,family-safe|english|gen-z,unbothered
+gen_z_phrases_en,gen_z_phrase_0129,booked and busy,medium,family-safe|english|gen-z,and|booked|booked and busy|busy
+gen_z_phrases_en,gen_z_phrase_0130,living rent free,medium,family-safe|english|gen-z,free|living|living rent free|rent
+gen_z_phrases_en,gen_z_phrase_0131,out of pocket,medium,family-safe|english|gen-z,of|out|out of pocket|pocket
+gen_z_phrases_en,gen_z_phrase_0132,wild,medium,family-safe|english|gen-z,wild
+gen_z_phrases_en,gen_z_phrase_0133,chaotic good,medium,family-safe|english|gen-z,chaotic|chaotic good|good
+gen_z_phrases_en,gen_z_phrase_0134,chaotic energy,medium,family-safe|english|gen-z,chaotic|chaotic energy|energy
+gen_z_phrases_en,gen_z_phrase_0135,wholesome,medium,family-safe|english|gen-z,wholesome
+gen_z_phrases_en,gen_z_phrase_0136,wholesome vibes,medium,family-safe|english|gen-z,vibes|wholesome|wholesome vibes
+gen_z_phrases_en,gen_z_phrase_0137,soft launch era,medium,family-safe|english|gen-z,era|launch|soft|soft launch era
+gen_z_phrases_en,gen_z_phrase_0138,hard launch era,medium,family-safe|english|gen-z,era|hard|hard launch era|launch
+gen_z_phrases_en,gen_z_phrase_0139,camera eats first,medium,family-safe|english|gen-z,camera|camera eats first|eats|first
+gen_z_phrases_en,gen_z_phrase_0140,phone eats first,medium,family-safe|english|gen-z,eats|first|phone|phone eats first
+gen_z_phrases_en,gen_z_phrase_0141,photo dump,medium,family-safe|english|gen-z,dump|photo|photo dump
+gen_z_phrases_en,gen_z_phrase_0142,mini vlog,medium,family-safe|english|gen-z,mini|mini vlog|vlog
+gen_z_phrases_en,gen_z_phrase_0143,get ready with me,medium,family-safe|english|gen-z,get|get ready with me|me|ready|with
+gen_z_phrases_en,gen_z_phrase_0144,grwm,medium,family-safe|english|gen-z,grwm
+gen_z_phrases_en,gen_z_phrase_0145,day in my life,medium,family-safe|english|gen-z,day|day in my life|in|life|my
+gen_z_phrases_en,gen_z_phrase_0146,clean girl,medium,family-safe|english|gen-z,clean|clean girl|girl
+gen_z_phrases_en,gen_z_phrase_0147,clean aesthetic,medium,family-safe|english|gen-z,aesthetic|clean|clean aesthetic
+gen_z_phrases_en,gen_z_phrase_0148,cottagecore,medium,family-safe|english|gen-z,cottagecore
+gen_z_phrases_en,gen_z_phrase_0149,goblincore,medium,family-safe|english|gen-z,goblincore
+gen_z_phrases_en,gen_z_phrase_0150,barbiecore,medium,family-safe|english|gen-z,barbiecore
+gen_z_phrases_en,gen_z_phrase_0151,dopamine dressing,medium,family-safe|english|gen-z,dopamine|dopamine dressing|dressing
+gen_z_phrases_en,gen_z_phrase_0152,quiet quitting,medium,family-safe|english|gen-z,quiet|quiet quitting|quitting
+gen_z_phrases_en,gen_z_phrase_0153,loud budgeting,medium,family-safe|english|gen-z,budgeting|loud|loud budgeting
+gen_z_phrases_en,gen_z_phrase_0154,girl math,medium,family-safe|english|gen-z,girl|girl math|math
+gen_z_phrases_en,gen_z_phrase_0155,boy math,medium,family-safe|english|gen-z,boy|boy math|math
+gen_z_phrases_en,gen_z_phrase_0156,girl boss,medium,family-safe|english|gen-z,boss|girl|girl boss
+gen_z_phrases_en,gen_z_phrase_0157,boss move,medium,family-safe|english|gen-z,boss|boss move|move
+gen_z_phrases_en,gen_z_phrase_0158,understood no crumbs,medium,family-safe|english|gen-z,crumbs|no|understood|understood no crumbs
+gen_z_phrases_en,gen_z_phrase_0159,ate that,medium,family-safe|english|gen-z,ate|ate that|that
+gen_z_phrases_en,gen_z_phrase_0160,devoured,medium,family-safe|english|gen-z,devoured
+gen_z_phrases_en,gen_z_phrase_0161,left no crumbs,medium,family-safe|english|gen-z,crumbs|left|left no crumbs|no
+gen_z_phrases_en,gen_z_phrase_0162,mother,medium,family-safe|english|gen-z,mother
+gen_z_phrases_en,gen_z_phrase_0163,slay queen,medium,family-safe|english|gen-z,queen|slay|slay queen
+gen_z_phrases_en,gen_z_phrase_0164,queen behavior,medium,family-safe|english|gen-z,behavior|queen|queen behavior
+gen_z_phrases_en,gen_z_phrase_0165,king behavior,medium,family-safe|english|gen-z,behavior|king|king behavior
+gen_z_phrases_en,gen_z_phrase_0166,legend behavior,medium,family-safe|english|gen-z,behavior|legend|legend behavior
+gen_z_phrases_en,gen_z_phrase_0167,icon behavior,medium,family-safe|english|gen-z,behavior|icon|icon behavior
+gen_z_phrases_en,gen_z_phrase_0168,main character moment,medium,family-safe|english|gen-z,character|main|main character moment|moment
+gen_z_phrases_en,gen_z_phrase_0169,npc moment,medium,family-safe|english|gen-z,moment|npc|npc moment
+gen_z_phrases_en,gen_z_phrase_0170,canon moment,medium,family-safe|english|gen-z,canon|canon moment|moment
+gen_z_phrases_en,gen_z_phrase_0171,core memory unlocked,medium,family-safe|english|gen-z,core|core memory unlocked|memory|unlocked
+gen_z_phrases_en,gen_z_phrase_0172,memory unlocked,medium,family-safe|english|gen-z,memory|memory unlocked|unlocked
+gen_z_phrases_en,gen_z_phrase_0173,unlocking new lore,medium,family-safe|english|gen-z,lore|new|unlocking|unlocking new lore
+gen_z_phrases_en,gen_z_phrase_0174,lore drop,medium,family-safe|english|gen-z,drop|lore|lore drop
+gen_z_phrases_en,gen_z_phrase_0175,deep lore,medium,family-safe|english|gen-z,deep|deep lore|lore
+gen_z_phrases_en,gen_z_phrase_0176,side quest unlocked,medium,family-safe|english|gen-z,quest|side|side quest unlocked|unlocked
+gen_z_phrases_en,gen_z_phrase_0177,new era unlocked,medium,family-safe|english|gen-z,era|new|new era unlocked|unlocked
+gen_z_phrases_en,gen_z_phrase_0178,energy check,medium,family-safe|english|gen-z,check|energy|energy check
+gen_z_phrases_en,gen_z_phrase_0179,vibe shift,medium,family-safe|english|gen-z,shift|vibe|vibe shift
+gen_z_phrases_en,gen_z_phrase_0180,vibe reset,medium,family-safe|english|gen-z,reset|vibe|vibe reset
+gen_z_phrases_en,gen_z_phrase_0181,vibe unlocked,medium,family-safe|english|gen-z,unlocked|vibe|vibe unlocked
+gen_z_phrases_en,gen_z_phrase_0182,vibe curator,medium,family-safe|english|gen-z,curator|vibe|vibe curator
+gen_z_phrases_en,gen_z_phrase_0183,the vibes are immaculate,medium,family-safe|english|gen-z,are|immaculate|the|the vibes are immaculate|vibes
+gen_z_phrases_en,gen_z_phrase_0184,immaculate vibes,medium,family-safe|english|gen-z,immaculate|immaculate vibes|vibes
+gen_z_phrases_en,gen_z_phrase_0185,good vibes only,medium,family-safe|english|gen-z,good|good vibes only|only|vibes
+gen_z_phrases_en,gen_z_phrase_0186,bad vibes,medium,family-safe|english|gen-z,bad|bad vibes|vibes
+gen_z_phrases_en,gen_z_phrase_0187,chaos mode,medium,family-safe|english|gen-z,chaos|chaos mode|mode
+gen_z_phrases_en,gen_z_phrase_0188,goblin mode,medium,family-safe|english|gen-z,goblin|goblin mode|mode
+gen_z_phrases_en,gen_z_phrase_0189,cozy mode,medium,family-safe|english|gen-z,cozy|cozy mode|mode
+gen_z_phrases_en,gen_z_phrase_0190,focus mode,medium,family-safe|english|gen-z,focus|focus mode|mode
+gen_z_phrases_en,gen_z_phrase_0191,study mode,medium,family-safe|english|gen-z,mode|study|study mode
+gen_z_phrases_en,gen_z_phrase_0192,sleep mode,medium,family-safe|english|gen-z,mode|sleep|sleep mode
+gen_z_phrases_en,gen_z_phrase_0193,party mode,medium,family-safe|english|gen-z,mode|party|party mode
+gen_z_phrases_en,gen_z_phrase_0194,bestie mode,medium,family-safe|english|gen-z,bestie|bestie mode|mode
+gen_z_phrases_en,gen_z_phrase_0195,camera ready,medium,family-safe|english|gen-z,camera|camera ready|ready
+gen_z_phrases_en,gen_z_phrase_0196,mic drop,medium,family-safe|english|gen-z,drop|mic|mic drop
+gen_z_phrases_en,gen_z_phrase_0197,drop the lore,medium,family-safe|english|gen-z,drop|drop the lore|lore|the
+gen_z_phrases_en,gen_z_phrase_0198,spill the tea,medium,family-safe|english|gen-z,spill|spill the tea|tea|the
+gen_z_phrases_en,gen_z_phrase_0199,tea,medium,family-safe|english|gen-z,tea
+gen_z_phrases_en,gen_z_phrase_0200,tea time,medium,family-safe|english|gen-z,tea|tea time|time
+gen_z_phrases_en,gen_z_phrase_0201,that's the tea,medium,family-safe|english|gen-z,tea|that's the tea|thats|thats the tea|the
+gen_z_phrases_en,gen_z_phrase_0202,no tea no shade,medium,family-safe|english|gen-z,no|no tea no shade|shade|tea
+gen_z_phrases_en,gen_z_phrase_0203,shade,medium,family-safe|english|gen-z,shade
+gen_z_phrases_en,gen_z_phrase_0204,lowkey slay,medium,family-safe|english|gen-z,lowkey|lowkey slay|slay
+gen_z_phrases_en,gen_z_phrase_0205,highkey slay,medium,family-safe|english|gen-z,highkey|highkey slay|slay
+gen_z_phrases_en,gen_z_phrase_0206,slay all day,medium,family-safe|english|gen-z,all|day|slay|slay all day
+gen_z_phrases_en,gen_z_phrase_0207,slay the day,medium,family-safe|english|gen-z,day|slay|slay the day|the
+gen_z_phrases_en,gen_z_phrase_0208,rizz check,medium,family-safe|english|gen-z,check|rizz|rizz check
+gen_z_phrases_en,gen_z_phrase_0209,rizz king,medium,family-safe|english|gen-z,king|rizz|rizz king
+gen_z_phrases_en,gen_z_phrase_0210,rizz queen,medium,family-safe|english|gen-z,queen|rizz|rizz queen
+gen_z_phrases_en,gen_z_phrase_0211,zero rizz,medium,family-safe|english|gen-z,rizz|zero|zero rizz
+gen_z_phrases_en,gen_z_phrase_0212,unspoken rizz,medium,family-safe|english|gen-z,rizz|unspoken|unspoken rizz
+gen_z_phrases_en,gen_z_phrase_0213,accidental rizz,medium,family-safe|english|gen-z,accidental|accidental rizz|rizz
+gen_z_phrases_en,gen_z_phrase_0214,anti-rizz,medium,family-safe|english|gen-z,anti|anti-rizz|rizz
+gen_z_phrases_en,gen_z_phrase_0215,vibe dealer,medium,family-safe|english|gen-z,dealer|vibe|vibe dealer
+gen_z_phrases_en,gen_z_phrase_0216,mood board,medium,family-safe|english|gen-z,board|mood|mood board
+gen_z_phrases_en,gen_z_phrase_0217,aesthetic,medium,family-safe|english|gen-z,aesthetic
+gen_z_phrases_en,gen_z_phrase_0218,aesthetic check,medium,family-safe|english|gen-z,aesthetic|aesthetic check|check
+gen_z_phrases_en,gen_z_phrase_0219,fit ate,medium,family-safe|english|gen-z,ate|fit|fit ate
+gen_z_phrases_en,gen_z_phrase_0220,fit slays,medium,family-safe|english|gen-z,fit|fit slays|slays
+gen_z_phrases_en,gen_z_phrase_0221,outfit check,medium,family-safe|english|gen-z,check|outfit|outfit check
+gen_z_phrases_en,gen_z_phrase_0222,fresh fit,medium,family-safe|english|gen-z,fit|fresh|fresh fit
+gen_z_phrases_en,gen_z_phrase_0223,clean fit,medium,family-safe|english|gen-z,clean|clean fit|fit
+gen_z_phrases_en,gen_z_phrase_0224,drip check,medium,family-safe|english|gen-z,check|drip|drip check
+gen_z_phrases_en,gen_z_phrase_0225,dripped out,medium,family-safe|english|gen-z,dripped|dripped out|out
+gen_z_phrases_en,gen_z_phrase_0226,style era,medium,family-safe|english|gen-z,era|style|style era
+gen_z_phrases_en,gen_z_phrase_0227,glow up era,medium,family-safe|english|gen-z,era|glow|glow up era|up
+gen_z_phrases_en,gen_z_phrase_0228,glow down,medium,family-safe|english|gen-z,down|glow|glow down
+gen_z_phrases_en,gen_z_phrase_0229,level up,medium,family-safe|english|gen-z,level|level up|up
+gen_z_phrases_en,gen_z_phrase_0230,leveling up,medium,family-safe|english|gen-z,leveling|leveling up|up
+gen_z_phrases_en,gen_z_phrase_0231,skill issue,medium,family-safe|english|gen-z,issue|skill|skill issue
+gen_z_phrases_en,gen_z_phrase_0232,side eye,medium,family-safe|english|gen-z,eye|side|side eye
+gen_z_phrases_en,gen_z_phrase_0233,bombastic side eye,medium,family-safe|english|gen-z,bombastic|bombastic side eye|eye|side
+gen_z_phrases_en,gen_z_phrase_0234,look at you,medium,family-safe|english|gen-z,at|look|look at you|you
+gen_z_phrases_en,gen_z_phrase_0235,go bestie,medium,family-safe|english|gen-z,bestie|go|go bestie
+gen_z_phrases_en,gen_z_phrase_0236,we move,medium,family-safe|english|gen-z,move|we|we move
+gen_z_phrases_en,gen_z_phrase_0237,moving different,medium,family-safe|english|gen-z,different|moving|moving different
+gen_z_phrases_en,gen_z_phrase_0238,built different,medium,family-safe|english|gen-z,built|built different|different
+gen_z_phrases_en,gen_z_phrase_0239,built like that,medium,family-safe|english|gen-z,built|built like that|like|that
+gen_z_phrases_en,gen_z_phrase_0240,not built for this,medium,family-safe|english|gen-z,built|for|not|not built for this|this
+gen_z_phrases_en,gen_z_phrase_0241,send help,medium,family-safe|english|gen-z,help|send|send help
+gen_z_phrases_en,gen_z_phrase_0242,help,medium,family-safe|english|gen-z,help
+gen_z_phrases_en,gen_z_phrase_0243,I'm done,medium,family-safe|english|gen-z,I'm done|done|i'm done|im|im done
+gen_z_phrases_en,gen_z_phrase_0244,it's over,medium,family-safe|english|gen-z,it's over|its|its over|over
+gen_z_phrases_en,gen_z_phrase_0245,over it,medium,family-safe|english|gen-z,it|over|over it
+gen_z_phrases_en,gen_z_phrase_0246,we're so back,medium,family-safe|english|gen-z,back|so|we're so back|were|were so back
+gen_z_phrases_en,gen_z_phrase_0247,it's giving chaos,medium,family-safe|english|gen-z,chaos|giving|it's giving chaos|its|its giving chaos
+gen_z_phrases_en,gen_z_phrase_0248,it's giving cozy,medium,family-safe|english|gen-z,cozy|giving|it's giving cozy|its|its giving cozy
+gen_z_phrases_en,gen_z_phrase_0249,it's giving main character,medium,family-safe|english|gen-z,character|giving|it's giving main character|its|its giving main character|main
+gen_z_phrases_en,gen_z_phrase_0250,it's giving weekend,medium,family-safe|english|gen-z,giving|it's giving weekend|its|its giving weekend|weekend
+gen_z_phrases_en,gen_z_phrase_0251,it's giving homework,medium,family-safe|english|gen-z,giving|homework|it's giving homework|its|its giving homework
+gen_z_phrases_en,gen_z_phrase_0252,it's giving snack,medium,family-safe|english|gen-z,giving|it's giving snack|its|its giving snack|snack
+gen_z_phrases_en,gen_z_phrase_0253,it's a vibe,medium,family-safe|english|gen-z,a|it's a vibe|its|its a vibe|vibe
+gen_z_phrases_en,gen_z_phrase_0254,no thoughts head empty,medium,family-safe|english|gen-z,empty|head|no|no thoughts head empty|thoughts
+gen_z_phrases_en,gen_z_phrase_0255,brain empty,medium,family-safe|english|gen-z,brain|brain empty|empty
+gen_z_phrases_en,gen_z_phrase_0256,big brain,medium,family-safe|english|gen-z,big|big brain|brain
+gen_z_phrases_en,gen_z_phrase_0257,small win,medium,family-safe|english|gen-z,small|small win|win
+gen_z_phrases_en,gen_z_phrase_0258,daily slay,medium,family-safe|english|gen-z,daily|daily slay|slay
+movies_cn,movie_tv_0001,电影票,medium,family-safe|movies|tv,影|电|电影票|票
+movies_cn,movie_tv_0002,电影院,medium,family-safe|movies|tv,影|电|电影院|院
+movies_cn,movie_tv_0003,放映厅,medium,family-safe|movies|tv,厅|放|放映厅|映
+movies_cn,movie_tv_0004,大银幕,medium,family-safe|movies|tv,大|大银幕|幕|银
+movies_cn,movie_tv_0005,爆米花,medium,family-safe|movies|tv,爆|爆米花|米|花
+movies_cn,movie_tv_0006,可乐杯,medium,family-safe|movies|tv,乐|可|可乐杯|杯
+movies_cn,movie_tv_0007,预告片,medium,family-safe|movies|tv,告|片|预|预告片
+movies_cn,movie_tv_0008,片头,medium,family-safe|movies|tv,头|片|片头
+movies_cn,movie_tv_0009,片尾,medium,family-safe|movies|tv,尾|片|片尾
+movies_cn,movie_tv_0010,字幕,medium,family-safe|movies|tv,字|字幕|幕
+movies_cn,movie_tv_0011,配音,medium,family-safe|movies|tv,配|配音|音
+movies_cn,movie_tv_0012,旁白,medium,family-safe|movies|tv,旁|旁白|白
+movies_cn,movie_tv_0013,导演,medium,family-safe|movies|tv,导|导演|演
+movies_cn,movie_tv_0014,演员,medium,family-safe|movies|tv,员|演|演员
+movies_cn,movie_tv_0015,编剧,medium,family-safe|movies|tv,剧|编|编剧
+movies_cn,movie_tv_0016,制片人,medium,family-safe|movies|tv,人|制|制片人|片
+movies_cn,movie_tv_0017,摄影师,medium,family-safe|movies|tv,师|影|摄|摄影师
+movies_cn,movie_tv_0018,灯光师,medium,family-safe|movies|tv,光|师|灯|灯光师
+movies_cn,movie_tv_0019,化妆师,medium,family-safe|movies|tv,化|化妆师|妆|师
+movies_cn,movie_tv_0020,服装师,medium,family-safe|movies|tv,师|服|服装师|装
+movies_cn,movie_tv_0021,道具师,medium,family-safe|movies|tv,具|师|道|道具师
+movies_cn,movie_tv_0022,场记,medium,family-safe|movies|tv,场|场记|记
+movies_cn,movie_tv_0023,剪辑师,medium,family-safe|movies|tv,剪|剪辑师|师|辑
+movies_cn,movie_tv_0024,配乐师,medium,family-safe|movies|tv,乐|师|配|配乐师
+movies_cn,movie_tv_0025,音效师,medium,family-safe|movies|tv,师|效|音|音效师
+movies_cn,movie_tv_0026,特效师,medium,family-safe|movies|tv,师|效|特|特效师
+movies_cn,movie_tv_0027,群演,medium,family-safe|movies|tv,演|群|群演
+movies_cn,movie_tv_0028,主角,medium,family-safe|movies|tv,主|主角|角
+movies_cn,movie_tv_0029,配角,medium,family-safe|movies|tv,角|配|配角
+movies_cn,movie_tv_0030,反派,medium,family-safe|movies|tv,反|反派|派
+movies_cn,movie_tv_0031,英雄,medium,family-safe|movies|tv,英|英雄|雄
+movies_cn,movie_tv_0032,侦探,medium,family-safe|movies|tv,侦|侦探|探
+movies_cn,movie_tv_0033,法师,medium,family-safe|movies|tv,师|法|法师
+movies_cn,movie_tv_0034,骑士,medium,family-safe|movies|tv,士|骑|骑士
+movies_cn,movie_tv_0035,公主,medium,family-safe|movies|tv,主|公|公主
+movies_cn,movie_tv_0036,王子,medium,family-safe|movies|tv,子|王|王子
+movies_cn,movie_tv_0037,机器人,medium,family-safe|movies|tv,人|器|机|机器人
+movies_cn,movie_tv_0038,外星人,medium,family-safe|movies|tv,人|外|外星人|星
+movies_cn,movie_tv_0039,怪兽,medium,family-safe|movies|tv,兽|怪|怪兽
+movies_cn,movie_tv_0040,小精灵,medium,family-safe|movies|tv,小|小精灵|灵|精
+movies_cn,movie_tv_0041,超级英雄,medium,family-safe|movies|tv,级|英|超|超级英雄|雄
+movies_cn,movie_tv_0042,动画片,medium,family-safe|movies|tv,动|动画片|片|画
+movies_cn,movie_tv_0043,喜剧片,medium,family-safe|movies|tv,剧|喜|喜剧片|片
+movies_cn,movie_tv_0044,爱情片,medium,family-safe|movies|tv,情|爱|爱情片|片
+movies_cn,movie_tv_0045,冒险片,medium,family-safe|movies|tv,冒|冒险片|片|险
+movies_cn,movie_tv_0046,科幻片,medium,family-safe|movies|tv,幻|片|科|科幻片
+movies_cn,movie_tv_0047,奇幻片,medium,family-safe|movies|tv,奇|奇幻片|幻|片
+movies_cn,movie_tv_0048,纪录片,medium,family-safe|movies|tv,录|片|纪|纪录片
+movies_cn,movie_tv_0049,音乐片,medium,family-safe|movies|tv,乐|片|音|音乐片
+movies_cn,movie_tv_0050,歌舞片,medium,family-safe|movies|tv,歌|歌舞片|片|舞
+movies_cn,movie_tv_0051,武侠片,medium,family-safe|movies|tv,侠|武|武侠片|片
+movies_cn,movie_tv_0052,功夫片,medium,family-safe|movies|tv,功|功夫片|夫|片
+movies_cn,movie_tv_0053,家庭片,medium,family-safe|movies|tv,家|家庭片|庭|片
+movies_cn,movie_tv_0054,校园剧,medium,family-safe|movies|tv,剧|园|校|校园剧
+movies_cn,movie_tv_0055,古装剧,medium,family-safe|movies|tv,剧|古|古装剧|装
+movies_cn,movie_tv_0056,都市剧,medium,family-safe|movies|tv,剧|市|都|都市剧
+movies_cn,movie_tv_0057,美食剧,medium,family-safe|movies|tv,剧|美|美食剧|食
+movies_cn,movie_tv_0058,旅行剧,medium,family-safe|movies|tv,剧|旅|旅行剧|行
+movies_cn,movie_tv_0059,宠物电影,medium,family-safe|movies|tv,宠|宠物电影|影|物|电
+movies_cn,movie_tv_0060,动物电影,medium,family-safe|movies|tv,动|动物电影|影|物|电
+movies_cn,movie_tv_0061,儿童片,medium,family-safe|movies|tv,儿|儿童片|片|童
+movies_cn,movie_tv_0062,贺岁片,medium,family-safe|movies|tv,岁|片|贺|贺岁片
+movies_cn,movie_tv_0063,短片,medium,family-safe|movies|tv,片|短|短片
+movies_cn,movie_tv_0064,微电影,medium,family-safe|movies|tv,影|微|微电影|电
+movies_cn,movie_tv_0065,电视剧,medium,family-safe|movies|tv,剧|电|电视剧|视
+movies_cn,movie_tv_0066,综艺节目,medium,family-safe|movies|tv,目|综|综艺节目|艺|节
+movies_cn,movie_tv_0067,网络剧,medium,family-safe|movies|tv,剧|络|网|网络剧
+movies_cn,movie_tv_0068,迷你剧,medium,family-safe|movies|tv,你|剧|迷|迷你剧
+movies_cn,movie_tv_0069,连续剧,medium,family-safe|movies|tv,剧|续|连|连续剧
+movies_cn,movie_tv_0070,大结局,medium,family-safe|movies|tv,大|大结局|局|结
+movies_cn,movie_tv_0071,第一集,medium,family-safe|movies|tv,一|第|第一集|集
+movies_cn,movie_tv_0072,下一集,medium,family-safe|movies|tv,一|下|下一集|集
+movies_cn,movie_tv_0073,重播,medium,family-safe|movies|tv,播|重|重播
+movies_cn,movie_tv_0074,片花,medium,family-safe|movies|tv,片|片花|花
+movies_cn,movie_tv_0075,海报,medium,family-safe|movies|tv,报|海|海报
+movies_cn,movie_tv_0076,剧照,medium,family-safe|movies|tv,剧|剧照|照
+movies_cn,movie_tv_0077,花絮,medium,family-safe|movies|tv,絮|花|花絮
+movies_cn,movie_tv_0078,彩蛋,medium,family-safe|movies|tv,彩|彩蛋|蛋
+movies_cn,movie_tv_0079,幕后,medium,family-safe|movies|tv,后|幕|幕后
+movies_cn,movie_tv_0080,镜头,medium,family-safe|movies|tv,头|镜|镜头
+movies_cn,movie_tv_0081,特写,medium,family-safe|movies|tv,写|特|特写
+movies_cn,movie_tv_0082,远景,medium,family-safe|movies|tv,景|远|远景
+movies_cn,movie_tv_0083,近景,medium,family-safe|movies|tv,景|近|近景
+movies_cn,movie_tv_0084,航拍,medium,family-safe|movies|tv,拍|航|航拍
+movies_cn,movie_tv_0085,慢动作,medium,family-safe|movies|tv,作|动|慢|慢动作
+movies_cn,movie_tv_0086,快进,medium,family-safe|movies|tv,快|快进|进
+movies_cn,movie_tv_0087,倒放,medium,family-safe|movies|tv,倒|倒放|放
+movies_cn,movie_tv_0088,定格,medium,family-safe|movies|tv,定|定格|格
+movies_cn,movie_tv_0089,转场,medium,family-safe|movies|tv,场|转|转场
+movies_cn,movie_tv_0090,闪回,medium,family-safe|movies|tv,回|闪|闪回
+movies_cn,movie_tv_0091,蒙太奇,medium,family-safe|movies|tv,太|奇|蒙|蒙太奇
+movies_cn,movie_tv_0092,长镜头,medium,family-safe|movies|tv,头|镜|长|长镜头
+movies_cn,movie_tv_0093,推镜头,medium,family-safe|movies|tv,头|推|推镜头|镜
+movies_cn,movie_tv_0094,拉镜头,medium,family-safe|movies|tv,头|拉|拉镜头|镜
+movies_cn,movie_tv_0095,摇镜头,medium,family-safe|movies|tv,头|摇|摇镜头|镜
+movies_cn,movie_tv_0096,跟拍,medium,family-safe|movies|tv,拍|跟|跟拍
+movies_cn,movie_tv_0097,手持镜头,medium,family-safe|movies|tv,头|手|手持镜头|持|镜
+movies_cn,movie_tv_0098,绿幕,medium,family-safe|movies|tv,幕|绿|绿幕
+movies_cn,movie_tv_0099,蓝幕,medium,family-safe|movies|tv,幕|蓝|蓝幕
+movies_cn,movie_tv_0100,威亚,medium,family-safe|movies|tv,亚|威|威亚
+movies_cn,movie_tv_0101,替身,medium,family-safe|movies|tv,替|替身|身
+movies_cn,movie_tv_0102,动作戏,medium,family-safe|movies|tv,作|动|动作戏|戏
+movies_cn,movie_tv_0103,追车戏,medium,family-safe|movies|tv,戏|车|追|追车戏
+movies_cn,movie_tv_0104,追逐戏,medium,family-safe|movies|tv,戏|追|追逐戏|逐
+movies_cn,movie_tv_0105,打斗戏,medium,family-safe|movies|tv,戏|打|打斗戏|斗
+movies_cn,movie_tv_0106,跳舞戏,medium,family-safe|movies|tv,戏|舞|跳|跳舞戏
+movies_cn,movie_tv_0107,唱歌戏,medium,family-safe|movies|tv,唱|唱歌戏|戏|歌
+movies_cn,movie_tv_0108,哭戏,medium,family-safe|movies|tv,哭|哭戏|戏
+movies_cn,movie_tv_0109,笑场,medium,family-safe|movies|tv,场|笑|笑场
+movies_cn,movie_tv_0110,即兴表演,medium,family-safe|movies|tv,兴|即|即兴表演|演|表
+movies_cn,movie_tv_0111,台词,medium,family-safe|movies|tv,台|台词|词
+movies_cn,movie_tv_0112,对白,medium,family-safe|movies|tv,对|对白|白
+movies_cn,movie_tv_0113,独白,medium,family-safe|movies|tv,独|独白|白
+movies_cn,movie_tv_0114,口播,medium,family-safe|movies|tv,口|口播|播
+movies_cn,movie_tv_0115,试镜,medium,family-safe|movies|tv,试|试镜|镜
+movies_cn,movie_tv_0116,开机,medium,family-safe|movies|tv,开|开机|机
+movies_cn,movie_tv_0117,杀青,medium,family-safe|movies|tv,杀|杀青|青
+movies_cn,movie_tv_0118,首映礼,medium,family-safe|movies|tv,映|礼|首|首映礼
+movies_cn,movie_tv_0119,红毯,medium,family-safe|movies|tv,毯|红|红毯
+movies_cn,movie_tv_0120,颁奖礼,medium,family-safe|movies|tv,奖|礼|颁|颁奖礼
+movies_cn,movie_tv_0121,奖杯,medium,family-safe|movies|tv,奖|奖杯|杯
+movies_cn,movie_tv_0122,掌声,medium,family-safe|movies|tv,声|掌|掌声
+movies_cn,movie_tv_0123,观众,medium,family-safe|movies|tv,众|观|观众
+movies_cn,movie_tv_0124,粉丝,medium,family-safe|movies|tv,丝|粉|粉丝
+movies_cn,movie_tv_0125,影评,medium,family-safe|movies|tv,影|影评|评
+movies_cn,movie_tv_0126,评分,medium,family-safe|movies|tv,分|评|评分
+movies_cn,movie_tv_0127,票房,medium,family-safe|movies|tv,房|票|票房
+movies_cn,movie_tv_0128,影院座位,medium,family-safe|movies|tv,位|座|影|影院座位|院
+movies_cn,movie_tv_0129,检票口,medium,family-safe|movies|tv,口|检|检票口|票
+movies_cn,movie_tv_0130,座位号,medium,family-safe|movies|tv,位|号|座|座位号
+movies_cn,movie_tv_0131,3D眼镜,medium,family-safe|movies|tv,3|3D眼镜|D|眼|镜
+movies_cn,movie_tv_0132,IMAX厅,medium,family-safe|movies|tv,A|I|IMAX厅|M|X|厅
+movies_cn,movie_tv_0133,巨幕厅,medium,family-safe|movies|tv,厅|巨|巨幕厅|幕
+movies_cn,movie_tv_0134,家庭影院,medium,family-safe|movies|tv,家|家庭影院|庭|影|院
+movies_cn,movie_tv_0135,遥控器,medium,family-safe|movies|tv,器|控|遥|遥控器
+movies_cn,movie_tv_0136,投影仪,medium,family-safe|movies|tv,仪|影|投|投影仪
+movies_cn,movie_tv_0137,幕布,medium,family-safe|movies|tv,布|幕|幕布
+movies_cn,movie_tv_0138,麦克风,medium,family-safe|movies|tv,克|风|麦|麦克风
+movies_cn,movie_tv_0139,录音棚,medium,family-safe|movies|tv,录|录音棚|棚|音
+movies_cn,movie_tv_0140,摄影棚,medium,family-safe|movies|tv,影|摄|摄影棚|棚
+movies_cn,movie_tv_0141,化妆间,medium,family-safe|movies|tv,化|化妆间|妆|间
+movies_cn,movie_tv_0142,更衣室,medium,family-safe|movies|tv,室|更|更衣室|衣
+movies_cn,movie_tv_0143,服装架,medium,family-safe|movies|tv,服|服装架|架|装
+movies_cn,movie_tv_0144,道具箱,medium,family-safe|movies|tv,具|箱|道|道具箱
+movies_cn,movie_tv_0145,场景板,medium,family-safe|movies|tv,场|场景板|景|板
+movies_cn,movie_tv_0146,打板,medium,family-safe|movies|tv,打|打板|板
+movies_cn,movie_tv_0147,场景,medium,family-safe|movies|tv,场|场景|景
+movies_cn,movie_tv_0148,布景,medium,family-safe|movies|tv,布|布景|景
+movies_cn,movie_tv_0149,外景,medium,family-safe|movies|tv,外|外景|景
+movies_cn,movie_tv_0150,内景,medium,family-safe|movies|tv,内|内景|景
+movies_cn,movie_tv_0151,片场,medium,family-safe|movies|tv,场|片|片场
+movies_cn,movie_tv_0152,剧组,medium,family-safe|movies|tv,剧|剧组|组
+movies_cn,movie_tv_0153,剧本,medium,family-safe|movies|tv,剧|剧本|本
+movies_cn,movie_tv_0154,分镜,medium,family-safe|movies|tv,分|分镜|镜
+movies_cn,movie_tv_0155,通告单,medium,family-safe|movies|tv,单|告|通|通告单
+movies_cn,movie_tv_0156,片酬,medium,family-safe|movies|tv,片|片酬|酬
+movies_cn,movie_tv_0157,档期,medium,family-safe|movies|tv,期|档|档期
+movies_cn,movie_tv_0158,造型,medium,family-safe|movies|tv,型|造|造型
+movies_cn,movie_tv_0159,妆容,medium,family-safe|movies|tv,妆|妆容|容
+movies_cn,movie_tv_0160,假发,medium,family-safe|movies|tv,假|假发|发
+movies_cn,movie_tv_0161,胡子,medium,family-safe|movies|tv,子|胡|胡子
+movies_cn,movie_tv_0162,斗篷,medium,family-safe|movies|tv,斗|斗篷|篷
+movies_cn,movie_tv_0163,披风,medium,family-safe|movies|tv,披|披风|风
+movies_cn,movie_tv_0164,皇冠,medium,family-safe|movies|tv,冠|皇|皇冠
+movies_cn,movie_tv_0165,魔法棒,medium,family-safe|movies|tv,棒|法|魔|魔法棒
+movies_cn,movie_tv_0166,宝箱,medium,family-safe|movies|tv,宝|宝箱|箱
+movies_cn,movie_tv_0167,地图卷轴,medium,family-safe|movies|tv,卷|图|地|地图卷轴|轴
+movies_cn,movie_tv_0168,飞船,medium,family-safe|movies|tv,船|飞|飞船
+movies_cn,movie_tv_0169,火箭,medium,family-safe|movies|tv,火|火箭|箭
+movies_cn,movie_tv_0170,城堡,medium,family-safe|movies|tv,城|城堡|堡
+movies_cn,movie_tv_0171,森林,medium,family-safe|movies|tv,林|森|森林
+movies_cn,movie_tv_0172,沙漠,medium,family-safe|movies|tv,沙|沙漠|漠
+movies_cn,movie_tv_0173,海岛,medium,family-safe|movies|tv,岛|海|海岛
+movies_cn,movie_tv_0174,雪山,medium,family-safe|movies|tv,山|雪|雪山
+movies_cn,movie_tv_0175,太空站,medium,family-safe|movies|tv,太|太空站|空|站
+movies_cn,movie_tv_0176,实验室,medium,family-safe|movies|tv,实|实验室|室|验
+movies_cn,movie_tv_0177,秘密基地,medium,family-safe|movies|tv,地|基|密|秘|秘密基地
+movies_cn,movie_tv_0178,侦探社,medium,family-safe|movies|tv,侦|侦探社|探|社
+movies_cn,movie_tv_0179,魔法学校,medium,family-safe|movies|tv,学|校|法|魔|魔法学校
+movies_cn,movie_tv_0180,咖啡馆,medium,family-safe|movies|tv,咖|咖啡馆|啡|馆
+movies_cn,movie_tv_0181,餐厅场景,medium,family-safe|movies|tv,厅|场|景|餐|餐厅场景
+movies_cn,movie_tv_0182,医院场景,medium,family-safe|movies|tv,医|医院场景|场|景|院
+movies_cn,movie_tv_0183,学校场景,medium,family-safe|movies|tv,场|学|学校场景|景|校
+movies_cn,movie_tv_0184,办公室场景,medium,family-safe|movies|tv,公|办|办公室场景|场|室|景
+movies_cn,movie_tv_0185,法庭场景,medium,family-safe|movies|tv,场|庭|景|法|法庭场景
+movies_cn,movie_tv_0186,舞台,medium,family-safe|movies|tv,台|舞|舞台
+movies_cn,movie_tv_0187,灯光,medium,family-safe|movies|tv,光|灯|灯光
+movies_cn,movie_tv_0188,聚光灯,medium,family-safe|movies|tv,光|灯|聚|聚光灯
+movies_cn,movie_tv_0189,幕布拉开,medium,family-safe|movies|tv,布|幕|幕布拉开|开|拉
+movies_cn,movie_tv_0190,谢幕,medium,family-safe|movies|tv,幕|谢|谢幕
+movies_cn,movie_tv_0191,开场白,medium,family-safe|movies|tv,场|开|开场白|白
+movies_cn,movie_tv_0192,主题曲,medium,family-safe|movies|tv,主|主题曲|曲|题
+movies_cn,movie_tv_0193,插曲,medium,family-safe|movies|tv,插|插曲|曲
+movies_cn,movie_tv_0194,片尾曲,medium,family-safe|movies|tv,尾|曲|片|片尾曲
+movies_cn,movie_tv_0195,配乐,medium,family-safe|movies|tv,乐|配|配乐
+movies_cn,movie_tv_0196,音轨,medium,family-safe|movies|tv,轨|音|音轨
+movies_cn,movie_tv_0197,声卡,medium,family-safe|movies|tv,卡|声|声卡
+movies_cn,movie_tv_0198,耳返,medium,family-safe|movies|tv,耳|耳返|返
+movies_cn,movie_tv_0199,录音笔,medium,family-safe|movies|tv,录|录音笔|笔|音
+movies_cn,movie_tv_0200,导演椅,medium,family-safe|movies|tv,导|导演椅|椅|演
+movies_cn,movie_tv_0201,监视器,medium,family-safe|movies|tv,器|监|监视器|视
+movies_cn,movie_tv_0202,场务,medium,family-safe|movies|tv,务|场|场务
+movies_cn,movie_tv_0203,打光板,medium,family-safe|movies|tv,光|打|打光板|板
+movies_cn,movie_tv_0204,反光板,medium,family-safe|movies|tv,光|反|反光板|板
+movies_cn,movie_tv_0205,收音杆,medium,family-safe|movies|tv,收|收音杆|杆|音
+movies_cn,movie_tv_0206,摄影机,medium,family-safe|movies|tv,影|摄|摄影机|机
+movies_cn,movie_tv_0207,三脚架,medium,family-safe|movies|tv,三|三脚架|架|脚
+movies_cn,movie_tv_0208,轨道车,medium,family-safe|movies|tv,车|轨|轨道车|道
+movies_cn,movie_tv_0209,无人机,medium,family-safe|movies|tv,人|无|无人机|机
+movies_cn,movie_tv_0210,稳定器,medium,family-safe|movies|tv,器|定|稳|稳定器
+movies_cn,movie_tv_0211,胶片,medium,family-safe|movies|tv,片|胶|胶片
+movies_cn,movie_tv_0212,胶卷,medium,family-safe|movies|tv,卷|胶|胶卷
+movies_cn,movie_tv_0213,数字摄影,medium,family-safe|movies|tv,字|影|摄|数|数字摄影
+movies_cn,movie_tv_0214,黑白片,medium,family-safe|movies|tv,片|白|黑|黑白片
+movies_cn,movie_tv_0215,彩色片,medium,family-safe|movies|tv,彩|彩色片|片|色
+movies_cn,movie_tv_0216,高清画质,medium,family-safe|movies|tv,清|画|质|高|高清画质
+movies_cn,movie_tv_0217,蓝光碟,medium,family-safe|movies|tv,光|碟|蓝|蓝光碟
+movies_cn,movie_tv_0218,流媒体,medium,family-safe|movies|tv,体|媒|流|流媒体
+movies_cn,movie_tv_0219,点播,medium,family-safe|movies|tv,播|点|点播
+movies_cn,movie_tv_0220,收藏夹,medium,family-safe|movies|tv,夹|收|收藏夹|藏
+movies_cn,movie_tv_0221,追剧,medium,family-safe|movies|tv,剧|追|追剧
+movies_cn,movie_tv_0222,倍速播放,medium,family-safe|movies|tv,倍|倍速播放|播|放|速
+movies_cn,movie_tv_0223,暂停键,medium,family-safe|movies|tv,停|暂|暂停键|键
+movies_cn,movie_tv_0224,播放键,medium,family-safe|movies|tv,播|播放键|放|键
+movies_cn,movie_tv_0225,静音,medium,family-safe|movies|tv,静|静音|音
+movies_cn,movie_tv_0226,弹幕,medium,family-safe|movies|tv,幕|弹|弹幕
+movies_cn,movie_tv_0227,剧透,medium,family-safe|movies|tv,剧|剧透|透
+movies_cn,movie_tv_0228,反转,medium,family-safe|movies|tv,反|反转|转
+movies_cn,movie_tv_0229,悬念,medium,family-safe|movies|tv,念|悬|悬念
+movies_cn,movie_tv_0230,伏笔,medium,family-safe|movies|tv,伏|伏笔|笔
+movies_cn,movie_tv_0231,彩蛋镜头,medium,family-safe|movies|tv,头|彩|彩蛋镜头|蛋|镜
+movies_cn,movie_tv_0232,名场面,medium,family-safe|movies|tv,名|名场面|场|面
+movies_cn,movie_tv_0233,高能片段,medium,family-safe|movies|tv,段|片|能|高|高能片段
+movies_cn,movie_tv_0234,温馨片段,medium,family-safe|movies|tv,段|温|温馨片段|片|馨
+movies_cn,movie_tv_0235,搞笑片段,medium,family-safe|movies|tv,搞|搞笑片段|段|片|笑
+movies_cn,movie_tv_0236,感人片段,medium,family-safe|movies|tv,人|感|感人片段|段|片
+movies_cn,movie_tv_0237,梦境戏,medium,family-safe|movies|tv,境|戏|梦|梦境戏
+movies_cn,movie_tv_0238,回忆戏,medium,family-safe|movies|tv,回|回忆戏|忆|戏
+movies_cn,movie_tv_0239,婚礼戏,medium,family-safe|movies|tv,婚|婚礼戏|戏|礼
+movies_cn,movie_tv_0240,生日戏,medium,family-safe|movies|tv,戏|日|生|生日戏
+movies_cn,movie_tv_0241,毕业戏,medium,family-safe|movies|tv,业|戏|毕|毕业戏
+movies_cn,movie_tv_0242,比赛戏,medium,family-safe|movies|tv,戏|比|比赛戏|赛
+movies_cn,movie_tv_0243,旅行戏,medium,family-safe|movies|tv,戏|旅|旅行戏|行
+movies_cn,movie_tv_0244,救援戏,medium,family-safe|movies|tv,戏|援|救|救援戏
+movies_cn,movie_tv_0245,逃跑戏,medium,family-safe|movies|tv,戏|跑|逃|逃跑戏
+movies_cn,movie_tv_0246,变装戏,medium,family-safe|movies|tv,变|变装戏|戏|装
+movies_cn,movie_tv_0247,化妆舞会,medium,family-safe|movies|tv,会|化|化妆舞会|妆|舞
+movies_cn,movie_tv_0248,舞台剧,medium,family-safe|movies|tv,剧|台|舞|舞台剧
+movies_cn,movie_tv_0249,木偶戏,medium,family-safe|movies|tv,偶|戏|木|木偶戏
+movies_cn,movie_tv_0250,皮影戏,medium,family-safe|movies|tv,影|戏|皮|皮影戏
+movies_cn,movie_tv_0251,京剧电影,medium,family-safe|movies|tv,京|京剧电影|剧|影|电
+movies_cn,movie_tv_0252,话剧舞台,medium,family-safe|movies|tv,剧|台|舞|话|话剧舞台
+movies_cn,movie_tv_0253,相声舞台,medium,family-safe|movies|tv,台|声|相|相声舞台|舞
+movies_cn,movie_tv_0254,小品,medium,family-safe|movies|tv,品|小|小品
+movies_cn,movie_tv_0255,脱口秀,medium,family-safe|movies|tv,口|秀|脱|脱口秀
+movies_cn,movie_tv_0256,采访,medium,family-safe|movies|tv,访|采|采访
+movies_cn,movie_tv_0257,主持人,medium,family-safe|movies|tv,主|主持人|人|持
+movies_cn,movie_tv_0258,嘉宾,medium,family-safe|movies|tv,嘉|嘉宾|宾
+movies_cn,movie_tv_0259,评委,medium,family-safe|movies|tv,委|评|评委
+movies_cn,movie_tv_0260,选手,medium,family-safe|movies|tv,手|选|选手
+movies_cn,movie_tv_0261,冠军,medium,family-safe|movies|tv,军|冠|冠军
+movies_cn,movie_tv_0262,淘汰,medium,family-safe|movies|tv,汰|淘|淘汰
+movies_cn,movie_tv_0263,复活赛,medium,family-safe|movies|tv,复|复活赛|活|赛
+movies_cn,movie_tv_0264,开场舞,medium,family-safe|movies|tv,场|开|开场舞|舞
+movies_cn,movie_tv_0265,压轴,medium,family-safe|movies|tv,压|压轴|轴
+movies_cn,movie_tv_0266,现场直播,medium,family-safe|movies|tv,场|播|现|现场直播|直
+movies_cn,movie_tv_0267,转播,medium,family-safe|movies|tv,播|转|转播
+movies_cn,movie_tv_0268,花字,medium,family-safe|movies|tv,字|花|花字
+movies_cn,movie_tv_0269,字幕组,medium,family-safe|movies|tv,字|字幕组|幕|组
+movies_cn,movie_tv_0270,配音秀,medium,family-safe|movies|tv,秀|配|配音秀|音
+movies_cn,movie_tv_0271,片单,medium,family-safe|movies|tv,单|片|片单
+movies_cn,movie_tv_0272,观影团,medium,family-safe|movies|tv,团|影|观|观影团
+movies_cn,movie_tv_0273,打卡照,medium,family-safe|movies|tv,卡|打|打卡照|照
+idioms_cn,idiom_0001,口是心非,medium,family-safe|idioms|performance,口|口是心非|心|是|非
+idioms_cn,idiom_0002,狼吞虎咽,medium,family-safe|idioms|performance,吞|咽|狼|狼吞虎咽|虎
+idioms_cn,idiom_0003,左右开弓,medium,family-safe|idioms|performance,右|左|左右开弓|开|弓
+idioms_cn,idiom_0004,一手遮天,medium,family-safe|idioms|performance,一|一手遮天|天|手|遮
+idioms_cn,idiom_0005,否极泰来,medium,family-safe|idioms|performance,否|否极泰来|来|极|泰
+idioms_cn,idiom_0006,井底之蛙,medium,family-safe|idioms|performance,之|井|井底之蛙|底|蛙
+idioms_cn,idiom_0007,守株待兔,medium,family-safe|idioms|performance,兔|守|守株待兔|待|株
+idioms_cn,idiom_0008,抱头鼠窜,medium,family-safe|idioms|performance,头|抱|抱头鼠窜|窜|鼠
+idioms_cn,idiom_0009,笑里藏刀,medium,family-safe|idioms|performance,刀|笑|笑里藏刀|藏|里
+idioms_cn,idiom_0010,饿虎扑食,medium,family-safe|idioms|performance,扑|虎|食|饿|饿虎扑食
+idioms_cn,idiom_0011,勇往直前,medium,family-safe|idioms|performance,前|勇|勇往直前|往|直
+idioms_cn,idiom_0012,一分为二,medium,family-safe|idioms|performance,一|一分为二|为|二|分
+idioms_cn,idiom_0013,虎口拔牙,medium,family-safe|idioms|performance,口|拔|牙|虎|虎口拔牙
+idioms_cn,idiom_0014,替罪羊,medium,family-safe|idioms|performance,替|替罪羊|罪|羊
+idioms_cn,idiom_0015,大摇大摆,medium,family-safe|idioms|performance,大|大摇大摆|摆|摇
+idioms_cn,idiom_0016,三长二短,medium,family-safe|idioms|performance,三|三长二短|二|短|长
+idioms_cn,idiom_0017,左右为难,medium,family-safe|idioms|performance,为|右|左|左右为难|难
+idioms_cn,idiom_0018,花枝招展,medium,family-safe|idioms|performance,展|招|枝|花|花枝招展
+idioms_cn,idiom_0019,七上八下,medium,family-safe|idioms|performance,七|七上八下|上|下|八
+idioms_cn,idiom_0020,画龙点睛,medium,family-safe|idioms|performance,点|画|画龙点睛|睛|龙
+idioms_cn,idiom_0021,手舞足蹈,medium,family-safe|idioms|performance,手|手舞足蹈|舞|足|蹈
+idioms_cn,idiom_0022,白日做梦,medium,family-safe|idioms|performance,做|日|梦|白|白日做梦
+idioms_cn,idiom_0023,化敌为友,medium,family-safe|idioms|performance,为|化|化敌为友|友|敌
+idioms_cn,idiom_0024,亡羊补牢,medium,family-safe|idioms|performance,亡|亡羊补牢|牢|羊|补
+idioms_cn,idiom_0025,逍遥法外,medium,family-safe|idioms|performance,外|法|逍|逍遥法外|遥
+idioms_cn,idiom_0026,胆小如鼠,medium,family-safe|idioms|performance,如|小|胆|胆小如鼠|鼠
+idioms_cn,idiom_0027,娇声娇气,medium,family-safe|idioms|performance,声|娇|娇声娇气|气
+idioms_cn,idiom_0028,泣不成声,medium,family-safe|idioms|performance,不|声|成|泣|泣不成声
+idioms_cn,idiom_0029,苦尽甘来,medium,family-safe|idioms|performance,尽|来|甘|苦|苦尽甘来
+idioms_cn,idiom_0030,一毛不拔,medium,family-safe|idioms|performance,一|一毛不拔|不|拔|毛
+idioms_cn,idiom_0031,天伦之乐,medium,family-safe|idioms|performance,之|乐|伦|天|天伦之乐
+idioms_cn,idiom_0032,有问必答,medium,family-safe|idioms|performance,必|有|有问必答|答|问
+idioms_cn,idiom_0033,鸡飞蛋打,medium,family-safe|idioms|performance,打|蛋|飞|鸡|鸡飞蛋打
+idioms_cn,idiom_0034,照镜子,medium,family-safe|idioms|performance,子|照|照镜子|镜
+idioms_cn,idiom_0035,吹毛求疵,medium,family-safe|idioms|performance,吹|吹毛求疵|毛|求|疵
+idioms_cn,idiom_0036,自投罗网,medium,family-safe|idioms|performance,投|网|罗|自|自投罗网
+idioms_cn,idiom_0037,卧虎藏龙,medium,family-safe|idioms|performance,卧|卧虎藏龙|藏|虎|龙
+idioms_cn,idiom_0038,耳旁风,medium,family-safe|idioms|performance,旁|耳|耳旁风|风
+idioms_cn,idiom_0039,鼠目寸光,medium,family-safe|idioms|performance,光|寸|目|鼠|鼠目寸光
+idioms_cn,idiom_0040,话中有话,medium,family-safe|idioms|performance,中|有|话|话中有话
+idioms_cn,idiom_0041,呆若木鸡,medium,family-safe|idioms|performance,呆|呆若木鸡|木|若|鸡
+idioms_cn,idiom_0042,一五一十,medium,family-safe|idioms|performance,一|一五一十|五|十
+idioms_cn,idiom_0043,走马观花,medium,family-safe|idioms|performance,花|观|走|走马观花|马
+idioms_cn,idiom_0044,红光满面,medium,family-safe|idioms|performance,光|满|红|红光满面|面
+idioms_cn,idiom_0045,手无寸铁,medium,family-safe|idioms|performance,寸|手|手无寸铁|无|铁
+idioms_cn,idiom_0046,皆大欢喜,medium,family-safe|idioms|performance,喜|大|欢|皆|皆大欢喜
+idioms_cn,idiom_0047,活蹦乱跳,medium,family-safe|idioms|performance,乱|活|活蹦乱跳|跳|蹦
+idioms_cn,idiom_0048,乐不思蜀,medium,family-safe|idioms|performance,不|乐|乐不思蜀|思|蜀
+idioms_cn,idiom_0049,寻花问柳,medium,family-safe|idioms|performance,寻|寻花问柳|柳|花|问
+idioms_cn,idiom_0050,洋洋得意,medium,family-safe|idioms|performance,得|意|洋|洋洋得意
+idioms_cn,idiom_0051,一举两得,medium,family-safe|idioms|performance,一|一举两得|两|举|得
+idioms_cn,idiom_0052,晴天霹雳,medium,family-safe|idioms|performance,天|晴|晴天霹雳|雳|霹
+idioms_cn,idiom_0053,痛哭流涕,medium,family-safe|idioms|performance,哭|流|涕|痛|痛哭流涕
+idioms_cn,idiom_0054,草船借箭,medium,family-safe|idioms|performance,借|箭|船|草|草船借箭
+idioms_cn,idiom_0055,独一无二,medium,family-safe|idioms|performance,一|二|无|独|独一无二
+idioms_cn,idiom_0056,掌上明珠,medium,family-safe|idioms|performance,上|掌|掌上明珠|明|珠
+idioms_cn,idiom_0057,摇头摆尾,medium,family-safe|idioms|performance,头|尾|摆|摇|摇头摆尾
+idioms_cn,idiom_0058,小题大做,medium,family-safe|idioms|performance,做|大|小|小题大做|题
+idioms_cn,idiom_0059,论功行赏,medium,family-safe|idioms|performance,功|行|论|论功行赏|赏
+idioms_cn,idiom_0060,眉来眼去,medium,family-safe|idioms|performance,去|来|眉|眉来眼去|眼
+idioms_cn,idiom_0061,一路顺风,medium,family-safe|idioms|performance,一|一路顺风|路|顺|风
+idioms_cn,idiom_0062,暴跳如雷,medium,family-safe|idioms|performance,如|暴|暴跳如雷|跳|雷
+idioms_cn,idiom_0063,郎才女貌,medium,family-safe|idioms|performance,女|才|貌|郎|郎才女貌
+idioms_cn,idiom_0064,嚎啕大哭,medium,family-safe|idioms|performance,哭|啕|嚎|嚎啕大哭|大
+idioms_cn,idiom_0065,狗急跳墙,medium,family-safe|idioms|performance,墙|急|狗|狗急跳墙|跳
+idioms_cn,idiom_0066,杯弓蛇影,medium,family-safe|idioms|performance,弓|影|杯|杯弓蛇影|蛇
+idioms_cn,idiom_0067,牛鬼蛇神,medium,family-safe|idioms|performance,牛|牛鬼蛇神|神|蛇|鬼
+idioms_cn,idiom_0068,盲人摸象,medium,family-safe|idioms|performance,人|摸|盲|盲人摸象|象
+idioms_cn,idiom_0069,飞檐走壁,medium,family-safe|idioms|performance,壁|檐|走|飞|飞檐走壁
+idioms_cn,idiom_0070,感激涕零,medium,family-safe|idioms|performance,感|感激涕零|涕|激|零
+idioms_cn,idiom_0071,幸灾乐祸,medium,family-safe|idioms|performance,乐|幸|幸灾乐祸|灾|祸
+idioms_cn,idiom_0072,唉声叹气,medium,family-safe|idioms|performance,叹|唉|唉声叹气|声|气
+idioms_cn,idiom_0073,一帆风顺,medium,family-safe|idioms|performance,一|一帆风顺|帆|顺|风
+idioms_cn,idiom_0074,一笑倾城,medium,family-safe|idioms|performance,一|一笑倾城|倾|城|笑
+idioms_cn,idiom_0075,水落石出,medium,family-safe|idioms|performance,出|水|水落石出|石|落
+idioms_cn,idiom_0076,头重脚轻,medium,family-safe|idioms|performance,头|头重脚轻|脚|轻|重
+idioms_cn,idiom_0077,目瞪口呆,medium,family-safe|idioms|performance,口|呆|目|目瞪口呆|瞪
+idioms_cn,idiom_0078,泰山压顶,medium,family-safe|idioms|performance,压|山|泰|泰山压顶|顶
+idioms_cn,idiom_0079,情不自禁,medium,family-safe|idioms|performance,不|情|情不自禁|禁|自
+idioms_cn,idiom_0080,放牛归马,medium,family-safe|idioms|performance,归|放|放牛归马|牛|马
+idioms_cn,idiom_0081,画蛇添足,medium,family-safe|idioms|performance,添|画|画蛇添足|蛇|足
+idioms_cn,idiom_0082,对牛弹琴,medium,family-safe|idioms|performance,对|对牛弹琴|弹|牛|琴
+idioms_cn,idiom_0083,窈窕淑女,medium,family-safe|idioms|performance,女|淑|窈|窈窕淑女|窕
+idioms_cn,idiom_0084,牛头马面,medium,family-safe|idioms|performance,头|牛|牛头马面|面|马
+idioms_cn,idiom_0085,滔滔不绝,medium,family-safe|idioms|performance,不|滔|滔滔不绝|绝
+idioms_cn,idiom_0086,妙笔生花,medium,family-safe|idioms|performance,妙|妙笔生花|生|笔|花
+idioms_cn,idiom_0087,张牙舞爪,medium,family-safe|idioms|performance,张|张牙舞爪|爪|牙|舞
+idioms_cn,idiom_0088,拾金不昧,medium,family-safe|idioms|performance,不|拾|拾金不昧|昧|金
+idioms_cn,idiom_0089,鸟语花香,medium,family-safe|idioms|performance,花|语|香|鸟|鸟语花香
+idioms_cn,idiom_0090,妙手回春,medium,family-safe|idioms|performance,回|妙|妙手回春|手|春
+idioms_cn,idiom_0091,嬉皮笑脸,medium,family-safe|idioms|performance,嬉|嬉皮笑脸|皮|笑|脸
+idioms_cn,idiom_0092,穿针引线,medium,family-safe|idioms|performance,引|穿|穿针引线|线|针
+idioms_cn,idiom_0093,眉飞色舞,medium,family-safe|idioms|performance,眉|眉飞色舞|舞|色|飞
+idioms_cn,idiom_0094,左顾右盼,medium,family-safe|idioms|performance,右|左|左顾右盼|盼|顾
+idioms_cn,idiom_0095,愁眉苦脸,medium,family-safe|idioms|performance,愁|愁眉苦脸|眉|脸|苦
+idioms_cn,idiom_0096,东倒西歪,medium,family-safe|idioms|performance,东|东倒西歪|倒|歪|西
+idioms_cn,idiom_0097,蹑手蹑脚,medium,family-safe|idioms|performance,手|脚|蹑|蹑手蹑脚
+idioms_cn,idiom_0098,喜出望外,medium,family-safe|idioms|performance,出|喜|喜出望外|外|望
+idioms_cn,idiom_0099,垂头丧气,medium,family-safe|idioms|performance,丧|垂|垂头丧气|头|气
+idioms_cn,idiom_0100,昂首挺胸,medium,family-safe|idioms|performance,挺|昂|昂首挺胸|胸|首
+idioms_cn,idiom_0101,捧腹大笑,medium,family-safe|idioms|performance,大|捧|捧腹大笑|笑|腹
+idioms_cn,idiom_0102,贼眉鼠眼,medium,family-safe|idioms|performance,眉|眼|贼|贼眉鼠眼|鼠
+idioms_cn,idiom_0103,虎头蛇尾,medium,family-safe|idioms|performance,头|尾|虎|虎头蛇尾|蛇
+idioms_cn,idiom_0104,兔死狐悲,medium,family-safe|idioms|performance,兔|兔死狐悲|悲|死|狐
+idioms_cn,idiom_0105,龙腾虎跃,medium,family-safe|idioms|performance,腾|虎|跃|龙|龙腾虎跃
+idioms_cn,idiom_0106,自言自语,medium,family-safe|idioms|performance,自|自言自语|言|语
+idioms_cn,idiom_0107,撒腿就跑,medium,family-safe|idioms|performance,就|撒|撒腿就跑|腿|跑
+idioms_cn,idiom_0108,眉开眼笑,medium,family-safe|idioms|performance,开|眉|眉开眼笑|眼|笑
+idioms_cn,idiom_0109,大惊小怪,medium,family-safe|idioms|performance,大|大惊小怪|小|怪|惊
+idioms_cn,idiom_0110,从容不迫,medium,family-safe|idioms|performance,不|从|从容不迫|容|迫
+idioms_cn,idiom_0111,兴高采烈,medium,family-safe|idioms|performance,兴|兴高采烈|烈|采|高
+idioms_cn,idiom_0112,神气十足,medium,family-safe|idioms|performance,十|气|神|神气十足|足
+idioms_cn,idiom_0113,哭笑不得,medium,family-safe|idioms|performance,不|哭|哭笑不得|得|笑
+idioms_cn,idiom_0114,指手画脚,medium,family-safe|idioms|performance,手|指|指手画脚|画|脚
+idioms_cn,idiom_0115,东张西望,medium,family-safe|idioms|performance,东|东张西望|张|望|西
+idioms_cn,idiom_0116,一瘸一拐,medium,family-safe|idioms|performance,一|一瘸一拐|拐|瘸
+idioms_cn,idiom_0117,挤眉弄眼,medium,family-safe|idioms|performance,弄|挤|挤眉弄眼|眉|眼
+idioms_cn,idiom_0118,废寝忘食,medium,family-safe|idioms|performance,寝|废|废寝忘食|忘|食
+idioms_cn,idiom_0119,闻鸡起舞,medium,family-safe|idioms|performance,舞|起|闻|闻鸡起舞|鸡
+idioms_cn,idiom_0120,掩耳盗铃,medium,family-safe|idioms|performance,掩|掩耳盗铃|盗|耳|铃
+idioms_cn,idiom_0121,长吁短叹,medium,family-safe|idioms|performance,叹|吁|短|长|长吁短叹
+idioms_cn,idiom_0122,恍然大悟,medium,family-safe|idioms|performance,大|恍|恍然大悟|悟|然
+idioms_cn,idiom_0123,三心二意,medium,family-safe|idioms|performance,三|三心二意|二|心|意
+idioms_cn,idiom_0124,争先恐后,medium,family-safe|idioms|performance,争|争先恐后|先|后|恐
+idioms_cn,idiom_0125,一刀两断,medium,family-safe|idioms|performance,一|一刀两断|两|刀|断
+idioms_cn,idiom_0126,丢三落四,medium,family-safe|idioms|performance,三|丢|丢三落四|四|落
+idioms_cn,idiom_0127,坐井观天,medium,family-safe|idioms|performance,井|坐|坐井观天|天|观
+idioms_cn,idiom_0128,快马加鞭,medium,family-safe|idioms|performance,加|快|快马加鞭|鞭|马
+idioms_cn,idiom_0129,颠三倒四,medium,family-safe|idioms|performance,三|倒|四|颠|颠三倒四
+idioms_cn,idiom_0130,拔苗助长,medium,family-safe|idioms|performance,助|拔|拔苗助长|苗|长
+idioms_cn,idiom_0131,顺手牵羊,medium,family-safe|idioms|performance,手|牵|羊|顺|顺手牵羊
+idioms_cn,idiom_0132,喜上眉梢,medium,family-safe|idioms|performance,上|喜|喜上眉梢|梢|眉
+idioms_cn,idiom_0133,余音绕梁,medium,family-safe|idioms|performance,余|余音绕梁|梁|绕|音
+idioms_cn,idiom_0134,心照不宣,medium,family-safe|idioms|performance,不|宣|心|心照不宣|照
+idioms_cn,idiom_0135,七嘴八舌,medium,family-safe|idioms|performance,七|七嘴八舌|八|嘴|舌
+idioms_cn,idiom_0136,悲喜交加,medium,family-safe|idioms|performance,交|加|喜|悲|悲喜交加
+idioms_cn,idiom_0137,眉目传情,medium,family-safe|idioms|performance,传|情|目|眉|眉目传情
+idioms_cn,idiom_0138,一针见血,medium,family-safe|idioms|performance,一|一针见血|血|见|针
+idioms_cn,idiom_0139,一拍即合,medium,family-safe|idioms|performance,一|一拍即合|即|合|拍
+idioms_cn,idiom_0140,花好月圆,medium,family-safe|idioms|performance,圆|好|月|花|花好月圆
+idioms_cn,idiom_0141,骑虎难下,medium,family-safe|idioms|performance,下|虎|难|骑|骑虎难下
+idioms_cn,idiom_0142,虎头虎脑,medium,family-safe|idioms|performance,头|脑|虎|虎头虎脑
+idioms_cn,idiom_0143,吹吹打打,medium,family-safe|idioms|performance,吹|吹吹打打|打
+idioms_cn,idiom_0144,望眼欲穿,medium,family-safe|idioms|performance,望|望眼欲穿|欲|眼|穿
+idioms_cn,idiom_0145,一鸣惊人,medium,family-safe|idioms|performance,一|一鸣惊人|人|惊|鸣
+idioms_cn,idiom_0146,刻舟求剑,medium,family-safe|idioms|performance,刻|刻舟求剑|剑|求|舟
+idioms_cn,idiom_0147,如鱼得水,medium,family-safe|idioms|performance,如|如鱼得水|得|水|鱼
+idioms_cn,idiom_0148,三头六臂,medium,family-safe|idioms|performance,三|三头六臂|六|头|臂
+idioms_cn,idiom_0149,千真万确,medium,family-safe|idioms|performance,万|千|千真万确|真|确
+idioms_cn,idiom_0150,一锤定音,medium,family-safe|idioms|performance,一|一锤定音|定|锤|音
+idioms_cn,idiom_0151,杯水车薪,medium,family-safe|idioms|performance,杯|杯水车薪|水|薪|车
+idioms_cn,idiom_0152,归心似箭,medium,family-safe|idioms|performance,似|归|归心似箭|心|箭
+idioms_cn,idiom_0153,笔头生花,medium,family-safe|idioms|performance,头|生|笔|笔头生花|花
+idioms_cn,idiom_0154,马马虎虎,medium,family-safe|idioms|performance,虎|马|马马虎虎
+idioms_cn,idiom_0155,指桑骂槐,medium,family-safe|idioms|performance,指|指桑骂槐|桑|槐|骂
+idioms_cn,idiom_0156,人山人海,medium,family-safe|idioms|performance,人|人山人海|山|海
+idioms_cn,idiom_0157,移花接木,medium,family-safe|idioms|performance,接|木|移|移花接木|花
+idioms_cn,idiom_0158,人声鼎沸,medium,family-safe|idioms|performance,人|人声鼎沸|声|沸|鼎
+idioms_cn,idiom_0159,全心全意,medium,family-safe|idioms|performance,全|全心全意|心|意
+idioms_cn,idiom_0160,众望所归,medium,family-safe|idioms|performance,众|众望所归|归|所|望
+idioms_cn,idiom_0161,生龙活虎,medium,family-safe|idioms|performance,活|生|生龙活虎|虎|龙
+idioms_cn,idiom_0162,星罗棋布,medium,family-safe|idioms|performance,布|星|星罗棋布|棋|罗
+idioms_cn,idiom_0163,前因后果,medium,family-safe|idioms|performance,前|前因后果|后|因|果
+idioms_cn,idiom_0164,拨云见日,medium,family-safe|idioms|performance,云|拨|拨云见日|日|见
+idioms_cn,idiom_0165,返老还童,medium,family-safe|idioms|performance,童|老|返|返老还童|还
+idioms_cn,idiom_0166,一心一意,medium,family-safe|idioms|performance,一|一心一意|心|意
+idioms_cn,idiom_0167,心口不一,medium,family-safe|idioms|performance,一|不|口|心|心口不一
+idioms_cn,idiom_0168,心心相印,medium,family-safe|idioms|performance,印|心|心心相印|相
+idioms_cn,idiom_0169,吹牛拍马,medium,family-safe|idioms|performance,吹|吹牛拍马|拍|牛|马
+idioms_cn,idiom_0170,群龙无首,medium,family-safe|idioms|performance,无|群|群龙无首|首|龙
+idioms_cn,idiom_0171,车水马龙,medium,family-safe|idioms|performance,水|车|车水马龙|马|龙
+idioms_cn,idiom_0172,望穿秋水,medium,family-safe|idioms|performance,望|望穿秋水|水|秋|穿
+idioms_cn,idiom_0173,人仰马翻,medium,family-safe|idioms|performance,人|人仰马翻|仰|翻|马
+idioms_cn,idiom_0174,笔走龙蛇,medium,family-safe|idioms|performance,笔|笔走龙蛇|蛇|走|龙
+idioms_cn,idiom_0175,嘴甜心苦,medium,family-safe|idioms|performance,嘴|嘴甜心苦|心|甜|苦
+idioms_cn,idiom_0176,红男绿女,medium,family-safe|idioms|performance,女|男|红|红男绿女|绿
+idioms_cn,idiom_0177,飞鸟依人,medium,family-safe|idioms|performance,人|依|飞|飞鸟依人|鸟
+idioms_cn,idiom_0178,耳目一新,medium,family-safe|idioms|performance,一|新|目|耳|耳目一新
+idioms_cn,idiom_0179,海枯石烂,medium,family-safe|idioms|performance,枯|海|海枯石烂|烂|石
+idioms_cn,idiom_0180,狐假虎威,medium,family-safe|idioms|performance,假|威|狐|狐假虎威|虎
+idioms_cn,idiom_0181,无忧无虑,medium,family-safe|idioms|performance,忧|无|无忧无虑|虑
+idioms_cn,idiom_0182,八仙过海,medium,family-safe|idioms|performance,仙|八|八仙过海|海|过
+idioms_cn,idiom_0183,高山流水,medium,family-safe|idioms|performance,山|水|流|高|高山流水
+idioms_cn,idiom_0184,世外桃源,medium,family-safe|idioms|performance,世|世外桃源|外|桃|源
+idioms_cn,idiom_0185,落叶归根,medium,family-safe|idioms|performance,叶|归|根|落|落叶归根
+idioms_cn,idiom_0186,大器晚成,medium,family-safe|idioms|performance,器|大|大器晚成|成|晚
+idioms_cn,idiom_0187,愚公移山,medium,family-safe|idioms|performance,公|山|愚|愚公移山|移
+idioms_cn,idiom_0188,破釜沉舟,medium,family-safe|idioms|performance,沉|破|破釜沉舟|舟|釜
+idioms_cn,idiom_0189,海市蜃楼,medium,family-safe|idioms|performance,市|楼|海|海市蜃楼|蜃
+idioms_cn,idiom_0190,以德服人,medium,family-safe|idioms|performance,人|以|以德服人|德|服
+idioms_cn,idiom_0191,天涯海角,medium,family-safe|idioms|performance,天|天涯海角|海|涯|角
+idioms_cn,idiom_0192,永无止境,medium,family-safe|idioms|performance,境|无|止|永|永无止境
+idioms_cn,idiom_0193,青出于蓝,medium,family-safe|idioms|performance,于|出|蓝|青|青出于蓝
+idioms_cn,idiom_0194,青梅竹马,medium,family-safe|idioms|performance,梅|竹|青|青梅竹马|马
+idioms_cn,idiom_0195,醍醐灌顶,medium,family-safe|idioms|performance,灌|醍|醍醐灌顶|醐|顶
+idioms_cn,idiom_0196,女娲补天,medium,family-safe|idioms|performance,天|女|女娲补天|娲|补
+idioms_cn,idiom_0197,花言巧语,medium,family-safe|idioms|performance,巧|花|花言巧语|言|语
+idioms_cn,idiom_0198,东施效颦,medium,family-safe|idioms|performance,东|东施效颦|效|施|颦
+idioms_cn,idiom_0199,滥竽充数,medium,family-safe|idioms|performance,充|数|滥|滥竽充数|竽
+idioms_cn,idiom_0200,形影不离,medium,family-safe|idioms|performance,不|形|形影不离|影|离
+idioms_cn,idiom_0201,雾里看花,medium,family-safe|idioms|performance,看|花|里|雾|雾里看花
+idioms_cn,idiom_0202,半斤八两,medium,family-safe|idioms|performance,两|八|半|半斤八两|斤
+idioms_cn,idiom_0203,来历不明,medium,family-safe|idioms|performance,不|历|明|来|来历不明
+idioms_cn,idiom_0204,怒发冲冠,medium,family-safe|idioms|performance,冠|冲|发|怒|怒发冲冠
+idioms_cn,idiom_0205,河东狮吼,medium,family-safe|idioms|performance,东|吼|河|河东狮吼|狮
+idioms_cn,idiom_0206,吃喝玩乐,medium,family-safe|idioms|performance,乐|吃|吃喝玩乐|喝|玩
+idioms_cn,idiom_0207,一叶知秋,medium,family-safe|idioms|performance,一|一叶知秋|叶|知|秋
+idioms_cn,idiom_0208,大相径庭,medium,family-safe|idioms|performance,大|大相径庭|庭|径|相
+idioms_cn,idiom_0209,四面楚歌,medium,family-safe|idioms|performance,四|四面楚歌|楚|歌|面
+idioms_cn,idiom_0210,甜言蜜语,medium,family-safe|idioms|performance,甜|甜言蜜语|蜜|言|语
+idioms_cn,idiom_0211,买椟还珠,medium,family-safe|idioms|performance,买|买椟还珠|椟|珠|还
+idioms_cn,idiom_0212,纸上谈兵,medium,family-safe|idioms|performance,上|兵|纸|纸上谈兵|谈
+idioms_cn,idiom_0213,争分夺秒,medium,family-safe|idioms|performance,争|争分夺秒|分|夺|秒
+idioms_cn,idiom_0214,一无所有,medium,family-safe|idioms|performance,一|一无所有|所|无|有
+idioms_cn,idiom_0215,欢呼雀跃,medium,family-safe|idioms|performance,呼|欢|欢呼雀跃|跃|雀
+idioms_cn,idiom_0216,名副其实,medium,family-safe|idioms|performance,其|副|名|名副其实|实
+idioms_cn,idiom_0217,作茧自缚,medium,family-safe|idioms|performance,作|作茧自缚|缚|自|茧
+idioms_cn,idiom_0218,絮絮叨叨,medium,family-safe|idioms|performance,叨|絮|絮絮叨叨
+idioms_cn,idiom_0219,千钧一发,medium,family-safe|idioms|performance,一|千|千钧一发|发|钧
+idioms_cn,idiom_0220,交头接耳,medium,family-safe|idioms|performance,交|交头接耳|头|接|耳
+idioms_cn,idiom_0221,邯郸学步,medium,family-safe|idioms|performance,学|步|邯|邯郸学步|郸
+idioms_cn,idiom_0222,大智若愚,medium,family-safe|idioms|performance,大|大智若愚|愚|智|若
+idioms_cn,idiom_0223,返璞归真,medium,family-safe|idioms|performance,归|璞|真|返|返璞归真
+idioms_cn,idiom_0224,完璧归赵,medium,family-safe|idioms|performance,完|完璧归赵|归|璧|赵
+idioms_cn,idiom_0225,南辕北辙,medium,family-safe|idioms|performance,北|南|南辕北辙|辕|辙
+idioms_cn,idiom_0226,不约而同,medium,family-safe|idioms|performance,不|不约而同|同|约|而
+idioms_cn,idiom_0227,阳春白雪,medium,family-safe|idioms|performance,春|白|阳|阳春白雪|雪
+idioms_cn,idiom_0228,多多益善,medium,family-safe|idioms|performance,善|多|多多益善|益
+idioms_cn,idiom_0229,老马识途,medium,family-safe|idioms|performance,老|老马识途|识|途|马
+idioms_cn,idiom_0230,知足常乐,medium,family-safe|idioms|performance,乐|常|知|知足常乐|足
+idioms_cn,idiom_0231,不可思议,medium,family-safe|idioms|performance,不|不可思议|可|思|议
+idioms_cn,idiom_0232,杞人忧天,medium,family-safe|idioms|performance,人|天|忧|杞|杞人忧天
+idioms_cn,idiom_0233,姗姗来迟,medium,family-safe|idioms|performance,姗|姗姗来迟|来|迟

@@ -1,59 +1,3996 @@
 {
   "pack_id": "food_cn",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "display_name": {
     "zh-Hans": "美食",
     "zh-Hant": "美食",
     "en": "Food"
   },
   "description": {
-    "zh-Hans": "吃货最爱，适合全家一起猜。"
+    "zh-Hans": "吃货最爱，甜甜咸咸都好猜。",
+    "en": "Food favorites for playful guessing."
   },
   "language": "zh-Hans",
-  "category_tags": ["family-safe", "food", "starter", "concrete"],
+  "category_tags": [
+    "family-safe",
+    "food",
+    "starter",
+    "concrete"
+  ],
   "difficulty": "easy",
   "content_rating": "family",
-  "regions": ["CN", "TW", "HK", "global"],
+  "regions": [
+    "CN",
+    "TW",
+    "HK",
+    "global"
+  ],
   "cards": [
-    { "card_id": "food_0001", "answer": "米饭", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["米", "饭", "米饭", "mi fan", "rice"] },
-    { "card_id": "food_0002", "answer": "面条", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["面", "条", "面条", "mian tiao", "noodles"] },
-    { "card_id": "food_0003", "answer": "饺子", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["饺", "子", "饺子", "jiao zi", "dumplings"] },
-    { "card_id": "food_0004", "answer": "包子", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["包", "子", "包子", "bao zi", "steamed bun"] },
-    { "card_id": "food_0005", "answer": "馒头", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["馒", "头", "馒头", "man tou", "plain bun"] },
-    { "card_id": "food_0006", "answer": "火锅", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["火", "锅", "火锅", "huo guo", "hot pot"] },
-    { "card_id": "food_0007", "answer": "炒饭", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["炒", "饭", "炒饭", "chao fan", "fried rice"] },
-    { "card_id": "food_0008", "answer": "炒面", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["炒", "面", "炒面", "chao mian", "fried noodles"] },
-    { "card_id": "food_0009", "answer": "煎蛋", "difficulty": "easy", "tags": ["breakfast"], "banned_tokens": ["煎", "蛋", "煎蛋", "jian dan", "fried egg"] },
-    { "card_id": "food_0010", "answer": "油条", "difficulty": "easy", "tags": ["breakfast"], "banned_tokens": ["油", "条", "油条", "you tiao", "fried dough"] },
-    { "card_id": "food_0011", "answer": "豆浆", "difficulty": "easy", "tags": ["drink"], "banned_tokens": ["豆", "浆", "豆浆", "dou jiang", "soy milk"] },
-    { "card_id": "food_0012", "answer": "牛奶", "difficulty": "easy", "tags": ["drink"], "banned_tokens": ["牛", "奶", "牛奶", "niu nai", "milk"] },
-    { "card_id": "food_0013", "answer": "苹果", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["苹", "果", "苹果", "ping guo", "apple"] },
-    { "card_id": "food_0014", "answer": "香蕉", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["香", "蕉", "香蕉", "xiang jiao", "banana"] },
-    { "card_id": "food_0015", "answer": "西瓜", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["西", "瓜", "西瓜", "xi gua", "watermelon"] },
-    { "card_id": "food_0016", "answer": "草莓", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["草", "莓", "草莓", "cao mei", "strawberry"] },
-    { "card_id": "food_0017", "answer": "葡萄", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["葡", "萄", "葡萄", "pu tao", "grapes"] },
-    { "card_id": "food_0018", "answer": "橙子", "difficulty": "easy", "tags": ["fruit"], "banned_tokens": ["橙", "子", "橙子", "cheng zi", "orange"] },
-    { "card_id": "food_0019", "answer": "番茄", "difficulty": "easy", "tags": ["vegetable"], "banned_tokens": ["番", "茄", "番茄", "fan qie", "tomato"] },
-    { "card_id": "food_0020", "answer": "黄瓜", "difficulty": "easy", "tags": ["vegetable"], "banned_tokens": ["黄", "瓜", "黄瓜", "huang gua", "cucumber"] },
-    { "card_id": "food_0021", "answer": "胡萝卜", "difficulty": "easy", "tags": ["vegetable"], "banned_tokens": ["胡", "萝", "卜", "胡萝卜", "hu luo bo", "carrot"] },
-    { "card_id": "food_0022", "answer": "玉米", "difficulty": "easy", "tags": ["vegetable"], "banned_tokens": ["玉", "米", "玉米", "yu mi", "corn"] },
-    { "card_id": "food_0023", "answer": "土豆", "difficulty": "easy", "tags": ["vegetable"], "banned_tokens": ["土", "豆", "土豆", "tu dou", "potato"] },
-    { "card_id": "food_0024", "answer": "鸡腿", "difficulty": "easy", "tags": ["protein"], "banned_tokens": ["鸡", "腿", "鸡腿", "ji tui", "chicken leg"] },
-    { "card_id": "food_0025", "answer": "鱼丸", "difficulty": "easy", "tags": ["protein"], "banned_tokens": ["鱼", "丸", "鱼丸", "yu wan", "fish ball"] },
-    { "card_id": "food_0026", "answer": "豆腐", "difficulty": "easy", "tags": ["protein"], "banned_tokens": ["豆", "腐", "豆腐", "dou fu", "tofu"] },
-    { "card_id": "food_0027", "answer": "蛋糕", "difficulty": "easy", "tags": ["dessert"], "banned_tokens": ["蛋", "糕", "蛋糕", "dan gao", "cake"] },
-    { "card_id": "food_0028", "answer": "饼干", "difficulty": "easy", "tags": ["snack"], "banned_tokens": ["饼", "干", "饼干", "bing gan", "cookie"] },
-    { "card_id": "food_0029", "answer": "冰淇淋", "difficulty": "easy", "tags": ["dessert"], "banned_tokens": ["冰", "淇", "淋", "冰淇淋", "bing qi lin", "ice cream"] },
-    { "card_id": "food_0030", "answer": "巧克力", "difficulty": "easy", "tags": ["dessert"], "banned_tokens": ["巧", "克", "力", "巧克力", "qiao ke li", "chocolate"] },
-    { "card_id": "food_0031", "answer": "糖葫芦", "difficulty": "easy", "tags": ["snack"], "banned_tokens": ["糖", "葫", "芦", "糖葫芦", "tang hu lu", "candied haw"] },
-    { "card_id": "food_0032", "answer": "爆米花", "difficulty": "easy", "tags": ["snack"], "banned_tokens": ["爆", "米", "花", "爆米花", "bao mi hua", "popcorn"] },
-    { "card_id": "food_0033", "answer": "薯条", "difficulty": "easy", "tags": ["snack"], "banned_tokens": ["薯", "条", "薯条", "shu tiao", "fries"] },
-    { "card_id": "food_0034", "answer": "汉堡", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["汉", "堡", "汉堡", "han bao", "burger"] },
-    { "card_id": "food_0035", "answer": "披萨", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["披", "萨", "披萨", "pi sa", "pizza"] },
-    { "card_id": "food_0036", "answer": "三明治", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["三", "明", "治", "三明治", "san ming zhi", "sandwich"] },
-    { "card_id": "food_0037", "answer": "寿司", "difficulty": "easy", "tags": ["meal"], "banned_tokens": ["寿", "司", "寿司", "shou si", "sushi"] },
-    { "card_id": "food_0038", "answer": "粽子", "difficulty": "easy", "tags": ["staple"], "banned_tokens": ["粽", "子", "粽子", "zong zi", "rice dumpling"] },
-    { "card_id": "food_0039", "answer": "月饼", "difficulty": "easy", "tags": ["dessert"], "banned_tokens": ["月", "饼", "月饼", "yue bing", "mooncake"] },
-    { "card_id": "food_0040", "answer": "柠檬水", "difficulty": "easy", "tags": ["drink"], "banned_tokens": ["柠", "檬", "水", "柠檬水", "ning meng shui", "lemonade"] }
+    {
+      "card_id": "food_0001",
+      "answer": "米饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "米",
+        "米饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0002",
+      "answer": "面条",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "条",
+        "面",
+        "面条"
+      ]
+    },
+    {
+      "card_id": "food_0003",
+      "answer": "馒头",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "头",
+        "馒",
+        "馒头"
+      ]
+    },
+    {
+      "card_id": "food_0004",
+      "answer": "包子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "包子",
+        "子"
+      ]
+    },
+    {
+      "card_id": "food_0005",
+      "answer": "饺子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "饺",
+        "饺子"
+      ]
+    },
+    {
+      "card_id": "food_0006",
+      "answer": "馄饨",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "饨",
+        "馄",
+        "馄饨"
+      ]
+    },
+    {
+      "card_id": "food_0007",
+      "answer": "烧饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烧",
+        "烧饼",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0008",
+      "answer": "油条",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "条",
+        "油",
+        "油条"
+      ]
+    },
+    {
+      "card_id": "food_0009",
+      "answer": "花卷",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卷",
+        "花",
+        "花卷"
+      ]
+    },
+    {
+      "card_id": "food_0010",
+      "answer": "粥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "粥"
+      ]
+    },
+    {
+      "card_id": "food_0011",
+      "answer": "蛋炒饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炒",
+        "蛋",
+        "蛋炒饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0012",
+      "answer": "扬州炒饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "州",
+        "扬",
+        "扬州炒饭",
+        "炒",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0013",
+      "answer": "炒面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炒",
+        "炒面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0014",
+      "answer": "牛肉面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "牛",
+        "牛肉面",
+        "肉",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0015",
+      "answer": "拉面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "拉",
+        "拉面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0016",
+      "answer": "刀削面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "刀",
+        "刀削面",
+        "削",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0017",
+      "answer": "重庆小面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "庆",
+        "重",
+        "重庆小面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0018",
+      "answer": "担担面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "担",
+        "担担面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0019",
+      "answer": "炸酱面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炸",
+        "炸酱面",
+        "酱",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0020",
+      "answer": "热干面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "干",
+        "热",
+        "热干面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0021",
+      "answer": "米粉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "米",
+        "米粉",
+        "粉"
+      ]
+    },
+    {
+      "card_id": "food_0022",
+      "answer": "螺蛳粉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "粉",
+        "蛳",
+        "螺",
+        "螺蛳粉"
+      ]
+    },
+    {
+      "card_id": "food_0023",
+      "answer": "酸辣粉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "粉",
+        "辣",
+        "酸",
+        "酸辣粉"
+      ]
+    },
+    {
+      "card_id": "food_0024",
+      "answer": "河粉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河粉",
+        "粉"
+      ]
+    },
+    {
+      "card_id": "food_0025",
+      "answer": "凉皮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "凉",
+        "凉皮",
+        "皮"
+      ]
+    },
+    {
+      "card_id": "food_0026",
+      "answer": "煎饼果子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "果",
+        "煎",
+        "煎饼果子",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0027",
+      "answer": "手抓饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "手",
+        "手抓饼",
+        "抓",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0028",
+      "answer": "烤红薯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烤红薯",
+        "红",
+        "薯"
+      ]
+    },
+    {
+      "card_id": "food_0029",
+      "answer": "玉米",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "玉",
+        "玉米",
+        "米"
+      ]
+    },
+    {
+      "card_id": "food_0030",
+      "answer": "玉米粒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "玉",
+        "玉米粒",
+        "米",
+        "粒"
+      ]
+    },
+    {
+      "card_id": "food_0031",
+      "answer": "土豆",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "土",
+        "土豆",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0032",
+      "answer": "红薯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "红",
+        "红薯",
+        "薯"
+      ]
+    },
+    {
+      "card_id": "food_0033",
+      "answer": "山药",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "山",
+        "山药",
+        "药"
+      ]
+    },
+    {
+      "card_id": "food_0034",
+      "answer": "芋头",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "头",
+        "芋",
+        "芋头"
+      ]
+    },
+    {
+      "card_id": "food_0035",
+      "answer": "南瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "南",
+        "南瓜",
+        "瓜"
+      ]
+    },
+    {
+      "card_id": "food_0036",
+      "answer": "冬瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "冬",
+        "冬瓜",
+        "瓜"
+      ]
+    },
+    {
+      "card_id": "food_0037",
+      "answer": "黄瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "瓜",
+        "黄",
+        "黄瓜"
+      ]
+    },
+    {
+      "card_id": "food_0038",
+      "answer": "西红柿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "柿",
+        "红",
+        "西",
+        "西红柿"
+      ]
+    },
+    {
+      "card_id": "food_0039",
+      "answer": "番茄",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "番",
+        "番茄",
+        "茄"
+      ]
+    },
+    {
+      "card_id": "food_0040",
+      "answer": "胡萝卜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卜",
+        "胡",
+        "胡萝卜",
+        "萝"
+      ]
+    },
+    {
+      "card_id": "food_0041",
+      "answer": "白萝卜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卜",
+        "白",
+        "白萝卜",
+        "萝"
+      ]
+    },
+    {
+      "card_id": "food_0042",
+      "answer": "青椒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "椒",
+        "青",
+        "青椒"
+      ]
+    },
+    {
+      "card_id": "food_0043",
+      "answer": "辣椒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "椒",
+        "辣",
+        "辣椒"
+      ]
+    },
+    {
+      "card_id": "food_0044",
+      "answer": "茄子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "茄",
+        "茄子"
+      ]
+    },
+    {
+      "card_id": "food_0045",
+      "answer": "豆角",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "角",
+        "豆",
+        "豆角"
+      ]
+    },
+    {
+      "card_id": "food_0046",
+      "answer": "西兰花",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "兰",
+        "花",
+        "西",
+        "西兰花"
+      ]
+    },
+    {
+      "card_id": "food_0047",
+      "answer": "花菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "花",
+        "花菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0048",
+      "answer": "白菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "白",
+        "白菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0049",
+      "answer": "娃娃菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "娃",
+        "娃娃菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0050",
+      "answer": "生菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "生",
+        "生菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0051",
+      "answer": "菠菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菜",
+        "菠",
+        "菠菜"
+      ]
+    },
+    {
+      "card_id": "food_0052",
+      "answer": "油麦菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "油",
+        "油麦菜",
+        "菜",
+        "麦"
+      ]
+    },
+    {
+      "card_id": "food_0053",
+      "answer": "韭菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菜",
+        "韭",
+        "韭菜"
+      ]
+    },
+    {
+      "card_id": "food_0054",
+      "answer": "香菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菜",
+        "香",
+        "香菜"
+      ]
+    },
+    {
+      "card_id": "food_0055",
+      "answer": "葱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "葱"
+      ]
+    },
+    {
+      "card_id": "food_0056",
+      "answer": "姜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "姜"
+      ]
+    },
+    {
+      "card_id": "food_0057",
+      "answer": "蒜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蒜"
+      ]
+    },
+    {
+      "card_id": "food_0058",
+      "answer": "蘑菇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菇",
+        "蘑",
+        "蘑菇"
+      ]
+    },
+    {
+      "card_id": "food_0059",
+      "answer": "香菇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菇",
+        "香",
+        "香菇"
+      ]
+    },
+    {
+      "card_id": "food_0060",
+      "answer": "金针菇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菇",
+        "金",
+        "金针菇",
+        "针"
+      ]
+    },
+    {
+      "card_id": "food_0061",
+      "answer": "木耳",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "木",
+        "木耳",
+        "耳"
+      ]
+    },
+    {
+      "card_id": "food_0062",
+      "answer": "海带",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "带",
+        "海",
+        "海带"
+      ]
+    },
+    {
+      "card_id": "food_0063",
+      "answer": "紫菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "紫",
+        "紫菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0064",
+      "answer": "豆腐",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "腐",
+        "豆",
+        "豆腐"
+      ]
+    },
+    {
+      "card_id": "food_0065",
+      "answer": "豆皮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "皮",
+        "豆",
+        "豆皮"
+      ]
+    },
+    {
+      "card_id": "food_0066",
+      "answer": "腐竹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "竹",
+        "腐",
+        "腐竹"
+      ]
+    },
+    {
+      "card_id": "food_0067",
+      "answer": "豆芽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "芽",
+        "豆",
+        "豆芽"
+      ]
+    },
+    {
+      "card_id": "food_0068",
+      "answer": "毛豆",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "毛",
+        "毛豆",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0069",
+      "answer": "花生",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "生",
+        "花",
+        "花生"
+      ]
+    },
+    {
+      "card_id": "food_0070",
+      "answer": "瓜子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "瓜",
+        "瓜子"
+      ]
+    },
+    {
+      "card_id": "food_0071",
+      "answer": "栗子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "栗",
+        "栗子"
+      ]
+    },
+    {
+      "card_id": "food_0072",
+      "answer": "核桃",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "核",
+        "核桃",
+        "桃"
+      ]
+    },
+    {
+      "card_id": "food_0073",
+      "answer": "榛子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "榛",
+        "榛子"
+      ]
+    },
+    {
+      "card_id": "food_0074",
+      "answer": "开心果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "开",
+        "开心果",
+        "心",
+        "果"
+      ]
+    },
+    {
+      "card_id": "food_0075",
+      "answer": "腰果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "腰",
+        "腰果"
+      ]
+    },
+    {
+      "card_id": "food_0076",
+      "answer": "芝麻",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "芝",
+        "芝麻",
+        "麻"
+      ]
+    },
+    {
+      "card_id": "food_0077",
+      "answer": "鸡蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛋",
+        "鸡",
+        "鸡蛋"
+      ]
+    },
+    {
+      "card_id": "food_0078",
+      "answer": "荷包蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "荷",
+        "荷包蛋",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0079",
+      "answer": "茶叶蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "叶",
+        "茶",
+        "茶叶蛋",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0080",
+      "answer": "煎蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "煎",
+        "煎蛋",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0081",
+      "answer": "蒸蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蒸",
+        "蒸蛋",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0082",
+      "answer": "牛奶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "牛",
+        "牛奶"
+      ]
+    },
+    {
+      "card_id": "food_0083",
+      "answer": "豆浆",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "浆",
+        "豆",
+        "豆浆"
+      ]
+    },
+    {
+      "card_id": "food_0084",
+      "answer": "酸奶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "酸",
+        "酸奶"
+      ]
+    },
+    {
+      "card_id": "food_0085",
+      "answer": "奶酪",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "奶酪",
+        "酪"
+      ]
+    },
+    {
+      "card_id": "food_0086",
+      "answer": "黄油",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "油",
+        "黄",
+        "黄油"
+      ]
+    },
+    {
+      "card_id": "food_0087",
+      "answer": "面包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "面",
+        "面包"
+      ]
+    },
+    {
+      "card_id": "food_0088",
+      "answer": "吐司",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "司",
+        "吐",
+        "吐司"
+      ]
+    },
+    {
+      "card_id": "food_0089",
+      "answer": "三明治",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "三",
+        "三明治",
+        "明",
+        "治"
+      ]
+    },
+    {
+      "card_id": "food_0090",
+      "answer": "汉堡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "堡",
+        "汉",
+        "汉堡"
+      ]
+    },
+    {
+      "card_id": "food_0091",
+      "answer": "披萨",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "披",
+        "披萨",
+        "萨"
+      ]
+    },
+    {
+      "card_id": "food_0092",
+      "answer": "薯条",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "条",
+        "薯",
+        "薯条"
+      ]
+    },
+    {
+      "card_id": "food_0093",
+      "answer": "热狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "热",
+        "热狗",
+        "狗"
+      ]
+    },
+    {
+      "card_id": "food_0094",
+      "answer": "沙拉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "拉",
+        "沙",
+        "沙拉"
+      ]
+    },
+    {
+      "card_id": "food_0095",
+      "answer": "寿司",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "司",
+        "寿",
+        "寿司"
+      ]
+    },
+    {
+      "card_id": "food_0096",
+      "answer": "饭团",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "团",
+        "饭",
+        "饭团"
+      ]
+    },
+    {
+      "card_id": "food_0097",
+      "answer": "咖喱饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "咖",
+        "咖喱饭",
+        "喱",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0098",
+      "answer": "盖浇饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "浇",
+        "盖",
+        "盖浇饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0099",
+      "answer": "煲仔饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仔",
+        "煲",
+        "煲仔饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0100",
+      "answer": "便当",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "便",
+        "便当",
+        "当"
+      ]
+    },
+    {
+      "card_id": "food_0101",
+      "answer": "火锅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "火",
+        "火锅",
+        "锅"
+      ]
+    },
+    {
+      "card_id": "food_0102",
+      "answer": "麻辣烫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烫",
+        "辣",
+        "麻",
+        "麻辣烫"
+      ]
+    },
+    {
+      "card_id": "food_0103",
+      "answer": "串串香",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "串",
+        "串串香",
+        "香"
+      ]
+    },
+    {
+      "card_id": "food_0104",
+      "answer": "烧烤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烧",
+        "烧烤"
+      ]
+    },
+    {
+      "card_id": "food_0105",
+      "answer": "烤串",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "串",
+        "烤",
+        "烤串"
+      ]
+    },
+    {
+      "card_id": "food_0106",
+      "answer": "烤鸡翅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烤鸡翅",
+        "翅",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "food_0107",
+      "answer": "烤玉米",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烤玉米",
+        "玉",
+        "米"
+      ]
+    },
+    {
+      "card_id": "food_0108",
+      "answer": "烤肉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烤肉",
+        "肉"
+      ]
+    },
+    {
+      "card_id": "food_0109",
+      "answer": "炸鸡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炸",
+        "炸鸡",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "food_0110",
+      "answer": "鸡腿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "腿",
+        "鸡",
+        "鸡腿"
+      ]
+    },
+    {
+      "card_id": "food_0111",
+      "answer": "鸡翅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "翅",
+        "鸡",
+        "鸡翅"
+      ]
+    },
+    {
+      "card_id": "food_0112",
+      "answer": "鸡排",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "排",
+        "鸡",
+        "鸡排"
+      ]
+    },
+    {
+      "card_id": "food_0113",
+      "answer": "鸡蛋饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛋",
+        "饼",
+        "鸡",
+        "鸡蛋饼"
+      ]
+    },
+    {
+      "card_id": "food_0114",
+      "answer": "牛排",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "排",
+        "牛",
+        "牛排"
+      ]
+    },
+    {
+      "card_id": "food_0115",
+      "answer": "牛肉丸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丸",
+        "牛",
+        "牛肉丸",
+        "肉"
+      ]
+    },
+    {
+      "card_id": "food_0116",
+      "answer": "鱼丸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丸",
+        "鱼",
+        "鱼丸"
+      ]
+    },
+    {
+      "card_id": "food_0117",
+      "answer": "虾滑",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "滑",
+        "虾",
+        "虾滑"
+      ]
+    },
+    {
+      "card_id": "food_0118",
+      "answer": "肉夹馍",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "夹",
+        "肉",
+        "肉夹馍",
+        "馍"
+      ]
+    },
+    {
+      "card_id": "food_0119",
+      "answer": "锅贴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "贴",
+        "锅",
+        "锅贴"
+      ]
+    },
+    {
+      "card_id": "food_0120",
+      "answer": "煎饺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "煎",
+        "煎饺",
+        "饺"
+      ]
+    },
+    {
+      "card_id": "food_0121",
+      "answer": "小笼包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "小",
+        "小笼包",
+        "笼"
+      ]
+    },
+    {
+      "card_id": "food_0122",
+      "answer": "汤包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "汤",
+        "汤包"
+      ]
+    },
+    {
+      "card_id": "food_0123",
+      "answer": "烧麦",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烧",
+        "烧麦",
+        "麦"
+      ]
+    },
+    {
+      "card_id": "food_0124",
+      "answer": "春卷",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卷",
+        "春",
+        "春卷"
+      ]
+    },
+    {
+      "card_id": "food_0125",
+      "answer": "粽子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "粽",
+        "粽子"
+      ]
+    },
+    {
+      "card_id": "food_0126",
+      "answer": "月饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "月",
+        "月饼",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0127",
+      "answer": "汤圆",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "圆",
+        "汤",
+        "汤圆"
+      ]
+    },
+    {
+      "card_id": "food_0128",
+      "answer": "元宵",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "元",
+        "元宵",
+        "宵"
+      ]
+    },
+    {
+      "card_id": "food_0129",
+      "answer": "年糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "年",
+        "年糕",
+        "糕"
+      ]
+    },
+    {
+      "card_id": "food_0130",
+      "answer": "糯米糍",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "米",
+        "糍",
+        "糯",
+        "糯米糍"
+      ]
+    },
+    {
+      "card_id": "food_0131",
+      "answer": "麻团",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "团",
+        "麻",
+        "麻团"
+      ]
+    },
+    {
+      "card_id": "food_0132",
+      "answer": "蛋糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糕",
+        "蛋",
+        "蛋糕"
+      ]
+    },
+    {
+      "card_id": "food_0133",
+      "answer": "生日蛋糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "日",
+        "生",
+        "生日蛋糕",
+        "糕",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0134",
+      "answer": "纸杯蛋糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "杯",
+        "糕",
+        "纸",
+        "纸杯蛋糕",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0135",
+      "answer": "芝士蛋糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "士",
+        "糕",
+        "芝",
+        "芝士蛋糕",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0136",
+      "answer": "蛋挞",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "挞",
+        "蛋",
+        "蛋挞"
+      ]
+    },
+    {
+      "card_id": "food_0137",
+      "answer": "布丁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丁",
+        "布",
+        "布丁"
+      ]
+    },
+    {
+      "card_id": "food_0138",
+      "answer": "果冻",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "冻",
+        "果",
+        "果冻"
+      ]
+    },
+    {
+      "card_id": "food_0139",
+      "answer": "冰淇淋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "冰",
+        "冰淇淋",
+        "淇",
+        "淋"
+      ]
+    },
+    {
+      "card_id": "food_0140",
+      "answer": "雪糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糕",
+        "雪",
+        "雪糕"
+      ]
+    },
+    {
+      "card_id": "food_0141",
+      "answer": "奶昔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "奶昔",
+        "昔"
+      ]
+    },
+    {
+      "card_id": "food_0142",
+      "answer": "奶茶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "奶茶",
+        "茶"
+      ]
+    },
+    {
+      "card_id": "food_0143",
+      "answer": "果茶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "果茶",
+        "茶"
+      ]
+    },
+    {
+      "card_id": "food_0144",
+      "answer": "柠檬茶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "柠",
+        "柠檬茶",
+        "檬",
+        "茶"
+      ]
+    },
+    {
+      "card_id": "food_0145",
+      "answer": "热巧克力",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "克",
+        "力",
+        "巧",
+        "热",
+        "热巧克力"
+      ]
+    },
+    {
+      "card_id": "food_0146",
+      "answer": "咖啡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "咖",
+        "咖啡",
+        "啡"
+      ]
+    },
+    {
+      "card_id": "food_0147",
+      "answer": "可可",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "可",
+        "可可"
+      ]
+    },
+    {
+      "card_id": "food_0148",
+      "answer": "蜂蜜水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "蜂",
+        "蜂蜜水",
+        "蜜"
+      ]
+    },
+    {
+      "card_id": "food_0149",
+      "answer": "矿泉水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "泉",
+        "矿",
+        "矿泉水"
+      ]
+    },
+    {
+      "card_id": "food_0150",
+      "answer": "汽水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "汽",
+        "汽水"
+      ]
+    },
+    {
+      "card_id": "food_0151",
+      "answer": "苏打水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "打",
+        "水",
+        "苏",
+        "苏打水"
+      ]
+    },
+    {
+      "card_id": "food_0152",
+      "answer": "橙汁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "橙",
+        "橙汁",
+        "汁"
+      ]
+    },
+    {
+      "card_id": "food_0153",
+      "answer": "苹果汁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "汁",
+        "苹",
+        "苹果汁"
+      ]
+    },
+    {
+      "card_id": "food_0154",
+      "answer": "西瓜汁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汁",
+        "瓜",
+        "西",
+        "西瓜汁"
+      ]
+    },
+    {
+      "card_id": "food_0155",
+      "answer": "椰汁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "椰",
+        "椰汁",
+        "汁"
+      ]
+    },
+    {
+      "card_id": "food_0156",
+      "answer": "苹果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "苹",
+        "苹果"
+      ]
+    },
+    {
+      "card_id": "food_0157",
+      "answer": "香蕉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蕉",
+        "香",
+        "香蕉"
+      ]
+    },
+    {
+      "card_id": "food_0158",
+      "answer": "橘子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "橘",
+        "橘子"
+      ]
+    },
+    {
+      "card_id": "food_0159",
+      "answer": "橙子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "橙",
+        "橙子"
+      ]
+    },
+    {
+      "card_id": "food_0160",
+      "answer": "柠檬",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "柠",
+        "柠檬",
+        "檬"
+      ]
+    },
+    {
+      "card_id": "food_0161",
+      "answer": "西瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "瓜",
+        "西",
+        "西瓜"
+      ]
+    },
+    {
+      "card_id": "food_0162",
+      "answer": "哈密瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "哈",
+        "哈密瓜",
+        "密",
+        "瓜"
+      ]
+    },
+    {
+      "card_id": "food_0163",
+      "answer": "甜瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "瓜",
+        "甜",
+        "甜瓜"
+      ]
+    },
+    {
+      "card_id": "food_0164",
+      "answer": "草莓",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "草",
+        "草莓",
+        "莓"
+      ]
+    },
+    {
+      "card_id": "food_0165",
+      "answer": "蓝莓",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "莓",
+        "蓝",
+        "蓝莓"
+      ]
+    },
+    {
+      "card_id": "food_0166",
+      "answer": "葡萄",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "萄",
+        "葡",
+        "葡萄"
+      ]
+    },
+    {
+      "card_id": "food_0167",
+      "answer": "提子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "提",
+        "提子"
+      ]
+    },
+    {
+      "card_id": "food_0168",
+      "answer": "樱桃",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "桃",
+        "樱",
+        "樱桃"
+      ]
+    },
+    {
+      "card_id": "food_0169",
+      "answer": "桃子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "桃",
+        "桃子"
+      ]
+    },
+    {
+      "card_id": "food_0170",
+      "answer": "梨",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "梨"
+      ]
+    },
+    {
+      "card_id": "food_0171",
+      "answer": "香梨",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "梨",
+        "香",
+        "香梨"
+      ]
+    },
+    {
+      "card_id": "food_0172",
+      "answer": "菠萝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菠",
+        "菠萝",
+        "萝"
+      ]
+    },
+    {
+      "card_id": "food_0173",
+      "answer": "芒果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "芒",
+        "芒果"
+      ]
+    },
+    {
+      "card_id": "food_0174",
+      "answer": "榴莲",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "榴",
+        "榴莲",
+        "莲"
+      ]
+    },
+    {
+      "card_id": "food_0175",
+      "answer": "山竹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "山",
+        "山竹",
+        "竹"
+      ]
+    },
+    {
+      "card_id": "food_0176",
+      "answer": "火龙果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "果",
+        "火",
+        "火龙果",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "food_0177",
+      "answer": "猕猴桃",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "桃",
+        "猕",
+        "猕猴桃",
+        "猴"
+      ]
+    },
+    {
+      "card_id": "food_0178",
+      "answer": "石榴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "榴",
+        "石",
+        "石榴"
+      ]
+    },
+    {
+      "card_id": "food_0179",
+      "answer": "柚子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "柚",
+        "柚子"
+      ]
+    },
+    {
+      "card_id": "food_0180",
+      "answer": "荔枝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "枝",
+        "荔",
+        "荔枝"
+      ]
+    },
+    {
+      "card_id": "food_0181",
+      "answer": "龙眼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "眼",
+        "龙",
+        "龙眼"
+      ]
+    },
+    {
+      "card_id": "food_0182",
+      "answer": "圣女果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "圣",
+        "圣女果",
+        "女",
+        "果"
+      ]
+    },
+    {
+      "card_id": "food_0183",
+      "answer": "椰子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "椰",
+        "椰子"
+      ]
+    },
+    {
+      "card_id": "food_0184",
+      "answer": "木瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "木",
+        "木瓜",
+        "瓜"
+      ]
+    },
+    {
+      "card_id": "food_0185",
+      "answer": "杏",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "杏"
+      ]
+    },
+    {
+      "card_id": "food_0186",
+      "answer": "李子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "李",
+        "李子"
+      ]
+    },
+    {
+      "card_id": "food_0187",
+      "answer": "枇杷",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "杷",
+        "枇",
+        "枇杷"
+      ]
+    },
+    {
+      "card_id": "food_0188",
+      "answer": "无花果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "无",
+        "无花果",
+        "果",
+        "花"
+      ]
+    },
+    {
+      "card_id": "food_0189",
+      "answer": "柿子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "柿",
+        "柿子"
+      ]
+    },
+    {
+      "card_id": "food_0190",
+      "answer": "枣",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "枣"
+      ]
+    },
+    {
+      "card_id": "food_0191",
+      "answer": "哈密瓜片",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "哈",
+        "哈密瓜片",
+        "密",
+        "片",
+        "瓜"
+      ]
+    },
+    {
+      "card_id": "food_0192",
+      "answer": "水果沙拉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "拉",
+        "果",
+        "水",
+        "水果沙拉",
+        "沙"
+      ]
+    },
+    {
+      "card_id": "food_0193",
+      "answer": "糖葫芦",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糖",
+        "糖葫芦",
+        "芦",
+        "葫"
+      ]
+    },
+    {
+      "card_id": "food_0194",
+      "answer": "棉花糖",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "棉",
+        "棉花糖",
+        "糖",
+        "花"
+      ]
+    },
+    {
+      "card_id": "food_0195",
+      "answer": "牛奶糖",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "牛",
+        "牛奶糖",
+        "糖"
+      ]
+    },
+    {
+      "card_id": "food_0196",
+      "answer": "巧克力",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "克",
+        "力",
+        "巧",
+        "巧克力"
+      ]
+    },
+    {
+      "card_id": "food_0197",
+      "answer": "棒棒糖",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "棒",
+        "棒棒糖",
+        "糖"
+      ]
+    },
+    {
+      "card_id": "food_0198",
+      "answer": "软糖",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糖",
+        "软",
+        "软糖"
+      ]
+    },
+    {
+      "card_id": "food_0199",
+      "answer": "饼干",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "干",
+        "饼",
+        "饼干"
+      ]
+    },
+    {
+      "card_id": "food_0200",
+      "answer": "曲奇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奇",
+        "曲",
+        "曲奇"
+      ]
+    },
+    {
+      "card_id": "food_0201",
+      "answer": "威化饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "化",
+        "威",
+        "威化饼",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0202",
+      "answer": "薯片",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "片",
+        "薯",
+        "薯片"
+      ]
+    },
+    {
+      "card_id": "food_0203",
+      "answer": "虾片",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "片",
+        "虾",
+        "虾片"
+      ]
+    },
+    {
+      "card_id": "food_0204",
+      "answer": "爆米花",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "爆",
+        "爆米花",
+        "米",
+        "花"
+      ]
+    },
+    {
+      "card_id": "food_0205",
+      "answer": "蛋黄酥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛋",
+        "蛋黄酥",
+        "酥",
+        "黄"
+      ]
+    },
+    {
+      "card_id": "food_0206",
+      "answer": "凤梨酥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "凤",
+        "凤梨酥",
+        "梨",
+        "酥"
+      ]
+    },
+    {
+      "card_id": "food_0207",
+      "answer": "绿豆糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糕",
+        "绿",
+        "绿豆糕",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0208",
+      "answer": "红豆糕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糕",
+        "红",
+        "红豆糕",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0209",
+      "answer": "豆沙包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "沙",
+        "豆",
+        "豆沙包"
+      ]
+    },
+    {
+      "card_id": "food_0210",
+      "answer": "莲蓉包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "莲",
+        "莲蓉包",
+        "蓉"
+      ]
+    },
+    {
+      "card_id": "food_0211",
+      "answer": "奶黄包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "奶",
+        "奶黄包",
+        "黄"
+      ]
+    },
+    {
+      "card_id": "food_0212",
+      "answer": "紫菜包饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "紫",
+        "紫菜包饭",
+        "菜",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0213",
+      "answer": "酸菜鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "菜",
+        "酸",
+        "酸菜鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "food_0214",
+      "answer": "水煮鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "水煮鱼",
+        "煮",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "food_0215",
+      "answer": "清蒸鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "清",
+        "清蒸鱼",
+        "蒸",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "food_0216",
+      "answer": "红烧鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烧",
+        "红",
+        "红烧鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "food_0217",
+      "answer": "糖醋鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糖",
+        "糖醋鱼",
+        "醋",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "food_0218",
+      "answer": "鱼香肉丝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丝",
+        "肉",
+        "香",
+        "鱼",
+        "鱼香肉丝"
+      ]
+    },
+    {
+      "card_id": "food_0219",
+      "answer": "宫保鸡丁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丁",
+        "保",
+        "宫",
+        "宫保鸡丁",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "food_0220",
+      "answer": "麻婆豆腐",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "婆",
+        "腐",
+        "豆",
+        "麻",
+        "麻婆豆腐"
+      ]
+    },
+    {
+      "card_id": "food_0221",
+      "answer": "西红柿炒蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "柿",
+        "炒",
+        "红",
+        "蛋",
+        "西",
+        "西红柿炒蛋"
+      ]
+    },
+    {
+      "card_id": "food_0222",
+      "answer": "土豆丝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丝",
+        "土",
+        "土豆丝",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0223",
+      "answer": "拍黄瓜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "拍",
+        "拍黄瓜",
+        "瓜",
+        "黄"
+      ]
+    },
+    {
+      "card_id": "food_0224",
+      "answer": "凉拌木耳",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "凉",
+        "凉拌木耳",
+        "拌",
+        "木",
+        "耳"
+      ]
+    },
+    {
+      "card_id": "food_0225",
+      "answer": "炒青菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炒",
+        "炒青菜",
+        "菜",
+        "青"
+      ]
+    },
+    {
+      "card_id": "food_0226",
+      "answer": "炒饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炒",
+        "炒饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "food_0227",
+      "answer": "炒菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "炒",
+        "炒菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "food_0228",
+      "answer": "煎饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "煎",
+        "煎饼",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0229",
+      "answer": "葱油饼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "油",
+        "葱",
+        "葱油饼",
+        "饼"
+      ]
+    },
+    {
+      "card_id": "food_0230",
+      "answer": "韭菜盒子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "盒",
+        "菜",
+        "韭",
+        "韭菜盒子"
+      ]
+    },
+    {
+      "card_id": "food_0231",
+      "answer": "锅包肉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "肉",
+        "锅",
+        "锅包肉"
+      ]
+    },
+    {
+      "card_id": "food_0232",
+      "answer": "糖醋里脊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糖",
+        "糖醋里脊",
+        "脊",
+        "醋",
+        "里"
+      ]
+    },
+    {
+      "card_id": "food_0233",
+      "answer": "红烧肉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "烧",
+        "红",
+        "红烧肉",
+        "肉"
+      ]
+    },
+    {
+      "card_id": "food_0234",
+      "answer": "卤蛋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卤",
+        "卤蛋",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0235",
+      "answer": "卤豆腐",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卤",
+        "卤豆腐",
+        "腐",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0236",
+      "answer": "卤牛肉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "卤",
+        "卤牛肉",
+        "牛",
+        "肉"
+      ]
+    },
+    {
+      "card_id": "food_0237",
+      "answer": "蒸饺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蒸",
+        "蒸饺",
+        "饺"
+      ]
+    },
+    {
+      "card_id": "food_0238",
+      "answer": "蒸包子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "包",
+        "子",
+        "蒸",
+        "蒸包子"
+      ]
+    },
+    {
+      "card_id": "food_0239",
+      "answer": "砂锅粥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "砂",
+        "砂锅粥",
+        "粥",
+        "锅"
+      ]
+    },
+    {
+      "card_id": "food_0240",
+      "answer": "南瓜粥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "南",
+        "南瓜粥",
+        "瓜",
+        "粥"
+      ]
+    },
+    {
+      "card_id": "food_0241",
+      "answer": "皮蛋瘦肉粥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "瘦",
+        "皮",
+        "皮蛋瘦肉粥",
+        "粥",
+        "肉",
+        "蛋"
+      ]
+    },
+    {
+      "card_id": "food_0242",
+      "answer": "凉面",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "凉",
+        "凉面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "food_0243",
+      "answer": "凉粉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "凉",
+        "凉粉",
+        "粉"
+      ]
+    },
+    {
+      "card_id": "food_0244",
+      "answer": "豆花",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "花",
+        "豆",
+        "豆花"
+      ]
+    },
+    {
+      "card_id": "food_0245",
+      "answer": "双皮奶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "双",
+        "双皮奶",
+        "奶",
+        "皮"
+      ]
+    },
+    {
+      "card_id": "food_0246",
+      "answer": "龟苓膏",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "膏",
+        "苓",
+        "龟",
+        "龟苓膏"
+      ]
+    },
+    {
+      "card_id": "food_0247",
+      "answer": "烧仙草",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仙",
+        "烧",
+        "烧仙草",
+        "草"
+      ]
+    },
+    {
+      "card_id": "food_0248",
+      "answer": "杏仁豆腐",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仁",
+        "杏",
+        "杏仁豆腐",
+        "腐",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0249",
+      "answer": "芝麻糊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "糊",
+        "芝",
+        "芝麻糊",
+        "麻"
+      ]
+    },
+    {
+      "card_id": "food_0250",
+      "answer": "花生汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "生",
+        "花",
+        "花生汤"
+      ]
+    },
+    {
+      "card_id": "food_0251",
+      "answer": "银耳汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "耳",
+        "银",
+        "银耳汤"
+      ]
+    },
+    {
+      "card_id": "food_0252",
+      "answer": "绿豆汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "绿",
+        "绿豆汤",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "food_0253",
+      "answer": "酸梅汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "梅",
+        "汤",
+        "酸",
+        "酸梅汤"
+      ]
+    },
+    {
+      "card_id": "food_0254",
+      "answer": "番茄汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "番",
+        "番茄汤",
+        "茄"
+      ]
+    },
+    {
+      "card_id": "food_0255",
+      "answer": "玉米汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "玉",
+        "玉米汤",
+        "米"
+      ]
+    },
+    {
+      "card_id": "food_0256",
+      "answer": "蛋花汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "花",
+        "蛋",
+        "蛋花汤"
+      ]
+    },
+    {
+      "card_id": "food_0257",
+      "answer": "紫菜蛋花汤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "food",
+        "starter"
+      ],
+      "banned_tokens": [
+        "汤",
+        "紫",
+        "紫菜蛋花汤",
+        "花",
+        "菜",
+        "蛋"
+      ]
+    }
   ]
 }

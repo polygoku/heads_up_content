@@ -1,83 +1,3755 @@
 {
   "pack_id": "daily_life_cn",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "display_name": {
     "zh-Hans": "日常生活",
     "zh-Hant": "日常生活",
     "en": "Daily Life"
   },
   "description": {
-    "zh-Hans": "适合第一次玩，简单好猜。"
+    "zh-Hans": "可爱日常、家里家外，简单好演。",
+    "en": "Cute everyday objects and actions."
   },
   "language": "zh-Hans",
-  "category_tags": ["family-safe", "starter", "concrete", "offline-default"],
+  "category_tags": [
+    "family-safe",
+    "starter",
+    "daily-life",
+    "concrete"
+  ],
   "difficulty": "easy",
   "content_rating": "family",
-  "regions": ["CN", "TW", "HK", "global"],
+  "regions": [
+    "CN",
+    "TW",
+    "HK",
+    "global"
+  ],
   "cards": [
-    { "card_id": "daily_life_0001", "answer": "牙刷", "difficulty": "easy", "tags": ["object", "home", "kids"], "banned_tokens": ["牙", "刷", "牙刷", "ya", "shua", "toothbrush"] },
-    { "card_id": "daily_life_0002", "answer": "手机", "difficulty": "easy", "tags": ["object", "tech"], "banned_tokens": ["手", "机", "手机", "shou", "ji", "phone"] },
-    { "card_id": "daily_life_0003", "answer": "雨伞", "difficulty": "easy", "tags": ["object", "weather"], "banned_tokens": ["雨", "伞", "雨伞", "yu", "san", "umbrella"] },
-    { "card_id": "daily_life_0004", "answer": "书包", "difficulty": "easy", "tags": ["object", "school"], "banned_tokens": ["书", "包", "书包", "shu", "bao", "backpack"] },
-    { "card_id": "daily_life_0005", "answer": "冰箱", "difficulty": "easy", "tags": ["object", "kitchen"], "banned_tokens": ["冰", "箱", "冰箱", "bing", "xiang", "fridge"] },
-    { "card_id": "daily_life_0006", "answer": "洗衣机", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["洗", "衣", "机", "洗衣机", "xi", "washing machine"] },
-    { "card_id": "daily_life_0007", "answer": "电梯", "difficulty": "easy", "tags": ["place", "building"], "banned_tokens": ["电", "梯", "电梯", "dian", "ti", "elevator"] },
-    { "card_id": "daily_life_0008", "answer": "筷子", "difficulty": "easy", "tags": ["object", "food"], "banned_tokens": ["筷", "子", "筷子", "kuai", "zi", "chopsticks"] },
-    { "card_id": "daily_life_0009", "answer": "枕头", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["枕", "头", "枕头", "zhen", "tou", "pillow"] },
-    { "card_id": "daily_life_0010", "answer": "毛巾", "difficulty": "easy", "tags": ["object", "bathroom"], "banned_tokens": ["毛", "巾", "毛巾", "mao", "jin", "towel"] },
-    { "card_id": "daily_life_0011", "answer": "水杯", "difficulty": "easy", "tags": ["object", "kitchen"], "banned_tokens": ["水", "杯", "水杯", "shui", "bei", "cup"] },
-    { "card_id": "daily_life_0012", "answer": "闹钟", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["闹", "钟", "闹钟", "nao", "zhong", "alarm clock"] },
-    { "card_id": "daily_life_0013", "answer": "鞋子", "difficulty": "easy", "tags": ["object", "clothes"], "banned_tokens": ["鞋", "子", "鞋子", "xie", "zi", "shoes"] },
-    { "card_id": "daily_life_0014", "answer": "电视", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["电", "视", "电视", "dian", "shi", "television"] },
-    { "card_id": "daily_life_0015", "answer": "沙发", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["沙", "发", "沙发", "sha", "fa", "sofa"] },
-    { "card_id": "daily_life_0016", "answer": "空调", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["空", "调", "空调", "kong", "tiao", "air conditioner"] },
-    { "card_id": "daily_life_0017", "answer": "镜子", "difficulty": "easy", "tags": ["object", "bathroom"], "banned_tokens": ["镜", "子", "镜子", "jing", "zi", "mirror"] },
-    { "card_id": "daily_life_0018", "answer": "牙膏", "difficulty": "easy", "tags": ["object", "bathroom"], "banned_tokens": ["牙", "膏", "牙膏", "ya", "gao", "toothpaste"] },
-    { "card_id": "daily_life_0019", "answer": "地铁", "difficulty": "easy", "tags": ["transport"], "banned_tokens": ["地", "铁", "地铁", "di", "tie", "subway"] },
-    { "card_id": "daily_life_0020", "answer": "自行车", "difficulty": "easy", "tags": ["transport"], "banned_tokens": ["自", "行", "车", "自行车", "zi xing che", "bicycle"] },
-    { "card_id": "daily_life_0021", "answer": "外卖", "difficulty": "easy", "tags": ["food", "service"], "banned_tokens": ["外", "卖", "外卖", "wai", "mai", "delivery"] },
-    { "card_id": "daily_life_0022", "answer": "钥匙", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["钥", "匙", "钥匙", "yao", "shi", "key"] },
-    { "card_id": "daily_life_0023", "answer": "眼镜", "difficulty": "easy", "tags": ["object", "clothes"], "banned_tokens": ["眼", "镜", "眼镜", "yan", "jing", "glasses"] },
-    { "card_id": "daily_life_0024", "answer": "书桌", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["书", "桌", "书桌", "shu", "zhuo", "desk"] },
-    { "card_id": "daily_life_0025", "answer": "被子", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["被", "子", "被子", "bei", "zi", "blanket"] },
-    { "card_id": "daily_life_0026", "answer": "扫把", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["扫", "把", "扫把", "sao", "ba", "broom"] },
-    { "card_id": "daily_life_0027", "answer": "垃圾桶", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["垃", "圾", "桶", "垃圾桶", "la ji tong", "trash can"] },
-    { "card_id": "daily_life_0028", "answer": "饭碗", "difficulty": "easy", "tags": ["object", "food"], "banned_tokens": ["饭", "碗", "饭碗", "fan", "wan", "rice bowl"] },
-    { "card_id": "daily_life_0029", "answer": "电饭煲", "difficulty": "easy", "tags": ["object", "kitchen"], "banned_tokens": ["电", "饭", "煲", "电饭煲", "dian fan bao", "rice cooker"] },
-    { "card_id": "daily_life_0030", "answer": "口罩", "difficulty": "easy", "tags": ["object", "health"], "banned_tokens": ["口", "罩", "口罩", "kou", "zhao", "mask"] },
-    { "card_id": "daily_life_0031", "answer": "纸巾", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["纸", "巾", "纸巾", "zhi", "jin", "tissue"] },
-    { "card_id": "daily_life_0032", "answer": "洗手液", "difficulty": "easy", "tags": ["object", "bathroom"], "banned_tokens": ["洗", "手", "液", "洗手液", "xi shou ye", "hand soap"] },
-    { "card_id": "daily_life_0033", "answer": "书店", "difficulty": "easy", "tags": ["place"], "banned_tokens": ["书", "店", "书店", "shu", "dian", "bookstore"] },
-    { "card_id": "daily_life_0034", "answer": "超市", "difficulty": "easy", "tags": ["place"], "banned_tokens": ["超", "市", "超市", "chao", "shi", "supermarket"] },
-    { "card_id": "daily_life_0035", "answer": "公交车", "difficulty": "easy", "tags": ["transport"], "banned_tokens": ["公", "交", "车", "公交车", "gong jiao che", "bus"] },
-    { "card_id": "daily_life_0036", "answer": "红绿灯", "difficulty": "easy", "tags": ["traffic"], "banned_tokens": ["红", "绿", "灯", "红绿灯", "hong lv deng", "traffic light"] },
-    { "card_id": "daily_life_0037", "answer": "充电器", "difficulty": "easy", "tags": ["object", "tech"], "banned_tokens": ["充", "电", "器", "充电器", "chong dian qi", "charger"] },
-    { "card_id": "daily_life_0038", "answer": "耳机", "difficulty": "easy", "tags": ["object", "tech"], "banned_tokens": ["耳", "机", "耳机", "er", "ji", "headphones"] },
-    { "card_id": "daily_life_0039", "answer": "行李箱", "difficulty": "easy", "tags": ["object", "travel"], "banned_tokens": ["行", "李", "箱", "行李箱", "xing li xiang", "suitcase"] },
-    { "card_id": "daily_life_0040", "answer": "饮水机", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["饮", "水", "机", "饮水机", "yin shui ji", "water dispenser"] },
-    { "card_id": "daily_life_0041", "answer": "拖鞋", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["拖", "鞋", "拖鞋", "tuo", "xie", "slippers"] },
-    { "card_id": "daily_life_0042", "answer": "电脑", "difficulty": "easy", "tags": ["object", "tech"], "banned_tokens": ["电", "脑", "电脑", "dian", "nao", "computer"] },
-    { "card_id": "daily_life_0043", "answer": "鼠标", "difficulty": "easy", "tags": ["object", "tech"], "banned_tokens": ["鼠", "标", "鼠标", "shu", "biao", "mouse"] },
-    { "card_id": "daily_life_0044", "answer": "门铃", "difficulty": "easy", "tags": ["object", "home"], "banned_tokens": ["门", "铃", "门铃", "men", "ling", "doorbell"] },
-    { "card_id": "daily_life_0045", "answer": "洗碗", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["洗", "碗", "洗碗", "xi wan", "wash dishes"] },
-    { "card_id": "daily_life_0046", "answer": "晾衣服", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["晾", "衣", "服", "晾衣服", "liang yi fu", "hang clothes"] },
-    { "card_id": "daily_life_0047", "answer": "刷牙", "difficulty": "easy", "tags": ["action", "bathroom"], "banned_tokens": ["刷", "牙", "刷牙", "shua ya", "brush teeth"] },
-    { "card_id": "daily_life_0048", "answer": "洗脸", "difficulty": "easy", "tags": ["action", "bathroom"], "banned_tokens": ["洗", "脸", "洗脸", "xi lian", "wash face"] },
-    { "card_id": "daily_life_0049", "answer": "打扫房间", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["打", "扫", "房", "间", "打扫房间", "da sao fang jian", "clean room"] },
-    { "card_id": "daily_life_0050", "answer": "开门", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["开", "门", "开门", "kai men", "open door"] },
-    { "card_id": "daily_life_0051", "answer": "关灯", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["关", "灯", "关灯", "guan deng", "turn off light"] },
-    { "card_id": "daily_life_0052", "answer": "穿外套", "difficulty": "easy", "tags": ["action", "clothes"], "banned_tokens": ["穿", "外", "套", "穿外套", "chuan wai tao", "put on coat"] },
-    { "card_id": "daily_life_0053", "answer": "系鞋带", "difficulty": "easy", "tags": ["action", "clothes"], "banned_tokens": ["系", "鞋", "带", "系鞋带", "ji xie dai", "tie shoelaces"] },
-    { "card_id": "daily_life_0054", "answer": "倒垃圾", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["倒", "垃", "圾", "倒垃圾", "dao la ji", "take out trash"] },
-    { "card_id": "daily_life_0055", "answer": "买菜", "difficulty": "easy", "tags": ["action", "food"], "banned_tokens": ["买", "菜", "买菜", "mai cai", "buy groceries"] },
-    { "card_id": "daily_life_0056", "answer": "排队", "difficulty": "easy", "tags": ["action", "public"], "banned_tokens": ["排", "队", "排队", "pai dui", "wait in line"] },
-    { "card_id": "daily_life_0057", "answer": "坐公交", "difficulty": "easy", "tags": ["action", "transport"], "banned_tokens": ["坐", "公", "交", "坐公交", "zuo gong jiao", "take bus"] },
-    { "card_id": "daily_life_0058", "answer": "看地图", "difficulty": "easy", "tags": ["action", "travel"], "banned_tokens": ["看", "地", "图", "看地图", "kan di tu", "read map"] },
-    { "card_id": "daily_life_0059", "answer": "拍照", "difficulty": "easy", "tags": ["action", "phone"], "banned_tokens": ["拍", "照", "拍照", "pai zhao", "take photo"] },
-    { "card_id": "daily_life_0060", "answer": "打电话", "difficulty": "easy", "tags": ["action", "phone"], "banned_tokens": ["打", "电", "话", "打电话", "da dian hua", "make phone call"] },
-    { "card_id": "daily_life_0061", "answer": "发消息", "difficulty": "easy", "tags": ["action", "phone"], "banned_tokens": ["发", "消", "息", "发消息", "fa xiao xi", "send message"] },
-    { "card_id": "daily_life_0062", "answer": "做作业", "difficulty": "easy", "tags": ["action", "school"], "banned_tokens": ["做", "作", "业", "做作业", "zuo zuo ye", "do homework"] },
-    { "card_id": "daily_life_0063", "answer": "睡午觉", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["睡", "午", "觉", "睡午觉", "shui wu jiao", "take nap"] },
-    { "card_id": "daily_life_0064", "answer": "收快递", "difficulty": "easy", "tags": ["action", "home"], "banned_tokens": ["收", "快", "递", "收快递", "shou kuai di", "pick up package"] }
+    {
+      "card_id": "daily_life_0001",
+      "answer": "牙刷",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "刷",
+        "牙",
+        "牙刷"
+      ]
+    },
+    {
+      "card_id": "daily_life_0002",
+      "answer": "牙膏",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "牙",
+        "牙膏",
+        "膏"
+      ]
+    },
+    {
+      "card_id": "daily_life_0003",
+      "answer": "毛巾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "巾",
+        "毛",
+        "毛巾"
+      ]
+    },
+    {
+      "card_id": "daily_life_0004",
+      "answer": "水杯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "杯",
+        "水",
+        "水杯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0005",
+      "answer": "饭碗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "碗",
+        "饭",
+        "饭碗"
+      ]
+    },
+    {
+      "card_id": "daily_life_0006",
+      "answer": "筷子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "筷",
+        "筷子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0007",
+      "answer": "勺子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "勺",
+        "勺子",
+        "子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0008",
+      "answer": "盘子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "盘",
+        "盘子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0009",
+      "answer": "杯垫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "垫",
+        "杯",
+        "杯垫"
+      ]
+    },
+    {
+      "card_id": "daily_life_0010",
+      "answer": "餐巾纸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "巾",
+        "纸",
+        "餐",
+        "餐巾纸"
+      ]
+    },
+    {
+      "card_id": "daily_life_0011",
+      "answer": "纸巾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "巾",
+        "纸",
+        "纸巾"
+      ]
+    },
+    {
+      "card_id": "daily_life_0012",
+      "answer": "卷纸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "卷",
+        "卷纸",
+        "纸"
+      ]
+    },
+    {
+      "card_id": "daily_life_0013",
+      "answer": "洗手液",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "手",
+        "洗",
+        "洗手液",
+        "液"
+      ]
+    },
+    {
+      "card_id": "daily_life_0014",
+      "answer": "香皂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "皂",
+        "香",
+        "香皂"
+      ]
+    },
+    {
+      "card_id": "daily_life_0015",
+      "answer": "沐浴露",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "沐",
+        "沐浴露",
+        "浴",
+        "露"
+      ]
+    },
+    {
+      "card_id": "daily_life_0016",
+      "answer": "洗发水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "发",
+        "水",
+        "洗",
+        "洗发水"
+      ]
+    },
+    {
+      "card_id": "daily_life_0017",
+      "answer": "护发素",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "发",
+        "护",
+        "护发素",
+        "素"
+      ]
+    },
+    {
+      "card_id": "daily_life_0018",
+      "answer": "梳子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "梳",
+        "梳子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0019",
+      "answer": "镜子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "镜",
+        "镜子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0020",
+      "answer": "吹风机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "吹",
+        "吹风机",
+        "机",
+        "风"
+      ]
+    },
+    {
+      "card_id": "daily_life_0021",
+      "answer": "剃须刀",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "刀",
+        "剃",
+        "剃须刀",
+        "须"
+      ]
+    },
+    {
+      "card_id": "daily_life_0022",
+      "answer": "指甲剪",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "剪",
+        "指",
+        "指甲剪",
+        "甲"
+      ]
+    },
+    {
+      "card_id": "daily_life_0023",
+      "answer": "棉签",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "棉",
+        "棉签",
+        "签"
+      ]
+    },
+    {
+      "card_id": "daily_life_0024",
+      "answer": "创可贴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "创",
+        "创可贴",
+        "可",
+        "贴"
+      ]
+    },
+    {
+      "card_id": "daily_life_0025",
+      "answer": "口罩",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "口",
+        "口罩",
+        "罩"
+      ]
+    },
+    {
+      "card_id": "daily_life_0026",
+      "answer": "雨伞",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "伞",
+        "雨",
+        "雨伞"
+      ]
+    },
+    {
+      "card_id": "daily_life_0027",
+      "answer": "雨衣",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "衣",
+        "雨",
+        "雨衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0028",
+      "answer": "太阳帽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "太",
+        "太阳帽",
+        "帽",
+        "阳"
+      ]
+    },
+    {
+      "card_id": "daily_life_0029",
+      "answer": "帽子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "帽",
+        "帽子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0030",
+      "answer": "围巾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "围",
+        "围巾",
+        "巾"
+      ]
+    },
+    {
+      "card_id": "daily_life_0031",
+      "answer": "手套",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "套",
+        "手",
+        "手套"
+      ]
+    },
+    {
+      "card_id": "daily_life_0032",
+      "answer": "袜子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "袜",
+        "袜子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0033",
+      "answer": "拖鞋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "拖",
+        "拖鞋",
+        "鞋"
+      ]
+    },
+    {
+      "card_id": "daily_life_0034",
+      "answer": "运动鞋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "动",
+        "运",
+        "运动鞋",
+        "鞋"
+      ]
+    },
+    {
+      "card_id": "daily_life_0035",
+      "answer": "皮鞋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "皮",
+        "皮鞋",
+        "鞋"
+      ]
+    },
+    {
+      "card_id": "daily_life_0036",
+      "answer": "外套",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "外",
+        "外套",
+        "套"
+      ]
+    },
+    {
+      "card_id": "daily_life_0037",
+      "answer": "书包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书包",
+        "包"
+      ]
+    },
+    {
+      "card_id": "daily_life_0038",
+      "answer": "背包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "包",
+        "背",
+        "背包"
+      ]
+    },
+    {
+      "card_id": "daily_life_0039",
+      "answer": "手提包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "包",
+        "手",
+        "手提包",
+        "提"
+      ]
+    },
+    {
+      "card_id": "daily_life_0040",
+      "answer": "钱包",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "包",
+        "钱",
+        "钱包"
+      ]
+    },
+    {
+      "card_id": "daily_life_0041",
+      "answer": "钥匙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "匙",
+        "钥",
+        "钥匙"
+      ]
+    },
+    {
+      "card_id": "daily_life_0042",
+      "answer": "钥匙扣",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "匙",
+        "扣",
+        "钥",
+        "钥匙扣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0043",
+      "answer": "门铃",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "铃",
+        "门",
+        "门铃"
+      ]
+    },
+    {
+      "card_id": "daily_life_0044",
+      "answer": "门锁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "锁",
+        "门",
+        "门锁"
+      ]
+    },
+    {
+      "card_id": "daily_life_0045",
+      "answer": "遥控器",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "器",
+        "控",
+        "遥",
+        "遥控器"
+      ]
+    },
+    {
+      "card_id": "daily_life_0046",
+      "answer": "手机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "手",
+        "手机",
+        "机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0047",
+      "answer": "充电器",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "充",
+        "充电器",
+        "器",
+        "电"
+      ]
+    },
+    {
+      "card_id": "daily_life_0048",
+      "answer": "耳机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "耳",
+        "耳机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0049",
+      "answer": "电脑",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "电",
+        "电脑",
+        "脑"
+      ]
+    },
+    {
+      "card_id": "daily_life_0050",
+      "answer": "鼠标",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "标",
+        "鼠",
+        "鼠标"
+      ]
+    },
+    {
+      "card_id": "daily_life_0051",
+      "answer": "键盘",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "盘",
+        "键",
+        "键盘"
+      ]
+    },
+    {
+      "card_id": "daily_life_0052",
+      "answer": "显示器",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "器",
+        "显",
+        "显示器",
+        "示"
+      ]
+    },
+    {
+      "card_id": "daily_life_0053",
+      "answer": "平板电脑",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "平",
+        "平板电脑",
+        "板",
+        "电",
+        "脑"
+      ]
+    },
+    {
+      "card_id": "daily_life_0054",
+      "answer": "相机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "相",
+        "相机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0055",
+      "answer": "打印机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "印",
+        "打",
+        "打印机",
+        "机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0056",
+      "answer": "音响",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "响",
+        "音",
+        "音响"
+      ]
+    },
+    {
+      "card_id": "daily_life_0057",
+      "answer": "台灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "台",
+        "台灯",
+        "灯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0058",
+      "answer": "落地灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "灯",
+        "落",
+        "落地灯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0059",
+      "answer": "日光灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "光",
+        "日",
+        "日光灯",
+        "灯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0060",
+      "answer": "电风扇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "扇",
+        "电",
+        "电风扇",
+        "风"
+      ]
+    },
+    {
+      "card_id": "daily_life_0061",
+      "answer": "空调",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "空",
+        "空调",
+        "调"
+      ]
+    },
+    {
+      "card_id": "daily_life_0062",
+      "answer": "冰箱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "冰",
+        "冰箱",
+        "箱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0063",
+      "answer": "洗衣机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "洗",
+        "洗衣机",
+        "衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0064",
+      "answer": "烘干机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "干",
+        "机",
+        "烘",
+        "烘干机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0065",
+      "answer": "电饭煲",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "煲",
+        "电",
+        "电饭煲",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "daily_life_0066",
+      "answer": "微波炉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "微",
+        "微波炉",
+        "波",
+        "炉"
+      ]
+    },
+    {
+      "card_id": "daily_life_0067",
+      "answer": "烤箱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "烤",
+        "烤箱",
+        "箱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0068",
+      "answer": "电水壶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "壶",
+        "水",
+        "电",
+        "电水壶"
+      ]
+    },
+    {
+      "card_id": "daily_life_0069",
+      "answer": "饮水机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "水",
+        "饮",
+        "饮水机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0070",
+      "answer": "吸尘器",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "吸",
+        "吸尘器",
+        "器",
+        "尘"
+      ]
+    },
+    {
+      "card_id": "daily_life_0071",
+      "answer": "扫地机器人",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "人",
+        "器",
+        "地",
+        "扫",
+        "扫地机器人",
+        "机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0072",
+      "answer": "插排",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "排",
+        "插",
+        "插排"
+      ]
+    },
+    {
+      "card_id": "daily_life_0073",
+      "answer": "闹钟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "钟",
+        "闹",
+        "闹钟"
+      ]
+    },
+    {
+      "card_id": "daily_life_0074",
+      "answer": "挂钟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "挂",
+        "挂钟",
+        "钟"
+      ]
+    },
+    {
+      "card_id": "daily_life_0075",
+      "answer": "沙发",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "发",
+        "沙",
+        "沙发"
+      ]
+    },
+    {
+      "card_id": "daily_life_0076",
+      "answer": "椅子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "椅",
+        "椅子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0077",
+      "answer": "凳子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "凳",
+        "凳子",
+        "子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0078",
+      "answer": "餐桌",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "桌",
+        "餐",
+        "餐桌"
+      ]
+    },
+    {
+      "card_id": "daily_life_0079",
+      "answer": "书桌",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书桌",
+        "桌"
+      ]
+    },
+    {
+      "card_id": "daily_life_0080",
+      "answer": "床",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "床"
+      ]
+    },
+    {
+      "card_id": "daily_life_0081",
+      "answer": "床垫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "垫",
+        "床",
+        "床垫"
+      ]
+    },
+    {
+      "card_id": "daily_life_0082",
+      "answer": "枕头",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "头",
+        "枕",
+        "枕头"
+      ]
+    },
+    {
+      "card_id": "daily_life_0083",
+      "answer": "被子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "被",
+        "被子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0084",
+      "answer": "毯子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "毯",
+        "毯子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0085",
+      "answer": "衣架",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "架",
+        "衣",
+        "衣架"
+      ]
+    },
+    {
+      "card_id": "daily_life_0086",
+      "answer": "衣柜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "柜",
+        "衣",
+        "衣柜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0087",
+      "answer": "鞋柜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "柜",
+        "鞋",
+        "鞋柜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0088",
+      "answer": "书架",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书架",
+        "架"
+      ]
+    },
+    {
+      "card_id": "daily_life_0089",
+      "answer": "抽屉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "屉",
+        "抽",
+        "抽屉"
+      ]
+    },
+    {
+      "card_id": "daily_life_0090",
+      "answer": "垃圾桶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "圾",
+        "垃",
+        "垃圾桶",
+        "桶"
+      ]
+    },
+    {
+      "card_id": "daily_life_0091",
+      "answer": "扫把",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "扫",
+        "扫把",
+        "把"
+      ]
+    },
+    {
+      "card_id": "daily_life_0092",
+      "answer": "拖把",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "把",
+        "拖",
+        "拖把"
+      ]
+    },
+    {
+      "card_id": "daily_life_0093",
+      "answer": "簸箕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "箕",
+        "簸",
+        "簸箕"
+      ]
+    },
+    {
+      "card_id": "daily_life_0094",
+      "answer": "抹布",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "布",
+        "抹",
+        "抹布"
+      ]
+    },
+    {
+      "card_id": "daily_life_0095",
+      "answer": "清洁剂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "剂",
+        "洁",
+        "清",
+        "清洁剂"
+      ]
+    },
+    {
+      "card_id": "daily_life_0096",
+      "answer": "洗洁精",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "洁",
+        "洗",
+        "洗洁精",
+        "精"
+      ]
+    },
+    {
+      "card_id": "daily_life_0097",
+      "answer": "洗衣液",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "洗",
+        "洗衣液",
+        "液",
+        "衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0098",
+      "answer": "晾衣架",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "晾",
+        "晾衣架",
+        "架",
+        "衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0099",
+      "answer": "盆栽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "栽",
+        "盆",
+        "盆栽"
+      ]
+    },
+    {
+      "card_id": "daily_life_0100",
+      "answer": "花瓶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "瓶",
+        "花",
+        "花瓶"
+      ]
+    },
+    {
+      "card_id": "daily_life_0101",
+      "answer": "相框",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "框",
+        "相",
+        "相框"
+      ]
+    },
+    {
+      "card_id": "daily_life_0102",
+      "answer": "冰箱贴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "冰",
+        "冰箱贴",
+        "箱",
+        "贴"
+      ]
+    },
+    {
+      "card_id": "daily_life_0103",
+      "answer": "门垫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "垫",
+        "门",
+        "门垫"
+      ]
+    },
+    {
+      "card_id": "daily_life_0104",
+      "answer": "窗帘",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "帘",
+        "窗",
+        "窗帘"
+      ]
+    },
+    {
+      "card_id": "daily_life_0105",
+      "answer": "地毯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "地毯",
+        "毯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0106",
+      "answer": "电梯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "梯",
+        "电",
+        "电梯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0107",
+      "answer": "楼梯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "梯",
+        "楼",
+        "楼梯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0108",
+      "answer": "阳台",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "台",
+        "阳",
+        "阳台"
+      ]
+    },
+    {
+      "card_id": "daily_life_0109",
+      "answer": "厨房",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "厨",
+        "厨房",
+        "房"
+      ]
+    },
+    {
+      "card_id": "daily_life_0110",
+      "answer": "客厅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "厅",
+        "客",
+        "客厅"
+      ]
+    },
+    {
+      "card_id": "daily_life_0111",
+      "answer": "卧室",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "卧",
+        "卧室",
+        "室"
+      ]
+    },
+    {
+      "card_id": "daily_life_0112",
+      "answer": "卫生间",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "卫",
+        "卫生间",
+        "生",
+        "间"
+      ]
+    },
+    {
+      "card_id": "daily_life_0113",
+      "answer": "书房",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书房",
+        "房"
+      ]
+    },
+    {
+      "card_id": "daily_life_0114",
+      "answer": "超市",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "市",
+        "超",
+        "超市"
+      ]
+    },
+    {
+      "card_id": "daily_life_0115",
+      "answer": "便利店",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "便",
+        "便利店",
+        "利",
+        "店"
+      ]
+    },
+    {
+      "card_id": "daily_life_0116",
+      "answer": "书店",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书店",
+        "店"
+      ]
+    },
+    {
+      "card_id": "daily_life_0117",
+      "answer": "公园",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "公",
+        "公园",
+        "园"
+      ]
+    },
+    {
+      "card_id": "daily_life_0118",
+      "answer": "地铁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "地铁",
+        "铁"
+      ]
+    },
+    {
+      "card_id": "daily_life_0119",
+      "answer": "公交车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "交",
+        "公",
+        "公交车",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0120",
+      "answer": "出租车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "出",
+        "出租车",
+        "租",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0121",
+      "answer": "自行车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "自",
+        "自行车",
+        "行",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0122",
+      "answer": "电动车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "动",
+        "电",
+        "电动车",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0123",
+      "answer": "火车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "火",
+        "火车",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0124",
+      "answer": "飞机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "飞",
+        "飞机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0125",
+      "answer": "轮船",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "船",
+        "轮",
+        "轮船"
+      ]
+    },
+    {
+      "card_id": "daily_life_0126",
+      "answer": "车票",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "票",
+        "车",
+        "车票"
+      ]
+    },
+    {
+      "card_id": "daily_life_0127",
+      "answer": "地图",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "图",
+        "地",
+        "地图"
+      ]
+    },
+    {
+      "card_id": "daily_life_0128",
+      "answer": "导航",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "导",
+        "导航",
+        "航"
+      ]
+    },
+    {
+      "card_id": "daily_life_0129",
+      "answer": "红绿灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "灯",
+        "红",
+        "红绿灯",
+        "绿"
+      ]
+    },
+    {
+      "card_id": "daily_life_0130",
+      "answer": "斑马线",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "斑",
+        "斑马线",
+        "线",
+        "马"
+      ]
+    },
+    {
+      "card_id": "daily_life_0131",
+      "answer": "公交卡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "交",
+        "公",
+        "公交卡",
+        "卡"
+      ]
+    },
+    {
+      "card_id": "daily_life_0132",
+      "answer": "快递",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "快",
+        "快递",
+        "递"
+      ]
+    },
+    {
+      "card_id": "daily_life_0133",
+      "answer": "外卖",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "卖",
+        "外",
+        "外卖"
+      ]
+    },
+    {
+      "card_id": "daily_life_0134",
+      "answer": "购物袋",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "物",
+        "袋",
+        "购",
+        "购物袋"
+      ]
+    },
+    {
+      "card_id": "daily_life_0135",
+      "answer": "收据",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "据",
+        "收",
+        "收据"
+      ]
+    },
+    {
+      "card_id": "daily_life_0136",
+      "answer": "发票",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "发",
+        "发票",
+        "票"
+      ]
+    },
+    {
+      "card_id": "daily_life_0137",
+      "answer": "零钱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "钱",
+        "零",
+        "零钱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0138",
+      "answer": "人民币",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "人",
+        "人民币",
+        "币",
+        "民"
+      ]
+    },
+    {
+      "card_id": "daily_life_0139",
+      "answer": "银行卡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "卡",
+        "行",
+        "银",
+        "银行卡"
+      ]
+    },
+    {
+      "card_id": "daily_life_0140",
+      "answer": "身份证",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "份",
+        "证",
+        "身",
+        "身份证"
+      ]
+    },
+    {
+      "card_id": "daily_life_0141",
+      "answer": "日历",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "历",
+        "日",
+        "日历"
+      ]
+    },
+    {
+      "card_id": "daily_life_0142",
+      "answer": "笔记本",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "本",
+        "笔",
+        "笔记本",
+        "记"
+      ]
+    },
+    {
+      "card_id": "daily_life_0143",
+      "answer": "铅笔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "笔",
+        "铅",
+        "铅笔"
+      ]
+    },
+    {
+      "card_id": "daily_life_0144",
+      "answer": "橡皮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "橡",
+        "橡皮",
+        "皮"
+      ]
+    },
+    {
+      "card_id": "daily_life_0145",
+      "answer": "圆珠笔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "圆",
+        "圆珠笔",
+        "珠",
+        "笔"
+      ]
+    },
+    {
+      "card_id": "daily_life_0146",
+      "answer": "尺子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "尺",
+        "尺子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0147",
+      "answer": "胶带",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "带",
+        "胶",
+        "胶带"
+      ]
+    },
+    {
+      "card_id": "daily_life_0148",
+      "answer": "剪刀",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "刀",
+        "剪",
+        "剪刀"
+      ]
+    },
+    {
+      "card_id": "daily_life_0149",
+      "answer": "订书机",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "机",
+        "订",
+        "订书机"
+      ]
+    },
+    {
+      "card_id": "daily_life_0150",
+      "answer": "文件夹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "件",
+        "夹",
+        "文",
+        "文件夹"
+      ]
+    },
+    {
+      "card_id": "daily_life_0151",
+      "answer": "白板",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "板",
+        "白",
+        "白板"
+      ]
+    },
+    {
+      "card_id": "daily_life_0152",
+      "answer": "黑板",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "板",
+        "黑",
+        "黑板"
+      ]
+    },
+    {
+      "card_id": "daily_life_0153",
+      "answer": "粉笔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "笔",
+        "粉",
+        "粉笔"
+      ]
+    },
+    {
+      "card_id": "daily_life_0154",
+      "answer": "画笔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "画",
+        "画笔",
+        "笔"
+      ]
+    },
+    {
+      "card_id": "daily_life_0155",
+      "answer": "颜料",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "料",
+        "颜",
+        "颜料"
+      ]
+    },
+    {
+      "card_id": "daily_life_0156",
+      "answer": "胶水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "水",
+        "胶",
+        "胶水"
+      ]
+    },
+    {
+      "card_id": "daily_life_0157",
+      "answer": "书签",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "书签",
+        "签"
+      ]
+    },
+    {
+      "card_id": "daily_life_0158",
+      "answer": "信封",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "信",
+        "信封",
+        "封"
+      ]
+    },
+    {
+      "card_id": "daily_life_0159",
+      "answer": "邮票",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "票",
+        "邮",
+        "邮票"
+      ]
+    },
+    {
+      "card_id": "daily_life_0160",
+      "answer": "眼镜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "眼",
+        "眼镜",
+        "镜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0161",
+      "answer": "太阳镜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "太",
+        "太阳镜",
+        "镜",
+        "阳"
+      ]
+    },
+    {
+      "card_id": "daily_life_0162",
+      "answer": "手表",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "手",
+        "手表",
+        "表"
+      ]
+    },
+    {
+      "card_id": "daily_life_0163",
+      "answer": "雨靴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "雨",
+        "雨靴",
+        "靴"
+      ]
+    },
+    {
+      "card_id": "daily_life_0164",
+      "answer": "围裙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "围",
+        "围裙",
+        "裙"
+      ]
+    },
+    {
+      "card_id": "daily_life_0165",
+      "answer": "保温杯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "保",
+        "保温杯",
+        "杯",
+        "温"
+      ]
+    },
+    {
+      "card_id": "daily_life_0166",
+      "answer": "饭盒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "盒",
+        "饭",
+        "饭盒"
+      ]
+    },
+    {
+      "card_id": "daily_life_0167",
+      "answer": "保鲜盒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "保",
+        "保鲜盒",
+        "盒",
+        "鲜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0168",
+      "answer": "购物车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "物",
+        "购",
+        "购物车",
+        "车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0169",
+      "answer": "购物篮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "物",
+        "篮",
+        "购",
+        "购物篮"
+      ]
+    },
+    {
+      "card_id": "daily_life_0170",
+      "answer": "收纳盒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "收",
+        "收纳盒",
+        "盒",
+        "纳"
+      ]
+    },
+    {
+      "card_id": "daily_life_0171",
+      "answer": "整理箱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "整",
+        "整理箱",
+        "理",
+        "箱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0172",
+      "answer": "纸箱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "箱",
+        "纸",
+        "纸箱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0173",
+      "answer": "行李箱",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "李",
+        "箱",
+        "行",
+        "行李箱"
+      ]
+    },
+    {
+      "card_id": "daily_life_0174",
+      "answer": "护照",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "护",
+        "护照",
+        "照"
+      ]
+    },
+    {
+      "card_id": "daily_life_0175",
+      "answer": "机票",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "机",
+        "机票",
+        "票"
+      ]
+    },
+    {
+      "card_id": "daily_life_0176",
+      "answer": "洗澡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "洗",
+        "洗澡",
+        "澡"
+      ]
+    },
+    {
+      "card_id": "daily_life_0177",
+      "answer": "刷牙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "刷",
+        "刷牙",
+        "牙"
+      ]
+    },
+    {
+      "card_id": "daily_life_0178",
+      "answer": "洗脸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "洗",
+        "洗脸",
+        "脸"
+      ]
+    },
+    {
+      "card_id": "daily_life_0179",
+      "answer": "洗手",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "手",
+        "洗",
+        "洗手"
+      ]
+    },
+    {
+      "card_id": "daily_life_0180",
+      "answer": "梳头",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "头",
+        "梳",
+        "梳头"
+      ]
+    },
+    {
+      "card_id": "daily_life_0181",
+      "answer": "照镜子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "照",
+        "照镜子",
+        "镜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0182",
+      "answer": "穿外套",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "外",
+        "套",
+        "穿",
+        "穿外套"
+      ]
+    },
+    {
+      "card_id": "daily_life_0183",
+      "answer": "系鞋带",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "带",
+        "系",
+        "系鞋带",
+        "鞋"
+      ]
+    },
+    {
+      "card_id": "daily_life_0184",
+      "answer": "戴帽子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "帽",
+        "戴",
+        "戴帽子"
+      ]
+    },
+    {
+      "card_id": "daily_life_0185",
+      "answer": "打电话",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "打",
+        "打电话",
+        "电",
+        "话"
+      ]
+    },
+    {
+      "card_id": "daily_life_0186",
+      "answer": "发消息",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "发",
+        "发消息",
+        "息",
+        "消"
+      ]
+    },
+    {
+      "card_id": "daily_life_0187",
+      "answer": "拍照",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "拍",
+        "拍照",
+        "照"
+      ]
+    },
+    {
+      "card_id": "daily_life_0188",
+      "answer": "看地图",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "图",
+        "地",
+        "看",
+        "看地图"
+      ]
+    },
+    {
+      "card_id": "daily_life_0189",
+      "answer": "排队",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "排",
+        "排队",
+        "队"
+      ]
+    },
+    {
+      "card_id": "daily_life_0190",
+      "answer": "坐公交",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "交",
+        "公",
+        "坐",
+        "坐公交"
+      ]
+    },
+    {
+      "card_id": "daily_life_0191",
+      "answer": "坐地铁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "坐",
+        "坐地铁",
+        "铁"
+      ]
+    },
+    {
+      "card_id": "daily_life_0192",
+      "answer": "骑自行车",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "自",
+        "行",
+        "车",
+        "骑",
+        "骑自行车"
+      ]
+    },
+    {
+      "card_id": "daily_life_0193",
+      "answer": "开门",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "开",
+        "开门",
+        "门"
+      ]
+    },
+    {
+      "card_id": "daily_life_0194",
+      "answer": "关门",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "关",
+        "关门",
+        "门"
+      ]
+    },
+    {
+      "card_id": "daily_life_0195",
+      "answer": "关灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "关",
+        "关灯",
+        "灯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0196",
+      "answer": "开灯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "开",
+        "开灯",
+        "灯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0197",
+      "answer": "倒垃圾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "倒",
+        "倒垃圾",
+        "圾",
+        "垃"
+      ]
+    },
+    {
+      "card_id": "daily_life_0198",
+      "answer": "拖地",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "拖",
+        "拖地"
+      ]
+    },
+    {
+      "card_id": "daily_life_0199",
+      "answer": "扫地",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "地",
+        "扫",
+        "扫地"
+      ]
+    },
+    {
+      "card_id": "daily_life_0200",
+      "answer": "擦桌子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "子",
+        "擦",
+        "擦桌子",
+        "桌"
+      ]
+    },
+    {
+      "card_id": "daily_life_0201",
+      "answer": "洗碗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "洗",
+        "洗碗",
+        "碗"
+      ]
+    },
+    {
+      "card_id": "daily_life_0202",
+      "answer": "晾衣服",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "晾",
+        "晾衣服",
+        "服",
+        "衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0203",
+      "answer": "叠衣服",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "叠",
+        "叠衣服",
+        "服",
+        "衣"
+      ]
+    },
+    {
+      "card_id": "daily_life_0204",
+      "answer": "收快递",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "快",
+        "收",
+        "收快递",
+        "递"
+      ]
+    },
+    {
+      "card_id": "daily_life_0205",
+      "answer": "拆快递",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "快",
+        "拆",
+        "拆快递",
+        "递"
+      ]
+    },
+    {
+      "card_id": "daily_life_0206",
+      "answer": "买菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "买",
+        "买菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0207",
+      "answer": "做饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "做",
+        "做饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "daily_life_0208",
+      "answer": "炒菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "炒",
+        "炒菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0209",
+      "answer": "煮饭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "煮",
+        "煮饭",
+        "饭"
+      ]
+    },
+    {
+      "card_id": "daily_life_0210",
+      "answer": "烧水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "水",
+        "烧",
+        "烧水"
+      ]
+    },
+    {
+      "card_id": "daily_life_0211",
+      "answer": "浇花",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "浇",
+        "浇花",
+        "花"
+      ]
+    },
+    {
+      "card_id": "daily_life_0212",
+      "answer": "遛狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "狗",
+        "遛",
+        "遛狗"
+      ]
+    },
+    {
+      "card_id": "daily_life_0213",
+      "answer": "散步",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "散",
+        "散步",
+        "步"
+      ]
+    },
+    {
+      "card_id": "daily_life_0214",
+      "answer": "跑步",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "步",
+        "跑",
+        "跑步"
+      ]
+    },
+    {
+      "card_id": "daily_life_0215",
+      "answer": "跳绳",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "绳",
+        "跳",
+        "跳绳"
+      ]
+    },
+    {
+      "card_id": "daily_life_0216",
+      "answer": "放风筝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "放",
+        "放风筝",
+        "筝",
+        "风"
+      ]
+    },
+    {
+      "card_id": "daily_life_0217",
+      "answer": "看书",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "书",
+        "看",
+        "看书"
+      ]
+    },
+    {
+      "card_id": "daily_life_0218",
+      "answer": "写字",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "写",
+        "写字",
+        "字"
+      ]
+    },
+    {
+      "card_id": "daily_life_0219",
+      "answer": "做作业",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "业",
+        "作",
+        "做",
+        "做作业"
+      ]
+    },
+    {
+      "card_id": "daily_life_0220",
+      "answer": "听音乐",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "乐",
+        "听",
+        "听音乐",
+        "音"
+      ]
+    },
+    {
+      "card_id": "daily_life_0221",
+      "answer": "看电视",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "电",
+        "看",
+        "看电视",
+        "视"
+      ]
+    },
+    {
+      "card_id": "daily_life_0222",
+      "answer": "睡午觉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "午",
+        "睡",
+        "睡午觉",
+        "觉"
+      ]
+    },
+    {
+      "card_id": "daily_life_0223",
+      "answer": "起床",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "床",
+        "起",
+        "起床"
+      ]
+    },
+    {
+      "card_id": "daily_life_0224",
+      "answer": "刷卡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "刷",
+        "刷卡",
+        "卡"
+      ]
+    },
+    {
+      "card_id": "daily_life_0225",
+      "answer": "扫码",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "扫",
+        "扫码",
+        "码"
+      ]
+    },
+    {
+      "card_id": "daily_life_0226",
+      "answer": "充电",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "充",
+        "充电",
+        "电"
+      ]
+    },
+    {
+      "card_id": "daily_life_0227",
+      "answer": "打印",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "印",
+        "打",
+        "打印"
+      ]
+    },
+    {
+      "card_id": "daily_life_0228",
+      "answer": "复印",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "印",
+        "复",
+        "复印"
+      ]
+    },
+    {
+      "card_id": "daily_life_0229",
+      "answer": "拍视频",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "拍",
+        "拍视频",
+        "视",
+        "频"
+      ]
+    },
+    {
+      "card_id": "daily_life_0230",
+      "answer": "整理房间",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "房",
+        "整",
+        "整理房间",
+        "理",
+        "间"
+      ]
+    },
+    {
+      "card_id": "daily_life_0231",
+      "answer": "打包行李",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "包",
+        "打",
+        "打包行李",
+        "李",
+        "行"
+      ]
+    },
+    {
+      "card_id": "daily_life_0232",
+      "answer": "换电池",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "换",
+        "换电池",
+        "池",
+        "电"
+      ]
+    },
+    {
+      "card_id": "daily_life_0233",
+      "answer": "擦眼镜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "擦",
+        "擦眼镜",
+        "眼",
+        "镜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0234",
+      "answer": "找钥匙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "匙",
+        "找",
+        "找钥匙",
+        "钥"
+      ]
+    },
+    {
+      "card_id": "daily_life_0235",
+      "answer": "等电梯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "梯",
+        "电",
+        "等",
+        "等电梯"
+      ]
+    },
+    {
+      "card_id": "daily_life_0236",
+      "answer": "按门铃",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "按",
+        "按门铃",
+        "铃",
+        "门"
+      ]
+    },
+    {
+      "card_id": "daily_life_0237",
+      "answer": "买票",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "买",
+        "买票",
+        "票"
+      ]
+    },
+    {
+      "card_id": "daily_life_0238",
+      "answer": "过马路",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "路",
+        "过",
+        "过马路",
+        "马"
+      ]
+    },
+    {
+      "card_id": "daily_life_0239",
+      "answer": "洗水果",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "果",
+        "水",
+        "洗",
+        "洗水果"
+      ]
+    },
+    {
+      "card_id": "daily_life_0240",
+      "answer": "切菜",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "切",
+        "切菜",
+        "菜"
+      ]
+    },
+    {
+      "card_id": "daily_life_0241",
+      "answer": "倒水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "倒",
+        "倒水",
+        "水"
+      ]
+    },
+    {
+      "card_id": "daily_life_0242",
+      "answer": "喝水",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "starter",
+        "daily-life"
+      ],
+      "banned_tokens": [
+        "喝",
+        "喝水",
+        "水"
+      ]
+    }
   ]
 }

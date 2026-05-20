@@ -1,59 +1,3730 @@
 {
   "pack_id": "animals_cn",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "display_name": {
     "zh-Hans": "动物",
     "zh-Hant": "動物",
     "en": "Animals"
   },
   "description": {
-    "zh-Hans": "可爱动物，简单好演。"
+    "zh-Hans": "萌宠、海洋、森林和农场动物。",
+    "en": "Cute animals from pets to wildlife."
   },
   "language": "zh-Hans",
-  "category_tags": ["family-safe", "animals", "starter", "concrete"],
+  "category_tags": [
+    "family-safe",
+    "animals",
+    "starter",
+    "concrete"
+  ],
   "difficulty": "easy",
   "content_rating": "family",
-  "regions": ["CN", "TW", "HK", "global"],
+  "regions": [
+    "CN",
+    "TW",
+    "HK",
+    "global"
+  ],
   "cards": [
-    { "card_id": "animal_0001", "answer": "小狗", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["小", "狗", "小狗", "xiao gou", "dog"] },
-    { "card_id": "animal_0002", "answer": "小猫", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["小", "猫", "小猫", "xiao mao", "cat"] },
-    { "card_id": "animal_0003", "answer": "兔子", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["兔", "子", "兔子", "tu zi", "rabbit"] },
-    { "card_id": "animal_0004", "answer": "仓鼠", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["仓", "鼠", "仓鼠", "cang shu", "hamster"] },
-    { "card_id": "animal_0005", "answer": "金鱼", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["金", "鱼", "金鱼", "jin yu", "goldfish"] },
-    { "card_id": "animal_0006", "answer": "乌龟", "difficulty": "easy", "tags": ["pet"], "banned_tokens": ["乌", "龟", "乌龟", "wu gui", "turtle"] },
-    { "card_id": "animal_0007", "answer": "熊猫", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["熊", "猫", "熊猫", "xiong mao", "panda"] },
-    { "card_id": "animal_0008", "answer": "大象", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["大", "象", "大象", "da xiang", "elephant"] },
-    { "card_id": "animal_0009", "answer": "长颈鹿", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["长", "颈", "鹿", "长颈鹿", "chang jing lu", "giraffe"] },
-    { "card_id": "animal_0010", "answer": "猴子", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["猴", "子", "猴子", "hou zi", "monkey"] },
-    { "card_id": "animal_0011", "answer": "狮子", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["狮", "子", "狮子", "shi zi", "lion"] },
-    { "card_id": "animal_0012", "answer": "老虎", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["老", "虎", "老虎", "lao hu", "tiger"] },
-    { "card_id": "animal_0013", "answer": "斑马", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["斑", "马", "斑马", "ban ma", "zebra"] },
-    { "card_id": "animal_0014", "answer": "河马", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["河", "马", "河马", "he ma", "hippo"] },
-    { "card_id": "animal_0015", "answer": "犀牛", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["犀", "牛", "犀牛", "xi niu", "rhino"] },
-    { "card_id": "animal_0016", "answer": "袋鼠", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["袋", "鼠", "袋鼠", "dai shu", "kangaroo"] },
-    { "card_id": "animal_0017", "answer": "考拉", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["考", "拉", "考拉", "kao la", "koala"] },
-    { "card_id": "animal_0018", "answer": "企鹅", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["企", "鹅", "企鹅", "qi e", "penguin"] },
-    { "card_id": "animal_0019", "answer": "海豚", "difficulty": "easy", "tags": ["ocean"], "banned_tokens": ["海", "豚", "海豚", "hai tun", "dolphin"] },
-    { "card_id": "animal_0020", "answer": "鲸鱼", "difficulty": "easy", "tags": ["ocean"], "banned_tokens": ["鲸", "鱼", "鲸鱼", "jing yu", "whale"] },
-    { "card_id": "animal_0021", "answer": "海星", "difficulty": "easy", "tags": ["ocean"], "banned_tokens": ["海", "星", "海星", "hai xing", "starfish"] },
-    { "card_id": "animal_0022", "answer": "螃蟹", "difficulty": "easy", "tags": ["ocean"], "banned_tokens": ["螃", "蟹", "螃蟹", "pang xie", "crab"] },
-    { "card_id": "animal_0023", "answer": "章鱼", "difficulty": "easy", "tags": ["ocean"], "banned_tokens": ["章", "鱼", "章鱼", "zhang yu", "octopus"] },
-    { "card_id": "animal_0024", "answer": "青蛙", "difficulty": "easy", "tags": ["pond"], "banned_tokens": ["青", "蛙", "青蛙", "qing wa", "frog"] },
-    { "card_id": "animal_0025", "answer": "鸭子", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["鸭", "子", "鸭子", "ya zi", "duck"] },
-    { "card_id": "animal_0026", "answer": "小鸡", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["小", "鸡", "小鸡", "xiao ji", "chick"] },
-    { "card_id": "animal_0027", "answer": "公鸡", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["公", "鸡", "公鸡", "gong ji", "rooster"] },
-    { "card_id": "animal_0028", "answer": "孔雀", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["孔", "雀", "孔雀", "kong que", "peacock"] },
-    { "card_id": "animal_0029", "answer": "鹦鹉", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["鹦", "鹉", "鹦鹉", "ying wu", "parrot"] },
-    { "card_id": "animal_0030", "answer": "猫头鹰", "difficulty": "easy", "tags": ["bird"], "banned_tokens": ["猫", "头", "鹰", "猫头鹰", "mao tou ying", "owl"] },
-    { "card_id": "animal_0031", "answer": "蝴蝶", "difficulty": "easy", "tags": ["insect"], "banned_tokens": ["蝴", "蝶", "蝴蝶", "hu die", "butterfly"] },
-    { "card_id": "animal_0032", "answer": "蜜蜂", "difficulty": "easy", "tags": ["insect"], "banned_tokens": ["蜜", "蜂", "蜜蜂", "mi feng", "bee"] },
-    { "card_id": "animal_0033", "answer": "蚂蚁", "difficulty": "easy", "tags": ["insect"], "banned_tokens": ["蚂", "蚁", "蚂蚁", "ma yi", "ant"] },
-    { "card_id": "animal_0034", "answer": "蜗牛", "difficulty": "easy", "tags": ["insect"], "banned_tokens": ["蜗", "牛", "蜗牛", "wo niu", "snail"] },
-    { "card_id": "animal_0035", "answer": "奶牛", "difficulty": "easy", "tags": ["farm"], "banned_tokens": ["奶", "牛", "奶牛", "nai niu", "cow"] },
-    { "card_id": "animal_0036", "answer": "小羊", "difficulty": "easy", "tags": ["farm"], "banned_tokens": ["小", "羊", "小羊", "xiao yang", "lamb"] },
-    { "card_id": "animal_0037", "answer": "小马", "difficulty": "easy", "tags": ["farm"], "banned_tokens": ["小", "马", "小马", "xiao ma", "pony"] },
-    { "card_id": "animal_0038", "answer": "骆驼", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["骆", "驼", "骆驼", "luo tuo", "camel"] },
-    { "card_id": "animal_0039", "answer": "松鼠", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["松", "鼠", "松鼠", "song shu", "squirrel"] },
-    { "card_id": "animal_0040", "answer": "狐狸", "difficulty": "easy", "tags": ["wild"], "banned_tokens": ["狐", "狸", "狐狸", "hu li", "fox"] }
+    {
+      "card_id": "animal_0001",
+      "answer": "小狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小狗",
+        "狗"
+      ]
+    },
+    {
+      "card_id": "animal_0002",
+      "answer": "小猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小猫",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "animal_0003",
+      "answer": "兔子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "兔",
+        "兔子",
+        "子"
+      ]
+    },
+    {
+      "card_id": "animal_0004",
+      "answer": "仓鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仓",
+        "仓鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0005",
+      "answer": "金鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "金",
+        "金鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0006",
+      "answer": "乌龟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "乌",
+        "乌龟",
+        "龟"
+      ]
+    },
+    {
+      "card_id": "animal_0007",
+      "answer": "熊猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "熊",
+        "熊猫",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "animal_0008",
+      "answer": "大象",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "大",
+        "大象",
+        "象"
+      ]
+    },
+    {
+      "card_id": "animal_0009",
+      "answer": "长颈鹿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "长",
+        "长颈鹿",
+        "颈",
+        "鹿"
+      ]
+    },
+    {
+      "card_id": "animal_0010",
+      "answer": "猴子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "猴",
+        "猴子"
+      ]
+    },
+    {
+      "card_id": "animal_0011",
+      "answer": "狮子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "狮",
+        "狮子"
+      ]
+    },
+    {
+      "card_id": "animal_0012",
+      "answer": "老虎",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "老",
+        "老虎",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "animal_0013",
+      "answer": "斑马",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "斑",
+        "斑马",
+        "马"
+      ]
+    },
+    {
+      "card_id": "animal_0014",
+      "answer": "河马",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河马",
+        "马"
+      ]
+    },
+    {
+      "card_id": "animal_0015",
+      "answer": "犀牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "牛",
+        "犀",
+        "犀牛"
+      ]
+    },
+    {
+      "card_id": "animal_0016",
+      "answer": "袋鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "袋",
+        "袋鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0017",
+      "answer": "考拉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "拉",
+        "考",
+        "考拉"
+      ]
+    },
+    {
+      "card_id": "animal_0018",
+      "answer": "企鹅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "企",
+        "企鹅",
+        "鹅"
+      ]
+    },
+    {
+      "card_id": "animal_0019",
+      "answer": "海豚",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海豚",
+        "豚"
+      ]
+    },
+    {
+      "card_id": "animal_0020",
+      "answer": "鲸鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲸",
+        "鲸鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0021",
+      "answer": "海星",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "星",
+        "海",
+        "海星"
+      ]
+    },
+    {
+      "card_id": "animal_0022",
+      "answer": "螃蟹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "螃",
+        "螃蟹",
+        "蟹"
+      ]
+    },
+    {
+      "card_id": "animal_0023",
+      "answer": "章鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "章",
+        "章鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0024",
+      "answer": "青蛙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛙",
+        "青",
+        "青蛙"
+      ]
+    },
+    {
+      "card_id": "animal_0025",
+      "answer": "鸭子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "鸭",
+        "鸭子"
+      ]
+    },
+    {
+      "card_id": "animal_0026",
+      "answer": "小鸡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小鸡",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "animal_0027",
+      "answer": "公鸡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "公",
+        "公鸡",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "animal_0028",
+      "answer": "母鸡",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "母",
+        "母鸡",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "animal_0029",
+      "answer": "孔雀",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "孔",
+        "孔雀",
+        "雀"
+      ]
+    },
+    {
+      "card_id": "animal_0030",
+      "answer": "鹦鹉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鹉",
+        "鹦",
+        "鹦鹉"
+      ]
+    },
+    {
+      "card_id": "animal_0031",
+      "answer": "猫头鹰",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "头",
+        "猫",
+        "猫头鹰",
+        "鹰"
+      ]
+    },
+    {
+      "card_id": "animal_0032",
+      "answer": "蝴蝶",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蝴",
+        "蝴蝶",
+        "蝶"
+      ]
+    },
+    {
+      "card_id": "animal_0033",
+      "answer": "蜜蜂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蜂",
+        "蜜",
+        "蜜蜂"
+      ]
+    },
+    {
+      "card_id": "animal_0034",
+      "answer": "蚂蚁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蚁",
+        "蚂",
+        "蚂蚁"
+      ]
+    },
+    {
+      "card_id": "animal_0035",
+      "answer": "蜗牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "牛",
+        "蜗",
+        "蜗牛"
+      ]
+    },
+    {
+      "card_id": "animal_0036",
+      "answer": "奶牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "奶",
+        "奶牛",
+        "牛"
+      ]
+    },
+    {
+      "card_id": "animal_0037",
+      "answer": "小羊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小羊",
+        "羊"
+      ]
+    },
+    {
+      "card_id": "animal_0038",
+      "answer": "山羊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "山",
+        "山羊",
+        "羊"
+      ]
+    },
+    {
+      "card_id": "animal_0039",
+      "answer": "绵羊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "绵",
+        "绵羊",
+        "羊"
+      ]
+    },
+    {
+      "card_id": "animal_0040",
+      "answer": "小马",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小马",
+        "马"
+      ]
+    },
+    {
+      "card_id": "animal_0041",
+      "answer": "骆驼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "驼",
+        "骆",
+        "骆驼"
+      ]
+    },
+    {
+      "card_id": "animal_0042",
+      "answer": "松鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "松",
+        "松鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0043",
+      "answer": "狐狸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狐",
+        "狐狸",
+        "狸"
+      ]
+    },
+    {
+      "card_id": "animal_0044",
+      "answer": "刺猬",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "刺",
+        "刺猬",
+        "猬"
+      ]
+    },
+    {
+      "card_id": "animal_0045",
+      "answer": "黑熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "熊",
+        "黑",
+        "黑熊"
+      ]
+    },
+    {
+      "card_id": "animal_0046",
+      "answer": "北极熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "北",
+        "北极熊",
+        "极",
+        "熊"
+      ]
+    },
+    {
+      "card_id": "animal_0047",
+      "answer": "棕熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "棕",
+        "棕熊",
+        "熊"
+      ]
+    },
+    {
+      "card_id": "animal_0048",
+      "answer": "狼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狼"
+      ]
+    },
+    {
+      "card_id": "animal_0049",
+      "answer": "大灰狼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "大",
+        "大灰狼",
+        "灰",
+        "狼"
+      ]
+    },
+    {
+      "card_id": "animal_0050",
+      "answer": "梅花鹿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "梅",
+        "梅花鹿",
+        "花",
+        "鹿"
+      ]
+    },
+    {
+      "card_id": "animal_0051",
+      "answer": "驯鹿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "驯",
+        "驯鹿",
+        "鹿"
+      ]
+    },
+    {
+      "card_id": "animal_0052",
+      "answer": "羚羊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "羊",
+        "羚",
+        "羚羊"
+      ]
+    },
+    {
+      "card_id": "animal_0053",
+      "answer": "水牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "水牛",
+        "牛"
+      ]
+    },
+    {
+      "card_id": "animal_0054",
+      "answer": "公牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "公",
+        "公牛",
+        "牛"
+      ]
+    },
+    {
+      "card_id": "animal_0055",
+      "answer": "野猪",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猪",
+        "野",
+        "野猪"
+      ]
+    },
+    {
+      "card_id": "animal_0056",
+      "answer": "小猪",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小猪",
+        "猪"
+      ]
+    },
+    {
+      "card_id": "animal_0057",
+      "answer": "浣熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "浣",
+        "浣熊",
+        "熊"
+      ]
+    },
+    {
+      "card_id": "animal_0058",
+      "answer": "水獭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "水獭",
+        "獭"
+      ]
+    },
+    {
+      "card_id": "animal_0059",
+      "answer": "海豹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海豹",
+        "豹"
+      ]
+    },
+    {
+      "card_id": "animal_0060",
+      "answer": "海狮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海狮",
+        "狮"
+      ]
+    },
+    {
+      "card_id": "animal_0061",
+      "answer": "海象",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海象",
+        "象"
+      ]
+    },
+    {
+      "card_id": "animal_0062",
+      "answer": "鲨鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲨",
+        "鲨鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0063",
+      "answer": "热带鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "带",
+        "热",
+        "热带鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0064",
+      "answer": "海马",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海马",
+        "马"
+      ]
+    },
+    {
+      "card_id": "animal_0065",
+      "answer": "水母",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "母",
+        "水",
+        "水母"
+      ]
+    },
+    {
+      "card_id": "animal_0066",
+      "answer": "龙虾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "虾",
+        "龙",
+        "龙虾"
+      ]
+    },
+    {
+      "card_id": "animal_0067",
+      "answer": "河虾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河虾",
+        "虾"
+      ]
+    },
+    {
+      "card_id": "animal_0068",
+      "answer": "河蟹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河蟹",
+        "蟹"
+      ]
+    },
+    {
+      "card_id": "animal_0069",
+      "answer": "贝壳",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "壳",
+        "贝",
+        "贝壳"
+      ]
+    },
+    {
+      "card_id": "animal_0070",
+      "answer": "扇贝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "扇",
+        "扇贝",
+        "贝"
+      ]
+    },
+    {
+      "card_id": "animal_0071",
+      "answer": "海龟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海龟",
+        "龟"
+      ]
+    },
+    {
+      "card_id": "animal_0072",
+      "answer": "鳄鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鳄",
+        "鳄鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0073",
+      "answer": "蜥蜴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蜥",
+        "蜥蜴",
+        "蜴"
+      ]
+    },
+    {
+      "card_id": "animal_0074",
+      "answer": "变色龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "变",
+        "变色龙",
+        "色",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0075",
+      "answer": "蛇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛇"
+      ]
+    },
+    {
+      "card_id": "animal_0076",
+      "answer": "眼镜蛇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "眼",
+        "眼镜蛇",
+        "蛇",
+        "镜"
+      ]
+    },
+    {
+      "card_id": "animal_0077",
+      "answer": "蟒蛇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛇",
+        "蟒",
+        "蟒蛇"
+      ]
+    },
+    {
+      "card_id": "animal_0078",
+      "answer": "壁虎",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "壁",
+        "壁虎",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "animal_0079",
+      "answer": "恐龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "恐",
+        "恐龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0080",
+      "answer": "霸王龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "王",
+        "霸",
+        "霸王龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0081",
+      "answer": "三角龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "三",
+        "三角龙",
+        "角",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0082",
+      "answer": "剑龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "剑",
+        "剑龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0083",
+      "answer": "翼龙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "翼",
+        "翼龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0084",
+      "answer": "鸽子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "鸽",
+        "鸽子"
+      ]
+    },
+    {
+      "card_id": "animal_0085",
+      "answer": "白鸽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "白",
+        "白鸽",
+        "鸽"
+      ]
+    },
+    {
+      "card_id": "animal_0086",
+      "answer": "麻雀",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "雀",
+        "麻",
+        "麻雀"
+      ]
+    },
+    {
+      "card_id": "animal_0087",
+      "answer": "燕子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "燕",
+        "燕子"
+      ]
+    },
+    {
+      "card_id": "animal_0088",
+      "answer": "乌鸦",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "乌",
+        "乌鸦",
+        "鸦"
+      ]
+    },
+    {
+      "card_id": "animal_0089",
+      "answer": "喜鹊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "喜",
+        "喜鹊",
+        "鹊"
+      ]
+    },
+    {
+      "card_id": "animal_0090",
+      "answer": "老鹰",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "老",
+        "老鹰",
+        "鹰"
+      ]
+    },
+    {
+      "card_id": "animal_0091",
+      "answer": "海鸥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海鸥",
+        "鸥"
+      ]
+    },
+    {
+      "card_id": "animal_0092",
+      "answer": "天鹅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "天",
+        "天鹅",
+        "鹅"
+      ]
+    },
+    {
+      "card_id": "animal_0093",
+      "answer": "丹顶鹤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丹",
+        "丹顶鹤",
+        "顶",
+        "鹤"
+      ]
+    },
+    {
+      "card_id": "animal_0094",
+      "answer": "火烈鸟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "火",
+        "火烈鸟",
+        "烈",
+        "鸟"
+      ]
+    },
+    {
+      "card_id": "animal_0095",
+      "answer": "鸵鸟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鸟",
+        "鸵",
+        "鸵鸟"
+      ]
+    },
+    {
+      "card_id": "animal_0096",
+      "answer": "蜂鸟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蜂",
+        "蜂鸟",
+        "鸟"
+      ]
+    },
+    {
+      "card_id": "animal_0097",
+      "answer": "啄木鸟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "啄",
+        "啄木鸟",
+        "木",
+        "鸟"
+      ]
+    },
+    {
+      "card_id": "animal_0098",
+      "answer": "鹈鹕",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鹈",
+        "鹈鹕",
+        "鹕"
+      ]
+    },
+    {
+      "card_id": "animal_0099",
+      "answer": "孔雀鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "孔",
+        "孔雀鱼",
+        "雀",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0100",
+      "answer": "锦鲤",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "锦",
+        "锦鲤",
+        "鲤"
+      ]
+    },
+    {
+      "card_id": "animal_0101",
+      "answer": "鲤鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲤",
+        "鲤鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0102",
+      "answer": "红鲤鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "红",
+        "红鲤鱼",
+        "鱼",
+        "鲤"
+      ]
+    },
+    {
+      "card_id": "animal_0103",
+      "answer": "鲫鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲫",
+        "鲫鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0104",
+      "answer": "金枪鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "枪",
+        "金",
+        "金枪鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0105",
+      "answer": "三文鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "三",
+        "三文鱼",
+        "文",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0106",
+      "answer": "鳗鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鳗",
+        "鳗鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0107",
+      "answer": "泥鳅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "泥",
+        "泥鳅",
+        "鳅"
+      ]
+    },
+    {
+      "card_id": "animal_0108",
+      "answer": "青鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "青",
+        "青鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0109",
+      "answer": "草鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "草",
+        "草鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0110",
+      "answer": "鲈鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲈",
+        "鲈鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0111",
+      "answer": "比目鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "比",
+        "比目鱼",
+        "目",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0112",
+      "answer": "章鱼宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "宝",
+        "章",
+        "章鱼宝宝",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0113",
+      "answer": "乌贼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "乌",
+        "乌贼",
+        "贼"
+      ]
+    },
+    {
+      "card_id": "animal_0114",
+      "answer": "鱿鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鱿",
+        "鱿鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0115",
+      "answer": "海胆",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海胆",
+        "胆"
+      ]
+    },
+    {
+      "card_id": "animal_0116",
+      "answer": "海参",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "参",
+        "海",
+        "海参"
+      ]
+    },
+    {
+      "card_id": "animal_0117",
+      "answer": "蚯蚓",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蚓",
+        "蚯",
+        "蚯蚓"
+      ]
+    },
+    {
+      "card_id": "animal_0118",
+      "answer": "蜈蚣",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蚣",
+        "蜈",
+        "蜈蚣"
+      ]
+    },
+    {
+      "card_id": "animal_0119",
+      "answer": "螳螂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "螂",
+        "螳",
+        "螳螂"
+      ]
+    },
+    {
+      "card_id": "animal_0120",
+      "answer": "蟋蟀",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蟀",
+        "蟋",
+        "蟋蟀"
+      ]
+    },
+    {
+      "card_id": "animal_0121",
+      "answer": "蝗虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "虫",
+        "蝗",
+        "蝗虫"
+      ]
+    },
+    {
+      "card_id": "animal_0122",
+      "answer": "萤火虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "火",
+        "萤",
+        "萤火虫",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "animal_0123",
+      "answer": "瓢虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "瓢",
+        "瓢虫",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "animal_0124",
+      "answer": "蜻蜓",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蜓",
+        "蜻",
+        "蜻蜓"
+      ]
+    },
+    {
+      "card_id": "animal_0125",
+      "answer": "蚊子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "蚊",
+        "蚊子"
+      ]
+    },
+    {
+      "card_id": "animal_0126",
+      "answer": "苍蝇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "苍",
+        "苍蝇",
+        "蝇"
+      ]
+    },
+    {
+      "card_id": "animal_0127",
+      "answer": "蜘蛛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛛",
+        "蜘",
+        "蜘蛛"
+      ]
+    },
+    {
+      "card_id": "animal_0128",
+      "answer": "蝎子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "蝎",
+        "蝎子"
+      ]
+    },
+    {
+      "card_id": "animal_0129",
+      "answer": "甲虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "甲",
+        "甲虫",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "animal_0130",
+      "answer": "独角仙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仙",
+        "独",
+        "独角仙",
+        "角"
+      ]
+    },
+    {
+      "card_id": "animal_0131",
+      "answer": "毛毛虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "毛",
+        "毛毛虫",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "animal_0132",
+      "answer": "蚕宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "宝",
+        "蚕",
+        "蚕宝宝"
+      ]
+    },
+    {
+      "card_id": "animal_0133",
+      "answer": "蝉",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蝉"
+      ]
+    },
+    {
+      "card_id": "animal_0134",
+      "answer": "蟑螂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "螂",
+        "蟑",
+        "蟑螂"
+      ]
+    },
+    {
+      "card_id": "animal_0135",
+      "answer": "老鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "老",
+        "老鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0136",
+      "answer": "田鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "田",
+        "田鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0137",
+      "answer": "豚鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "豚",
+        "豚鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0138",
+      "answer": "刺豚",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "刺",
+        "刺豚",
+        "豚"
+      ]
+    },
+    {
+      "card_id": "animal_0139",
+      "answer": "豪猪",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猪",
+        "豪",
+        "豪猪"
+      ]
+    },
+    {
+      "card_id": "animal_0140",
+      "answer": "树懒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "懒",
+        "树",
+        "树懒"
+      ]
+    },
+    {
+      "card_id": "animal_0141",
+      "answer": "犰狳",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "犰",
+        "犰狳",
+        "狳"
+      ]
+    },
+    {
+      "card_id": "animal_0142",
+      "answer": "穿山甲",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "山",
+        "甲",
+        "穿",
+        "穿山甲"
+      ]
+    },
+    {
+      "card_id": "animal_0143",
+      "answer": "食蚁兽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "兽",
+        "蚁",
+        "食",
+        "食蚁兽"
+      ]
+    },
+    {
+      "card_id": "animal_0144",
+      "answer": "鸭嘴兽",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "兽",
+        "嘴",
+        "鸭",
+        "鸭嘴兽"
+      ]
+    },
+    {
+      "card_id": "animal_0145",
+      "answer": "树袋熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "树",
+        "树袋熊",
+        "熊",
+        "袋"
+      ]
+    },
+    {
+      "card_id": "animal_0146",
+      "answer": "袋熊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "熊",
+        "袋",
+        "袋熊"
+      ]
+    },
+    {
+      "card_id": "animal_0147",
+      "answer": "袋獾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "獾",
+        "袋",
+        "袋獾"
+      ]
+    },
+    {
+      "card_id": "animal_0148",
+      "answer": "狐獴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狐",
+        "狐獴",
+        "獴"
+      ]
+    },
+    {
+      "card_id": "animal_0149",
+      "answer": "狐猴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狐",
+        "狐猴",
+        "猴"
+      ]
+    },
+    {
+      "card_id": "animal_0150",
+      "answer": "猩猩",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猩",
+        "猩猩"
+      ]
+    },
+    {
+      "card_id": "animal_0151",
+      "answer": "黑猩猩",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猩",
+        "黑",
+        "黑猩猩"
+      ]
+    },
+    {
+      "card_id": "animal_0152",
+      "answer": "大猩猩",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "大",
+        "大猩猩",
+        "猩"
+      ]
+    },
+    {
+      "card_id": "animal_0153",
+      "answer": "长臂猿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猿",
+        "臂",
+        "长",
+        "长臂猿"
+      ]
+    },
+    {
+      "card_id": "animal_0154",
+      "answer": "狒狒",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狒",
+        "狒狒"
+      ]
+    },
+    {
+      "card_id": "animal_0155",
+      "answer": "猕猴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猕",
+        "猕猴",
+        "猴"
+      ]
+    },
+    {
+      "card_id": "animal_0156",
+      "answer": "金丝猴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丝",
+        "猴",
+        "金",
+        "金丝猴"
+      ]
+    },
+    {
+      "card_id": "animal_0157",
+      "answer": "环尾狐猴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "尾",
+        "狐",
+        "猴",
+        "环",
+        "环尾狐猴"
+      ]
+    },
+    {
+      "card_id": "animal_0158",
+      "answer": "白虎",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "白",
+        "白虎",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "animal_0159",
+      "answer": "猎豹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猎",
+        "猎豹",
+        "豹"
+      ]
+    },
+    {
+      "card_id": "animal_0160",
+      "answer": "美洲豹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "洲",
+        "美",
+        "美洲豹",
+        "豹"
+      ]
+    },
+    {
+      "card_id": "animal_0161",
+      "answer": "豹子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "豹",
+        "豹子"
+      ]
+    },
+    {
+      "card_id": "animal_0162",
+      "answer": "雪豹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "豹",
+        "雪",
+        "雪豹"
+      ]
+    },
+    {
+      "card_id": "animal_0163",
+      "answer": "猞猁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "猁",
+        "猞",
+        "猞猁"
+      ]
+    },
+    {
+      "card_id": "animal_0164",
+      "answer": "山猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "山",
+        "山猫",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "animal_0165",
+      "answer": "鬣狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狗",
+        "鬣",
+        "鬣狗"
+      ]
+    },
+    {
+      "card_id": "animal_0166",
+      "answer": "豺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "豺"
+      ]
+    },
+    {
+      "card_id": "animal_0167",
+      "answer": "水豚",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "水豚",
+        "豚"
+      ]
+    },
+    {
+      "card_id": "animal_0168",
+      "answer": "海狸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海狸",
+        "狸"
+      ]
+    },
+    {
+      "card_id": "animal_0169",
+      "answer": "河狸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河狸",
+        "狸"
+      ]
+    },
+    {
+      "card_id": "animal_0170",
+      "answer": "飞鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "飞",
+        "飞鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0171",
+      "answer": "土拨鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "土",
+        "土拨鼠",
+        "拨",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0172",
+      "answer": "鼹鼠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鼠",
+        "鼹",
+        "鼹鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0173",
+      "answer": "蝙蝠",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蝙",
+        "蝙蝠",
+        "蝠"
+      ]
+    },
+    {
+      "card_id": "animal_0174",
+      "answer": "刺猬宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "刺",
+        "刺猬宝宝",
+        "宝",
+        "猬"
+      ]
+    },
+    {
+      "card_id": "animal_0175",
+      "answer": "小鹿",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小鹿",
+        "鹿"
+      ]
+    },
+    {
+      "card_id": "animal_0176",
+      "answer": "小牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小牛",
+        "牛"
+      ]
+    },
+    {
+      "card_id": "animal_0177",
+      "answer": "小猪仔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "仔",
+        "小",
+        "小猪仔",
+        "猪"
+      ]
+    },
+    {
+      "card_id": "animal_0178",
+      "answer": "小鸭子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "小",
+        "小鸭子",
+        "鸭"
+      ]
+    },
+    {
+      "card_id": "animal_0179",
+      "answer": "小鹅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小鹅",
+        "鹅"
+      ]
+    },
+    {
+      "card_id": "animal_0180",
+      "answer": "鹅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鹅"
+      ]
+    },
+    {
+      "card_id": "animal_0181",
+      "answer": "鸳鸯",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鸯",
+        "鸳",
+        "鸳鸯"
+      ]
+    },
+    {
+      "card_id": "animal_0182",
+      "answer": "鹌鹑",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鹌",
+        "鹌鹑",
+        "鹑"
+      ]
+    },
+    {
+      "card_id": "animal_0183",
+      "answer": "鸽子宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "宝",
+        "鸽",
+        "鸽子宝宝"
+      ]
+    },
+    {
+      "card_id": "animal_0184",
+      "answer": "鹦鹉螺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "螺",
+        "鹉",
+        "鹦",
+        "鹦鹉螺"
+      ]
+    },
+    {
+      "card_id": "animal_0185",
+      "answer": "章鱼哥",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "哥",
+        "章",
+        "章鱼哥",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0186",
+      "answer": "小丑鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "丑",
+        "小",
+        "小丑鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0187",
+      "answer": "河豚",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "河",
+        "河豚",
+        "豚"
+      ]
+    },
+    {
+      "card_id": "animal_0188",
+      "answer": "飞鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "飞",
+        "飞鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0189",
+      "answer": "灯笼鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "灯",
+        "灯笼鱼",
+        "笼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0190",
+      "answer": "电鳗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "电",
+        "电鳗",
+        "鳗"
+      ]
+    },
+    {
+      "card_id": "animal_0191",
+      "answer": "海葵",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海葵",
+        "葵"
+      ]
+    },
+    {
+      "card_id": "animal_0192",
+      "answer": "珊瑚虫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "珊",
+        "珊瑚虫",
+        "瑚",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "animal_0193",
+      "answer": "寄居蟹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "寄",
+        "寄居蟹",
+        "居",
+        "蟹"
+      ]
+    },
+    {
+      "card_id": "animal_0194",
+      "answer": "招潮蟹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "招",
+        "招潮蟹",
+        "潮",
+        "蟹"
+      ]
+    },
+    {
+      "card_id": "animal_0195",
+      "answer": "小龙虾",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小龙虾",
+        "虾",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "animal_0196",
+      "answer": "鳄龟",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鳄",
+        "鳄龟",
+        "龟"
+      ]
+    },
+    {
+      "card_id": "animal_0197",
+      "answer": "娃娃鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "娃",
+        "娃娃鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0198",
+      "answer": "蝾螈",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蝾",
+        "蝾螈",
+        "螈"
+      ]
+    },
+    {
+      "card_id": "animal_0199",
+      "answer": "树蛙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "树",
+        "树蛙",
+        "蛙"
+      ]
+    },
+    {
+      "card_id": "animal_0200",
+      "answer": "蟾蜍",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蜍",
+        "蟾",
+        "蟾蜍"
+      ]
+    },
+    {
+      "card_id": "animal_0201",
+      "answer": "青蛇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛇",
+        "青",
+        "青蛇"
+      ]
+    },
+    {
+      "card_id": "animal_0202",
+      "answer": "蜥蜴宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "宝",
+        "蜥",
+        "蜥蜴宝宝",
+        "蜴"
+      ]
+    },
+    {
+      "card_id": "animal_0203",
+      "answer": "角蛙",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛙",
+        "角",
+        "角蛙"
+      ]
+    },
+    {
+      "card_id": "animal_0204",
+      "answer": "乌龟宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "乌",
+        "乌龟宝宝",
+        "宝",
+        "龟"
+      ]
+    },
+    {
+      "card_id": "animal_0205",
+      "answer": "小白兔",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "兔",
+        "小",
+        "小白兔",
+        "白"
+      ]
+    },
+    {
+      "card_id": "animal_0206",
+      "answer": "大白鹅",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "大",
+        "大白鹅",
+        "白",
+        "鹅"
+      ]
+    },
+    {
+      "card_id": "animal_0207",
+      "answer": "大黄鸭",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "大",
+        "大黄鸭",
+        "鸭",
+        "黄"
+      ]
+    },
+    {
+      "card_id": "animal_0208",
+      "answer": "田螺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "田",
+        "田螺",
+        "螺"
+      ]
+    },
+    {
+      "card_id": "animal_0209",
+      "answer": "蛤蜊",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛤",
+        "蛤蜊",
+        "蜊"
+      ]
+    },
+    {
+      "card_id": "animal_0210",
+      "answer": "牡蛎",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "牡",
+        "牡蛎",
+        "蛎"
+      ]
+    },
+    {
+      "card_id": "animal_0211",
+      "answer": "鲍鱼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鱼",
+        "鲍",
+        "鲍鱼"
+      ]
+    },
+    {
+      "card_id": "animal_0212",
+      "answer": "海螺",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海螺",
+        "螺"
+      ]
+    },
+    {
+      "card_id": "animal_0213",
+      "answer": "蚕蛹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蚕",
+        "蚕蛹",
+        "蛹"
+      ]
+    },
+    {
+      "card_id": "animal_0214",
+      "answer": "蝉蛹",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蛹",
+        "蝉",
+        "蝉蛹"
+      ]
+    },
+    {
+      "card_id": "animal_0215",
+      "answer": "小蜜蜂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小蜜蜂",
+        "蜂",
+        "蜜"
+      ]
+    },
+    {
+      "card_id": "animal_0216",
+      "answer": "小蚂蚁",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "小",
+        "小蚂蚁",
+        "蚁",
+        "蚂"
+      ]
+    },
+    {
+      "card_id": "animal_0217",
+      "answer": "红蜻蜓",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "红",
+        "红蜻蜓",
+        "蜓",
+        "蜻"
+      ]
+    },
+    {
+      "card_id": "animal_0218",
+      "answer": "蓝鲸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "蓝",
+        "蓝鲸",
+        "鲸"
+      ]
+    },
+    {
+      "card_id": "animal_0219",
+      "answer": "虎鲸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "虎",
+        "虎鲸",
+        "鲸"
+      ]
+    },
+    {
+      "card_id": "animal_0220",
+      "answer": "抹香鲸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "抹",
+        "抹香鲸",
+        "香",
+        "鲸"
+      ]
+    },
+    {
+      "card_id": "animal_0221",
+      "answer": "白鲸",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "白",
+        "白鲸",
+        "鲸"
+      ]
+    },
+    {
+      "card_id": "animal_0222",
+      "answer": "海牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "海",
+        "海牛",
+        "牛"
+      ]
+    },
+    {
+      "card_id": "animal_0223",
+      "answer": "儒艮",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "儒",
+        "儒艮",
+        "艮"
+      ]
+    },
+    {
+      "card_id": "animal_0224",
+      "answer": "鼬",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "鼬"
+      ]
+    },
+    {
+      "card_id": "animal_0225",
+      "answer": "黄鼠狼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狼",
+        "黄",
+        "黄鼠狼",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "animal_0226",
+      "answer": "臭鼬",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "臭",
+        "臭鼬",
+        "鼬"
+      ]
+    },
+    {
+      "card_id": "animal_0227",
+      "answer": "貂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "貂"
+      ]
+    },
+    {
+      "card_id": "animal_0228",
+      "answer": "水貂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "水",
+        "水貂",
+        "貂"
+      ]
+    },
+    {
+      "card_id": "animal_0229",
+      "answer": "雪貂",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "貂",
+        "雪",
+        "雪貂"
+      ]
+    },
+    {
+      "card_id": "animal_0230",
+      "answer": "马",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "马"
+      ]
+    },
+    {
+      "card_id": "animal_0231",
+      "answer": "驴",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "驴"
+      ]
+    },
+    {
+      "card_id": "animal_0232",
+      "answer": "骡子",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "子",
+        "骡",
+        "骡子"
+      ]
+    },
+    {
+      "card_id": "animal_0233",
+      "answer": "牦牛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "牛",
+        "牦",
+        "牦牛"
+      ]
+    },
+    {
+      "card_id": "animal_0234",
+      "answer": "羊驼",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "羊",
+        "羊驼",
+        "驼"
+      ]
+    },
+    {
+      "card_id": "animal_0235",
+      "answer": "骆驼宝宝",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "宝",
+        "驼",
+        "骆",
+        "骆驼宝宝"
+      ]
+    },
+    {
+      "card_id": "animal_0236",
+      "answer": "斑点狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "斑",
+        "斑点狗",
+        "点",
+        "狗"
+      ]
+    },
+    {
+      "card_id": "animal_0237",
+      "answer": "泰迪狗",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "泰",
+        "泰迪狗",
+        "狗",
+        "迪"
+      ]
+    },
+    {
+      "card_id": "animal_0238",
+      "answer": "柯基",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "基",
+        "柯",
+        "柯基"
+      ]
+    },
+    {
+      "card_id": "animal_0239",
+      "answer": "金毛",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "毛",
+        "金",
+        "金毛"
+      ]
+    },
+    {
+      "card_id": "animal_0240",
+      "answer": "哈士奇",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "哈",
+        "哈士奇",
+        "士",
+        "奇"
+      ]
+    },
+    {
+      "card_id": "animal_0241",
+      "answer": "布偶猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "偶",
+        "布",
+        "布偶猫",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "animal_0242",
+      "answer": "暹罗猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "暹",
+        "暹罗猫",
+        "猫",
+        "罗"
+      ]
+    },
+    {
+      "card_id": "animal_0243",
+      "answer": "橘猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "橘",
+        "橘猫",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "animal_0244",
+      "answer": "狸花猫",
+      "difficulty": "easy",
+      "tags": [
+        "family-safe",
+        "animals",
+        "starter"
+      ],
+      "banned_tokens": [
+        "狸",
+        "狸花猫",
+        "猫",
+        "花"
+      ]
+    }
   ]
 }

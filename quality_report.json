@@ -1,0 +1,57 @@
+{
+  "content_version": "2026.05.20.1",
+  "pack_count": 6,
+  "total_cards": 1507,
+  "packs": [
+    {
+      "pack_id": "daily_life_cn",
+      "display_name": "日常生活",
+      "version": "2.0.0",
+      "language": "zh-Hans",
+      "card_count": 242,
+      "sha256": "5424482bcb320fec51dac77db98443dcf77dded5792c4c5c51f081c4c734b8cd"
+    },
+    {
+      "pack_id": "food_cn",
+      "display_name": "美食",
+      "version": "2.0.0",
+      "language": "zh-Hans",
+      "card_count": 257,
+      "sha256": "371816cc0c7e88783cb3c85906e05e45dab4bcc61d8ddffc894cdb769363235c"
+    },
+    {
+      "pack_id": "animals_cn",
+      "display_name": "动物",
+      "version": "2.0.0",
+      "language": "zh-Hans",
+      "card_count": 244,
+      "sha256": "2ad694b6bc6357080d750cc5c9546dea470244b7366612eb74dfd11d98afbac9"
+    },
+    {
+      "pack_id": "gen_z_phrases_en",
+      "display_name": "Gen Z Phrases",
+      "version": "2.0.0",
+      "language": "en",
+      "card_count": 258,
+      "sha256": "09f395c08f9a41d3ac6222bd0662cffb2b8ea5cf12b95c79d9813b668f5c7a36"
+    },
+    {
+      "pack_id": "movies_cn",
+      "display_name": "影视",
+      "version": "1.0.0",
+      "language": "zh-Hans",
+      "card_count": 273,
+      "sha256": "679a5c4160f927d7dbafeb42f2aea3fc568e1bfd4746691db3ed2cb8929aee1e"
+    },
+    {
+      "pack_id": "idioms_cn",
+      "display_name": "成语",
+      "version": "1.0.0",
+      "language": "zh-Hans",
+      "card_count": 233,
+      "sha256": "aac3546c1a2beda032aef1fd8e1a1f906db5057d9e95c443ff4abd69a73447b8"
+    }
+  ],
+  "minimum_cards_per_pack": 233,
+  "validation": "Generated with unique card IDs per pack, answer included in banned_tokens, LF JSON hashes."
+}

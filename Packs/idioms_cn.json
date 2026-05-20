@@ -1,0 +1,3965 @@
+{
+  "pack_id": "idioms_cn",
+  "version": "1.0.0",
+  "display_name": {
+    "zh-Hans": "成语",
+    "zh-Hant": "成語",
+    "en": "Idioms"
+  },
+  "description": {
+    "zh-Hans": "适合表演的四字成语，搞笑又经典。",
+    "en": "Actable Chinese idioms."
+  },
+  "language": "zh-Hans",
+  "category_tags": [
+    "family-safe",
+    "idioms",
+    "performance",
+    "classic"
+  ],
+  "difficulty": "medium",
+  "content_rating": "family",
+  "regions": [
+    "CN",
+    "TW",
+    "HK",
+    "global"
+  ],
+  "cards": [
+    {
+      "card_id": "idiom_0001",
+      "answer": "口是心非",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "口",
+        "口是心非",
+        "心",
+        "是",
+        "非"
+      ]
+    },
+    {
+      "card_id": "idiom_0002",
+      "answer": "狼吞虎咽",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "吞",
+        "咽",
+        "狼",
+        "狼吞虎咽",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "idiom_0003",
+      "answer": "左右开弓",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "右",
+        "左",
+        "左右开弓",
+        "开",
+        "弓"
+      ]
+    },
+    {
+      "card_id": "idiom_0004",
+      "answer": "一手遮天",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一手遮天",
+        "天",
+        "手",
+        "遮"
+      ]
+    },
+    {
+      "card_id": "idiom_0005",
+      "answer": "否极泰来",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "否",
+        "否极泰来",
+        "来",
+        "极",
+        "泰"
+      ]
+    },
+    {
+      "card_id": "idiom_0006",
+      "answer": "井底之蛙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "之",
+        "井",
+        "井底之蛙",
+        "底",
+        "蛙"
+      ]
+    },
+    {
+      "card_id": "idiom_0007",
+      "answer": "守株待兔",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "兔",
+        "守",
+        "守株待兔",
+        "待",
+        "株"
+      ]
+    },
+    {
+      "card_id": "idiom_0008",
+      "answer": "抱头鼠窜",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "抱",
+        "抱头鼠窜",
+        "窜",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "idiom_0009",
+      "answer": "笑里藏刀",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "刀",
+        "笑",
+        "笑里藏刀",
+        "藏",
+        "里"
+      ]
+    },
+    {
+      "card_id": "idiom_0010",
+      "answer": "饿虎扑食",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "扑",
+        "虎",
+        "食",
+        "饿",
+        "饿虎扑食"
+      ]
+    },
+    {
+      "card_id": "idiom_0011",
+      "answer": "勇往直前",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "前",
+        "勇",
+        "勇往直前",
+        "往",
+        "直"
+      ]
+    },
+    {
+      "card_id": "idiom_0012",
+      "answer": "一分为二",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一分为二",
+        "为",
+        "二",
+        "分"
+      ]
+    },
+    {
+      "card_id": "idiom_0013",
+      "answer": "虎口拔牙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "口",
+        "拔",
+        "牙",
+        "虎",
+        "虎口拔牙"
+      ]
+    },
+    {
+      "card_id": "idiom_0014",
+      "answer": "替罪羊",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "替",
+        "替罪羊",
+        "罪",
+        "羊"
+      ]
+    },
+    {
+      "card_id": "idiom_0015",
+      "answer": "大摇大摆",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "大摇大摆",
+        "摆",
+        "摇"
+      ]
+    },
+    {
+      "card_id": "idiom_0016",
+      "answer": "三长二短",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "三",
+        "三长二短",
+        "二",
+        "短",
+        "长"
+      ]
+    },
+    {
+      "card_id": "idiom_0017",
+      "answer": "左右为难",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "为",
+        "右",
+        "左",
+        "左右为难",
+        "难"
+      ]
+    },
+    {
+      "card_id": "idiom_0018",
+      "answer": "花枝招展",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "展",
+        "招",
+        "枝",
+        "花",
+        "花枝招展"
+      ]
+    },
+    {
+      "card_id": "idiom_0019",
+      "answer": "七上八下",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "七",
+        "七上八下",
+        "上",
+        "下",
+        "八"
+      ]
+    },
+    {
+      "card_id": "idiom_0020",
+      "answer": "画龙点睛",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "点",
+        "画",
+        "画龙点睛",
+        "睛",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0021",
+      "answer": "手舞足蹈",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "手",
+        "手舞足蹈",
+        "舞",
+        "足",
+        "蹈"
+      ]
+    },
+    {
+      "card_id": "idiom_0022",
+      "answer": "白日做梦",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "做",
+        "日",
+        "梦",
+        "白",
+        "白日做梦"
+      ]
+    },
+    {
+      "card_id": "idiom_0023",
+      "answer": "化敌为友",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "为",
+        "化",
+        "化敌为友",
+        "友",
+        "敌"
+      ]
+    },
+    {
+      "card_id": "idiom_0024",
+      "answer": "亡羊补牢",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "亡",
+        "亡羊补牢",
+        "牢",
+        "羊",
+        "补"
+      ]
+    },
+    {
+      "card_id": "idiom_0025",
+      "answer": "逍遥法外",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "外",
+        "法",
+        "逍",
+        "逍遥法外",
+        "遥"
+      ]
+    },
+    {
+      "card_id": "idiom_0026",
+      "answer": "胆小如鼠",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "如",
+        "小",
+        "胆",
+        "胆小如鼠",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "idiom_0027",
+      "answer": "娇声娇气",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "声",
+        "娇",
+        "娇声娇气",
+        "气"
+      ]
+    },
+    {
+      "card_id": "idiom_0028",
+      "answer": "泣不成声",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "声",
+        "成",
+        "泣",
+        "泣不成声"
+      ]
+    },
+    {
+      "card_id": "idiom_0029",
+      "answer": "苦尽甘来",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "尽",
+        "来",
+        "甘",
+        "苦",
+        "苦尽甘来"
+      ]
+    },
+    {
+      "card_id": "idiom_0030",
+      "answer": "一毛不拔",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一毛不拔",
+        "不",
+        "拔",
+        "毛"
+      ]
+    },
+    {
+      "card_id": "idiom_0031",
+      "answer": "天伦之乐",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "之",
+        "乐",
+        "伦",
+        "天",
+        "天伦之乐"
+      ]
+    },
+    {
+      "card_id": "idiom_0032",
+      "answer": "有问必答",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "必",
+        "有",
+        "有问必答",
+        "答",
+        "问"
+      ]
+    },
+    {
+      "card_id": "idiom_0033",
+      "answer": "鸡飞蛋打",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "打",
+        "蛋",
+        "飞",
+        "鸡",
+        "鸡飞蛋打"
+      ]
+    },
+    {
+      "card_id": "idiom_0034",
+      "answer": "照镜子",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "子",
+        "照",
+        "照镜子",
+        "镜"
+      ]
+    },
+    {
+      "card_id": "idiom_0035",
+      "answer": "吹毛求疵",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "吹",
+        "吹毛求疵",
+        "毛",
+        "求",
+        "疵"
+      ]
+    },
+    {
+      "card_id": "idiom_0036",
+      "answer": "自投罗网",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "投",
+        "网",
+        "罗",
+        "自",
+        "自投罗网"
+      ]
+    },
+    {
+      "card_id": "idiom_0037",
+      "answer": "卧虎藏龙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "卧",
+        "卧虎藏龙",
+        "藏",
+        "虎",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0038",
+      "answer": "耳旁风",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "旁",
+        "耳",
+        "耳旁风",
+        "风"
+      ]
+    },
+    {
+      "card_id": "idiom_0039",
+      "answer": "鼠目寸光",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "光",
+        "寸",
+        "目",
+        "鼠",
+        "鼠目寸光"
+      ]
+    },
+    {
+      "card_id": "idiom_0040",
+      "answer": "话中有话",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "中",
+        "有",
+        "话",
+        "话中有话"
+      ]
+    },
+    {
+      "card_id": "idiom_0041",
+      "answer": "呆若木鸡",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "呆",
+        "呆若木鸡",
+        "木",
+        "若",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "idiom_0042",
+      "answer": "一五一十",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一五一十",
+        "五",
+        "十"
+      ]
+    },
+    {
+      "card_id": "idiom_0043",
+      "answer": "走马观花",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "花",
+        "观",
+        "走",
+        "走马观花",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0044",
+      "answer": "红光满面",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "光",
+        "满",
+        "红",
+        "红光满面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "idiom_0045",
+      "answer": "手无寸铁",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "寸",
+        "手",
+        "手无寸铁",
+        "无",
+        "铁"
+      ]
+    },
+    {
+      "card_id": "idiom_0046",
+      "answer": "皆大欢喜",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "喜",
+        "大",
+        "欢",
+        "皆",
+        "皆大欢喜"
+      ]
+    },
+    {
+      "card_id": "idiom_0047",
+      "answer": "活蹦乱跳",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "乱",
+        "活",
+        "活蹦乱跳",
+        "跳",
+        "蹦"
+      ]
+    },
+    {
+      "card_id": "idiom_0048",
+      "answer": "乐不思蜀",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "乐",
+        "乐不思蜀",
+        "思",
+        "蜀"
+      ]
+    },
+    {
+      "card_id": "idiom_0049",
+      "answer": "寻花问柳",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "寻",
+        "寻花问柳",
+        "柳",
+        "花",
+        "问"
+      ]
+    },
+    {
+      "card_id": "idiom_0050",
+      "answer": "洋洋得意",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "得",
+        "意",
+        "洋",
+        "洋洋得意"
+      ]
+    },
+    {
+      "card_id": "idiom_0051",
+      "answer": "一举两得",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一举两得",
+        "两",
+        "举",
+        "得"
+      ]
+    },
+    {
+      "card_id": "idiom_0052",
+      "answer": "晴天霹雳",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "天",
+        "晴",
+        "晴天霹雳",
+        "雳",
+        "霹"
+      ]
+    },
+    {
+      "card_id": "idiom_0053",
+      "answer": "痛哭流涕",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "哭",
+        "流",
+        "涕",
+        "痛",
+        "痛哭流涕"
+      ]
+    },
+    {
+      "card_id": "idiom_0054",
+      "answer": "草船借箭",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "借",
+        "箭",
+        "船",
+        "草",
+        "草船借箭"
+      ]
+    },
+    {
+      "card_id": "idiom_0055",
+      "answer": "独一无二",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "二",
+        "无",
+        "独",
+        "独一无二"
+      ]
+    },
+    {
+      "card_id": "idiom_0056",
+      "answer": "掌上明珠",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "上",
+        "掌",
+        "掌上明珠",
+        "明",
+        "珠"
+      ]
+    },
+    {
+      "card_id": "idiom_0057",
+      "answer": "摇头摆尾",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "尾",
+        "摆",
+        "摇",
+        "摇头摆尾"
+      ]
+    },
+    {
+      "card_id": "idiom_0058",
+      "answer": "小题大做",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "做",
+        "大",
+        "小",
+        "小题大做",
+        "题"
+      ]
+    },
+    {
+      "card_id": "idiom_0059",
+      "answer": "论功行赏",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "功",
+        "行",
+        "论",
+        "论功行赏",
+        "赏"
+      ]
+    },
+    {
+      "card_id": "idiom_0060",
+      "answer": "眉来眼去",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "去",
+        "来",
+        "眉",
+        "眉来眼去",
+        "眼"
+      ]
+    },
+    {
+      "card_id": "idiom_0061",
+      "answer": "一路顺风",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一路顺风",
+        "路",
+        "顺",
+        "风"
+      ]
+    },
+    {
+      "card_id": "idiom_0062",
+      "answer": "暴跳如雷",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "如",
+        "暴",
+        "暴跳如雷",
+        "跳",
+        "雷"
+      ]
+    },
+    {
+      "card_id": "idiom_0063",
+      "answer": "郎才女貌",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "女",
+        "才",
+        "貌",
+        "郎",
+        "郎才女貌"
+      ]
+    },
+    {
+      "card_id": "idiom_0064",
+      "answer": "嚎啕大哭",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "哭",
+        "啕",
+        "嚎",
+        "嚎啕大哭",
+        "大"
+      ]
+    },
+    {
+      "card_id": "idiom_0065",
+      "answer": "狗急跳墙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "墙",
+        "急",
+        "狗",
+        "狗急跳墙",
+        "跳"
+      ]
+    },
+    {
+      "card_id": "idiom_0066",
+      "answer": "杯弓蛇影",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "弓",
+        "影",
+        "杯",
+        "杯弓蛇影",
+        "蛇"
+      ]
+    },
+    {
+      "card_id": "idiom_0067",
+      "answer": "牛鬼蛇神",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "牛",
+        "牛鬼蛇神",
+        "神",
+        "蛇",
+        "鬼"
+      ]
+    },
+    {
+      "card_id": "idiom_0068",
+      "answer": "盲人摸象",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "摸",
+        "盲",
+        "盲人摸象",
+        "象"
+      ]
+    },
+    {
+      "card_id": "idiom_0069",
+      "answer": "飞檐走壁",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "壁",
+        "檐",
+        "走",
+        "飞",
+        "飞檐走壁"
+      ]
+    },
+    {
+      "card_id": "idiom_0070",
+      "answer": "感激涕零",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "感",
+        "感激涕零",
+        "涕",
+        "激",
+        "零"
+      ]
+    },
+    {
+      "card_id": "idiom_0071",
+      "answer": "幸灾乐祸",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "乐",
+        "幸",
+        "幸灾乐祸",
+        "灾",
+        "祸"
+      ]
+    },
+    {
+      "card_id": "idiom_0072",
+      "answer": "唉声叹气",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "叹",
+        "唉",
+        "唉声叹气",
+        "声",
+        "气"
+      ]
+    },
+    {
+      "card_id": "idiom_0073",
+      "answer": "一帆风顺",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一帆风顺",
+        "帆",
+        "顺",
+        "风"
+      ]
+    },
+    {
+      "card_id": "idiom_0074",
+      "answer": "一笑倾城",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一笑倾城",
+        "倾",
+        "城",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "idiom_0075",
+      "answer": "水落石出",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "出",
+        "水",
+        "水落石出",
+        "石",
+        "落"
+      ]
+    },
+    {
+      "card_id": "idiom_0076",
+      "answer": "头重脚轻",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "头重脚轻",
+        "脚",
+        "轻",
+        "重"
+      ]
+    },
+    {
+      "card_id": "idiom_0077",
+      "answer": "目瞪口呆",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "口",
+        "呆",
+        "目",
+        "目瞪口呆",
+        "瞪"
+      ]
+    },
+    {
+      "card_id": "idiom_0078",
+      "answer": "泰山压顶",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "压",
+        "山",
+        "泰",
+        "泰山压顶",
+        "顶"
+      ]
+    },
+    {
+      "card_id": "idiom_0079",
+      "answer": "情不自禁",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "情",
+        "情不自禁",
+        "禁",
+        "自"
+      ]
+    },
+    {
+      "card_id": "idiom_0080",
+      "answer": "放牛归马",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "归",
+        "放",
+        "放牛归马",
+        "牛",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0081",
+      "answer": "画蛇添足",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "添",
+        "画",
+        "画蛇添足",
+        "蛇",
+        "足"
+      ]
+    },
+    {
+      "card_id": "idiom_0082",
+      "answer": "对牛弹琴",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "对",
+        "对牛弹琴",
+        "弹",
+        "牛",
+        "琴"
+      ]
+    },
+    {
+      "card_id": "idiom_0083",
+      "answer": "窈窕淑女",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "女",
+        "淑",
+        "窈",
+        "窈窕淑女",
+        "窕"
+      ]
+    },
+    {
+      "card_id": "idiom_0084",
+      "answer": "牛头马面",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "牛",
+        "牛头马面",
+        "面",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0085",
+      "answer": "滔滔不绝",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "滔",
+        "滔滔不绝",
+        "绝"
+      ]
+    },
+    {
+      "card_id": "idiom_0086",
+      "answer": "妙笔生花",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "妙",
+        "妙笔生花",
+        "生",
+        "笔",
+        "花"
+      ]
+    },
+    {
+      "card_id": "idiom_0087",
+      "answer": "张牙舞爪",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "张",
+        "张牙舞爪",
+        "爪",
+        "牙",
+        "舞"
+      ]
+    },
+    {
+      "card_id": "idiom_0088",
+      "answer": "拾金不昧",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "拾",
+        "拾金不昧",
+        "昧",
+        "金"
+      ]
+    },
+    {
+      "card_id": "idiom_0089",
+      "answer": "鸟语花香",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "花",
+        "语",
+        "香",
+        "鸟",
+        "鸟语花香"
+      ]
+    },
+    {
+      "card_id": "idiom_0090",
+      "answer": "妙手回春",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "回",
+        "妙",
+        "妙手回春",
+        "手",
+        "春"
+      ]
+    },
+    {
+      "card_id": "idiom_0091",
+      "answer": "嬉皮笑脸",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "嬉",
+        "嬉皮笑脸",
+        "皮",
+        "笑",
+        "脸"
+      ]
+    },
+    {
+      "card_id": "idiom_0092",
+      "answer": "穿针引线",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "引",
+        "穿",
+        "穿针引线",
+        "线",
+        "针"
+      ]
+    },
+    {
+      "card_id": "idiom_0093",
+      "answer": "眉飞色舞",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "眉",
+        "眉飞色舞",
+        "舞",
+        "色",
+        "飞"
+      ]
+    },
+    {
+      "card_id": "idiom_0094",
+      "answer": "左顾右盼",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "右",
+        "左",
+        "左顾右盼",
+        "盼",
+        "顾"
+      ]
+    },
+    {
+      "card_id": "idiom_0095",
+      "answer": "愁眉苦脸",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "愁",
+        "愁眉苦脸",
+        "眉",
+        "脸",
+        "苦"
+      ]
+    },
+    {
+      "card_id": "idiom_0096",
+      "answer": "东倒西歪",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "东",
+        "东倒西歪",
+        "倒",
+        "歪",
+        "西"
+      ]
+    },
+    {
+      "card_id": "idiom_0097",
+      "answer": "蹑手蹑脚",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "手",
+        "脚",
+        "蹑",
+        "蹑手蹑脚"
+      ]
+    },
+    {
+      "card_id": "idiom_0098",
+      "answer": "喜出望外",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "出",
+        "喜",
+        "喜出望外",
+        "外",
+        "望"
+      ]
+    },
+    {
+      "card_id": "idiom_0099",
+      "answer": "垂头丧气",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "丧",
+        "垂",
+        "垂头丧气",
+        "头",
+        "气"
+      ]
+    },
+    {
+      "card_id": "idiom_0100",
+      "answer": "昂首挺胸",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "挺",
+        "昂",
+        "昂首挺胸",
+        "胸",
+        "首"
+      ]
+    },
+    {
+      "card_id": "idiom_0101",
+      "answer": "捧腹大笑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "捧",
+        "捧腹大笑",
+        "笑",
+        "腹"
+      ]
+    },
+    {
+      "card_id": "idiom_0102",
+      "answer": "贼眉鼠眼",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "眉",
+        "眼",
+        "贼",
+        "贼眉鼠眼",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "idiom_0103",
+      "answer": "虎头蛇尾",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "尾",
+        "虎",
+        "虎头蛇尾",
+        "蛇"
+      ]
+    },
+    {
+      "card_id": "idiom_0104",
+      "answer": "兔死狐悲",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "兔",
+        "兔死狐悲",
+        "悲",
+        "死",
+        "狐"
+      ]
+    },
+    {
+      "card_id": "idiom_0105",
+      "answer": "龙腾虎跃",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "腾",
+        "虎",
+        "跃",
+        "龙",
+        "龙腾虎跃"
+      ]
+    },
+    {
+      "card_id": "idiom_0106",
+      "answer": "自言自语",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "自",
+        "自言自语",
+        "言",
+        "语"
+      ]
+    },
+    {
+      "card_id": "idiom_0107",
+      "answer": "撒腿就跑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "就",
+        "撒",
+        "撒腿就跑",
+        "腿",
+        "跑"
+      ]
+    },
+    {
+      "card_id": "idiom_0108",
+      "answer": "眉开眼笑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "开",
+        "眉",
+        "眉开眼笑",
+        "眼",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "idiom_0109",
+      "answer": "大惊小怪",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "大惊小怪",
+        "小",
+        "怪",
+        "惊"
+      ]
+    },
+    {
+      "card_id": "idiom_0110",
+      "answer": "从容不迫",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "从",
+        "从容不迫",
+        "容",
+        "迫"
+      ]
+    },
+    {
+      "card_id": "idiom_0111",
+      "answer": "兴高采烈",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "兴",
+        "兴高采烈",
+        "烈",
+        "采",
+        "高"
+      ]
+    },
+    {
+      "card_id": "idiom_0112",
+      "answer": "神气十足",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "十",
+        "气",
+        "神",
+        "神气十足",
+        "足"
+      ]
+    },
+    {
+      "card_id": "idiom_0113",
+      "answer": "哭笑不得",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "哭",
+        "哭笑不得",
+        "得",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "idiom_0114",
+      "answer": "指手画脚",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "手",
+        "指",
+        "指手画脚",
+        "画",
+        "脚"
+      ]
+    },
+    {
+      "card_id": "idiom_0115",
+      "answer": "东张西望",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "东",
+        "东张西望",
+        "张",
+        "望",
+        "西"
+      ]
+    },
+    {
+      "card_id": "idiom_0116",
+      "answer": "一瘸一拐",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一瘸一拐",
+        "拐",
+        "瘸"
+      ]
+    },
+    {
+      "card_id": "idiom_0117",
+      "answer": "挤眉弄眼",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "弄",
+        "挤",
+        "挤眉弄眼",
+        "眉",
+        "眼"
+      ]
+    },
+    {
+      "card_id": "idiom_0118",
+      "answer": "废寝忘食",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "寝",
+        "废",
+        "废寝忘食",
+        "忘",
+        "食"
+      ]
+    },
+    {
+      "card_id": "idiom_0119",
+      "answer": "闻鸡起舞",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "舞",
+        "起",
+        "闻",
+        "闻鸡起舞",
+        "鸡"
+      ]
+    },
+    {
+      "card_id": "idiom_0120",
+      "answer": "掩耳盗铃",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "掩",
+        "掩耳盗铃",
+        "盗",
+        "耳",
+        "铃"
+      ]
+    },
+    {
+      "card_id": "idiom_0121",
+      "answer": "长吁短叹",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "叹",
+        "吁",
+        "短",
+        "长",
+        "长吁短叹"
+      ]
+    },
+    {
+      "card_id": "idiom_0122",
+      "answer": "恍然大悟",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "恍",
+        "恍然大悟",
+        "悟",
+        "然"
+      ]
+    },
+    {
+      "card_id": "idiom_0123",
+      "answer": "三心二意",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "三",
+        "三心二意",
+        "二",
+        "心",
+        "意"
+      ]
+    },
+    {
+      "card_id": "idiom_0124",
+      "answer": "争先恐后",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "争",
+        "争先恐后",
+        "先",
+        "后",
+        "恐"
+      ]
+    },
+    {
+      "card_id": "idiom_0125",
+      "answer": "一刀两断",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一刀两断",
+        "两",
+        "刀",
+        "断"
+      ]
+    },
+    {
+      "card_id": "idiom_0126",
+      "answer": "丢三落四",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "三",
+        "丢",
+        "丢三落四",
+        "四",
+        "落"
+      ]
+    },
+    {
+      "card_id": "idiom_0127",
+      "answer": "坐井观天",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "井",
+        "坐",
+        "坐井观天",
+        "天",
+        "观"
+      ]
+    },
+    {
+      "card_id": "idiom_0128",
+      "answer": "快马加鞭",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "加",
+        "快",
+        "快马加鞭",
+        "鞭",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0129",
+      "answer": "颠三倒四",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "三",
+        "倒",
+        "四",
+        "颠",
+        "颠三倒四"
+      ]
+    },
+    {
+      "card_id": "idiom_0130",
+      "answer": "拔苗助长",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "助",
+        "拔",
+        "拔苗助长",
+        "苗",
+        "长"
+      ]
+    },
+    {
+      "card_id": "idiom_0131",
+      "answer": "顺手牵羊",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "手",
+        "牵",
+        "羊",
+        "顺",
+        "顺手牵羊"
+      ]
+    },
+    {
+      "card_id": "idiom_0132",
+      "answer": "喜上眉梢",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "上",
+        "喜",
+        "喜上眉梢",
+        "梢",
+        "眉"
+      ]
+    },
+    {
+      "card_id": "idiom_0133",
+      "answer": "余音绕梁",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "余",
+        "余音绕梁",
+        "梁",
+        "绕",
+        "音"
+      ]
+    },
+    {
+      "card_id": "idiom_0134",
+      "answer": "心照不宣",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "宣",
+        "心",
+        "心照不宣",
+        "照"
+      ]
+    },
+    {
+      "card_id": "idiom_0135",
+      "answer": "七嘴八舌",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "七",
+        "七嘴八舌",
+        "八",
+        "嘴",
+        "舌"
+      ]
+    },
+    {
+      "card_id": "idiom_0136",
+      "answer": "悲喜交加",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "交",
+        "加",
+        "喜",
+        "悲",
+        "悲喜交加"
+      ]
+    },
+    {
+      "card_id": "idiom_0137",
+      "answer": "眉目传情",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "传",
+        "情",
+        "目",
+        "眉",
+        "眉目传情"
+      ]
+    },
+    {
+      "card_id": "idiom_0138",
+      "answer": "一针见血",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一针见血",
+        "血",
+        "见",
+        "针"
+      ]
+    },
+    {
+      "card_id": "idiom_0139",
+      "answer": "一拍即合",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一拍即合",
+        "即",
+        "合",
+        "拍"
+      ]
+    },
+    {
+      "card_id": "idiom_0140",
+      "answer": "花好月圆",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "圆",
+        "好",
+        "月",
+        "花",
+        "花好月圆"
+      ]
+    },
+    {
+      "card_id": "idiom_0141",
+      "answer": "骑虎难下",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "下",
+        "虎",
+        "难",
+        "骑",
+        "骑虎难下"
+      ]
+    },
+    {
+      "card_id": "idiom_0142",
+      "answer": "虎头虎脑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "脑",
+        "虎",
+        "虎头虎脑"
+      ]
+    },
+    {
+      "card_id": "idiom_0143",
+      "answer": "吹吹打打",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "吹",
+        "吹吹打打",
+        "打"
+      ]
+    },
+    {
+      "card_id": "idiom_0144",
+      "answer": "望眼欲穿",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "望",
+        "望眼欲穿",
+        "欲",
+        "眼",
+        "穿"
+      ]
+    },
+    {
+      "card_id": "idiom_0145",
+      "answer": "一鸣惊人",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一鸣惊人",
+        "人",
+        "惊",
+        "鸣"
+      ]
+    },
+    {
+      "card_id": "idiom_0146",
+      "answer": "刻舟求剑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "刻",
+        "刻舟求剑",
+        "剑",
+        "求",
+        "舟"
+      ]
+    },
+    {
+      "card_id": "idiom_0147",
+      "answer": "如鱼得水",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "如",
+        "如鱼得水",
+        "得",
+        "水",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "idiom_0148",
+      "answer": "三头六臂",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "三",
+        "三头六臂",
+        "六",
+        "头",
+        "臂"
+      ]
+    },
+    {
+      "card_id": "idiom_0149",
+      "answer": "千真万确",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "万",
+        "千",
+        "千真万确",
+        "真",
+        "确"
+      ]
+    },
+    {
+      "card_id": "idiom_0150",
+      "answer": "一锤定音",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一锤定音",
+        "定",
+        "锤",
+        "音"
+      ]
+    },
+    {
+      "card_id": "idiom_0151",
+      "answer": "杯水车薪",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "杯",
+        "杯水车薪",
+        "水",
+        "薪",
+        "车"
+      ]
+    },
+    {
+      "card_id": "idiom_0152",
+      "answer": "归心似箭",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "似",
+        "归",
+        "归心似箭",
+        "心",
+        "箭"
+      ]
+    },
+    {
+      "card_id": "idiom_0153",
+      "answer": "笔头生花",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "头",
+        "生",
+        "笔",
+        "笔头生花",
+        "花"
+      ]
+    },
+    {
+      "card_id": "idiom_0154",
+      "answer": "马马虎虎",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "虎",
+        "马",
+        "马马虎虎"
+      ]
+    },
+    {
+      "card_id": "idiom_0155",
+      "answer": "指桑骂槐",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "指",
+        "指桑骂槐",
+        "桑",
+        "槐",
+        "骂"
+      ]
+    },
+    {
+      "card_id": "idiom_0156",
+      "answer": "人山人海",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "人山人海",
+        "山",
+        "海"
+      ]
+    },
+    {
+      "card_id": "idiom_0157",
+      "answer": "移花接木",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "接",
+        "木",
+        "移",
+        "移花接木",
+        "花"
+      ]
+    },
+    {
+      "card_id": "idiom_0158",
+      "answer": "人声鼎沸",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "人声鼎沸",
+        "声",
+        "沸",
+        "鼎"
+      ]
+    },
+    {
+      "card_id": "idiom_0159",
+      "answer": "全心全意",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "全",
+        "全心全意",
+        "心",
+        "意"
+      ]
+    },
+    {
+      "card_id": "idiom_0160",
+      "answer": "众望所归",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "众",
+        "众望所归",
+        "归",
+        "所",
+        "望"
+      ]
+    },
+    {
+      "card_id": "idiom_0161",
+      "answer": "生龙活虎",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "活",
+        "生",
+        "生龙活虎",
+        "虎",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0162",
+      "answer": "星罗棋布",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "布",
+        "星",
+        "星罗棋布",
+        "棋",
+        "罗"
+      ]
+    },
+    {
+      "card_id": "idiom_0163",
+      "answer": "前因后果",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "前",
+        "前因后果",
+        "后",
+        "因",
+        "果"
+      ]
+    },
+    {
+      "card_id": "idiom_0164",
+      "answer": "拨云见日",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "云",
+        "拨",
+        "拨云见日",
+        "日",
+        "见"
+      ]
+    },
+    {
+      "card_id": "idiom_0165",
+      "answer": "返老还童",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "童",
+        "老",
+        "返",
+        "返老还童",
+        "还"
+      ]
+    },
+    {
+      "card_id": "idiom_0166",
+      "answer": "一心一意",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一心一意",
+        "心",
+        "意"
+      ]
+    },
+    {
+      "card_id": "idiom_0167",
+      "answer": "心口不一",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "不",
+        "口",
+        "心",
+        "心口不一"
+      ]
+    },
+    {
+      "card_id": "idiom_0168",
+      "answer": "心心相印",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "印",
+        "心",
+        "心心相印",
+        "相"
+      ]
+    },
+    {
+      "card_id": "idiom_0169",
+      "answer": "吹牛拍马",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "吹",
+        "吹牛拍马",
+        "拍",
+        "牛",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0170",
+      "answer": "群龙无首",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "无",
+        "群",
+        "群龙无首",
+        "首",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0171",
+      "answer": "车水马龙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "水",
+        "车",
+        "车水马龙",
+        "马",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0172",
+      "answer": "望穿秋水",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "望",
+        "望穿秋水",
+        "水",
+        "秋",
+        "穿"
+      ]
+    },
+    {
+      "card_id": "idiom_0173",
+      "answer": "人仰马翻",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "人仰马翻",
+        "仰",
+        "翻",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0174",
+      "answer": "笔走龙蛇",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "笔",
+        "笔走龙蛇",
+        "蛇",
+        "走",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "idiom_0175",
+      "answer": "嘴甜心苦",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "嘴",
+        "嘴甜心苦",
+        "心",
+        "甜",
+        "苦"
+      ]
+    },
+    {
+      "card_id": "idiom_0176",
+      "answer": "红男绿女",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "女",
+        "男",
+        "红",
+        "红男绿女",
+        "绿"
+      ]
+    },
+    {
+      "card_id": "idiom_0177",
+      "answer": "飞鸟依人",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "依",
+        "飞",
+        "飞鸟依人",
+        "鸟"
+      ]
+    },
+    {
+      "card_id": "idiom_0178",
+      "answer": "耳目一新",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "新",
+        "目",
+        "耳",
+        "耳目一新"
+      ]
+    },
+    {
+      "card_id": "idiom_0179",
+      "answer": "海枯石烂",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "枯",
+        "海",
+        "海枯石烂",
+        "烂",
+        "石"
+      ]
+    },
+    {
+      "card_id": "idiom_0180",
+      "answer": "狐假虎威",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "假",
+        "威",
+        "狐",
+        "狐假虎威",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "idiom_0181",
+      "answer": "无忧无虑",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "忧",
+        "无",
+        "无忧无虑",
+        "虑"
+      ]
+    },
+    {
+      "card_id": "idiom_0182",
+      "answer": "八仙过海",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "仙",
+        "八",
+        "八仙过海",
+        "海",
+        "过"
+      ]
+    },
+    {
+      "card_id": "idiom_0183",
+      "answer": "高山流水",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "山",
+        "水",
+        "流",
+        "高",
+        "高山流水"
+      ]
+    },
+    {
+      "card_id": "idiom_0184",
+      "answer": "世外桃源",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "世",
+        "世外桃源",
+        "外",
+        "桃",
+        "源"
+      ]
+    },
+    {
+      "card_id": "idiom_0185",
+      "answer": "落叶归根",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "叶",
+        "归",
+        "根",
+        "落",
+        "落叶归根"
+      ]
+    },
+    {
+      "card_id": "idiom_0186",
+      "answer": "大器晚成",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "器",
+        "大",
+        "大器晚成",
+        "成",
+        "晚"
+      ]
+    },
+    {
+      "card_id": "idiom_0187",
+      "answer": "愚公移山",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "公",
+        "山",
+        "愚",
+        "愚公移山",
+        "移"
+      ]
+    },
+    {
+      "card_id": "idiom_0188",
+      "answer": "破釜沉舟",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "沉",
+        "破",
+        "破釜沉舟",
+        "舟",
+        "釜"
+      ]
+    },
+    {
+      "card_id": "idiom_0189",
+      "answer": "海市蜃楼",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "市",
+        "楼",
+        "海",
+        "海市蜃楼",
+        "蜃"
+      ]
+    },
+    {
+      "card_id": "idiom_0190",
+      "answer": "以德服人",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "以",
+        "以德服人",
+        "德",
+        "服"
+      ]
+    },
+    {
+      "card_id": "idiom_0191",
+      "answer": "天涯海角",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "天",
+        "天涯海角",
+        "海",
+        "涯",
+        "角"
+      ]
+    },
+    {
+      "card_id": "idiom_0192",
+      "answer": "永无止境",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "境",
+        "无",
+        "止",
+        "永",
+        "永无止境"
+      ]
+    },
+    {
+      "card_id": "idiom_0193",
+      "answer": "青出于蓝",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "于",
+        "出",
+        "蓝",
+        "青",
+        "青出于蓝"
+      ]
+    },
+    {
+      "card_id": "idiom_0194",
+      "answer": "青梅竹马",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "梅",
+        "竹",
+        "青",
+        "青梅竹马",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0195",
+      "answer": "醍醐灌顶",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "灌",
+        "醍",
+        "醍醐灌顶",
+        "醐",
+        "顶"
+      ]
+    },
+    {
+      "card_id": "idiom_0196",
+      "answer": "女娲补天",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "天",
+        "女",
+        "女娲补天",
+        "娲",
+        "补"
+      ]
+    },
+    {
+      "card_id": "idiom_0197",
+      "answer": "花言巧语",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "巧",
+        "花",
+        "花言巧语",
+        "言",
+        "语"
+      ]
+    },
+    {
+      "card_id": "idiom_0198",
+      "answer": "东施效颦",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "东",
+        "东施效颦",
+        "效",
+        "施",
+        "颦"
+      ]
+    },
+    {
+      "card_id": "idiom_0199",
+      "answer": "滥竽充数",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "充",
+        "数",
+        "滥",
+        "滥竽充数",
+        "竽"
+      ]
+    },
+    {
+      "card_id": "idiom_0200",
+      "answer": "形影不离",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "形",
+        "形影不离",
+        "影",
+        "离"
+      ]
+    },
+    {
+      "card_id": "idiom_0201",
+      "answer": "雾里看花",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "看",
+        "花",
+        "里",
+        "雾",
+        "雾里看花"
+      ]
+    },
+    {
+      "card_id": "idiom_0202",
+      "answer": "半斤八两",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "两",
+        "八",
+        "半",
+        "半斤八两",
+        "斤"
+      ]
+    },
+    {
+      "card_id": "idiom_0203",
+      "answer": "来历不明",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "历",
+        "明",
+        "来",
+        "来历不明"
+      ]
+    },
+    {
+      "card_id": "idiom_0204",
+      "answer": "怒发冲冠",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "冠",
+        "冲",
+        "发",
+        "怒",
+        "怒发冲冠"
+      ]
+    },
+    {
+      "card_id": "idiom_0205",
+      "answer": "河东狮吼",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "东",
+        "吼",
+        "河",
+        "河东狮吼",
+        "狮"
+      ]
+    },
+    {
+      "card_id": "idiom_0206",
+      "answer": "吃喝玩乐",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "乐",
+        "吃",
+        "吃喝玩乐",
+        "喝",
+        "玩"
+      ]
+    },
+    {
+      "card_id": "idiom_0207",
+      "answer": "一叶知秋",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一叶知秋",
+        "叶",
+        "知",
+        "秋"
+      ]
+    },
+    {
+      "card_id": "idiom_0208",
+      "answer": "大相径庭",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "大相径庭",
+        "庭",
+        "径",
+        "相"
+      ]
+    },
+    {
+      "card_id": "idiom_0209",
+      "answer": "四面楚歌",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "四",
+        "四面楚歌",
+        "楚",
+        "歌",
+        "面"
+      ]
+    },
+    {
+      "card_id": "idiom_0210",
+      "answer": "甜言蜜语",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "甜",
+        "甜言蜜语",
+        "蜜",
+        "言",
+        "语"
+      ]
+    },
+    {
+      "card_id": "idiom_0211",
+      "answer": "买椟还珠",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "买",
+        "买椟还珠",
+        "椟",
+        "珠",
+        "还"
+      ]
+    },
+    {
+      "card_id": "idiom_0212",
+      "answer": "纸上谈兵",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "上",
+        "兵",
+        "纸",
+        "纸上谈兵",
+        "谈"
+      ]
+    },
+    {
+      "card_id": "idiom_0213",
+      "answer": "争分夺秒",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "争",
+        "争分夺秒",
+        "分",
+        "夺",
+        "秒"
+      ]
+    },
+    {
+      "card_id": "idiom_0214",
+      "answer": "一无所有",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "一无所有",
+        "所",
+        "无",
+        "有"
+      ]
+    },
+    {
+      "card_id": "idiom_0215",
+      "answer": "欢呼雀跃",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "呼",
+        "欢",
+        "欢呼雀跃",
+        "跃",
+        "雀"
+      ]
+    },
+    {
+      "card_id": "idiom_0216",
+      "answer": "名副其实",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "其",
+        "副",
+        "名",
+        "名副其实",
+        "实"
+      ]
+    },
+    {
+      "card_id": "idiom_0217",
+      "answer": "作茧自缚",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "作",
+        "作茧自缚",
+        "缚",
+        "自",
+        "茧"
+      ]
+    },
+    {
+      "card_id": "idiom_0218",
+      "answer": "絮絮叨叨",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "叨",
+        "絮",
+        "絮絮叨叨"
+      ]
+    },
+    {
+      "card_id": "idiom_0219",
+      "answer": "千钧一发",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "一",
+        "千",
+        "千钧一发",
+        "发",
+        "钧"
+      ]
+    },
+    {
+      "card_id": "idiom_0220",
+      "answer": "交头接耳",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "交",
+        "交头接耳",
+        "头",
+        "接",
+        "耳"
+      ]
+    },
+    {
+      "card_id": "idiom_0221",
+      "answer": "邯郸学步",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "学",
+        "步",
+        "邯",
+        "邯郸学步",
+        "郸"
+      ]
+    },
+    {
+      "card_id": "idiom_0222",
+      "answer": "大智若愚",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "大",
+        "大智若愚",
+        "愚",
+        "智",
+        "若"
+      ]
+    },
+    {
+      "card_id": "idiom_0223",
+      "answer": "返璞归真",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "归",
+        "璞",
+        "真",
+        "返",
+        "返璞归真"
+      ]
+    },
+    {
+      "card_id": "idiom_0224",
+      "answer": "完璧归赵",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "完",
+        "完璧归赵",
+        "归",
+        "璧",
+        "赵"
+      ]
+    },
+    {
+      "card_id": "idiom_0225",
+      "answer": "南辕北辙",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "北",
+        "南",
+        "南辕北辙",
+        "辕",
+        "辙"
+      ]
+    },
+    {
+      "card_id": "idiom_0226",
+      "answer": "不约而同",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "不约而同",
+        "同",
+        "约",
+        "而"
+      ]
+    },
+    {
+      "card_id": "idiom_0227",
+      "answer": "阳春白雪",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "春",
+        "白",
+        "阳",
+        "阳春白雪",
+        "雪"
+      ]
+    },
+    {
+      "card_id": "idiom_0228",
+      "answer": "多多益善",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "善",
+        "多",
+        "多多益善",
+        "益"
+      ]
+    },
+    {
+      "card_id": "idiom_0229",
+      "answer": "老马识途",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "老",
+        "老马识途",
+        "识",
+        "途",
+        "马"
+      ]
+    },
+    {
+      "card_id": "idiom_0230",
+      "answer": "知足常乐",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "乐",
+        "常",
+        "知",
+        "知足常乐",
+        "足"
+      ]
+    },
+    {
+      "card_id": "idiom_0231",
+      "answer": "不可思议",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "不",
+        "不可思议",
+        "可",
+        "思",
+        "议"
+      ]
+    },
+    {
+      "card_id": "idiom_0232",
+      "answer": "杞人忧天",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "人",
+        "天",
+        "忧",
+        "杞",
+        "杞人忧天"
+      ]
+    },
+    {
+      "card_id": "idiom_0233",
+      "answer": "姗姗来迟",
+      "difficulty": "medium",
+      "tags": [
+        "family-safe",
+        "idioms",
+        "performance"
+      ],
+      "banned_tokens": [
+        "姗",
+        "姗姗来迟",
+        "来",
+        "迟"
+      ]
+    }
+  ]
+}

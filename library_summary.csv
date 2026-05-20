@@ -1,0 +1,7 @@
+pack_id,display_name,version,language,card_count,sha256
+daily_life_cn,日常生活,2.0.0,zh-Hans,242,5424482bcb320fec51dac77db98443dcf77dded5792c4c5c51f081c4c734b8cd
+food_cn,美食,2.0.0,zh-Hans,257,371816cc0c7e88783cb3c85906e05e45dab4bcc61d8ddffc894cdb769363235c
+animals_cn,动物,2.0.0,zh-Hans,244,2ad694b6bc6357080d750cc5c9546dea470244b7366612eb74dfd11d98afbac9
+gen_z_phrases_en,Gen Z Phrases,2.0.0,en,258,09f395c08f9a41d3ac6222bd0662cffb2b8ea5cf12b95c79d9813b668f5c7a36
+movies_cn,影视,1.0.0,zh-Hans,273,679a5c4160f927d7dbafeb42f2aea3fc568e1bfd4746691db3ed2cb8929aee1e
+idioms_cn,成语,1.0.0,zh-Hans,233,aac3546c1a2beda032aef1fd8e1a1f906db5057d9e95c443ff4abd69a73447b8

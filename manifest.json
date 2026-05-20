@@ -1,39 +1,55 @@
 {
   "schema_version": 1,
-  "content_version": "2026.05.19.2",
+  "content_version": "2026.05.20.1",
   "minimum_app_version": "1.0.0",
   "packs": [
     {
       "pack_id": "daily_life_cn",
-      "version": "1.1.0",
+      "version": "2.0.0",
       "path": "Packs/daily_life_cn.json",
-      "sha256": "6f59af6bb99e90b277fb7e29cdc3c42a787a9ffee63a8de36dd1f9601762dff4",
+      "sha256": "5424482bcb320fec51dac77db98443dcf77dded5792c4c5c51f081c4c734b8cd",
       "enabled": true,
       "sort_order": 10
     },
     {
       "pack_id": "food_cn",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "path": "Packs/food_cn.json",
-      "sha256": "4a9bde65de10420c580bb18ee90c4758592d0d89f8c98f9ac16320f29d2f5d51",
+      "sha256": "371816cc0c7e88783cb3c85906e05e45dab4bcc61d8ddffc894cdb769363235c",
       "enabled": true,
       "sort_order": 20
     },
     {
       "pack_id": "animals_cn",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "path": "Packs/animals_cn.json",
-      "sha256": "e0ea4e024360f6752e0fecaa421c4640aab67377bbadb79cf198476473a50547",
+      "sha256": "2ad694b6bc6357080d750cc5c9546dea470244b7366612eb74dfd11d98afbac9",
       "enabled": true,
       "sort_order": 30
     },
     {
       "pack_id": "gen_z_phrases_en",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "path": "Packs/gen_z_phrases_en.json",
-      "sha256": "72edc464c481208fe3a9014f117b9454d951c07fd36411624d9935634f209453",
+      "sha256": "09f395c08f9a41d3ac6222bd0662cffb2b8ea5cf12b95c79d9813b668f5c7a36",
       "enabled": true,
       "sort_order": 40
+    },
+    {
+      "pack_id": "movies_cn",
+      "version": "1.0.0",
+      "path": "Packs/movies_cn.json",
+      "sha256": "679a5c4160f927d7dbafeb42f2aea3fc568e1bfd4746691db3ed2cb8929aee1e",
+      "enabled": true,
+      "sort_order": 50
+    },
+    {
+      "pack_id": "idioms_cn",
+      "version": "1.0.0",
+      "path": "Packs/idioms_cn.json",
+      "sha256": "aac3546c1a2beda032aef1fd8e1a1f906db5057d9e95c443ff4abd69a73447b8",
+      "enabled": true,
+      "sort_order": 60
     }
   ]
 }
