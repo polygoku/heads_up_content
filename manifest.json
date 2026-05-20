@@ -7,7 +7,7 @@
       "pack_id": "daily_life_cn",
       "version": "1.1.0",
       "path": "Packs/daily_life_cn.json",
-      "sha256": "7ee3e7671b064ad1686da94fbdeb12cb9bcb57e768a0f22da4b2a463d36fbcf9",
+      "sha256": "6f59af6bb99e90b277fb7e29cdc3c42a787a9ffee63a8de36dd1f9601762dff4",
       "enabled": true,
       "sort_order": 10
     },
@@ -15,7 +15,7 @@
       "pack_id": "food_cn",
       "version": "1.0.0",
       "path": "Packs/food_cn.json",
-      "sha256": "bb86a13bb0377370518876198a3f4cc9f98fbe4e7054e178b77d375cc7777568",
+      "sha256": "4a9bde65de10420c580bb18ee90c4758592d0d89f8c98f9ac16320f29d2f5d51",
       "enabled": true,
       "sort_order": 20
     },
@@ -23,7 +23,7 @@
       "pack_id": "animals_cn",
       "version": "1.0.0",
       "path": "Packs/animals_cn.json",
-      "sha256": "f71aec8dba13aac5769a97018282379e71cd132cb6c3b0e37d5d1a9df73a10fa",
+      "sha256": "e0ea4e024360f6752e0fecaa421c4640aab67377bbadb79cf198476473a50547",
       "enabled": true,
       "sort_order": 30
     },
