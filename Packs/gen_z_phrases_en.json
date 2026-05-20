@@ -1,0 +1,784 @@
+{
+  "pack_id": "gen_z_phrases_en",
+  "version": "1.0.0",
+  "display_name": {
+    "en": "Gen Z Phrases"
+  },
+  "description": {
+    "en": "Playful internet slang and modern phrases for English-speaking groups."
+  },
+  "language": "en",
+  "category_tags": [
+    "family-safe",
+    "english",
+    "gen-z",
+    "phrases",
+    "party"
+  ],
+  "difficulty": "medium",
+  "content_rating": "family",
+  "regions": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "global"
+  ],
+  "cards": [
+    {
+      "card_id": "gen_z_phrase_0001",
+      "answer": "no cap",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "cap",
+        "honestly",
+        "no",
+        "no cap",
+        "truth"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0002",
+      "answer": "slay",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "amazing",
+        "queen",
+        "slay"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0003",
+      "answer": "vibe check",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "check",
+        "mood",
+        "vibe",
+        "vibe check"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0004",
+      "answer": "main character energy",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "character",
+        "energy",
+        "main",
+        "main character energy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0005",
+      "answer": "it's giving",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "giving",
+        "it's giving",
+        "its",
+        "its giving"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0006",
+      "answer": "low key",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "key",
+        "low",
+        "low key",
+        "lowkey"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0007",
+      "answer": "high key",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "high",
+        "high key",
+        "highkey",
+        "key"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0008",
+      "answer": "rent free",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "free",
+        "rent",
+        "rent free"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0009",
+      "answer": "understood the assignment",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "assignment",
+        "the",
+        "understood",
+        "understood the assignment"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0010",
+      "answer": "say less",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "less",
+        "say",
+        "say less"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0011",
+      "answer": "ate and left no crumbs",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "and",
+        "ate",
+        "ate and left no crumbs",
+        "crumbs",
+        "left",
+        "left no crumbs",
+        "no"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0012",
+      "answer": "big yikes",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "big",
+        "big yikes",
+        "yikes"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0013",
+      "answer": "bestie",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "best friend",
+        "bestie",
+        "friend"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0014",
+      "answer": "period",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "period",
+        "periodt"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0015",
+      "answer": "caught in 4K",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "4k",
+        "caught",
+        "caught in 4K",
+        "caught in 4k",
+        "in"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0016",
+      "answer": "living my best life",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "best",
+        "life",
+        "living",
+        "living my best life",
+        "my"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0017",
+      "answer": "soft launch",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "launch",
+        "soft",
+        "soft launch"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0018",
+      "answer": "hard launch",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "hard",
+        "hard launch",
+        "launch"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0019",
+      "answer": "touch grass",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "grass",
+        "touch",
+        "touch grass"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0020",
+      "answer": "core memory",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "core",
+        "core memory",
+        "memory"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0021",
+      "answer": "the math is not mathing",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "is",
+        "math",
+        "mathing",
+        "not",
+        "the",
+        "the math is not mathing"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0022",
+      "answer": "be so for real",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "be",
+        "be so for real",
+        "bsffr",
+        "for",
+        "for real",
+        "real",
+        "so"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0023",
+      "answer": "rizz",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "charm",
+        "rizz"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0024",
+      "answer": "delulu",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "delulu",
+        "delusional"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0025",
+      "answer": "girl dinner",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "dinner",
+        "girl",
+        "girl dinner"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0026",
+      "answer": "quiet luxury",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "luxury",
+        "quiet",
+        "quiet luxury"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0027",
+      "answer": "era",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "era",
+        "phase"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0028",
+      "answer": "canon event",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "canon",
+        "canon event",
+        "event"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0029",
+      "answer": "plot twist",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "plot",
+        "plot twist",
+        "twist"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0030",
+      "answer": "side quest",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "quest",
+        "side",
+        "side quest"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0031",
+      "answer": "npc energy",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "energy",
+        "npc",
+        "npc energy"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0032",
+      "answer": "red flag",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "flag",
+        "red",
+        "red flag"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0033",
+      "answer": "green flag",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "flag",
+        "green",
+        "green flag"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0034",
+      "answer": "ick",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "gross",
+        "ick",
+        "turnoff"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0035",
+      "answer": "situationship",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "relationship",
+        "situationship"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0036",
+      "answer": "ghosted",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "ghost",
+        "ghosted",
+        "ignored"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0037",
+      "answer": "simp",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "crush",
+        "simp"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0038",
+      "answer": "mid",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "average",
+        "mid"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0039",
+      "answer": "fire",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "fire",
+        "lit"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0040",
+      "answer": "lit",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "fire",
+        "lit"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0041",
+      "answer": "hits different",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "different",
+        "hits",
+        "hits different"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0042",
+      "answer": "go off",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "go",
+        "go off",
+        "off"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0043",
+      "answer": "respectfully",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "respectfully"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0044",
+      "answer": "iconic",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "iconic",
+        "legendary"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0045",
+      "answer": "valid",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "valid"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0046",
+      "answer": "based",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "based"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0047",
+      "answer": "glow up",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "glow",
+        "glow up",
+        "up"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0048",
+      "answer": "fan behavior",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "behavior",
+        "fan",
+        "fan behavior"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0049",
+      "answer": "vibing",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "vibe",
+        "vibing"
+      ]
+    },
+    {
+      "card_id": "gen_z_phrase_0050",
+      "answer": "snack",
+      "difficulty": "medium",
+      "tags": [
+        "phrase",
+        "slang",
+        "internet"
+      ],
+      "banned_tokens": [
+        "attractive",
+        "snack"
+      ]
+    }
+  ]
+}

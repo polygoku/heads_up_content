@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "content_version": "2026.05.19.2",
+  "minimum_app_version": "1.0.0",
+  "packs": [
+    {
+      "pack_id": "daily_life_cn",
+      "version": "1.1.0",
+      "path": "Packs/daily_life_cn.json",
+      "sha256": "7ee3e7671b064ad1686da94fbdeb12cb9bcb57e768a0f22da4b2a463d36fbcf9",
+      "enabled": true,
+      "sort_order": 10
+    },
+    {
+      "pack_id": "food_cn",
+      "version": "1.0.0",
+      "path": "Packs/food_cn.json",
+      "sha256": "bb86a13bb0377370518876198a3f4cc9f98fbe4e7054e178b77d375cc7777568",
+      "enabled": true,
+      "sort_order": 20
+    },
+    {
+      "pack_id": "animals_cn",
+      "version": "1.0.0",
+      "path": "Packs/animals_cn.json",
+      "sha256": "f71aec8dba13aac5769a97018282379e71cd132cb6c3b0e37d5d1a9df73a10fa",
+      "enabled": true,
+      "sort_order": 30
+    },
+    {
+      "pack_id": "gen_z_phrases_en",
+      "version": "1.0.0",
+      "path": "Packs/gen_z_phrases_en.json",
+      "sha256": "72edc464c481208fe3a9014f117b9454d951c07fd36411624d9935634f209453",
+      "enabled": true,
+      "sort_order": 40
+    }
+  ]
+}
