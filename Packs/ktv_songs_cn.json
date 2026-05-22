@@ -1,0 +1,7186 @@
+{
+  "pack_id": "ktv_songs_cn",
+  "version": "1.0.0",
+  "display_name": {
+    "zh-Hans": "KTV 猜歌",
+    "zh-Hant": "KTV 猜歌",
+    "en": "KTV Song Guess"
+  },
+  "description": {
+    "zh-Hans": "中文流行歌曲歌名，适合聚会唱跳猜歌。",
+    "zh-Hant": "中文流行歌曲歌名，適合聚會唱跳猜歌。",
+    "en": "Chinese pop song titles for KTV-style guessing."
+  },
+  "language": "zh-Hans",
+  "category_tags": [
+    "family-safe",
+    "ktv",
+    "song-title",
+    "music",
+    "party"
+  ],
+  "difficulty": "medium",
+  "content_rating": "family",
+  "regions": [
+    "CN",
+    "TW",
+    "HK",
+    "SG",
+    "MY",
+    "global"
+  ],
+  "cards": [
+    {
+      "card_id": "ktv_song_0001",
+      "answer": "晴天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "晴",
+        "晴天"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0002",
+      "answer": "稻香",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "稻",
+        "稻香",
+        "香"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0003",
+      "answer": "青花瓷",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "瓷",
+        "花",
+        "青",
+        "青花瓷"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0004",
+      "answer": "告白气球",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "告",
+        "告白气球",
+        "气",
+        "球",
+        "白"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0005",
+      "answer": "夜曲",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "夜",
+        "夜曲",
+        "曲"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0006",
+      "answer": "七里香",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "七",
+        "七里香",
+        "里",
+        "香"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0007",
+      "answer": "简单爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "单",
+        "爱",
+        "简",
+        "简单爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0008",
+      "answer": "东风破",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "东",
+        "东风破",
+        "破",
+        "风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0009",
+      "answer": "一路向北",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一路向北",
+        "北",
+        "向",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0010",
+      "answer": "不能说的秘密",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不能说的秘密",
+        "密",
+        "的",
+        "秘",
+        "能",
+        "说"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0011",
+      "answer": "说好的幸福呢",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "呢",
+        "好",
+        "幸",
+        "的",
+        "福",
+        "说",
+        "说好的幸福呢"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0012",
+      "answer": "爱在西元前",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "元",
+        "前",
+        "在",
+        "爱",
+        "爱在西元前",
+        "西"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0013",
+      "answer": "半岛铁盒",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "半",
+        "半岛铁盒",
+        "岛",
+        "盒",
+        "铁"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0014",
+      "answer": "蒲公英的约定",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "公",
+        "定",
+        "的",
+        "约",
+        "英",
+        "蒲",
+        "蒲公英的约定"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0015",
+      "answer": "彩虹",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "彩",
+        "彩虹",
+        "虹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0016",
+      "answer": "花海",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "海",
+        "花",
+        "花海"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0017",
+      "answer": "龙卷风",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "卷",
+        "风",
+        "龙",
+        "龙卷风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0018",
+      "answer": "星晴",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "星",
+        "星晴",
+        "晴"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0019",
+      "answer": "安静",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "安",
+        "安静",
+        "静"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0020",
+      "answer": "借口",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "借",
+        "借口",
+        "口"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0021",
+      "answer": "搁浅",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "搁",
+        "搁浅",
+        "浅"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0022",
+      "answer": "发如雪",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "发",
+        "发如雪",
+        "如",
+        "雪"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0023",
+      "answer": "菊花台",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "台",
+        "花",
+        "菊",
+        "菊花台"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0024",
+      "answer": "听妈妈的话",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "听",
+        "听妈妈的话",
+        "妈",
+        "的",
+        "话"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0025",
+      "answer": "可爱女人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "可",
+        "可爱女人",
+        "女",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0026",
+      "answer": "最长的电影",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "影",
+        "最",
+        "最长的电影",
+        "电",
+        "的",
+        "长"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0027",
+      "answer": "明明就",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "就",
+        "明",
+        "明明就"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0028",
+      "answer": "等你下课",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "下",
+        "你",
+        "等",
+        "等你下课",
+        "课"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0029",
+      "answer": "Mojito",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "M",
+        "Mojito",
+        "i",
+        "j",
+        "mojito",
+        "o",
+        "t"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0030",
+      "answer": "反方向的钟",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "反",
+        "反方向的钟",
+        "向",
+        "方",
+        "的",
+        "钟"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0031",
+      "answer": "园游会",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "园",
+        "园游会",
+        "游"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0032",
+      "answer": "轨迹",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "轨",
+        "轨迹",
+        "迹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0033",
+      "answer": "枫",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "枫"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0034",
+      "answer": "以父之名",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "以",
+        "以父之名",
+        "名",
+        "父"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0035",
+      "answer": "算什么男人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "么",
+        "人",
+        "什",
+        "男",
+        "算",
+        "算什么男人"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0036",
+      "answer": "修炼爱情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "修",
+        "修炼爱情",
+        "情",
+        "炼",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0037",
+      "answer": "江南",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "南",
+        "江",
+        "江南"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0038",
+      "answer": "小酒窝",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "小酒窝",
+        "窝",
+        "酒"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0039",
+      "answer": "曹操",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "操",
+        "曹",
+        "曹操"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0040",
+      "answer": "背对背拥抱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "对",
+        "抱",
+        "拥",
+        "背",
+        "背对背拥抱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0041",
+      "answer": "那些你很冒险的梦",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "些",
+        "你",
+        "冒",
+        "很",
+        "梦",
+        "的",
+        "那",
+        "那些你很冒险的梦",
+        "险"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0042",
+      "answer": "她说",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "她",
+        "她说",
+        "说"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0043",
+      "answer": "不为谁而作的歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不为谁而作的歌",
+        "为",
+        "作",
+        "歌",
+        "的",
+        "而",
+        "谁"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0044",
+      "answer": "可惜没如果",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "可",
+        "可惜没如果",
+        "如",
+        "惜",
+        "果",
+        "没"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0045",
+      "answer": "关键词",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "关",
+        "关键词",
+        "词",
+        "键"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0046",
+      "answer": "一千年以后",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一千年以后",
+        "以",
+        "千",
+        "后",
+        "年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0047",
+      "answer": "醉赤壁",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "壁",
+        "赤",
+        "醉",
+        "醉赤壁"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0048",
+      "answer": "记得",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "得",
+        "记",
+        "记得"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0049",
+      "answer": "豆浆油条",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "条",
+        "油",
+        "浆",
+        "豆",
+        "豆浆油条"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0050",
+      "answer": "学不会",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "会",
+        "学",
+        "学不会"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0051",
+      "answer": "新地球",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "地",
+        "新",
+        "新地球",
+        "球"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0052",
+      "answer": "美人鱼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "美",
+        "美人鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0053",
+      "answer": "当你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "当",
+        "当你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0054",
+      "answer": "爱笑的眼睛",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "爱",
+        "爱笑的眼睛",
+        "的",
+        "眼",
+        "睛",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0055",
+      "answer": "交换余生",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "交",
+        "交换余生",
+        "余",
+        "换",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0056",
+      "answer": "裹着心的光",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "心",
+        "的",
+        "着",
+        "裹",
+        "裹着心的光"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0057",
+      "answer": "伟大的渺小",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "伟",
+        "伟大的渺小",
+        "大",
+        "小",
+        "渺",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0058",
+      "answer": "孤勇者",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "勇",
+        "孤",
+        "孤勇者",
+        "者"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0059",
+      "answer": "十年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "十",
+        "十年",
+        "年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0060",
+      "answer": "K歌之王",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "K",
+        "K歌之王",
+        "k歌之王",
+        "之",
+        "歌",
+        "王"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0061",
+      "answer": "富士山下",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "下",
+        "士",
+        "富",
+        "富士山下",
+        "山"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0062",
+      "answer": "爱情转移",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "情",
+        "爱",
+        "爱情转移",
+        "移",
+        "转"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0063",
+      "answer": "浮夸",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "夸",
+        "浮",
+        "浮夸"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0064",
+      "answer": "红玫瑰",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "玫",
+        "瑰",
+        "红",
+        "红玫瑰"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0065",
+      "answer": "白玫瑰",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "玫",
+        "瑰",
+        "白",
+        "白玫瑰"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0066",
+      "answer": "好久不见",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "久",
+        "好",
+        "好久不见",
+        "见"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0067",
+      "answer": "淘汰",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "汰",
+        "淘",
+        "淘汰"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0068",
+      "answer": "不要说话",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不要说话",
+        "要",
+        "话",
+        "说"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0069",
+      "answer": "你的背包",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你的背包",
+        "包",
+        "的",
+        "背"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0070",
+      "answer": "因为爱情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "为",
+        "因",
+        "因为爱情",
+        "情",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0071",
+      "answer": "单车",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "单",
+        "单车",
+        "车"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0072",
+      "answer": "明年今日",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "今",
+        "年",
+        "日",
+        "明",
+        "明年今日"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0073",
+      "answer": "葡萄成熟时",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "成",
+        "时",
+        "熟",
+        "萄",
+        "葡",
+        "葡萄成熟时"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0074",
+      "answer": "岁月如歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "如",
+        "岁",
+        "岁月如歌",
+        "月",
+        "歌"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0075",
+      "answer": "最佳损友",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "佳",
+        "友",
+        "损",
+        "最",
+        "最佳损友"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0076",
+      "answer": "天下无双",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "下",
+        "双",
+        "天",
+        "天下无双",
+        "无"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0077",
+      "answer": "我们",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "们",
+        "我",
+        "我们"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0078",
+      "answer": "孤独患者",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "孤",
+        "孤独患者",
+        "患",
+        "独",
+        "者"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0079",
+      "answer": "无条件",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "件",
+        "无",
+        "无条件",
+        "条"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0080",
+      "answer": "任我行",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "任",
+        "任我行",
+        "我",
+        "行"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0081",
+      "answer": "陀飞轮",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "轮",
+        "陀",
+        "陀飞轮",
+        "飞"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0082",
+      "answer": "人来人往",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "人来人往",
+        "往",
+        "来"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0083",
+      "answer": "沙龙",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "沙",
+        "沙龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0084",
+      "answer": "喜帖街",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "喜",
+        "喜帖街",
+        "帖",
+        "街"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0085",
+      "answer": "到此为止",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "为",
+        "到",
+        "到此为止",
+        "止",
+        "此"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0086",
+      "answer": "钟无艳",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "无",
+        "艳",
+        "钟",
+        "钟无艳"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0087",
+      "answer": "月半小夜曲",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "半",
+        "夜",
+        "小",
+        "曲",
+        "月",
+        "月半小夜曲"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0088",
+      "answer": "讲不出再见",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "再",
+        "出",
+        "见",
+        "讲",
+        "讲不出再见"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0089",
+      "answer": "朋友",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "友",
+        "朋",
+        "朋友"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0090",
+      "answer": "一生中最爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一生中最爱",
+        "中",
+        "最",
+        "爱",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0091",
+      "answer": "爱如潮水",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "如",
+        "水",
+        "潮",
+        "爱",
+        "爱如潮水"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0092",
+      "answer": "过火",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "火",
+        "过",
+        "过火"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0093",
+      "answer": "吻别",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "别",
+        "吻",
+        "吻别"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0094",
+      "answer": "祝福",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "祝",
+        "祝福",
+        "福"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0095",
+      "answer": "一路上有你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一路上有你",
+        "上",
+        "你",
+        "有",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0096",
+      "answer": "每天爱你多一些",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "些",
+        "你",
+        "多",
+        "天",
+        "每",
+        "每天爱你多一些",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0097",
+      "answer": "忘记你我做不到",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "你",
+        "做",
+        "到",
+        "忘",
+        "忘记你我做不到",
+        "我",
+        "记"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0098",
+      "answer": "她来听我的演唱会",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "听",
+        "唱",
+        "她",
+        "她来听我的演唱会",
+        "我",
+        "来",
+        "演",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0099",
+      "answer": "情书",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "书",
+        "情",
+        "情书"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0100",
+      "answer": "等你等到我心痛",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "到",
+        "心",
+        "我",
+        "痛",
+        "等",
+        "等你等到我心痛"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0101",
+      "answer": "李香兰",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "兰",
+        "李",
+        "李香兰",
+        "香"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0102",
+      "answer": "只想一生跟你走",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "你",
+        "只",
+        "只想一生跟你走",
+        "想",
+        "生",
+        "走",
+        "跟"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0103",
+      "answer": "我真的受伤了",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "了",
+        "伤",
+        "受",
+        "我",
+        "我真的受伤了",
+        "的",
+        "真"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0104",
+      "answer": "遥远的她",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "她",
+        "的",
+        "远",
+        "遥",
+        "遥远的她"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0105",
+      "answer": "一千个伤心的理由",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一千个伤心的理由",
+        "个",
+        "伤",
+        "千",
+        "心",
+        "理",
+        "由",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0106",
+      "answer": "我等到花儿也谢了",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "也",
+        "了",
+        "儿",
+        "到",
+        "我",
+        "我等到花儿也谢了",
+        "等",
+        "花",
+        "谢"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0107",
+      "answer": "红豆",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "红",
+        "红豆",
+        "豆"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0108",
+      "answer": "匆匆那年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "匆",
+        "匆匆那年",
+        "年",
+        "那"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0109",
+      "answer": "流年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "年",
+        "流",
+        "流年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0110",
+      "answer": "人间",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "人间",
+        "间"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0111",
+      "answer": "旋木",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "旋",
+        "旋木",
+        "木"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0112",
+      "answer": "容易受伤的女人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "伤",
+        "受",
+        "女",
+        "容",
+        "容易受伤的女人",
+        "易",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0113",
+      "answer": "我愿意",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "意",
+        "愿",
+        "我",
+        "我愿意"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0114",
+      "answer": "传奇",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "传",
+        "传奇",
+        "奇"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0115",
+      "answer": "约定",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "定",
+        "约",
+        "约定"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0116",
+      "answer": "棋子",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "子",
+        "棋",
+        "棋子"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0117",
+      "answer": "开到荼蘼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "到",
+        "开",
+        "开到荼蘼",
+        "荼",
+        "蘼"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0118",
+      "answer": "百年孤寂",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "孤",
+        "寂",
+        "年",
+        "百",
+        "百年孤寂"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0119",
+      "answer": "天空",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "天空",
+        "空"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0120",
+      "answer": "笑忘书",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "书",
+        "忘",
+        "笑",
+        "笑忘书"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0121",
+      "answer": "如愿",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "如",
+        "如愿",
+        "愿"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0122",
+      "answer": "世界赠予我的",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "世",
+        "世界赠予我的",
+        "予",
+        "我",
+        "界",
+        "的",
+        "赠"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0123",
+      "answer": "后来",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "后",
+        "后来",
+        "来"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0124",
+      "answer": "很爱很爱你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "很",
+        "很爱很爱你",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0125",
+      "answer": "为爱痴狂",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "为",
+        "为爱痴狂",
+        "爱",
+        "狂",
+        "痴"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0126",
+      "answer": "成全",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "全",
+        "成",
+        "成全"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0127",
+      "answer": "当爱在靠近",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "在",
+        "当",
+        "当爱在靠近",
+        "爱",
+        "近",
+        "靠"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0128",
+      "answer": "亲爱的路人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亲",
+        "亲爱的路人",
+        "人",
+        "爱",
+        "的",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0129",
+      "answer": "我不难过",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "我",
+        "我不难过",
+        "过",
+        "难"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0130",
+      "answer": "绿光",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "绿",
+        "绿光"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0131",
+      "answer": "遇见",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "见",
+        "遇",
+        "遇见"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0132",
+      "answer": "天黑黑",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "天黑黑",
+        "黑"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0133",
+      "answer": "开始懂了",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "了",
+        "始",
+        "开",
+        "开始懂了",
+        "懂"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0134",
+      "answer": "我怀念的",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "念",
+        "怀",
+        "我",
+        "我怀念的",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0135",
+      "answer": "逆光",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "逆",
+        "逆光"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0136",
+      "answer": "第一天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "天",
+        "第",
+        "第一天"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0137",
+      "answer": "神奇",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "奇",
+        "神",
+        "神奇"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0138",
+      "answer": "半句再见",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "再",
+        "半",
+        "半句再见",
+        "句",
+        "见"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0139",
+      "answer": "克卜勒",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "克",
+        "克卜勒",
+        "勒",
+        "卜"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0140",
+      "answer": "我也很想他",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "也",
+        "他",
+        "很",
+        "想",
+        "我",
+        "我也很想他"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0141",
+      "answer": "雨天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "雨",
+        "雨天"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0142",
+      "answer": "漂洋过海来看你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "来",
+        "洋",
+        "海",
+        "漂",
+        "漂洋过海来看你",
+        "看",
+        "过"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0143",
+      "answer": "爱的代价",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "代",
+        "价",
+        "爱",
+        "爱的代价",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0144",
+      "answer": "领悟",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "悟",
+        "领",
+        "领悟"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0145",
+      "answer": "亲爱的小孩",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亲",
+        "亲爱的小孩",
+        "孩",
+        "小",
+        "爱",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0146",
+      "answer": "梦醒时分",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "分",
+        "时",
+        "梦",
+        "梦醒时分",
+        "醒"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0147",
+      "answer": "滚滚红尘",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "尘",
+        "滚",
+        "滚滚红尘",
+        "红"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0148",
+      "answer": "爱的初体验",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "体",
+        "初",
+        "爱",
+        "爱的初体验",
+        "的",
+        "验"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0149",
+      "answer": "童话",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "童",
+        "童话",
+        "话"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0150",
+      "answer": "第一次",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "次",
+        "第",
+        "第一次"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0151",
+      "answer": "勇气",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "勇",
+        "勇气",
+        "气"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0152",
+      "answer": "宁夏",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "夏",
+        "宁",
+        "宁夏"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0153",
+      "answer": "暖暖",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "暖",
+        "暖暖"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0154",
+      "answer": "可惜不是你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "你",
+        "可",
+        "可惜不是你",
+        "惜",
+        "是"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0155",
+      "answer": "分手快乐",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乐",
+        "分",
+        "分手快乐",
+        "快",
+        "手"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0156",
+      "answer": "会呼吸的痛",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "会呼吸的痛",
+        "吸",
+        "呼",
+        "痛",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0157",
+      "answer": "崇拜",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "崇",
+        "崇拜",
+        "拜"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0158",
+      "answer": "燕尾蝶",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "尾",
+        "燕",
+        "燕尾蝶",
+        "蝶"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0159",
+      "answer": "情歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "情",
+        "情歌",
+        "歌"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0160",
+      "answer": "慢冷",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "冷",
+        "慢",
+        "慢冷"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0161",
+      "answer": "问",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "问"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0162",
+      "answer": "小幸运",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "小幸运",
+        "幸",
+        "运"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0163",
+      "answer": "说散就散",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "就",
+        "散",
+        "说",
+        "说散就散"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0164",
+      "answer": "体面",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "体",
+        "体面",
+        "面"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0165",
+      "answer": "年轮说",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "年",
+        "年轮说",
+        "说",
+        "轮"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0166",
+      "answer": "带我去找夜生活",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "去",
+        "夜",
+        "带",
+        "带我去找夜生活",
+        "我",
+        "找",
+        "活",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0167",
+      "answer": "突然好想你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "好",
+        "想",
+        "然",
+        "突",
+        "突然好想你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0168",
+      "answer": "倔强",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "倔",
+        "倔强",
+        "强"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0169",
+      "answer": "知足",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "知",
+        "知足",
+        "足"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0170",
+      "answer": "温柔",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "柔",
+        "温",
+        "温柔"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0171",
+      "answer": "恋爱ing",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "g",
+        "i",
+        "n",
+        "恋",
+        "恋爱ing",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0172",
+      "answer": "你不是真正的快乐",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "乐",
+        "你",
+        "你不是真正的快乐",
+        "快",
+        "是",
+        "正",
+        "的",
+        "真"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0173",
+      "answer": "离开地球表面",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "地",
+        "开",
+        "球",
+        "离",
+        "离开地球表面",
+        "表",
+        "面"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0174",
+      "answer": "星空",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "星",
+        "星空",
+        "空"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0175",
+      "answer": "如烟",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "如",
+        "如烟",
+        "烟"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0176",
+      "answer": "后来的我们",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "们",
+        "后",
+        "后来的我们",
+        "我",
+        "来",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0177",
+      "answer": "干杯",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "干",
+        "干杯",
+        "杯"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0178",
+      "answer": "伤心的人别听慢歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "伤",
+        "伤心的人别听慢歌",
+        "别",
+        "听",
+        "心",
+        "慢",
+        "歌",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0179",
+      "answer": "派对动物",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "动",
+        "对",
+        "派",
+        "派对动物",
+        "物"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0180",
+      "answer": "拥抱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "抱",
+        "拥",
+        "拥抱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0181",
+      "answer": "我不愿让你一个人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "不",
+        "个",
+        "人",
+        "你",
+        "愿",
+        "我",
+        "我不愿让你一个人",
+        "让"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0182",
+      "answer": "盛夏光年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "夏",
+        "年",
+        "盛",
+        "盛夏光年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0183",
+      "answer": "洋葱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "洋",
+        "洋葱",
+        "葱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0184",
+      "answer": "一次就好",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一次就好",
+        "好",
+        "就",
+        "次"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0185",
+      "answer": "王妃",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "妃",
+        "王",
+        "王妃"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0186",
+      "answer": "新不了情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "了",
+        "情",
+        "新",
+        "新不了情"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0187",
+      "answer": "背叛",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "叛",
+        "背",
+        "背叛"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0188",
+      "answer": "寂寞先生",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "先",
+        "寂",
+        "寂寞先生",
+        "寞",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0189",
+      "answer": "你是我的眼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你是我的眼",
+        "我",
+        "是",
+        "的",
+        "眼"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0190",
+      "answer": "末班车",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "末",
+        "末班车",
+        "班",
+        "车"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0191",
+      "answer": "怎么说我不爱你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "么",
+        "你",
+        "怎",
+        "怎么说我不爱你",
+        "我",
+        "爱",
+        "说"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0192",
+      "answer": "阿飞的小蝴蝶",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "的",
+        "蝴",
+        "蝶",
+        "阿",
+        "阿飞的小蝴蝶",
+        "飞"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0193",
+      "answer": "会痛的石头",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "会痛的石头",
+        "头",
+        "痛",
+        "的",
+        "石"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0194",
+      "answer": "痴心绝对",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "对",
+        "心",
+        "痴",
+        "痴心绝对",
+        "绝"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0195",
+      "answer": "手放开",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "开",
+        "手",
+        "手放开",
+        "放"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0196",
+      "answer": "天黑",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "天黑",
+        "黑"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0197",
+      "answer": "煎熬",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "煎",
+        "煎熬",
+        "熬"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0198",
+      "answer": "年少有为",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "为",
+        "少",
+        "年",
+        "年少有为",
+        "有"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0199",
+      "answer": "模特",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "模",
+        "模特",
+        "特"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0200",
+      "answer": "演员",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "员",
+        "演",
+        "演员"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0201",
+      "answer": "绅士",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "士",
+        "绅",
+        "绅士"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0202",
+      "answer": "认真的雪",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "的",
+        "真",
+        "认",
+        "认真的雪",
+        "雪"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0203",
+      "answer": "丑八怪",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "丑",
+        "丑八怪",
+        "八",
+        "怪"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0204",
+      "answer": "刚刚好",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "刚",
+        "刚刚好",
+        "好"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0205",
+      "answer": "你还要我怎样",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你还要我怎样",
+        "怎",
+        "我",
+        "样",
+        "要",
+        "还"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0206",
+      "answer": "暧昧",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "昧",
+        "暧",
+        "暧昧"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0207",
+      "answer": "意外",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "外",
+        "意",
+        "意外"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0208",
+      "answer": "其实",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "其",
+        "其实",
+        "实"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0209",
+      "answer": "方圆几里",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "几",
+        "圆",
+        "方",
+        "方圆几里",
+        "里"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0210",
+      "answer": "像风一样",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "像",
+        "像风一样",
+        "样",
+        "风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0211",
+      "answer": "嚣张",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "嚣",
+        "嚣张",
+        "张"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0212",
+      "answer": "可乐",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乐",
+        "可",
+        "可乐"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0213",
+      "answer": "绿色",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "绿",
+        "绿色",
+        "色"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0214",
+      "answer": "像我这样的人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "像",
+        "像我这样的人",
+        "我",
+        "样",
+        "的",
+        "这"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0215",
+      "answer": "消愁",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "愁",
+        "消",
+        "消愁"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0216",
+      "answer": "平凡的一天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "凡",
+        "天",
+        "平",
+        "平凡的一天",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0217",
+      "answer": "借",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "借"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0218",
+      "answer": "一程山路",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一程山路",
+        "山",
+        "程",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0219",
+      "answer": "盛夏",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "夏",
+        "盛",
+        "盛夏"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0220",
+      "answer": "无名的人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "名",
+        "无",
+        "无名的人",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0221",
+      "answer": "不染",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不染",
+        "染"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0222",
+      "answer": "大鱼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "大",
+        "大鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0223",
+      "answer": "凉凉",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "凉",
+        "凉凉"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0224",
+      "answer": "年轮",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "年",
+        "年轮",
+        "轮"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0225",
+      "answer": "三寸天堂",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "三",
+        "三寸天堂",
+        "堂",
+        "天",
+        "寸"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0226",
+      "answer": "千年等一回",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "千",
+        "千年等一回",
+        "回",
+        "年",
+        "等"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0227",
+      "answer": "时间煮雨",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "时",
+        "时间煮雨",
+        "煮",
+        "间",
+        "雨"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0228",
+      "answer": "那些年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "些",
+        "年",
+        "那",
+        "那些年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0229",
+      "answer": "追光者",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "者",
+        "追",
+        "追光者"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0230",
+      "answer": "起风了",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "了",
+        "起",
+        "起风了",
+        "风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0231",
+      "answer": "光年之外",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "光",
+        "光年之外",
+        "外",
+        "年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0232",
+      "answer": "泡沫",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "沫",
+        "泡",
+        "泡沫"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0233",
+      "answer": "喜欢你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "喜",
+        "喜欢你",
+        "欢"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0234",
+      "answer": "句号",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "句",
+        "句号",
+        "号"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0235",
+      "answer": "倒数",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "倒",
+        "倒数",
+        "数"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0236",
+      "answer": "多远都要在一起",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "在",
+        "多",
+        "多远都要在一起",
+        "要",
+        "起",
+        "远",
+        "都"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0237",
+      "answer": "来自天堂的魔鬼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "堂",
+        "天",
+        "来",
+        "来自天堂的魔鬼",
+        "的",
+        "自",
+        "鬼",
+        "魔"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0238",
+      "answer": "新的心跳",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "心",
+        "新",
+        "新的心跳",
+        "的",
+        "跳"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0239",
+      "answer": "海阔天空",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "海",
+        "海阔天空",
+        "空",
+        "阔"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0240",
+      "answer": "真的爱你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "爱",
+        "的",
+        "真",
+        "真的爱你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0241",
+      "answer": "光辉岁月",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "光",
+        "光辉岁月",
+        "岁",
+        "月",
+        "辉"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0242",
+      "answer": "不再犹豫",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不再犹豫",
+        "再",
+        "犹",
+        "豫"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0243",
+      "answer": "冷雨夜",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "冷",
+        "冷雨夜",
+        "夜",
+        "雨"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0244",
+      "answer": "情人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "情",
+        "情人"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0245",
+      "answer": "大地",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "地",
+        "大",
+        "大地"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0246",
+      "answer": "灰色轨迹",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "灰",
+        "灰色轨迹",
+        "色",
+        "轨",
+        "迹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0247",
+      "answer": "无尽空虚",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "尽",
+        "无",
+        "无尽空虚",
+        "空",
+        "虚"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0248",
+      "answer": "谁伴我闯荡",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "伴",
+        "我",
+        "荡",
+        "谁",
+        "谁伴我闯荡",
+        "闯"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0249",
+      "answer": "岁月无声",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "声",
+        "岁",
+        "岁月无声",
+        "无",
+        "月"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0250",
+      "answer": "飘雪",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "雪",
+        "飘",
+        "飘雪"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0251",
+      "answer": "千千阙歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "千",
+        "千千阙歌",
+        "歌",
+        "阙"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0252",
+      "answer": "夕阳之歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "夕",
+        "夕阳之歌",
+        "歌",
+        "阳"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0253",
+      "answer": "似是故人来",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "似",
+        "似是故人来",
+        "故",
+        "是",
+        "来"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0254",
+      "answer": "女人花",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "女",
+        "女人花",
+        "花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0255",
+      "answer": "亲密爱人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亲",
+        "亲密爱人",
+        "人",
+        "密",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0256",
+      "answer": "一生所爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一生所爱",
+        "所",
+        "爱",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0257",
+      "answer": "沧海一声笑",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "声",
+        "沧",
+        "沧海一声笑",
+        "海",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0258",
+      "answer": "上海滩",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "上",
+        "上海滩",
+        "海",
+        "滩"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0259",
+      "answer": "男儿当自强",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "儿",
+        "强",
+        "当",
+        "男",
+        "男儿当自强",
+        "自"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0260",
+      "answer": "万水千山总是情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "万",
+        "万水千山总是情",
+        "千",
+        "山",
+        "总",
+        "情",
+        "是",
+        "水"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0261",
+      "answer": "漫步人生路",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "步",
+        "漫",
+        "漫步人生路",
+        "生",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0262",
+      "answer": "风继续吹",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "吹",
+        "继",
+        "续",
+        "风",
+        "风继续吹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0263",
+      "answer": "沉默是金",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "是",
+        "沉",
+        "沉默是金",
+        "金",
+        "默"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0264",
+      "answer": "当年情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "年",
+        "当",
+        "当年情",
+        "情"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0265",
+      "answer": "倩女幽魂",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "倩",
+        "倩女幽魂",
+        "女",
+        "幽",
+        "魂"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0266",
+      "answer": "Monica",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "M",
+        "Monica",
+        "a",
+        "c",
+        "i",
+        "monica",
+        "n",
+        "o"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0267",
+      "answer": "追",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "追"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0268",
+      "answer": "有谁共鸣",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "共",
+        "有",
+        "有谁共鸣",
+        "谁",
+        "鸣"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0269",
+      "answer": "春夏秋冬",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "冬",
+        "夏",
+        "春",
+        "春夏秋冬",
+        "秋"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0270",
+      "answer": "今生今世",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "世",
+        "今",
+        "今生今世",
+        "生"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0271",
+      "answer": "玻璃之情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "情",
+        "玻",
+        "玻璃之情",
+        "璃"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0272",
+      "answer": "我",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "我"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0273",
+      "answer": "我只在乎你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乎",
+        "你",
+        "只",
+        "在",
+        "我",
+        "我只在乎你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0274",
+      "answer": "甜蜜蜜",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "甜",
+        "甜蜜蜜",
+        "蜜"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0275",
+      "answer": "月亮代表我的心",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亮",
+        "代",
+        "心",
+        "我",
+        "月",
+        "月亮代表我的心",
+        "的",
+        "表"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0276",
+      "answer": "但愿人长久",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "久",
+        "人",
+        "但",
+        "但愿人长久",
+        "愿",
+        "长"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0277",
+      "answer": "小城故事",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "事",
+        "城",
+        "小",
+        "小城故事",
+        "故"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0278",
+      "answer": "千言万语",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "万",
+        "千",
+        "千言万语",
+        "言",
+        "语"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0279",
+      "answer": "在水一方",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "在",
+        "在水一方",
+        "方",
+        "水"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0280",
+      "answer": "何日君再来",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "何",
+        "何日君再来",
+        "再",
+        "君",
+        "日",
+        "来"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0281",
+      "answer": "爱的箴言",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "爱",
+        "爱的箴言",
+        "的",
+        "箴",
+        "言"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0282",
+      "answer": "橄榄树",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "树",
+        "榄",
+        "橄",
+        "橄榄树"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0283",
+      "answer": "外婆的澎湖湾",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "外",
+        "外婆的澎湖湾",
+        "婆",
+        "湖",
+        "湾",
+        "澎",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0284",
+      "answer": "童年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "年",
+        "童",
+        "童年"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0285",
+      "answer": "光阴的故事",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "事",
+        "光",
+        "光阴的故事",
+        "故",
+        "的",
+        "阴"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0286",
+      "answer": "恋曲1990",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "0",
+        "1",
+        "9",
+        "恋",
+        "恋曲1990",
+        "曲"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0287",
+      "answer": "恋曲1980",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "0",
+        "1",
+        "8",
+        "9",
+        "恋",
+        "恋曲1980",
+        "曲"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0288",
+      "answer": "你的样子",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你的样子",
+        "子",
+        "样",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0289",
+      "answer": "是否",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "否",
+        "是",
+        "是否"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0290",
+      "answer": "闪亮的日子",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亮",
+        "子",
+        "日",
+        "的",
+        "闪",
+        "闪亮的日子"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0291",
+      "answer": "鹿港小镇",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "港",
+        "镇",
+        "鹿",
+        "鹿港小镇"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0292",
+      "answer": "再回首",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "再",
+        "再回首",
+        "回",
+        "首"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0293",
+      "answer": "一场游戏一场梦",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一场游戏一场梦",
+        "场",
+        "戏",
+        "梦",
+        "游"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0294",
+      "answer": "安妮",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "妮",
+        "安",
+        "安妮"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0295",
+      "answer": "忘了你忘了我",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "了",
+        "你",
+        "忘",
+        "忘了你忘了我",
+        "我"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0296",
+      "answer": "明天会更好",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "天",
+        "好",
+        "明",
+        "明天会更好",
+        "更"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0297",
+      "answer": "我的未来不是梦",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "我",
+        "我的未来不是梦",
+        "是",
+        "未",
+        "来",
+        "梦",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0298",
+      "answer": "大约在冬季",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "冬",
+        "在",
+        "大",
+        "大约在冬季",
+        "季",
+        "约"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0299",
+      "answer": "外面的世界",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "世",
+        "外",
+        "外面的世界",
+        "界",
+        "的",
+        "面"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0300",
+      "answer": "花房姑娘",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "姑",
+        "娘",
+        "房",
+        "花",
+        "花房姑娘"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0301",
+      "answer": "一无所有",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "一无所有",
+        "所",
+        "无",
+        "有"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0302",
+      "answer": "蓝莲花",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "花",
+        "莲",
+        "蓝",
+        "蓝莲花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0303",
+      "answer": "曾经的你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "曾",
+        "曾经的你",
+        "的",
+        "经"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0304",
+      "answer": "旅行",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "旅",
+        "旅行",
+        "行"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0305",
+      "answer": "故乡",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乡",
+        "故",
+        "故乡"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0306",
+      "answer": "平凡之路",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "凡",
+        "平",
+        "平凡之路",
+        "路"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0307",
+      "answer": "那些花儿",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "些",
+        "儿",
+        "花",
+        "那",
+        "那些花儿"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0308",
+      "answer": "白桦林",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "林",
+        "桦",
+        "白",
+        "白桦林"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0309",
+      "answer": "生如夏花",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "夏",
+        "如",
+        "生",
+        "生如夏花",
+        "花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0310",
+      "answer": "同桌的你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "同",
+        "同桌的你",
+        "桌",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0311",
+      "answer": "睡在我上铺的兄弟",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "上",
+        "兄",
+        "在",
+        "弟",
+        "我",
+        "的",
+        "睡",
+        "睡在我上铺的兄弟",
+        "铺"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0312",
+      "answer": "祝你一路顺风",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "你",
+        "祝",
+        "祝你一路顺风",
+        "路",
+        "顺",
+        "风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0313",
+      "answer": "朋友别哭",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "别",
+        "友",
+        "哭",
+        "朋",
+        "朋友别哭"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0314",
+      "answer": "心太软",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "太",
+        "心",
+        "心太软",
+        "软"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0315",
+      "answer": "对面的女孩看过来",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "女",
+        "孩",
+        "对",
+        "对面的女孩看过来",
+        "来",
+        "的",
+        "看",
+        "过",
+        "面"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0316",
+      "answer": "伤心太平洋",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "伤",
+        "伤心太平洋",
+        "太",
+        "平",
+        "心",
+        "洋"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0317",
+      "answer": "浪花一朵朵",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "朵",
+        "浪",
+        "浪花一朵朵",
+        "花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0318",
+      "answer": "春天花会开",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "天",
+        "开",
+        "春",
+        "春天花会开",
+        "花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0319",
+      "answer": "橘子香水",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "子",
+        "橘",
+        "橘子香水",
+        "水",
+        "香"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0320",
+      "answer": "我是一只鱼",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "只",
+        "我",
+        "我是一只鱼",
+        "是",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0321",
+      "answer": "爱江山更爱美人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "人",
+        "山",
+        "更",
+        "江",
+        "爱",
+        "爱江山更爱美人",
+        "美"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0322",
+      "answer": "潇洒走一回",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "回",
+        "洒",
+        "潇",
+        "潇洒走一回",
+        "走"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0323",
+      "answer": "涛声依旧",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "依",
+        "声",
+        "旧",
+        "涛",
+        "涛声依旧"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0324",
+      "answer": "九妹",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "九",
+        "九妹",
+        "妹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0325",
+      "answer": "常回家看看",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "回",
+        "家",
+        "常",
+        "常回家看看",
+        "看"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0326",
+      "answer": "最炫民族风",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "族",
+        "最",
+        "最炫民族风",
+        "民",
+        "炫",
+        "风"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0327",
+      "answer": "荷塘月色",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "塘",
+        "月",
+        "色",
+        "荷",
+        "荷塘月色"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0328",
+      "answer": "月亮之上",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "上",
+        "之",
+        "亮",
+        "月",
+        "月亮之上"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0329",
+      "answer": "自由飞翔",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "由",
+        "翔",
+        "自",
+        "自由飞翔",
+        "飞"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0330",
+      "answer": "小苹果",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "小苹果",
+        "果",
+        "苹"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0331",
+      "answer": "青春修炼手册",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "修",
+        "册",
+        "手",
+        "春",
+        "炼",
+        "青",
+        "青春修炼手册"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0332",
+      "answer": "宠爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "宠",
+        "宠爱",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0333",
+      "answer": "大梦想家",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "大",
+        "大梦想家",
+        "家",
+        "想",
+        "梦"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0334",
+      "answer": "魔法城堡",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "城",
+        "堡",
+        "法",
+        "魔",
+        "魔法城堡"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0335",
+      "answer": "小情歌",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "小",
+        "小情歌",
+        "情",
+        "歌"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0336",
+      "answer": "无与伦比的美丽",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "与",
+        "丽",
+        "伦",
+        "无",
+        "无与伦比的美丽",
+        "比",
+        "的",
+        "美"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0337",
+      "answer": "你被写在我的歌里",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你被写在我的歌里",
+        "写",
+        "在",
+        "我",
+        "歌",
+        "的",
+        "被",
+        "里"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0338",
+      "answer": "他夏了夏天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "了",
+        "他",
+        "他夏了夏天",
+        "夏",
+        "天"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0339",
+      "answer": "我好想你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "好",
+        "想",
+        "我",
+        "我好想你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0340",
+      "answer": "如果可以",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "以",
+        "可",
+        "如",
+        "如果可以",
+        "果"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0341",
+      "answer": "女孩",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "女",
+        "女孩",
+        "孩"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0342",
+      "answer": "还是会",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "是",
+        "还",
+        "还是会"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0343",
+      "answer": "有可能的夜晚",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "可",
+        "夜",
+        "晚",
+        "有",
+        "有可能的夜晚",
+        "的",
+        "能"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0344",
+      "answer": "慢慢喜欢你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "喜",
+        "慢",
+        "慢慢喜欢你",
+        "欢"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0345",
+      "answer": "这世界那么多人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "世",
+        "么",
+        "人",
+        "多",
+        "界",
+        "这",
+        "这世界那么多人",
+        "那"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0346",
+      "answer": "好想爱这个世界啊",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "世",
+        "个",
+        "啊",
+        "好",
+        "好想爱这个世界啊",
+        "想",
+        "爱",
+        "界",
+        "这"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0347",
+      "answer": "烟火里的尘埃",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "埃",
+        "尘",
+        "火",
+        "烟",
+        "烟火里的尘埃",
+        "的",
+        "里"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0348",
+      "answer": "国王与乞丐",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "与",
+        "丐",
+        "乞",
+        "国",
+        "国王与乞丐",
+        "王"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0349",
+      "answer": "我管你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "我",
+        "我管你",
+        "管"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0350",
+      "answer": "齐天",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "齐",
+        "齐天"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0351",
+      "answer": "山海",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "山",
+        "山海",
+        "海"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0352",
+      "answer": "玫瑰少年",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "少",
+        "年",
+        "玫",
+        "玫瑰少年",
+        "瑰"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0353",
+      "answer": "倒带",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "倒",
+        "倒带",
+        "带"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0354",
+      "answer": "说爱你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "爱",
+        "说",
+        "说爱你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0355",
+      "answer": "日不落",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "日",
+        "日不落",
+        "落"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0356",
+      "answer": "看我七十二变",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "七",
+        "二",
+        "十",
+        "变",
+        "我",
+        "看",
+        "看我七十二变"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0357",
+      "answer": "舞娘",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "娘",
+        "舞",
+        "舞娘"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0358",
+      "answer": "布拉格广场",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "场",
+        "布",
+        "布拉格广场",
+        "广",
+        "拉",
+        "格"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0359",
+      "answer": "爱情三十六计",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "三",
+        "六",
+        "十",
+        "情",
+        "爱",
+        "爱情三十六计",
+        "计"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0360",
+      "answer": "马德里不思议",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "德",
+        "思",
+        "议",
+        "里",
+        "马",
+        "马德里不思议"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0361",
+      "answer": "今天你要嫁给我",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "今",
+        "今天你要嫁给我",
+        "你",
+        "天",
+        "嫁",
+        "我",
+        "给",
+        "要"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0362",
+      "answer": "爱你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "爱",
+        "爱你"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0363",
+      "answer": "睫毛弯弯",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "弯",
+        "毛",
+        "睫",
+        "睫毛弯弯"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0364",
+      "answer": "第一次爱的人",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "人",
+        "次",
+        "爱",
+        "的",
+        "第",
+        "第一次爱的人"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0365",
+      "answer": "Honey",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "H",
+        "Honey",
+        "e",
+        "honey",
+        "n",
+        "o",
+        "y"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0366",
+      "answer": "欧若拉",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "拉",
+        "欧",
+        "欧若拉",
+        "若"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0367",
+      "answer": "隐形的翅膀",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "形",
+        "的",
+        "翅",
+        "膀",
+        "隐",
+        "隐形的翅膀"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0368",
+      "answer": "寓言",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "寓",
+        "寓言",
+        "言"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0369",
+      "answer": "亲爱的那不是爱情",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "亲",
+        "亲爱的那不是爱情",
+        "情",
+        "是",
+        "爱",
+        "的",
+        "那"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0370",
+      "answer": "遗失的美好",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "失",
+        "好",
+        "的",
+        "美",
+        "遗",
+        "遗失的美好"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0371",
+      "answer": "淋雨一直走",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "一",
+        "淋",
+        "淋雨一直走",
+        "直",
+        "走",
+        "雨"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0372",
+      "answer": "如果的事",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "事",
+        "如",
+        "如果的事",
+        "果",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0373",
+      "answer": "不得不爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不得不爱",
+        "得",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0374",
+      "answer": "快乐崇拜",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乐",
+        "崇",
+        "快",
+        "快乐崇拜",
+        "拜"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0375",
+      "answer": "我的麦克风",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "克",
+        "我",
+        "我的麦克风",
+        "的",
+        "风",
+        "麦"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0376",
+      "answer": "壁虎漫步",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "壁",
+        "壁虎漫步",
+        "步",
+        "漫",
+        "虎"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0377",
+      "answer": "反转地球",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "反",
+        "反转地球",
+        "地",
+        "球",
+        "转"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0378",
+      "answer": "爱丫爱丫",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "丫",
+        "爱",
+        "爱丫爱丫"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0379",
+      "answer": "后会无期",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "会",
+        "后",
+        "后会无期",
+        "无",
+        "期"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0380",
+      "answer": "只对你有感觉",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "只",
+        "只对你有感觉",
+        "对",
+        "感",
+        "有",
+        "觉"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0381",
+      "answer": "专属天使",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "专",
+        "专属天使",
+        "使",
+        "天",
+        "属"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0382",
+      "answer": "越来越爱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "来",
+        "爱",
+        "越",
+        "越来越爱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0383",
+      "answer": "寂寞寂寞就好",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "好",
+        "寂",
+        "寂寞寂寞就好",
+        "寞",
+        "就"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0384",
+      "answer": "你太猖狂",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "你太猖狂",
+        "太",
+        "狂",
+        "猖"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0385",
+      "answer": "魔鬼中的天使",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "中",
+        "使",
+        "天",
+        "的",
+        "鬼",
+        "魔",
+        "魔鬼中的天使"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0386",
+      "answer": "还是要幸福",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "幸",
+        "是",
+        "福",
+        "要",
+        "还",
+        "还是要幸福"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0387",
+      "answer": "LOVE!",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "E",
+        "L",
+        "LOVE!",
+        "O",
+        "V",
+        "love!"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0388",
+      "answer": "可不可以",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "以",
+        "可",
+        "可不可以"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0389",
+      "answer": "想见你想见你想见你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "想",
+        "想见你想见你想见你",
+        "见"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0390",
+      "answer": "刻在我心底的名字",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "刻",
+        "刻在我心底的名字",
+        "名",
+        "在",
+        "字",
+        "底",
+        "心",
+        "我",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0391",
+      "answer": "嘉宾",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "嘉",
+        "嘉宾",
+        "宾"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0392",
+      "answer": "海底",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "底",
+        "海",
+        "海底"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0393",
+      "answer": "阿拉斯加海湾",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "加",
+        "拉",
+        "斯",
+        "海",
+        "湾",
+        "阿",
+        "阿拉斯加海湾"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0394",
+      "answer": "热爱105°C的你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "0",
+        "1",
+        "5",
+        "C",
+        "°",
+        "你",
+        "热",
+        "热爱105°C的你",
+        "热爱105°c的你",
+        "爱",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0395",
+      "answer": "星辰大海",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "大",
+        "星",
+        "星辰大海",
+        "海",
+        "辰"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0396",
+      "answer": "白月光与朱砂痣",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "与",
+        "光",
+        "月",
+        "朱",
+        "痣",
+        "白",
+        "白月光与朱砂痣",
+        "砂"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0397",
+      "answer": "踏山河",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "山",
+        "河",
+        "踏",
+        "踏山河"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0398",
+      "answer": "漠河舞厅",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "厅",
+        "河",
+        "漠",
+        "漠河舞厅",
+        "舞"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0399",
+      "answer": "哪里都是你",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "你",
+        "哪",
+        "哪里都是你",
+        "是",
+        "都",
+        "里"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0400",
+      "answer": "就让这大雨全都落下",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "下",
+        "全",
+        "大",
+        "就",
+        "就让这大雨全都落下",
+        "落",
+        "让",
+        "这",
+        "都",
+        "雨"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0401",
+      "answer": "乌梅子酱",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "乌",
+        "乌梅子酱",
+        "子",
+        "梅",
+        "酱"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0402",
+      "answer": "最伟大的作品",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "伟",
+        "作",
+        "品",
+        "大",
+        "最",
+        "最伟大的作品",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0403",
+      "answer": "兰亭序",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "亭",
+        "兰",
+        "兰亭序",
+        "序"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0404",
+      "answer": "本草纲目",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "本",
+        "本草纲目",
+        "目",
+        "纲",
+        "草"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0405",
+      "answer": "霍元甲",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "元",
+        "甲",
+        "霍",
+        "霍元甲"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0406",
+      "answer": "双截棍",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "双",
+        "双截棍",
+        "截",
+        "棍"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0407",
+      "answer": "龙拳",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "拳",
+        "龙",
+        "龙拳"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0408",
+      "answer": "将军",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "军",
+        "将",
+        "将军"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0409",
+      "answer": "屋顶",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "屋",
+        "屋顶",
+        "顶"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0410",
+      "answer": "珊瑚海",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "海",
+        "珊",
+        "珊瑚海",
+        "瑚"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0411",
+      "answer": "千里之外",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "之",
+        "千",
+        "千里之外",
+        "外",
+        "里"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0412",
+      "answer": "甜甜的",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "甜",
+        "甜甜的",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0413",
+      "answer": "公主病",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "主",
+        "公",
+        "公主病",
+        "病"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0414",
+      "answer": "迷迭香",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "迭",
+        "迷",
+        "迷迭香",
+        "香"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0415",
+      "answer": "夜的第七章",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "七",
+        "夜",
+        "夜的第七章",
+        "的",
+        "章",
+        "第"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0416",
+      "answer": "逆鳞",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "逆",
+        "逆鳞",
+        "鳞"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0417",
+      "answer": "跨时代",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "代",
+        "时",
+        "跨",
+        "跨时代"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0418",
+      "answer": "烟花易冷",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "冷",
+        "易",
+        "烟",
+        "烟花易冷",
+        "花"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0419",
+      "answer": "红尘客栈",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "客",
+        "尘",
+        "栈",
+        "红",
+        "红尘客栈"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0420",
+      "answer": "天涯过客",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "天",
+        "天涯过客",
+        "客",
+        "涯",
+        "过"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0421",
+      "answer": "手写的从前",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "从",
+        "写",
+        "前",
+        "手",
+        "手写的从前",
+        "的"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0422",
+      "answer": "不该",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "不",
+        "不该",
+        "该"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0423",
+      "answer": "床边故事",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "事",
+        "床",
+        "床边故事",
+        "故",
+        "边"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0424",
+      "answer": "倒影",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "倒",
+        "倒影",
+        "影"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0425",
+      "answer": "红颜如霜",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "如",
+        "红",
+        "红颜如霜",
+        "霜",
+        "颜"
+      ]
+    },
+    {
+      "card_id": "ktv_song_0426",
+      "answer": "粉色海洋",
+      "difficulty": "medium",
+      "tags": [
+        "ktv",
+        "song-title",
+        "mandopop"
+      ],
+      "banned_tokens": [
+        "洋",
+        "海",
+        "粉",
+        "粉色海洋",
+        "色"
+      ]
+    }
+  ]
+}

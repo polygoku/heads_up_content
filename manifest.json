@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "content_version": "2026.05.20.1",
+  "content_version": "2026.05.20.2",
   "minimum_app_version": "1.0.0",
   "packs": [
     {
@@ -29,9 +29,9 @@
     },
     {
       "pack_id": "gen_z_phrases_en",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "path": "Packs/gen_z_phrases_en.json",
-      "sha256": "09f395c08f9a41d3ac6222bd0662cffb2b8ea5cf12b95c79d9813b668f5c7a36",
+      "sha256": "c22adc8c8d20955122e76c717f308dcc22f9fddf21151da4f41d3adadfea9501",
       "enabled": true,
       "sort_order": 40
     },
@@ -50,6 +50,14 @@
       "sha256": "aac3546c1a2beda032aef1fd8e1a1f906db5057d9e95c443ff4abd69a73447b8",
       "enabled": true,
       "sort_order": 60
+    },
+    {
+      "pack_id": "ktv_songs_cn",
+      "version": "1.0.0",
+      "path": "Packs/ktv_songs_cn.json",
+      "sha256": "c239b989593b7f3ae7c92b8cceced34eb9f501df12a92f1b8d257b0182ea9daa",
+      "enabled": true,
+      "sort_order": 70
     }
   ]
 }
