@@ -1,20 +1,22 @@
 {
   "pack_id": "movies_cn",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "display_name": {
     "zh-Hans": "影视",
     "zh-Hant": "影視",
     "en": "Movies & TV"
   },
   "description": {
-    "zh-Hans": "电影电视、片场道具和名场面。",
-    "en": "Movie, TV, and production words."
+    "zh-Hans": "经典电影、电视剧、动画片名，适合动作比划和剧情联想。",
+    "zh-Hant": "經典電影、電視劇、動畫片名，適合動作比劃和劇情聯想。",
+    "en": "Movie, TV, and animation titles for acting-based guessing."
   },
   "language": "zh-Hans",
   "category_tags": [
     "family-safe",
     "movies",
     "tv",
+    "animation",
     "performance"
   ],
   "difficulty": "medium",
@@ -23,484 +25,3601 @@
     "CN",
     "TW",
     "HK",
+    "SG",
+    "MY",
     "global"
   ],
   "cards": [
     {
       "card_id": "movie_tv_0001",
-      "answer": "电影票",
+      "answer": "泰坦尼克号",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "影",
-        "电",
-        "电影票",
-        "票"
+        "克",
+        "号",
+        "坦",
+        "尼",
+        "泰",
+        "泰坦尼克号"
       ]
     },
     {
       "card_id": "movie_tv_0002",
-      "answer": "电影院",
+      "answer": "大话西游",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "影",
-        "电",
-        "电影院",
-        "院"
+        "大",
+        "大话西游",
+        "游",
+        "西",
+        "话"
       ]
     },
     {
       "card_id": "movie_tv_0003",
-      "answer": "放映厅",
+      "answer": "千与千寻",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "厅",
-        "放",
-        "放映厅",
-        "映"
+        "与",
+        "千",
+        "千与千寻",
+        "寻"
       ]
     },
     {
       "card_id": "movie_tv_0004",
-      "answer": "大银幕",
+      "answer": "阿凡达",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "大",
-        "大银幕",
-        "幕",
-        "银"
+        "凡",
+        "达",
+        "阿",
+        "阿凡达"
       ]
     },
     {
       "card_id": "movie_tv_0005",
-      "answer": "爆米花",
+      "answer": "速度与激情",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "爆",
-        "爆米花",
-        "米",
-        "花"
+        "与",
+        "度",
+        "情",
+        "激",
+        "速",
+        "速度与激情"
       ]
     },
     {
       "card_id": "movie_tv_0006",
-      "answer": "可乐杯",
+      "answer": "狂飙",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "乐",
-        "可",
-        "可乐杯",
-        "杯"
+        "狂",
+        "狂飙",
+        "飙"
       ]
     },
     {
       "card_id": "movie_tv_0007",
-      "answer": "预告片",
+      "answer": "甄嬛传",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "告",
-        "片",
-        "预",
-        "预告片"
+        "传",
+        "嬛",
+        "甄",
+        "甄嬛传"
       ]
     },
     {
       "card_id": "movie_tv_0008",
-      "answer": "片头",
+      "answer": "流浪地球",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "头",
-        "片",
-        "片头"
+        "地",
+        "流",
+        "流浪地球",
+        "浪",
+        "球"
       ]
     },
     {
       "card_id": "movie_tv_0009",
-      "answer": "片尾",
+      "answer": "流浪地球2",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "尾",
-        "片",
-        "片尾"
+        "2",
+        "地",
+        "流",
+        "流浪地球2",
+        "浪",
+        "球"
       ]
     },
     {
       "card_id": "movie_tv_0010",
-      "answer": "字幕",
+      "answer": "仙剑奇侠传",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "字",
-        "字幕",
-        "幕"
+        "仙",
+        "仙剑奇侠传",
+        "传",
+        "侠",
+        "剑",
+        "奇"
       ]
     },
     {
       "card_id": "movie_tv_0011",
-      "answer": "配音",
+      "answer": "武林外传",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "配",
-        "配音",
-        "音"
+        "传",
+        "外",
+        "林",
+        "武",
+        "武林外传"
       ]
     },
     {
       "card_id": "movie_tv_0012",
-      "answer": "旁白",
+      "answer": "哈利·波特",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "旁",
-        "旁白",
-        "白"
+        "利",
+        "哈",
+        "哈利·波特",
+        "哈利波特",
+        "波",
+        "特"
       ]
     },
     {
       "card_id": "movie_tv_0013",
-      "answer": "导演",
+      "answer": "哈利·波特与魔法石",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "导",
-        "导演",
-        "演"
+        "与",
+        "利",
+        "哈",
+        "哈利·波特与魔法石",
+        "哈利波特与魔法石",
+        "法",
+        "波",
+        "特",
+        "石",
+        "魔"
       ]
     },
     {
       "card_id": "movie_tv_0014",
-      "answer": "演员",
+      "answer": "哈利·波特与密室",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "员",
-        "演",
-        "演员"
+        "与",
+        "利",
+        "哈",
+        "哈利·波特与密室",
+        "哈利波特与密室",
+        "室",
+        "密",
+        "波",
+        "特"
       ]
     },
     {
       "card_id": "movie_tv_0015",
-      "answer": "编剧",
+      "answer": "哈利·波特与阿兹卡班的囚徒",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "剧",
-        "编",
-        "编剧"
+        "与",
+        "兹",
+        "利",
+        "卡",
+        "哈",
+        "哈利·波特与阿兹卡班的囚徒",
+        "哈利波特与阿兹卡班的囚徒",
+        "囚",
+        "徒",
+        "波",
+        "特",
+        "班",
+        "的",
+        "阿"
       ]
     },
     {
       "card_id": "movie_tv_0016",
-      "answer": "制片人",
+      "answer": "哈利·波特与火焰杯",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "人",
-        "制",
-        "制片人",
-        "片"
+        "与",
+        "利",
+        "哈",
+        "哈利·波特与火焰杯",
+        "哈利波特与火焰杯",
+        "杯",
+        "波",
+        "火",
+        "焰",
+        "特"
       ]
     },
     {
       "card_id": "movie_tv_0017",
-      "answer": "摄影师",
+      "answer": "指环王",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "师",
-        "影",
-        "摄",
-        "摄影师"
+        "指",
+        "指环王",
+        "王",
+        "环"
       ]
     },
     {
       "card_id": "movie_tv_0018",
-      "answer": "灯光师",
+      "answer": "霍比特人",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "光",
-        "师",
-        "灯",
-        "灯光师"
+        "人",
+        "比",
+        "特",
+        "霍",
+        "霍比特人"
       ]
     },
     {
       "card_id": "movie_tv_0019",
-      "answer": "化妆师",
+      "answer": "加勒比海盗",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "化",
-        "化妆师",
-        "妆",
-        "师"
+        "加",
+        "加勒比海盗",
+        "勒",
+        "比",
+        "海",
+        "盗"
       ]
     },
     {
       "card_id": "movie_tv_0020",
-      "answer": "服装师",
+      "answer": "复仇者联盟",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "师",
-        "服",
-        "服装师",
-        "装"
+        "仇",
+        "复",
+        "复仇者联盟",
+        "盟",
+        "者",
+        "联"
       ]
     },
     {
       "card_id": "movie_tv_0021",
-      "answer": "道具师",
+      "answer": "钢铁侠",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "具",
-        "师",
-        "道",
-        "道具师"
+        "侠",
+        "钢",
+        "钢铁侠",
+        "铁"
       ]
     },
     {
       "card_id": "movie_tv_0022",
-      "answer": "场记",
+      "answer": "蜘蛛侠",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "场",
-        "场记",
-        "记"
+        "侠",
+        "蛛",
+        "蜘",
+        "蜘蛛侠"
       ]
     },
     {
       "card_id": "movie_tv_0023",
-      "answer": "剪辑师",
+      "answer": "蝙蝠侠",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "剪",
-        "剪辑师",
-        "师",
-        "辑"
+        "侠",
+        "蝙",
+        "蝙蝠侠",
+        "蝠"
       ]
     },
     {
       "card_id": "movie_tv_0024",
-      "answer": "配乐师",
+      "answer": "超人",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "乐",
-        "师",
-        "配",
-        "配乐师"
+        "人",
+        "超",
+        "超人"
       ]
     },
     {
       "card_id": "movie_tv_0025",
-      "answer": "音效师",
+      "answer": "黑豹",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "师",
-        "效",
-        "音",
-        "音效师"
+        "豹",
+        "黑",
+        "黑豹"
       ]
     },
     {
       "card_id": "movie_tv_0026",
-      "answer": "特效师",
+      "answer": "奇异博士",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "师",
-        "效",
-        "特",
-        "特效师"
+        "博",
+        "士",
+        "奇",
+        "奇异博士",
+        "异"
       ]
     },
     {
       "card_id": "movie_tv_0027",
-      "answer": "群演",
+      "answer": "银河护卫队",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "演",
-        "群",
-        "群演"
+        "卫",
+        "护",
+        "河",
+        "银",
+        "银河护卫队",
+        "队"
       ]
     },
     {
       "card_id": "movie_tv_0028",
-      "answer": "主角",
+      "answer": "雷神",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "主",
-        "主角",
-        "角"
+        "神",
+        "雷",
+        "雷神"
       ]
     },
     {
       "card_id": "movie_tv_0029",
-      "answer": "配角",
+      "answer": "美国队长",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "角",
-        "配",
-        "配角"
+        "国",
+        "美",
+        "美国队长",
+        "长",
+        "队"
       ]
     },
     {
       "card_id": "movie_tv_0030",
-      "answer": "反派",
+      "answer": "绿巨人",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "反",
-        "反派",
-        "派"
+        "人",
+        "巨",
+        "绿",
+        "绿巨人"
       ]
     },
     {
       "card_id": "movie_tv_0031",
+      "answer": "蚁人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "蚁",
+        "蚁人"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0032",
+      "answer": "惊奇队长",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "奇",
+        "惊",
+        "惊奇队长",
+        "长",
+        "队"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0033",
+      "answer": "神奇女侠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "侠",
+        "奇",
+        "女",
+        "神",
+        "神奇女侠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0034",
+      "answer": "海王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "海",
+        "海王",
+        "王"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0035",
+      "answer": "小丑",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "丑",
+        "小",
+        "小丑"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0036",
+      "answer": "变形金刚",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "刚",
+        "变",
+        "变形金刚",
+        "形",
+        "金"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0037",
+      "answer": "侏罗纪公园",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "侏",
+        "侏罗纪公园",
+        "公",
+        "园",
+        "纪",
+        "罗"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0038",
+      "answer": "侏罗纪世界",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "侏",
+        "侏罗纪世界",
+        "界",
+        "纪",
+        "罗"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0039",
+      "answer": "星球大战",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "大",
+        "战",
+        "星",
+        "星球大战",
+        "球"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0040",
+      "answer": "星际穿越",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "星",
+        "星际穿越",
+        "穿",
+        "越",
+        "际"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0041",
+      "answer": "盗梦空间",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "梦",
+        "盗",
+        "盗梦空间",
+        "空",
+        "间"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0042",
+      "answer": "蝙蝠侠：黑暗骑士",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "侠",
+        "士",
+        "暗",
+        "蝙",
+        "蝙蝠侠：黑暗骑士",
+        "蝠",
+        "骑",
+        "黑"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0043",
+      "answer": "楚门的世界",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "楚",
+        "楚门的世界",
+        "界",
+        "的",
+        "门"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0044",
+      "answer": "阿甘正传",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "传",
+        "正",
+        "甘",
+        "阿",
+        "阿甘正传"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0045",
+      "answer": "肖申克的救赎",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "克",
+        "救",
+        "申",
+        "的",
+        "肖",
+        "肖申克的救赎",
+        "赎"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0046",
+      "answer": "这个杀手不太冷",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "不",
+        "个",
+        "冷",
+        "太",
+        "手",
+        "杀",
+        "这",
+        "这个杀手不太冷"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0047",
+      "answer": "当幸福来敲门",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "幸",
+        "当",
+        "当幸福来敲门",
+        "敲",
+        "来",
+        "福",
+        "门"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0048",
+      "answer": "美丽人生",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "丽",
+        "人",
+        "生",
+        "美",
+        "美丽人生"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0049",
+      "answer": "海上钢琴师",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "上",
+        "师",
+        "海",
+        "海上钢琴师",
+        "琴",
+        "钢"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0050",
+      "answer": "辛德勒的名单",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "勒",
+        "单",
+        "名",
+        "德",
+        "的",
+        "辛",
+        "辛德勒的名单"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0051",
+      "answer": "绿皮书",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "书",
+        "皮",
+        "绿",
+        "绿皮书"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0052",
+      "answer": "忠犬八公的故事",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "事",
+        "八",
+        "公",
+        "忠",
+        "忠犬八公的故事",
+        "故",
+        "犬",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0053",
+      "answer": "放牛班的春天",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "天",
+        "放",
+        "放牛班的春天",
+        "春",
+        "牛",
+        "班",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0054",
+      "answer": "怦然心动",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "心",
+        "怦",
+        "怦然心动",
+        "然"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0055",
+      "answer": "罗马假日",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "假",
+        "日",
+        "罗",
+        "罗马假日",
+        "马"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0056",
+      "answer": "乱世佳人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "乱",
+        "乱世佳人",
+        "人",
+        "佳"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0057",
+      "answer": "剪刀手爱德华",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "刀",
+        "剪",
+        "剪刀手爱德华",
+        "华",
+        "德",
+        "手",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0058",
+      "answer": "飞屋环游记",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "屋",
+        "游",
+        "环",
+        "记",
+        "飞",
+        "飞屋环游记"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0059",
+      "answer": "寻梦环游记",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "寻",
+        "寻梦环游记",
+        "梦",
+        "游",
+        "环",
+        "记"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0060",
+      "answer": "疯狂动物城",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "城",
+        "物",
+        "狂",
+        "疯",
+        "疯狂动物城"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0061",
+      "answer": "冰雪奇缘",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "冰",
+        "冰雪奇缘",
+        "奇",
+        "缘",
+        "雪"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0062",
+      "answer": "玩具总动员",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "具",
+        "动",
+        "员",
+        "总",
+        "玩",
+        "玩具总动员"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0063",
+      "answer": "海底总动员",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "员",
+        "底",
+        "总",
+        "海",
+        "海底总动员"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0064",
+      "answer": "怪兽电力公司",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "公",
+        "兽",
+        "力",
+        "司",
+        "怪",
+        "怪兽电力公司",
+        "电"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0065",
+      "answer": "头脑特工队",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "头",
+        "头脑特工队",
+        "工",
+        "特",
+        "脑",
+        "队"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0066",
+      "answer": "机器人总动员",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "动",
+        "员",
+        "器",
+        "总",
+        "机",
+        "机器人总动员"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0067",
+      "answer": "料理鼠王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "料",
+        "料理鼠王",
+        "王",
+        "理",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0068",
+      "answer": "超人总动员",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "动",
+        "员",
+        "总",
+        "超",
+        "超人总动员"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0069",
+      "answer": "功夫熊猫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "功",
+        "功夫熊猫",
+        "夫",
+        "熊",
+        "猫"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0070",
+      "answer": "驯龙高手",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "手",
+        "驯",
+        "驯龙高手",
+        "高",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0071",
+      "answer": "神偷奶爸",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "偷",
+        "奶",
+        "爸",
+        "神",
+        "神偷奶爸"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0072",
+      "answer": "小黄人大眼萌",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "大",
+        "小",
+        "小黄人大眼萌",
+        "眼",
+        "萌",
+        "黄"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0073",
+      "answer": "马达加斯加",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "加",
+        "斯",
+        "达",
+        "马",
+        "马达加斯加"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0074",
+      "answer": "狮子王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "子",
+        "狮",
+        "狮子王",
+        "王"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0075",
+      "answer": "美女与野兽",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "与",
+        "兽",
+        "女",
+        "美",
+        "美女与野兽",
+        "野"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0076",
+      "answer": "花木兰",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "兰",
+        "木",
+        "花",
+        "花木兰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0077",
+      "answer": "阿拉丁",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "丁",
+        "拉",
+        "阿",
+        "阿拉丁"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0078",
+      "answer": "白雪公主",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "主",
+        "公",
+        "白",
+        "白雪公主",
+        "雪"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0079",
+      "answer": "灰姑娘",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "姑",
+        "娘",
+        "灰",
+        "灰姑娘"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0080",
+      "answer": "小美人鱼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "小",
+        "小美人鱼",
+        "美",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0081",
+      "answer": "疯狂原始人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "原",
+        "始",
+        "狂",
+        "疯",
+        "疯狂原始人"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0082",
+      "answer": "龙猫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "猫",
+        "龙",
+        "龙猫"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0083",
+      "answer": "天空之城",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "城",
+        "天",
+        "天空之城",
+        "空"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0084",
+      "answer": "哈尔的移动城堡",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "哈",
+        "哈尔的移动城堡",
+        "城",
+        "堡",
+        "尔",
+        "的",
+        "移"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0085",
+      "answer": "魔女宅急便",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "便",
+        "女",
+        "宅",
+        "急",
+        "魔",
+        "魔女宅急便"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0086",
+      "answer": "悬崖上的金鱼姬",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "上",
+        "姬",
+        "崖",
+        "悬",
+        "悬崖上的金鱼姬",
+        "的",
+        "金",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0087",
+      "answer": "幽灵公主",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "主",
+        "公",
+        "幽",
+        "幽灵公主",
+        "灵"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0088",
+      "answer": "风之谷",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "谷",
+        "风",
+        "风之谷"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0089",
+      "answer": "借东西的小人阿莉埃蒂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "东",
+        "人",
+        "借",
+        "借东西的小人阿莉埃蒂",
+        "埃",
+        "小",
+        "的",
+        "莉",
+        "蒂",
+        "西",
+        "阿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0090",
+      "answer": "你的名字",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "你",
+        "你的名字",
+        "名",
+        "字",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0091",
+      "answer": "天气之子",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "天",
+        "天气之子",
+        "子",
+        "气"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0092",
+      "answer": "铃芽之旅",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "旅",
+        "芽",
+        "铃",
+        "铃芽之旅"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0093",
+      "answer": "灌篮高手",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "手",
+        "灌",
+        "灌篮高手",
+        "篮",
+        "高"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0094",
+      "answer": "名侦探柯南",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "侦",
+        "南",
+        "名",
+        "名侦探柯南",
+        "探",
+        "柯"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0095",
+      "answer": "哆啦A梦",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "A",
+        "哆",
+        "哆啦A梦",
+        "哆啦a梦",
+        "啦",
+        "梦"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0096",
+      "answer": "蜡笔小新",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "小",
+        "新",
+        "笔",
+        "蜡",
+        "蜡笔小新"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0097",
+      "answer": "樱桃小丸子",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "丸",
+        "子",
+        "小",
+        "桃",
+        "樱",
+        "樱桃小丸子"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0098",
+      "answer": "海贼王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "海",
+        "海贼王",
+        "王",
+        "贼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0099",
+      "answer": "火影忍者",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "影",
+        "忍",
+        "火",
+        "火影忍者",
+        "者"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0100",
+      "answer": "犬夜叉",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "叉",
+        "夜",
+        "犬",
+        "犬夜叉"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0101",
+      "answer": "龙珠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "珠",
+        "龙",
+        "龙珠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0102",
+      "answer": "鬼灭之刃",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "刃",
+        "灭",
+        "鬼",
+        "鬼灭之刃"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0103",
+      "answer": "新世纪福音战士",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "士",
+        "战",
+        "新",
+        "新世纪福音战士",
+        "福",
+        "纪",
+        "音"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0104",
+      "answer": "进击的巨人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "击",
+        "巨",
+        "的",
+        "进",
+        "进击的巨人"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0105",
+      "answer": "银魂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "银",
+        "银魂",
+        "魂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0106",
+      "answer": "一拳超人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "一拳超人",
+        "人",
+        "拳",
+        "超"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0107",
+      "answer": "咒术回战",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "咒",
+        "咒术回战",
+        "回",
+        "战",
+        "术"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0108",
+      "answer": "排球少年",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "少",
+        "年",
+        "排",
+        "排球少年",
+        "球"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0109",
+      "answer": "工作细胞",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "作",
+        "工",
+        "工作细胞",
+        "细",
+        "胞"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0110",
+      "answer": "猫和老鼠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "和",
+        "猫",
+        "猫和老鼠",
+        "老",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0111",
+      "answer": "海绵宝宝",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "宝",
+        "海",
+        "海绵宝宝",
+        "绵"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0112",
+      "answer": "熊出没",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "出",
+        "没",
+        "熊",
+        "熊出没"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0113",
+      "answer": "喜羊羊与灰太狼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "与",
+        "喜",
+        "喜羊羊与灰太狼",
+        "太",
+        "灰",
+        "狼",
+        "羊"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0114",
+      "answer": "大头儿子小头爸爸",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "儿",
+        "大",
+        "大头儿子小头爸爸",
+        "头",
+        "子",
+        "小",
+        "爸"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0115",
+      "answer": "黑猫警长",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "猫",
+        "警",
+        "长",
+        "黑",
+        "黑猫警长"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0116",
+      "answer": "葫芦兄弟",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "animation-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "兄",
+        "弟",
+        "芦",
+        "葫",
+        "葫芦兄弟"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0117",
+      "answer": "哪吒之魔童降世",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "之",
+        "吒",
+        "哪",
+        "哪吒之魔童降世",
+        "童",
+        "降",
+        "魔"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0118",
+      "answer": "哪吒之魔童闹海",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "吒",
+        "哪",
+        "哪吒之魔童闹海",
+        "海",
+        "童",
+        "闹",
+        "魔"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0119",
+      "answer": "大圣归来",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "圣",
+        "大",
+        "大圣归来",
+        "归",
+        "来"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0120",
+      "answer": "白蛇：缘起",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "白",
+        "白蛇：缘起",
+        "缘",
+        "蛇",
+        "起"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0121",
+      "answer": "白蛇2：青蛇劫起",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "劫",
+        "白",
+        "白蛇2",
+        "白蛇2：青蛇劫起",
+        "蛇",
+        "起",
+        "青",
+        "青蛇劫起"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0122",
+      "answer": "深海",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "海",
+        "深",
+        "深海"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0123",
+      "answer": "长安三万里",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "万",
+        "三",
+        "安",
+        "里",
+        "长",
+        "长安三万里"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0124",
+      "answer": "大鱼海棠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "大",
+        "大鱼海棠",
+        "棠",
+        "海",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0125",
+      "answer": "姜子牙",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "姜",
+        "姜子牙",
+        "子",
+        "牙"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0126",
+      "answer": "雄狮少年",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "少",
+        "年",
+        "狮",
+        "雄",
+        "雄狮少年"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0127",
+      "answer": "宝莲灯",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "宝",
+        "宝莲灯",
+        "灯",
+        "莲"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0128",
+      "answer": "小门神",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "小",
+        "小门神",
+        "神",
+        "门"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0129",
+      "answer": "功夫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "功",
+        "功夫",
+        "夫"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0130",
+      "answer": "少林足球",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "少",
+        "少林足球",
+        "林",
+        "球",
+        "足"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0131",
+      "answer": "唐伯虎点秋香",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "伯",
+        "唐",
+        "唐伯虎点秋香",
+        "点",
+        "秋",
+        "虎",
+        "香"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0132",
+      "answer": "九品芝麻官",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "九",
+        "九品芝麻官",
+        "品",
+        "官",
+        "芝",
+        "麻"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0133",
+      "answer": "喜剧之王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "剧",
+        "喜",
+        "喜剧之王",
+        "王"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0134",
+      "answer": "食神",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "神",
+        "食",
+        "食神"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0135",
+      "answer": "国产凌凌漆",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "产",
+        "凌",
+        "国",
+        "国产凌凌漆",
+        "漆"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0136",
+      "answer": "逃学威龙",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "威",
+        "学",
+        "逃",
+        "逃学威龙",
+        "龙"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0137",
+      "answer": "整蛊专家",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "专",
+        "家",
+        "整",
+        "整蛊专家",
+        "蛊"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0138",
+      "answer": "赌圣",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "圣",
+        "赌",
+        "赌圣"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0139",
+      "answer": "赌侠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "侠",
+        "赌",
+        "赌侠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0140",
+      "answer": "鹿鼎记",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "记",
+        "鹿",
+        "鹿鼎记",
+        "鼎"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0141",
+      "answer": "武状元苏乞儿",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乞",
+        "儿",
+        "元",
+        "武",
+        "武状元苏乞儿",
+        "状",
+        "苏"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0142",
+      "answer": "破坏之王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "坏",
+        "王",
+        "破",
+        "破坏之王"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0143",
+      "answer": "回魂夜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "回",
+        "回魂夜",
+        "夜",
+        "魂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0144",
+      "answer": "美人鱼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "美",
+        "美人鱼",
+        "鱼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0145",
+      "answer": "长江七号",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "七",
+        "号",
+        "江",
+        "长",
+        "长江七号"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0146",
+      "answer": "你好，李焕英",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "你",
+        "你好，李焕英",
+        "好",
+        "李",
+        "焕",
+        "英"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0147",
+      "answer": "夏洛特烦恼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "夏",
+        "夏洛特烦恼",
+        "恼",
+        "洛",
+        "烦",
+        "特"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0148",
+      "answer": "西虹市首富",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "富",
+        "市",
+        "虹",
+        "西",
+        "西虹市首富",
+        "首"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0149",
+      "answer": "羞羞的铁拳",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "拳",
+        "的",
+        "羞",
+        "羞羞的铁拳",
+        "铁"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0150",
+      "answer": "飞驰人生",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "生",
+        "飞",
+        "飞驰人生",
+        "驰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0151",
+      "answer": "飞驰人生2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "人",
+        "生",
+        "飞",
+        "飞驰人生2",
+        "驰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0152",
+      "answer": "独行月球",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "月",
+        "独",
+        "独行月球",
+        "球",
+        "行"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0153",
+      "answer": "满江红",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "江",
+        "满",
+        "满江红",
+        "红"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0154",
+      "answer": "热辣滚烫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "滚",
+        "烫",
+        "热",
+        "热辣滚烫",
+        "辣"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0155",
+      "answer": "抓娃娃",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "娃",
+        "抓",
+        "抓娃娃"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0156",
+      "answer": "唐人街探案",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "唐",
+        "唐人街探案",
+        "探",
+        "案",
+        "街"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0157",
+      "answer": "唐人街探案2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "人",
+        "唐",
+        "唐人街探案2",
+        "探",
+        "案",
+        "街"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0158",
+      "answer": "唐人街探案3",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "3",
+        "人",
+        "唐",
+        "唐人街探案3",
+        "探",
+        "案",
+        "街"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0159",
+      "answer": "人在囧途",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "人在囧途",
+        "囧",
+        "在",
+        "途"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0160",
+      "answer": "泰囧",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "囧",
+        "泰",
+        "泰囧"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0161",
+      "answer": "港囧",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "囧",
+        "港",
+        "港囧"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0162",
+      "answer": "我不是药神",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "不",
+        "我",
+        "我不是药神",
+        "是",
+        "神",
+        "药"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0163",
+      "answer": "我和我的祖国",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "和",
+        "国",
+        "我",
+        "我和我的祖国",
+        "的",
+        "祖"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0164",
+      "answer": "我和我的家乡",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乡",
+        "和",
+        "家",
+        "我",
+        "我和我的家乡",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0165",
+      "answer": "我和我的父辈",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "和",
+        "我",
+        "我和我的父辈",
+        "父",
+        "的",
+        "辈"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0166",
+      "answer": "八佰",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "佰",
+        "八",
+        "八佰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0167",
+      "answer": "长津湖",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "津",
+        "湖",
+        "长",
+        "长津湖"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0168",
+      "answer": "长津湖之水门桥",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "桥",
+        "水",
+        "津",
+        "湖",
+        "长",
+        "长津湖之水门桥",
+        "门"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0169",
+      "answer": "红海行动",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "海",
+        "红",
+        "红海行动",
+        "行"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0170",
+      "answer": "湄公河行动",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "公",
+        "动",
+        "河",
+        "湄",
+        "湄公河行动",
+        "行"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0171",
+      "answer": "战狼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "战",
+        "战狼",
+        "狼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0172",
+      "answer": "战狼2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "战",
+        "战狼2",
+        "狼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0173",
+      "answer": "狙击手",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "击",
+        "手",
+        "狙",
+        "狙击手"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0174",
+      "answer": "万里归途",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "万",
+        "万里归途",
+        "归",
+        "途",
+        "里"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0175",
+      "answer": "中国机长",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "中",
+        "中国机长",
+        "国",
+        "机",
+        "长"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0176",
+      "answer": "中国医生",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "中",
+        "中国医生",
+        "医",
+        "国",
+        "生"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0177",
+      "answer": "攀登者",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "攀",
+        "攀登者",
+        "登",
+        "者"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0178",
+      "answer": "夺冠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "冠",
+        "夺",
+        "夺冠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0179",
+      "answer": "无名之辈",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "名",
+        "无",
+        "无名之辈",
+        "辈"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0180",
+      "answer": "让子弹飞",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "子",
+        "弹",
+        "让",
+        "让子弹飞",
+        "飞"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0181",
+      "answer": "非诚勿扰",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "勿",
+        "扰",
+        "诚",
+        "非",
+        "非诚勿扰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0182",
+      "answer": "非诚勿扰2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "勿",
+        "扰",
+        "诚",
+        "非",
+        "非诚勿扰2"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0183",
+      "answer": "失恋33天",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "3",
+        "天",
+        "失",
+        "失恋33天",
+        "恋"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0184",
+      "answer": "北京遇上西雅图",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "上",
+        "京",
+        "北",
+        "北京遇上西雅图",
+        "图",
+        "西",
+        "遇",
+        "雅"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0185",
+      "answer": "山楂树之恋",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "山",
+        "山楂树之恋",
+        "恋",
+        "树",
+        "楂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0186",
+      "answer": "后来的我们",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "们",
+        "后",
+        "后来的我们",
+        "我",
+        "来",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0187",
+      "answer": "前任攻略",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "任",
+        "前",
+        "前任攻略",
+        "攻",
+        "略"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0188",
+      "answer": "前任3：再见前任",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "3",
+        "任",
+        "再",
+        "再见前任",
+        "前",
+        "前任3",
+        "前任3：再见前任",
+        "见"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0189",
+      "answer": "滚蛋吧！肿瘤君",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "君",
+        "吧",
+        "滚",
+        "滚蛋吧！肿瘤君",
+        "瘤",
+        "肿",
+        "蛋",
+        "！"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0190",
+      "answer": "送你一朵小红花",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "你",
+        "小",
+        "朵",
+        "红",
+        "花",
+        "送",
+        "送你一朵小红花"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0191",
+      "answer": "少年的你",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "你",
+        "少",
+        "少年的你",
+        "年",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0192",
+      "answer": "七月与安生",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "七",
+        "七月与安生",
+        "与",
+        "安",
+        "月",
+        "生"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0193",
+      "answer": "无问西东",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "东",
+        "无",
+        "无问西东",
+        "西",
+        "问"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0194",
+      "answer": "乘风破浪",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乘",
+        "乘风破浪",
+        "浪",
+        "破",
+        "风"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0195",
+      "answer": "摆渡人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "摆",
+        "摆渡人",
+        "渡"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0196",
+      "answer": "一出好戏",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "一出好戏",
+        "出",
+        "好",
+        "戏"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0197",
+      "answer": "疯狂的石头",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "头",
+        "狂",
+        "疯",
+        "疯狂的石头",
+        "的",
+        "石"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0198",
+      "answer": "疯狂的赛车",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "狂",
+        "疯",
+        "疯狂的赛车",
+        "的",
+        "赛",
+        "车"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0199",
+      "answer": "心花路放",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "心",
+        "心花路放",
+        "放",
+        "花",
+        "路"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0200",
+      "answer": "无人区",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "区",
+        "无",
+        "无人区"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0201",
+      "answer": "落叶归根",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "叶",
+        "归",
+        "根",
+        "落",
+        "落叶归根"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0202",
+      "answer": "甲方乙方",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乙",
+        "方",
+        "甲",
+        "甲方乙方"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0203",
+      "answer": "不见不散",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "不",
+        "不见不散",
+        "散",
+        "见"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0204",
+      "answer": "天下无贼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "下",
+        "天",
+        "天下无贼",
+        "无",
+        "贼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0205",
+      "answer": "手机",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "手",
+        "手机",
+        "机"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0206",
+      "answer": "大腕",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "大",
+        "大腕",
+        "腕"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0207",
+      "answer": "夜宴",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "夜",
+        "夜宴",
+        "宴"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0208",
       "answer": "英雄",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
         "英",
@@ -509,3806 +3628,3517 @@
       ]
     },
     {
-      "card_id": "movie_tv_0032",
-      "answer": "侦探",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "侦",
-        "侦探",
-        "探"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0033",
-      "answer": "法师",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "师",
-        "法",
-        "法师"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0034",
-      "answer": "骑士",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "士",
-        "骑",
-        "骑士"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0035",
-      "answer": "公主",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "主",
-        "公",
-        "公主"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0036",
-      "answer": "王子",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "子",
-        "王",
-        "王子"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0037",
-      "answer": "机器人",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "人",
-        "器",
-        "机",
-        "机器人"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0038",
-      "answer": "外星人",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "人",
-        "外",
-        "外星人",
-        "星"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0039",
-      "answer": "怪兽",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "兽",
-        "怪",
-        "怪兽"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0040",
-      "answer": "小精灵",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "小",
-        "小精灵",
-        "灵",
-        "精"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0041",
-      "answer": "超级英雄",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "级",
-        "英",
-        "超",
-        "超级英雄",
-        "雄"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0042",
-      "answer": "动画片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "动",
-        "动画片",
-        "片",
-        "画"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0043",
-      "answer": "喜剧片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "喜",
-        "喜剧片",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0044",
-      "answer": "爱情片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "情",
-        "爱",
-        "爱情片",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0045",
-      "answer": "冒险片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "冒",
-        "冒险片",
-        "片",
-        "险"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0046",
-      "answer": "科幻片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "幻",
-        "片",
-        "科",
-        "科幻片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0047",
-      "answer": "奇幻片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "奇",
-        "奇幻片",
-        "幻",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0048",
-      "answer": "纪录片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "录",
-        "片",
-        "纪",
-        "纪录片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0049",
-      "answer": "音乐片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "乐",
-        "片",
-        "音",
-        "音乐片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0050",
-      "answer": "歌舞片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "歌",
-        "歌舞片",
-        "片",
-        "舞"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0051",
-      "answer": "武侠片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "侠",
-        "武",
-        "武侠片",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0052",
-      "answer": "功夫片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "功",
-        "功夫片",
-        "夫",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0053",
-      "answer": "家庭片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "家",
-        "家庭片",
-        "庭",
-        "片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0054",
-      "answer": "校园剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "园",
-        "校",
-        "校园剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0055",
-      "answer": "古装剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "古",
-        "古装剧",
-        "装"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0056",
-      "answer": "都市剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "市",
-        "都",
-        "都市剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0057",
-      "answer": "美食剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "美",
-        "美食剧",
-        "食"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0058",
-      "answer": "旅行剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "旅",
-        "旅行剧",
-        "行"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0059",
-      "answer": "宠物电影",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "宠",
-        "宠物电影",
-        "影",
-        "物",
-        "电"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0060",
-      "answer": "动物电影",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "动",
-        "动物电影",
-        "影",
-        "物",
-        "电"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0061",
-      "answer": "儿童片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "儿",
-        "儿童片",
-        "片",
-        "童"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0062",
-      "answer": "贺岁片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "岁",
-        "片",
-        "贺",
-        "贺岁片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0063",
-      "answer": "短片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "片",
-        "短",
-        "短片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0064",
-      "answer": "微电影",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "影",
-        "微",
-        "微电影",
-        "电"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0065",
-      "answer": "电视剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "电",
-        "电视剧",
-        "视"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0066",
-      "answer": "综艺节目",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "目",
-        "综",
-        "综艺节目",
-        "艺",
-        "节"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0067",
-      "answer": "网络剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "络",
-        "网",
-        "网络剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0068",
-      "answer": "迷你剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "你",
-        "剧",
-        "迷",
-        "迷你剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0069",
-      "answer": "连续剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "续",
-        "连",
-        "连续剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0070",
-      "answer": "大结局",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "大",
-        "大结局",
-        "局",
-        "结"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0071",
-      "answer": "第一集",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "一",
-        "第",
-        "第一集",
-        "集"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0072",
-      "answer": "下一集",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "一",
-        "下",
-        "下一集",
-        "集"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0073",
-      "answer": "重播",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "播",
-        "重",
-        "重播"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0074",
-      "answer": "片花",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "片",
-        "片花",
-        "花"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0075",
-      "answer": "海报",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "报",
-        "海",
-        "海报"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0076",
-      "answer": "剧照",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "剧照",
-        "照"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0077",
-      "answer": "花絮",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "絮",
-        "花",
-        "花絮"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0078",
-      "answer": "彩蛋",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "彩",
-        "彩蛋",
-        "蛋"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0079",
-      "answer": "幕后",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "后",
-        "幕",
-        "幕后"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0080",
-      "answer": "镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "镜",
-        "镜头"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0081",
-      "answer": "特写",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "写",
-        "特",
-        "特写"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0082",
-      "answer": "远景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "景",
-        "远",
-        "远景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0083",
-      "answer": "近景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "景",
-        "近",
-        "近景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0084",
-      "answer": "航拍",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "拍",
-        "航",
-        "航拍"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0085",
-      "answer": "慢动作",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "作",
-        "动",
-        "慢",
-        "慢动作"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0086",
-      "answer": "快进",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "快",
-        "快进",
-        "进"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0087",
-      "answer": "倒放",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "倒",
-        "倒放",
-        "放"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0088",
-      "answer": "定格",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "定",
-        "定格",
-        "格"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0089",
-      "answer": "转场",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "转",
-        "转场"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0090",
-      "answer": "闪回",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "回",
-        "闪",
-        "闪回"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0091",
-      "answer": "蒙太奇",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "太",
-        "奇",
-        "蒙",
-        "蒙太奇"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0092",
-      "answer": "长镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "镜",
-        "长",
-        "长镜头"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0093",
-      "answer": "推镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "推",
-        "推镜头",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0094",
-      "answer": "拉镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "拉",
-        "拉镜头",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0095",
-      "answer": "摇镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "摇",
-        "摇镜头",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0096",
-      "answer": "跟拍",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "拍",
-        "跟",
-        "跟拍"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0097",
-      "answer": "手持镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "手",
-        "手持镜头",
-        "持",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0098",
-      "answer": "绿幕",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "幕",
-        "绿",
-        "绿幕"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0099",
-      "answer": "蓝幕",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "幕",
-        "蓝",
-        "蓝幕"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0100",
-      "answer": "威亚",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "亚",
-        "威",
-        "威亚"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0101",
-      "answer": "替身",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "替",
-        "替身",
-        "身"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0102",
-      "answer": "动作戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "作",
-        "动",
-        "动作戏",
-        "戏"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0103",
-      "answer": "追车戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "戏",
-        "车",
-        "追",
-        "追车戏"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0104",
-      "answer": "追逐戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "戏",
-        "追",
-        "追逐戏",
-        "逐"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0105",
-      "answer": "打斗戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "戏",
-        "打",
-        "打斗戏",
-        "斗"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0106",
-      "answer": "跳舞戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "戏",
-        "舞",
-        "跳",
-        "跳舞戏"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0107",
-      "answer": "唱歌戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "唱",
-        "唱歌戏",
-        "戏",
-        "歌"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0108",
-      "answer": "哭戏",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "哭",
-        "哭戏",
-        "戏"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0109",
-      "answer": "笑场",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "笑",
-        "笑场"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0110",
-      "answer": "即兴表演",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "兴",
-        "即",
-        "即兴表演",
-        "演",
-        "表"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0111",
-      "answer": "台词",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "台",
-        "台词",
-        "词"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0112",
-      "answer": "对白",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "对",
-        "对白",
-        "白"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0113",
-      "answer": "独白",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "独",
-        "独白",
-        "白"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0114",
-      "answer": "口播",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "口",
-        "口播",
-        "播"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0115",
-      "answer": "试镜",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "试",
-        "试镜",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0116",
-      "answer": "开机",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "开",
-        "开机",
-        "机"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0117",
-      "answer": "杀青",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "杀",
-        "杀青",
-        "青"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0118",
-      "answer": "首映礼",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "映",
-        "礼",
-        "首",
-        "首映礼"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0119",
-      "answer": "红毯",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "毯",
-        "红",
-        "红毯"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0120",
-      "answer": "颁奖礼",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "奖",
-        "礼",
-        "颁",
-        "颁奖礼"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0121",
-      "answer": "奖杯",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "奖",
-        "奖杯",
-        "杯"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0122",
-      "answer": "掌声",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "声",
-        "掌",
-        "掌声"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0123",
-      "answer": "观众",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "众",
-        "观",
-        "观众"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0124",
-      "answer": "粉丝",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "丝",
-        "粉",
-        "粉丝"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0125",
-      "answer": "影评",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "影",
-        "影评",
-        "评"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0126",
-      "answer": "评分",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "分",
-        "评",
-        "评分"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0127",
-      "answer": "票房",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "房",
-        "票",
-        "票房"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0128",
-      "answer": "影院座位",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "位",
-        "座",
-        "影",
-        "影院座位",
-        "院"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0129",
-      "answer": "检票口",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "口",
-        "检",
-        "检票口",
-        "票"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0130",
-      "answer": "座位号",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "位",
-        "号",
-        "座",
-        "座位号"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0131",
-      "answer": "3D眼镜",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "3",
-        "3D眼镜",
-        "D",
-        "眼",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0132",
-      "answer": "IMAX厅",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "A",
-        "I",
-        "IMAX厅",
-        "M",
-        "X",
-        "厅"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0133",
-      "answer": "巨幕厅",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "厅",
-        "巨",
-        "巨幕厅",
-        "幕"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0134",
-      "answer": "家庭影院",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "家",
-        "家庭影院",
-        "庭",
-        "影",
-        "院"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0135",
-      "answer": "遥控器",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "器",
-        "控",
-        "遥",
-        "遥控器"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0136",
-      "answer": "投影仪",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "仪",
-        "影",
-        "投",
-        "投影仪"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0137",
-      "answer": "幕布",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "布",
-        "幕",
-        "幕布"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0138",
-      "answer": "麦克风",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "克",
-        "风",
-        "麦",
-        "麦克风"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0139",
-      "answer": "录音棚",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "录",
-        "录音棚",
-        "棚",
-        "音"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0140",
-      "answer": "摄影棚",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "影",
-        "摄",
-        "摄影棚",
-        "棚"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0141",
-      "answer": "化妆间",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "化",
-        "化妆间",
-        "妆",
-        "间"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0142",
-      "answer": "更衣室",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "室",
-        "更",
-        "更衣室",
-        "衣"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0143",
-      "answer": "服装架",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "服",
-        "服装架",
-        "架",
-        "装"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0144",
-      "answer": "道具箱",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "具",
-        "箱",
-        "道",
-        "道具箱"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0145",
-      "answer": "场景板",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "场景板",
-        "景",
-        "板"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0146",
-      "answer": "打板",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "打",
-        "打板",
-        "板"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0147",
-      "answer": "场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "场景",
-        "景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0148",
-      "answer": "布景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "布",
-        "布景",
-        "景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0149",
-      "answer": "外景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "外",
-        "外景",
-        "景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0150",
-      "answer": "内景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "内",
-        "内景",
-        "景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0151",
-      "answer": "片场",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "片",
-        "片场"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0152",
-      "answer": "剧组",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "剧组",
-        "组"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0153",
-      "answer": "剧本",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "剧本",
-        "本"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0154",
-      "answer": "分镜",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "分",
-        "分镜",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0155",
-      "answer": "通告单",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "单",
-        "告",
-        "通",
-        "通告单"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0156",
-      "answer": "片酬",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "片",
-        "片酬",
-        "酬"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0157",
-      "answer": "档期",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "期",
-        "档",
-        "档期"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0158",
-      "answer": "造型",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "型",
-        "造",
-        "造型"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0159",
-      "answer": "妆容",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "妆",
-        "妆容",
-        "容"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0160",
-      "answer": "假发",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "假",
-        "假发",
-        "发"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0161",
-      "answer": "胡子",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "子",
-        "胡",
-        "胡子"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0162",
-      "answer": "斗篷",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "斗",
-        "斗篷",
-        "篷"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0163",
-      "answer": "披风",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "披",
-        "披风",
-        "风"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0164",
-      "answer": "皇冠",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "冠",
-        "皇",
-        "皇冠"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0165",
-      "answer": "魔法棒",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "棒",
-        "法",
-        "魔",
-        "魔法棒"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0166",
-      "answer": "宝箱",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "宝",
-        "宝箱",
-        "箱"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0167",
-      "answer": "地图卷轴",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "卷",
-        "图",
-        "地",
-        "地图卷轴",
-        "轴"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0168",
-      "answer": "飞船",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "船",
-        "飞",
-        "飞船"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0169",
-      "answer": "火箭",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "火",
-        "火箭",
-        "箭"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0170",
-      "answer": "城堡",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "城",
-        "城堡",
-        "堡"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0171",
-      "answer": "森林",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "林",
-        "森",
-        "森林"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0172",
-      "answer": "沙漠",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "沙",
-        "沙漠",
-        "漠"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0173",
-      "answer": "海岛",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "岛",
-        "海",
-        "海岛"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0174",
-      "answer": "雪山",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "山",
-        "雪",
-        "雪山"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0175",
-      "answer": "太空站",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "太",
-        "太空站",
-        "空",
-        "站"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0176",
-      "answer": "实验室",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "实",
-        "实验室",
-        "室",
-        "验"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0177",
-      "answer": "秘密基地",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "地",
-        "基",
-        "密",
-        "秘",
-        "秘密基地"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0178",
-      "answer": "侦探社",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "侦",
-        "侦探社",
-        "探",
-        "社"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0179",
-      "answer": "魔法学校",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "学",
-        "校",
-        "法",
-        "魔",
-        "魔法学校"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0180",
-      "answer": "咖啡馆",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "咖",
-        "咖啡馆",
-        "啡",
-        "馆"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0181",
-      "answer": "餐厅场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "厅",
-        "场",
-        "景",
-        "餐",
-        "餐厅场景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0182",
-      "answer": "医院场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "医",
-        "医院场景",
-        "场",
-        "景",
-        "院"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0183",
-      "answer": "学校场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "学",
-        "学校场景",
-        "景",
-        "校"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0184",
-      "answer": "办公室场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "公",
-        "办",
-        "办公室场景",
-        "场",
-        "室",
-        "景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0185",
-      "answer": "法庭场景",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "庭",
-        "景",
-        "法",
-        "法庭场景"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0186",
-      "answer": "舞台",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "台",
-        "舞",
-        "舞台"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0187",
-      "answer": "灯光",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "光",
-        "灯",
-        "灯光"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0188",
-      "answer": "聚光灯",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "光",
-        "灯",
-        "聚",
-        "聚光灯"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0189",
-      "answer": "幕布拉开",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "布",
-        "幕",
-        "幕布拉开",
-        "开",
-        "拉"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0190",
-      "answer": "谢幕",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "幕",
-        "谢",
-        "谢幕"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0191",
-      "answer": "开场白",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "场",
-        "开",
-        "开场白",
-        "白"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0192",
-      "answer": "主题曲",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "主",
-        "主题曲",
-        "曲",
-        "题"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0193",
-      "answer": "插曲",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "插",
-        "插曲",
-        "曲"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0194",
-      "answer": "片尾曲",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "尾",
-        "曲",
-        "片",
-        "片尾曲"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0195",
-      "answer": "配乐",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "乐",
-        "配",
-        "配乐"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0196",
-      "answer": "音轨",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "轨",
-        "音",
-        "音轨"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0197",
-      "answer": "声卡",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "卡",
-        "声",
-        "声卡"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0198",
-      "answer": "耳返",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "耳",
-        "耳返",
-        "返"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0199",
-      "answer": "录音笔",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "录",
-        "录音笔",
-        "笔",
-        "音"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0200",
-      "answer": "导演椅",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "导",
-        "导演椅",
-        "椅",
-        "演"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0201",
-      "answer": "监视器",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "器",
-        "监",
-        "监视器",
-        "视"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0202",
-      "answer": "场务",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "务",
-        "场",
-        "场务"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0203",
-      "answer": "打光板",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "光",
-        "打",
-        "打光板",
-        "板"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0204",
-      "answer": "反光板",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "光",
-        "反",
-        "反光板",
-        "板"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0205",
-      "answer": "收音杆",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "收",
-        "收音杆",
-        "杆",
-        "音"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0206",
-      "answer": "摄影机",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "影",
-        "摄",
-        "摄影机",
-        "机"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0207",
-      "answer": "三脚架",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "三",
-        "三脚架",
-        "架",
-        "脚"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0208",
-      "answer": "轨道车",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "车",
-        "轨",
-        "轨道车",
-        "道"
-      ]
-    },
-    {
       "card_id": "movie_tv_0209",
-      "answer": "无人机",
+      "answer": "十面埋伏",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "人",
-        "无",
-        "无人机",
-        "机"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0210",
-      "answer": "稳定器",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "器",
-        "定",
-        "稳",
-        "稳定器"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0211",
-      "answer": "胶片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "片",
-        "胶",
-        "胶片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0212",
-      "answer": "胶卷",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "卷",
-        "胶",
-        "胶卷"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0213",
-      "answer": "数字摄影",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "字",
-        "影",
-        "摄",
-        "数",
-        "数字摄影"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0214",
-      "answer": "黑白片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "片",
-        "白",
-        "黑",
-        "黑白片"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0215",
-      "answer": "彩色片",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "彩",
-        "彩色片",
-        "片",
-        "色"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0216",
-      "answer": "高清画质",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "清",
-        "画",
-        "质",
-        "高",
-        "高清画质"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0217",
-      "answer": "蓝光碟",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "光",
-        "碟",
-        "蓝",
-        "蓝光碟"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0218",
-      "answer": "流媒体",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "体",
-        "媒",
-        "流",
-        "流媒体"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0219",
-      "answer": "点播",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "播",
-        "点",
-        "点播"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0220",
-      "answer": "收藏夹",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "夹",
-        "收",
-        "收藏夹",
-        "藏"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0221",
-      "answer": "追剧",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "追",
-        "追剧"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0222",
-      "answer": "倍速播放",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "倍",
-        "倍速播放",
-        "播",
-        "放",
-        "速"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0223",
-      "answer": "暂停键",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "停",
-        "暂",
-        "暂停键",
-        "键"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0224",
-      "answer": "播放键",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "播",
-        "播放键",
-        "放",
-        "键"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0225",
-      "answer": "静音",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "静",
-        "静音",
-        "音"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0226",
-      "answer": "弹幕",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "幕",
-        "弹",
-        "弹幕"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0227",
-      "answer": "剧透",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "剧",
-        "剧透",
-        "透"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0228",
-      "answer": "反转",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "反",
-        "反转",
-        "转"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0229",
-      "answer": "悬念",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "念",
-        "悬",
-        "悬念"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0230",
-      "answer": "伏笔",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
         "伏",
-        "伏笔",
-        "笔"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0231",
-      "answer": "彩蛋镜头",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "头",
-        "彩",
-        "彩蛋镜头",
-        "蛋",
-        "镜"
-      ]
-    },
-    {
-      "card_id": "movie_tv_0232",
-      "answer": "名场面",
-      "difficulty": "medium",
-      "tags": [
-        "family-safe",
-        "movies",
-        "tv"
-      ],
-      "banned_tokens": [
-        "名",
-        "名场面",
-        "场",
+        "十",
+        "十面埋伏",
+        "埋",
         "面"
       ]
     },
     {
-      "card_id": "movie_tv_0233",
-      "answer": "高能片段",
+      "card_id": "movie_tv_0210",
+      "answer": "满城尽带黄金甲",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "段",
-        "片",
-        "能",
-        "高",
-        "高能片段"
+        "城",
+        "尽",
+        "带",
+        "满",
+        "满城尽带黄金甲",
+        "甲",
+        "金",
+        "黄"
       ]
     },
     {
-      "card_id": "movie_tv_0234",
-      "answer": "温馨片段",
+      "card_id": "movie_tv_0211",
+      "answer": "卧虎藏龙",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "段",
-        "温",
-        "温馨片段",
-        "片",
-        "馨"
+        "卧",
+        "卧虎藏龙",
+        "藏",
+        "虎",
+        "龙"
       ]
     },
     {
-      "card_id": "movie_tv_0235",
-      "answer": "搞笑片段",
+      "card_id": "movie_tv_0212",
+      "answer": "赤壁",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "搞",
-        "搞笑片段",
-        "段",
-        "片",
-        "笑"
+        "壁",
+        "赤",
+        "赤壁"
       ]
     },
     {
-      "card_id": "movie_tv_0236",
-      "answer": "感人片段",
+      "card_id": "movie_tv_0213",
+      "answer": "投名状",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "人",
-        "感",
-        "感人片段",
-        "段",
-        "片"
+        "名",
+        "投",
+        "投名状",
+        "状"
       ]
     },
     {
-      "card_id": "movie_tv_0237",
-      "answer": "梦境戏",
+      "card_id": "movie_tv_0214",
+      "answer": "无间道",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "境",
-        "戏",
-        "梦",
-        "梦境戏"
+        "无",
+        "无间道",
+        "道",
+        "间"
       ]
     },
     {
-      "card_id": "movie_tv_0238",
-      "answer": "回忆戏",
+      "card_id": "movie_tv_0215",
+      "answer": "无间道2",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "回",
-        "回忆戏",
-        "忆",
-        "戏"
+        "2",
+        "无",
+        "无间道2",
+        "道",
+        "间"
       ]
     },
     {
-      "card_id": "movie_tv_0239",
-      "answer": "婚礼戏",
+      "card_id": "movie_tv_0216",
+      "answer": "无间道3",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "婚",
-        "婚礼戏",
-        "戏",
-        "礼"
+        "3",
+        "无",
+        "无间道3",
+        "道",
+        "间"
       ]
     },
     {
-      "card_id": "movie_tv_0240",
-      "answer": "生日戏",
+      "card_id": "movie_tv_0217",
+      "answer": "寒战",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "戏",
-        "日",
-        "生",
-        "生日戏"
+        "寒",
+        "寒战",
+        "战"
       ]
     },
     {
-      "card_id": "movie_tv_0241",
-      "answer": "毕业戏",
+      "card_id": "movie_tv_0218",
+      "answer": "寒战2",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "业",
-        "戏",
-        "毕",
-        "毕业戏"
+        "2",
+        "寒",
+        "寒战2",
+        "战"
       ]
     },
     {
-      "card_id": "movie_tv_0242",
-      "answer": "比赛戏",
+      "card_id": "movie_tv_0219",
+      "answer": "窃听风云",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "戏",
-        "比",
-        "比赛戏",
-        "赛"
+        "云",
+        "听",
+        "窃",
+        "窃听风云",
+        "风"
       ]
     },
     {
-      "card_id": "movie_tv_0243",
-      "answer": "旅行戏",
+      "card_id": "movie_tv_0220",
+      "answer": "扫毒",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "戏",
-        "旅",
-        "旅行戏",
+        "扫",
+        "扫毒",
+        "毒"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0221",
+      "answer": "拆弹专家",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "专",
+        "家",
+        "弹",
+        "拆",
+        "拆弹专家"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0222",
+      "answer": "使徒行者",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "使",
+        "使徒行者",
+        "徒",
+        "者",
         "行"
       ]
     },
     {
-      "card_id": "movie_tv_0244",
-      "answer": "救援戏",
+      "card_id": "movie_tv_0223",
+      "answer": "叶问",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "戏",
-        "援",
-        "救",
-        "救援戏"
+        "叶",
+        "叶问",
+        "问"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0224",
+      "answer": "叶问2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "叶",
+        "叶问2",
+        "问"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0225",
+      "answer": "叶问3",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "3",
+        "叶",
+        "叶问3",
+        "问"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0226",
+      "answer": "一代宗师",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "一代宗师",
+        "代",
+        "宗",
+        "师"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0227",
+      "answer": "黄飞鸿",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "飞",
+        "鸿",
+        "黄",
+        "黄飞鸿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0228",
+      "answer": "倩女幽魂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "倩",
+        "倩女幽魂",
+        "女",
+        "幽",
+        "魂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0229",
+      "answer": "青蛇",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "蛇",
+        "青",
+        "青蛇"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0230",
+      "answer": "东成西就",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "东",
+        "东成西就",
+        "就",
+        "成",
+        "西"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0231",
+      "answer": "重庆森林",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "庆",
+        "林",
+        "森",
+        "重",
+        "重庆森林"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0232",
+      "answer": "花样年华",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "华",
+        "年",
+        "样",
+        "花",
+        "花样年华"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0233",
+      "answer": "春光乍泄",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乍",
+        "光",
+        "春",
+        "春光乍泄",
+        "泄"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0234",
+      "answer": "甜蜜蜜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "甜",
+        "甜蜜蜜",
+        "蜜"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0235",
+      "answer": "岁月神偷",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "偷",
+        "岁",
+        "岁月神偷",
+        "月",
+        "神"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0236",
+      "answer": "天若有情",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "天",
+        "天若有情",
+        "情",
+        "有",
+        "若"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0237",
+      "answer": "纵横四海",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "四",
+        "横",
+        "海",
+        "纵",
+        "纵横四海"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0238",
+      "answer": "英雄本色",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "本",
+        "色",
+        "英",
+        "英雄本色",
+        "雄"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0239",
+      "answer": "喋血双雄",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "双",
+        "喋",
+        "喋血双雄",
+        "血",
+        "雄"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0240",
+      "answer": "赌神",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "神",
+        "赌",
+        "赌神"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0241",
+      "answer": "古惑仔",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "仔",
+        "古",
+        "古惑仔",
+        "惑"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0242",
+      "answer": "那些年，我们一起追的女孩",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "些",
+        "们",
+        "女",
+        "孩",
+        "年",
+        "我",
+        "的",
+        "起",
+        "追",
+        "那",
+        "那些年，我们一起追的女孩"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0243",
+      "answer": "不能说的秘密",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "不",
+        "不能说的秘密",
+        "密",
+        "的",
+        "秘",
+        "能",
+        "说"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0244",
+      "answer": "海角七号",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "七",
+        "号",
+        "海",
+        "海角七号",
+        "角"
       ]
     },
     {
       "card_id": "movie_tv_0245",
-      "answer": "逃跑戏",
+      "answer": "我的少女时代",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "戏",
-        "跑",
-        "逃",
-        "逃跑戏"
+        "代",
+        "女",
+        "少",
+        "我",
+        "我的少女时代",
+        "时",
+        "的"
       ]
     },
     {
       "card_id": "movie_tv_0246",
-      "answer": "变装戏",
+      "answer": "比悲伤更悲伤的故事",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "变",
-        "变装戏",
-        "戏",
-        "装"
+        "事",
+        "伤",
+        "悲",
+        "故",
+        "更",
+        "比",
+        "比悲伤更悲伤的故事",
+        "的"
       ]
     },
     {
       "card_id": "movie_tv_0247",
-      "answer": "化妆舞会",
+      "answer": "当男人恋爱时",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "会",
-        "化",
-        "化妆舞会",
-        "妆",
-        "舞"
+        "人",
+        "当",
+        "当男人恋爱时",
+        "恋",
+        "时",
+        "爱",
+        "男"
       ]
     },
     {
       "card_id": "movie_tv_0248",
-      "answer": "舞台剧",
+      "answer": "想见你",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "剧",
-        "台",
-        "舞",
-        "舞台剧"
+        "你",
+        "想",
+        "想见你",
+        "见"
       ]
     },
     {
       "card_id": "movie_tv_0249",
-      "answer": "木偶戏",
+      "answer": "想见你电影版",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "偶",
-        "戏",
-        "木",
-        "木偶戏"
+        "你",
+        "影",
+        "想",
+        "想见你电影版",
+        "版",
+        "电",
+        "见"
       ]
     },
     {
       "card_id": "movie_tv_0250",
-      "answer": "皮影戏",
+      "answer": "我们与恶的距离",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "影",
-        "戏",
-        "皮",
-        "皮影戏"
+        "与",
+        "们",
+        "恶",
+        "我",
+        "我们与恶的距离",
+        "的",
+        "离",
+        "距"
       ]
     },
     {
       "card_id": "movie_tv_0251",
-      "answer": "京剧电影",
+      "answer": "华灯初上",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "京",
-        "京剧电影",
-        "剧",
-        "影",
-        "电"
+        "上",
+        "初",
+        "华",
+        "华灯初上",
+        "灯"
       ]
     },
     {
       "card_id": "movie_tv_0252",
-      "answer": "话剧舞台",
+      "answer": "第八号当铺",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "剧",
-        "台",
-        "舞",
-        "话",
-        "话剧舞台"
+        "八",
+        "号",
+        "当",
+        "第",
+        "第八号当铺",
+        "铺"
       ]
     },
     {
       "card_id": "movie_tv_0253",
-      "answer": "相声舞台",
+      "answer": "恶作剧之吻",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "台",
-        "声",
-        "相",
-        "相声舞台",
-        "舞"
+        "之",
+        "作",
+        "剧",
+        "吻",
+        "恶",
+        "恶作剧之吻"
       ]
     },
     {
       "card_id": "movie_tv_0254",
-      "answer": "小品",
+      "answer": "命中注定我爱你",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "品",
-        "小",
-        "小品"
+        "中",
+        "你",
+        "命",
+        "命中注定我爱你",
+        "定",
+        "我",
+        "注",
+        "爱"
       ]
     },
     {
       "card_id": "movie_tv_0255",
-      "answer": "脱口秀",
+      "answer": "流星花园",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "口",
-        "秀",
-        "脱",
-        "脱口秀"
+        "园",
+        "星",
+        "流",
+        "流星花园",
+        "花"
       ]
     },
     {
       "card_id": "movie_tv_0256",
-      "answer": "采访",
+      "answer": "王子变青蛙",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "访",
-        "采",
-        "采访"
+        "变",
+        "子",
+        "王",
+        "王子变青蛙",
+        "蛙",
+        "青"
       ]
     },
     {
       "card_id": "movie_tv_0257",
-      "answer": "主持人",
+      "answer": "终极一班",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "主",
-        "主持人",
-        "人",
-        "持"
+        "一",
+        "极",
+        "班",
+        "终",
+        "终极一班"
       ]
     },
     {
       "card_id": "movie_tv_0258",
-      "answer": "嘉宾",
+      "answer": "白色巨塔",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "嘉",
-        "嘉宾",
-        "宾"
+        "塔",
+        "巨",
+        "白",
+        "白色巨塔",
+        "色"
       ]
     },
     {
       "card_id": "movie_tv_0259",
-      "answer": "评委",
+      "answer": "西游记",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "委",
-        "评",
-        "评委"
+        "游",
+        "西",
+        "西游记",
+        "记"
       ]
     },
     {
       "card_id": "movie_tv_0260",
-      "answer": "选手",
+      "answer": "红楼梦",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "手",
-        "选",
-        "选手"
+        "梦",
+        "楼",
+        "红",
+        "红楼梦"
       ]
     },
     {
       "card_id": "movie_tv_0261",
-      "answer": "冠军",
+      "answer": "三国演义",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "军",
-        "冠",
-        "冠军"
+        "三",
+        "三国演义",
+        "义",
+        "国",
+        "演"
       ]
     },
     {
       "card_id": "movie_tv_0262",
-      "answer": "淘汰",
+      "answer": "水浒传",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "汰",
-        "淘",
-        "淘汰"
+        "传",
+        "水",
+        "水浒传",
+        "浒"
       ]
     },
     {
       "card_id": "movie_tv_0263",
-      "answer": "复活赛",
+      "answer": "还珠格格",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "复",
-        "复活赛",
-        "活",
-        "赛"
+        "格",
+        "珠",
+        "还",
+        "还珠格格"
       ]
     },
     {
       "card_id": "movie_tv_0264",
-      "answer": "开场舞",
+      "answer": "情深深雨濛濛",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "场",
-        "开",
-        "开场舞",
-        "舞"
+        "情",
+        "情深深雨濛濛",
+        "深",
+        "濛",
+        "雨"
       ]
     },
     {
       "card_id": "movie_tv_0265",
-      "answer": "压轴",
+      "answer": "家有儿女",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "压",
-        "压轴",
-        "轴"
+        "儿",
+        "女",
+        "家",
+        "家有儿女",
+        "有"
       ]
     },
     {
       "card_id": "movie_tv_0266",
-      "answer": "现场直播",
+      "answer": "爱情公寓",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "场",
-        "播",
-        "现",
-        "现场直播",
-        "直"
+        "公",
+        "寓",
+        "情",
+        "爱",
+        "爱情公寓"
       ]
     },
     {
       "card_id": "movie_tv_0267",
-      "answer": "转播",
+      "answer": "炊事班的故事",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "播",
-        "转",
-        "转播"
+        "事",
+        "故",
+        "炊",
+        "炊事班的故事",
+        "班",
+        "的"
       ]
     },
     {
       "card_id": "movie_tv_0268",
-      "answer": "花字",
+      "answer": "士兵突击",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "字",
-        "花",
-        "花字"
+        "兵",
+        "击",
+        "士",
+        "士兵突击",
+        "突"
       ]
     },
     {
       "card_id": "movie_tv_0269",
-      "answer": "字幕组",
+      "answer": "亮剑",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "字",
-        "字幕组",
-        "幕",
-        "组"
+        "亮",
+        "亮剑",
+        "剑"
       ]
     },
     {
       "card_id": "movie_tv_0270",
-      "answer": "配音秀",
+      "answer": "潜伏",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "秀",
-        "配",
-        "配音秀",
-        "音"
+        "伏",
+        "潜",
+        "潜伏"
       ]
     },
     {
       "card_id": "movie_tv_0271",
-      "answer": "片单",
+      "answer": "琅琊榜",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "单",
-        "片",
-        "片单"
+        "榜",
+        "琅",
+        "琅琊榜",
+        "琊"
       ]
     },
     {
       "card_id": "movie_tv_0272",
-      "answer": "观影团",
+      "answer": "伪装者",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "tv-title",
+        "party"
       ],
       "banned_tokens": [
-        "团",
-        "影",
-        "观",
-        "观影团"
+        "伪",
+        "伪装者",
+        "者",
+        "装"
       ]
     },
     {
       "card_id": "movie_tv_0273",
-      "answer": "打卡照",
+      "answer": "知否知否应是绿肥红瘦",
       "difficulty": "medium",
       "tags": [
-        "family-safe",
-        "movies",
-        "tv"
+        "movie-tv-title",
+        "movie-title",
+        "party"
       ],
       "banned_tokens": [
-        "卡",
-        "打",
-        "打卡照",
-        "照"
+        "否",
+        "应",
+        "是",
+        "瘦",
+        "知",
+        "知否知否应是绿肥红瘦",
+        "红",
+        "绿",
+        "肥"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0274",
+      "answer": "父母爱情",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "情",
+        "母",
+        "爱",
+        "父",
+        "父母爱情"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0275",
+      "answer": "都挺好",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "好",
+        "挺",
+        "都",
+        "都挺好"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0276",
+      "answer": "欢乐颂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乐",
+        "欢",
+        "欢乐颂",
+        "颂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0277",
+      "answer": "三十而已",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "三",
+        "三十而已",
+        "十",
+        "已",
+        "而"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0278",
+      "answer": "小欢喜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "喜",
+        "小",
+        "小欢喜",
+        "欢"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0279",
+      "answer": "小别离",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "别",
+        "小",
+        "小别离",
+        "离"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0280",
+      "answer": "开端",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "开",
+        "开端",
+        "端"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0281",
+      "answer": "人世间",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "人",
+        "人世间",
+        "间"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0282",
+      "answer": "去有风的地方",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "去",
+        "去有风的地方",
+        "地",
+        "方",
+        "有",
+        "的",
+        "风"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0283",
+      "answer": "繁花",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "繁",
+        "繁花",
+        "花"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0284",
+      "answer": "漫长的季节",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "季",
+        "漫",
+        "漫长的季节",
+        "的",
+        "节",
+        "长"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0285",
+      "answer": "隐秘的角落",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "的",
+        "秘",
+        "落",
+        "角",
+        "隐",
+        "隐秘的角落"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0286",
+      "answer": "沉默的真相",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "沉",
+        "沉默的真相",
+        "的",
+        "相",
+        "真",
+        "默"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0287",
+      "answer": "白夜追凶",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "凶",
+        "夜",
+        "白",
+        "白夜追凶",
+        "追"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0288",
+      "answer": "猎罪图鉴",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "图",
+        "猎",
+        "猎罪图鉴",
+        "罪",
+        "鉴"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0289",
+      "answer": "庆余年",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "余",
+        "年",
+        "庆",
+        "庆余年"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0290",
+      "answer": "赘婿",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "婿",
+        "赘",
+        "赘婿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0291",
+      "answer": "长安十二时辰",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "二",
+        "十",
+        "安",
+        "时",
+        "辰",
+        "长",
+        "长安十二时辰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0292",
+      "answer": "庆余年2",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "余",
+        "年",
+        "庆",
+        "庆余年2"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0293",
+      "answer": "梦华录",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "华",
+        "录",
+        "梦",
+        "梦华录"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0294",
+      "answer": "星汉灿烂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "星",
+        "星汉灿烂",
+        "汉",
+        "灿",
+        "烂"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0295",
+      "answer": "苍兰诀",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "兰",
+        "苍",
+        "苍兰诀",
+        "诀"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0296",
+      "answer": "长月烬明",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "明",
+        "月",
+        "烬",
+        "长",
+        "长月烬明"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0297",
+      "answer": "莲花楼",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "楼",
+        "花",
+        "莲",
+        "莲花楼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0298",
+      "answer": "与凤行",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "与",
+        "与凤行",
+        "凤",
+        "行"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0299",
+      "answer": "花千骨",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "千",
+        "花",
+        "花千骨",
+        "骨"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0300",
+      "answer": "三生三世十里桃花",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "三",
+        "三生三世十里桃花",
+        "世",
+        "十",
+        "桃",
+        "生",
+        "花",
+        "里"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0301",
+      "answer": "香蜜沉沉烬如霜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "如",
+        "沉",
+        "烬",
+        "蜜",
+        "霜",
+        "香",
+        "香蜜沉沉烬如霜"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0302",
+      "answer": "陈情令",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "令",
+        "情",
+        "陈",
+        "陈情令"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0303",
+      "answer": "琉璃",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "琉",
+        "琉璃",
+        "璃"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0304",
+      "answer": "山河令",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "令",
+        "山",
+        "山河令",
+        "河"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0305",
+      "answer": "步步惊心",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "心",
+        "惊",
+        "步",
+        "步步惊心"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0306",
+      "answer": "宫锁心玉",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "宫",
+        "宫锁心玉",
+        "心",
+        "玉",
+        "锁"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0307",
+      "answer": "延禧攻略",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "延",
+        "延禧攻略",
+        "攻",
+        "略",
+        "禧"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0308",
+      "answer": "如懿传",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "传",
+        "如",
+        "如懿传",
+        "懿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0309",
+      "answer": "芈月传",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "传",
+        "月",
+        "芈",
+        "芈月传"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0310",
+      "answer": "楚乔传",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "乔",
+        "传",
+        "楚",
+        "楚乔传"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0311",
+      "answer": "陆贞传奇",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "传",
+        "奇",
+        "贞",
+        "陆",
+        "陆贞传奇"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0312",
+      "answer": "微微一笑很倾城",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "倾",
+        "城",
+        "很",
+        "微",
+        "微微一笑很倾城",
+        "笑"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0313",
+      "answer": "何以笙箫默",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "以",
+        "何",
+        "何以笙箫默",
+        "笙",
+        "箫",
+        "默"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0314",
+      "answer": "亲爱的，热爱的",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "亲",
+        "亲爱的，热爱的",
+        "热",
+        "爱",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0315",
+      "answer": "你是我的荣耀",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "你",
+        "你是我的荣耀",
+        "我",
+        "是",
+        "的",
+        "耀",
+        "荣"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0316",
+      "answer": "以家人之名",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "人",
+        "以",
+        "以家人之名",
+        "名",
+        "家"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0317",
+      "answer": "下一站是幸福",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "下",
+        "下一站是幸福",
+        "幸",
+        "是",
+        "福",
+        "站"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0318",
+      "answer": "请回答1988",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "1",
+        "8",
+        "9",
+        "回",
+        "答",
+        "请",
+        "请回答1988"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0319",
+      "answer": "请回答1997",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "1",
+        "7",
+        "9",
+        "回",
+        "答",
+        "请",
+        "请回答1997"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0320",
+      "answer": "来自星星的你",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "你",
+        "星",
+        "来",
+        "来自星星的你",
+        "的",
+        "自"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0321",
+      "answer": "太阳的后裔",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "后",
+        "太",
+        "太阳的后裔",
+        "的",
+        "裔",
+        "阳"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0322",
+      "answer": "鬼怪",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "怪",
+        "鬼",
+        "鬼怪"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0323",
+      "answer": "蓝色大海的传说",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "传",
+        "大",
+        "海",
+        "的",
+        "色",
+        "蓝",
+        "蓝色大海的传说",
+        "说"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0324",
+      "answer": "继承者们",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "们",
+        "承",
+        "继",
+        "继承者们",
+        "者"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0325",
+      "answer": "匹诺曹",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "匹",
+        "匹诺曹",
+        "曹",
+        "诺"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0326",
+      "answer": "爱的迫降",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "爱",
+        "爱的迫降",
+        "的",
+        "迫",
+        "降"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0327",
+      "answer": "孤单又灿烂的神：鬼怪",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "单",
+        "又",
+        "孤",
+        "孤单又灿烂的神：鬼怪",
+        "怪",
+        "灿",
+        "烂",
+        "的",
+        "神",
+        "鬼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0328",
+      "answer": "机智医生生活",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "医",
+        "智",
+        "机",
+        "机智医生生活",
+        "活",
+        "生"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0329",
+      "answer": "黑暗荣耀",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "暗",
+        "耀",
+        "荣",
+        "黑",
+        "黑暗荣耀"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0330",
+      "answer": "鱿鱼游戏",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "戏",
+        "游",
+        "鱼",
+        "鱿",
+        "鱿鱼游戏"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0331",
+      "answer": "王国",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "国",
+        "王",
+        "王国"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0332",
+      "answer": "信号",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "信",
+        "信号",
+        "号"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0333",
+      "answer": "秘密森林",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "密",
+        "林",
+        "森",
+        "秘",
+        "秘密森林"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0334",
+      "answer": "我的大叔",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "叔",
+        "大",
+        "我",
+        "我的大叔",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0335",
+      "answer": "浪漫满屋",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "屋",
+        "浪",
+        "浪漫满屋",
+        "满",
+        "漫"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0336",
+      "answer": "大长今",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "今",
+        "大",
+        "大长今",
+        "长"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0337",
+      "answer": "冬季恋歌",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "冬",
+        "冬季恋歌",
+        "季",
+        "恋",
+        "歌"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0338",
+      "answer": "东京爱情故事",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "东",
+        "东京爱情故事",
+        "事",
+        "京",
+        "情",
+        "故",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0339",
+      "answer": "半泽直树",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "半",
+        "半泽直树",
+        "树",
+        "泽",
+        "直"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0340",
+      "answer": "逃避虽可耻但有用",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "但",
+        "可",
+        "有",
+        "用",
+        "耻",
+        "虽",
+        "逃",
+        "逃避虽可耻但有用",
+        "避"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0341",
+      "answer": "孤独的美食家",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "孤",
+        "孤独的美食家",
+        "家",
+        "独",
+        "的",
+        "美",
+        "食"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0342",
+      "answer": "深夜食堂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "堂",
+        "夜",
+        "深",
+        "深夜食堂",
+        "食"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0343",
+      "answer": "一公升的眼泪",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "一",
+        "一公升的眼泪",
+        "公",
+        "升",
+        "泪",
+        "的",
+        "眼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0344",
+      "answer": "非自然死亡",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "亡",
+        "死",
+        "然",
+        "自",
+        "非",
+        "非自然死亡"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0345",
+      "answer": "重启人生",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "启",
+        "生",
+        "重",
+        "重启人生"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0346",
+      "answer": "轮到你了",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "了",
+        "你",
+        "到",
+        "轮",
+        "轮到你了"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0347",
+      "answer": "胜者即是正义",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "义",
+        "即",
+        "是",
+        "正",
+        "者",
+        "胜",
+        "胜者即是正义"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0348",
+      "answer": "老友记",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "友",
+        "老",
+        "老友记",
+        "记"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0349",
+      "answer": "生活大爆炸",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "大",
+        "活",
+        "炸",
+        "爆",
+        "生",
+        "生活大爆炸"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0350",
+      "answer": "破产姐妹",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "产",
+        "妹",
+        "姐",
+        "破",
+        "破产姐妹"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0351",
+      "answer": "摩登家庭",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "家",
+        "庭",
+        "摩",
+        "摩登家庭",
+        "登"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0352",
+      "answer": "权力的游戏",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "力",
+        "戏",
+        "权",
+        "权力的游戏",
+        "游",
+        "的"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0353",
+      "answer": "绝命毒师",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "命",
+        "师",
+        "毒",
+        "绝",
+        "绝命毒师"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0354",
+      "answer": "越狱",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "狱",
+        "越",
+        "越狱"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0355",
+      "answer": "纸牌屋",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "屋",
+        "牌",
+        "纸",
+        "纸牌屋"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0356",
+      "answer": "怪奇物语",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "奇",
+        "怪",
+        "怪奇物语",
+        "物",
+        "语"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0357",
+      "answer": "黑镜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "镜",
+        "黑",
+        "黑镜"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0358",
+      "answer": "神探夏洛克",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "克",
+        "夏",
+        "探",
+        "洛",
+        "神",
+        "神探夏洛克"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0359",
+      "answer": "唐顿庄园",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "唐",
+        "唐顿庄园",
+        "园",
+        "庄",
+        "顿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0360",
+      "answer": "西部世界",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "界",
+        "西",
+        "西部世界",
+        "部"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0361",
+      "answer": "良医",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "医",
+        "良",
+        "良医"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0362",
+      "answer": "行尸走肉",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "尸",
+        "肉",
+        "行",
+        "行尸走肉",
+        "走"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0363",
+      "answer": "王冠",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "冠",
+        "王",
+        "王冠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0364",
+      "answer": "洛基",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "基",
+        "洛",
+        "洛基"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0365",
+      "answer": "旺达幻视",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "幻",
+        "旺",
+        "旺达幻视",
+        "视",
+        "达"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0366",
+      "answer": "猎鹰与冬兵",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "与",
+        "兵",
+        "冬",
+        "猎",
+        "猎鹰与冬兵",
+        "鹰"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0367",
+      "answer": "曼达洛人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "曼",
+        "曼达洛人",
+        "洛",
+        "达"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0368",
+      "answer": "怪物史瑞克",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "克",
+        "史",
+        "怪",
+        "怪物史瑞克",
+        "物",
+        "瑞"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0369",
+      "answer": "暮光之城",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "光",
+        "城",
+        "暮",
+        "暮光之城"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0370",
+      "answer": "饥饿游戏",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "戏",
+        "游",
+        "饥",
+        "饥饿游戏",
+        "饿"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0371",
+      "answer": "分歧者",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "分",
+        "分歧者",
+        "歧",
+        "者"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0372",
+      "answer": "移动迷宫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "宫",
+        "移",
+        "移动迷宫",
+        "迷"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0373",
+      "answer": "博物馆奇妙夜",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "博",
+        "博物馆奇妙夜",
+        "夜",
+        "奇",
+        "妙",
+        "物",
+        "馆"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0374",
+      "answer": "地心引力",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "力",
+        "地",
+        "地心引力",
+        "引",
+        "心"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0375",
+      "answer": "火星救援",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "援",
+        "救",
+        "星",
+        "火",
+        "火星救援"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0376",
+      "answer": "壮志凌云",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "云",
+        "凌",
+        "壮",
+        "壮志凌云",
+        "志"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0377",
+      "answer": "碟中谍",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "中",
+        "碟",
+        "碟中谍",
+        "谍"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0378",
+      "answer": "007",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "0",
+        "007",
+        "7"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0379",
+      "answer": "黑客帝国",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "国",
+        "客",
+        "帝",
+        "黑",
+        "黑客帝国"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0380",
+      "answer": "终结者",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "终",
+        "终结者",
+        "结",
+        "者"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0381",
+      "answer": "哥斯拉",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "哥",
+        "哥斯拉",
+        "拉",
+        "斯"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0382",
+      "answer": "金刚",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "刚",
+        "金",
+        "金刚"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0383",
+      "answer": "环太平洋",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "太",
+        "平",
+        "洋",
+        "环",
+        "环太平洋"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0384",
+      "answer": "E.T.外星人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "E",
+        "E.T.外星人",
+        "T",
+        "e.t.外星人",
+        "人",
+        "外",
+        "星"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0385",
+      "answer": "回到未来",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "到",
+        "回",
+        "回到未来",
+        "未",
+        "来"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0386",
+      "answer": "查理和巧克力工厂",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "克",
+        "力",
+        "厂",
+        "和",
+        "工",
+        "巧",
+        "查",
+        "查理和巧克力工厂",
+        "理"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0387",
+      "answer": "波西·杰克逊",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "克",
+        "杰",
+        "波",
+        "波西·杰克逊",
+        "波西杰克逊",
+        "西",
+        "逊"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0388",
+      "answer": "纳尼亚传奇",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "tv-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "亚",
+        "传",
+        "奇",
+        "尼",
+        "纳",
+        "纳尼亚传奇"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0389",
+      "answer": "神奇动物在哪里",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "动",
+        "哪",
+        "在",
+        "奇",
+        "物",
+        "神",
+        "神奇动物在哪里",
+        "里"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0390",
+      "answer": "小鬼当家",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "家",
+        "小",
+        "小鬼当家",
+        "当",
+        "鬼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0391",
+      "answer": "穿普拉达的女王",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "女",
+        "拉",
+        "普",
+        "王",
+        "的",
+        "穿",
+        "穿普拉达的女王",
+        "达"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0392",
+      "answer": "音乐之声",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "乐",
+        "声",
+        "音",
+        "音乐之声"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0393",
+      "answer": "妈妈咪呀",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "呀",
+        "咪",
+        "妈",
+        "妈妈咪呀"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0394",
+      "answer": "爱乐之城",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "之",
+        "乐",
+        "城",
+        "爱",
+        "爱乐之城"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0395",
+      "answer": "悲惨世界",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "世",
+        "悲",
+        "悲惨世界",
+        "惨",
+        "界"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0396",
+      "answer": "雨中曲",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "中",
+        "曲",
+        "雨",
+        "雨中曲"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0397",
+      "answer": "猫鼠游戏",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "戏",
+        "游",
+        "猫",
+        "猫鼠游戏",
+        "鼠"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0398",
+      "answer": "天使爱美丽",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "丽",
+        "使",
+        "天",
+        "天使爱美丽",
+        "爱",
+        "美"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0399",
+      "answer": "触不可及",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "不",
+        "及",
+        "可",
+        "触",
+        "触不可及"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0400",
+      "answer": "摔跤吧！爸爸",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "吧",
+        "摔",
+        "摔跤吧！爸爸",
+        "爸",
+        "跤",
+        "！"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0401",
+      "answer": "三傻大闹宝莱坞",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "三",
+        "三傻大闹宝莱坞",
+        "傻",
+        "坞",
+        "大",
+        "宝",
+        "莱",
+        "闹"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0402",
+      "answer": "小鞋子",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "子",
+        "小",
+        "小鞋子",
+        "鞋"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0403",
+      "answer": "寄生虫",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "寄",
+        "寄生虫",
+        "生",
+        "虫"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0404",
+      "answer": "釜山行",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "山",
+        "行",
+        "釜",
+        "釜山行"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0405",
+      "answer": "82年生的金智英",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "2",
+        "8",
+        "82年生的金智英",
+        "年",
+        "智",
+        "生",
+        "的",
+        "英",
+        "金"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0406",
+      "answer": "熔炉",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "炉",
+        "熔",
+        "熔炉"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0407",
+      "answer": "辩护人",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "护",
+        "辩",
+        "辩护人"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0408",
+      "answer": "七号房的礼物",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "七",
+        "七号房的礼物",
+        "号",
+        "房",
+        "物",
+        "的",
+        "礼"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0409",
+      "answer": "阳光姐妹淘",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "光",
+        "妹",
+        "姐",
+        "淘",
+        "阳",
+        "阳光姐妹淘"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0410",
+      "answer": "我的野蛮女友",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "友",
+        "女",
+        "我",
+        "我的野蛮女友",
+        "的",
+        "蛮",
+        "野"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0411",
+      "answer": "假如爱有天意",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "假",
+        "假如爱有天意",
+        "天",
+        "如",
+        "意",
+        "有",
+        "爱"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0412",
+      "answer": "杀人回忆",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "人",
+        "回",
+        "忆",
+        "杀",
+        "杀人回忆"
+      ]
+    },
+    {
+      "card_id": "movie_tv_0413",
+      "answer": "共同警备区",
+      "difficulty": "medium",
+      "tags": [
+        "movie-tv-title",
+        "movie-title",
+        "party"
+      ],
+      "banned_tokens": [
+        "共",
+        "共同警备区",
+        "区",
+        "同",
+        "备",
+        "警"
       ]
     }
   ]

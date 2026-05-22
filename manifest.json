@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "content_version": "2026.05.20.2",
+  "content_version": "2026.05.20.3",
   "minimum_app_version": "1.0.0",
   "packs": [
     {
@@ -37,9 +37,9 @@
     },
     {
       "pack_id": "movies_cn",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "path": "Packs/movies_cn.json",
-      "sha256": "679a5c4160f927d7dbafeb42f2aea3fc568e1bfd4746691db3ed2cb8929aee1e",
+      "sha256": "76f9df83eff0106e6af570208a871ddeb0e1d48dbc2ad427ae07f83d5dadd117",
       "enabled": true,
       "sort_order": 50
     },
